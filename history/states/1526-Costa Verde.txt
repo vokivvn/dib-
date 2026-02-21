@@ -1,0 +1,29 @@
+state={
+	id=1526
+	name="STATE_1526"
+
+	history={
+		owner = TEI
+		add_core_of = TEI
+		victory_points = {
+			15976 10 
+		}
+		buildings = {
+			infrastructure = 4
+			farm_estate = 1
+			dockyard = 1
+			15976 = {
+				naval_base = 5
+			}
+		}
+
+	}
+
+	provinces={
+		15924 15974 15975 15976 
+	}
+	manpower=89383
+	buildings_max_level_factor=1.000
+	state_category=large_town
+	local_supplies=0.000
+}

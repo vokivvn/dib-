@@ -1,0 +1,29 @@
+state={
+	id=1499
+	name="STATE_1499"
+
+	history={
+		victory_points = {
+			6325 15
+		}
+		owner = HAM
+		buildings = {
+			infrastructure = 6
+			telecom_infrastructure = 3
+			industrial_complex = 1
+			dockyard = 2
+			6325 = {
+				naval_base = 7
+			}
+		}
+		add_core_of = HAM
+	}
+
+	provinces={
+		6325 15866 
+	}
+	manpower=187244
+	buildings_max_level_factor=1.000
+	state_category=city
+	local_supplies=0.000
+}

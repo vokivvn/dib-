@@ -1,0 +1,32 @@
+state={
+	id=1591
+	name="STATE_1591"
+
+	history={
+		owner = GIT
+		victory_points = {
+			4065 14
+		}
+		victory_points = {
+			16263 3
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 2
+			farm_estate = 2
+			16264 = {
+				naval_base = 1
+			}
+		}
+		add_core_of = GIT
+
+	}
+
+	provinces={
+		4065 16262 16263 
+	}
+	manpower=30439	
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

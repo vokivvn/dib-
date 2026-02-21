@@ -1,0 +1,38 @@
+
+state={
+	id=598
+	name="STATE_598"
+	
+	state_category = town
+
+	history={
+		owner = ORE
+		add_core_of = ORE
+		victory_points = {
+			3471 10
+		}
+		victory_points = {
+			528 3
+		}
+		victory_points = {
+			505 1
+		}
+		buildings = {
+			infrastructure = 3
+			telecom_infrastructure = 1
+			industrial_complex = 3
+			arms_factory = 2
+			air_base = 2
+			505 = {
+				naval_base = 3
+			}
+		}
+	}
+
+	provinces={
+		505 528 3471 10151 11495 11733            
+	}
+	manpower=353785
+	buildings_max_level_factor=1.000
+	local_supplies=0.0 
+}

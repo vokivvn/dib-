@@ -1,0 +1,36 @@
+state={
+	id=1158
+	name="STATE_1158"
+
+	history={
+		owner = ATL
+		victory_points = {
+			14082 5
+		}
+		victory_points = {
+			14080 3
+		}
+		victory_points = {
+			14087 3
+		}
+		victory_points = {
+			14090 3
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			arms_factory = 1
+			farm_estate = 1
+		}
+		add_core_of = ATL
+
+	}
+
+	provinces={
+		14079 14080 14081 14082 14083 14084 14085 14086 14087 14089 14090 
+	}
+	manpower=1129102
+	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=0.000
+}

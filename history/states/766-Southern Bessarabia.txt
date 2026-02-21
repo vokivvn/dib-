@@ -1,0 +1,29 @@
+state=
+{
+	id=766
+	name="STATE_766"
+	manpower = 183453
+	
+	state_category = city
+	
+	history= {
+		victory_points = {
+			6979 15
+		}
+		owner = HYD
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 3
+			dockyard = 1
+			6979 = {
+				naval_base = 5
+			}
+		}
+		add_core_of = HYD
+	}
+	provinces = {
+		6979
+	}
+
+	local_supplies=0.0 
+}

@@ -1,0 +1,30 @@
+state={
+	id=1247
+	name="STATE_1247"
+
+	history={
+		owner = MNH
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			farm_estate = 2
+			arms_factory = 1
+		}
+		add_core_of = MNH
+		victory_points = {
+			14486 10
+		}
+		victory_points = {
+			14490 5
+		}
+
+	}
+
+	provinces={
+		12790 14486 14487 14488 14489 14490 14491 
+	}
+	manpower=701105
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

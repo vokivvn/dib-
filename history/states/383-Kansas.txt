@@ -1,0 +1,32 @@
+state={
+	id=383
+	name="STATE_383"
+
+	history={
+		owner = KAN
+		buildings = {
+			infrastructure = 2
+			arms_factory = 2
+			industrial_complex = 1
+			telecom_infrastructure = 1
+		}
+		add_core_of = KAN
+		victory_points = {
+			13836 15
+		}
+		victory_points = {
+			13830 3
+		}
+		victory_points = {
+			7780 3
+		}
+	}
+
+	provinces={
+		1827 4723 7780 10588 13830 13835 13836 13837 
+	}
+	manpower=780598
+	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=0.000
+}

@@ -1,0 +1,18 @@
+guiTypes = {
+	containerWindowType = {
+		name = "subideology_container"
+		position = { x = 382 y = 109 }
+		instantTextboxType = {
+			name = "subideology_name"
+			position = { x = -38 y = 150 }
+			font = "ibm_18"
+			text = "[GetRulingIdeologySubtype]"
+			pdx_tooltip = "GetRulingIdeologySubtype"
+			maxWidth = 180
+			maxHeight = 20
+			fixedsize = yes
+			format = right
+			alwaystransparent = yes
+		}
+	}
+}

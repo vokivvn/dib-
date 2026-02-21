@@ -1,0 +1,16 @@
+
+bitmapfonts = {
+	bitmapfont = {
+		name = "ibm_18"
+		path = "gfx/fonts/ibm_18"
+		color = 0xffffffff
+	}
+}
+
+bitmapfonts = {
+	bitmapfont = {
+		name = "ibm_22"
+		path = "gfx/fonts/ibm_22"
+		color = 0xffffffff
+	}
+}

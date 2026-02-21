@@ -1,0 +1,14 @@
+guiTypes = {
+	containerWindowType = {
+		name = "religions_polscreeen_diplo"
+		position = { x = 0 y = 0 }
+		iconType ={
+			name ="religion_icon"
+			quadTextureSprite = "GFX_religions_strip"
+			position = { x= 290 y = 191 }
+			Orientation = "UPPER_LEFT"
+			pdx_tooltip = RELIGION_NAMEKEY_DIPLO
+			pdx_tooltip_delayed = RELIGION_DESCKEY_DIPLO
+		}
+    }
+}

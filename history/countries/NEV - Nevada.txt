@@ -1,0 +1,88 @@
+﻿capital = 1037
+
+#oob = "NEV_1936"
+
+set_research_slots = 3
+set_stability = 0.75
+set_war_support = 0
+add_command_power = 20
+# Starting tech
+set_technology = {
+	infantry_weapons = 1
+	infantry_weapons1 = 1
+	tech_trucks = 1
+	tech_recon = 1
+	tech_support = 1		
+	tech_engineers = 1
+	gw_artillery = 1
+	interwar_antiair = 1
+	motorised_infantry = 1
+	fuel_silos = 1
+	fuel_refining = 1
+	marines = 1
+	basic_train = 1
+	engine_tech_1 = 1
+}
+
+set_country_flag = is_us_state
+
+add_ideas = {
+	NEV_Tropical_Hot_Dog_Night
+	NEV_A_Scrambled_Opposition
+}
+
+set_politics = {
+	ruling_party = western_democracy
+	last_election = "1932.11.8"
+	election_frequency = 48
+	elections_allowed = no
+}
+
+set_popularities = {
+	western_democracy = 50
+	new_right = 20
+	radical_democracy = 20
+	independent_socialism = 5
+	obscurantism = 3
+	occidental_despotism = 2
+}
+
+create_country_leader = {
+	name = "Don Van Vliet"
+	desc = ""
+	picture = "gfx/leaders/NEV/Beefheart.png"
+	expire = "2000.1.1"
+	ideology = confederal_democracy
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "Pierre Omidyar"
+	desc = ""
+	picture = "gfx/leaders/NEV/Pierre_Omidyar.png"
+	expire = "2000.1.1"
+	ideology = forwardism
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "Robert Bigelow"
+	desc = ""
+	picture = "gfx/leaders/NEV/Robert_Bigelow.png"
+	expire = "2000.1.1"
+	ideology = fordism
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "Frank Fertitta Jr."
+	desc = ""
+	picture = "gfx/leaders/NEV/Frank_Fertitta.png"
+	expire = "2000.1.1"
+	ideology = western_plutocracy
+	traits = {
+	}
+}

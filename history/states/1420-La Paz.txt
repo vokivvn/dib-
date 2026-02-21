@@ -1,0 +1,31 @@
+state={
+	id=1420
+	name="STATE_1420"
+
+	history={
+		owner = ARZ
+		buildings = {
+			infrastructure = 2
+			farm_estate = 1
+		}
+		add_core_of = ARZ
+		victory_points = {
+			15472 5
+		}
+		victory_points = {
+			15477 3
+		}
+		victory_points = {
+			15483 1
+		}
+
+	}
+
+	provinces={
+		8115 15472 15473 15474 15475 15476 15477 15478 15479 15480 15481 15482 15483 15484 
+	}
+	manpower=13844
+	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=0.000
+}

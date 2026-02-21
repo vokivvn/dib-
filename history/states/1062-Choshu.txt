@@ -1,0 +1,32 @@
+state={
+	id=1062
+	name="STATE_1062"
+
+	history={
+		owner = SAT
+		add_core_of = SAT
+		buildings = {
+			infrastructure = 4
+			telecom_infrastructure = 1
+			air_base = 3
+			dockyard = 2
+			arms_factory = 1
+			industrial_complex = 3
+			11985 = {
+				naval_base = 7
+			}
+
+		}
+		victory_points = {
+			11985 20 
+		}
+	}
+
+	provinces={
+		11985 
+	}
+	manpower=1573000
+	buildings_max_level_factor=1.000
+	state_category=large_city
+	local_supplies=0.000
+}

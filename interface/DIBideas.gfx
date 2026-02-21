@@ -1,0 +1,230 @@
+SpriteTypes = {
+	spriteType = {
+		name = "GFX_idea_CNC_Pirate_Presidency"
+		texturefile = "gfx/interface/ideas/CNC/CNC_Pirate_Presidency.png"
+	}
+	spriteType = {
+		name = "GFX_idea_CNC_Clearwater_Connections"
+		texturefile = "gfx/interface/ideas/CNC/CNC_Clearwater_Connections.png"
+	}
+	spriteType = {
+		name = "GFX_idea_FLO_Boiling_Over"
+		texturefile = "gfx/interface/ideas/FLO/FLO_Boiling_Over.png"
+	}
+	spriteType = {
+		name = "GFX_idea_BAH_Whore_Of_The_Caribbean"
+		texturefile = "gfx/interface/ideas/BAH/BAH_Whore_Of_The_Caribbean.png"
+	}
+	spriteType = {
+		name = "GFX_idea_BRG_Tradcath"
+		texturefile = "gfx/interface/ideas/BRG/BRG_Tradcath.png"
+	}
+	spriteType = {
+		name = "GFX_idea_BRG_Problem"
+		texturefile = "gfx/interface/ideas/BRG/BRG_Problem.png"
+	}
+	spriteType = {
+		name = "GFX_idea_FRR_EverythingIsNormal"
+		texturefile = "gfx/interface/ideas/FRR/FRR_EverythingIsNormal.png"
+	}
+	spriteType = {
+		name = "GFX_idea_HAW_Paradise_Lost"
+		texturefile = "gfx/interface/ideas/HAW/HAW_Paradise_Lost.png"
+	}
+	spriteType = {
+		name = "GFX_idea_HAW_International_Businessman"
+		texturefile = "gfx/interface/ideas/HAW/HAW_International_Businessman.png"
+	}
+	spriteType = {
+		name = "GFX_idea_NHM_Splendid_Isolation"
+		texturefile = "gfx/interface/ideas/NHM/SplendidIsolation.png"
+	}
+	spriteType = {
+		name = "GFX_idea_NHM_Heirs_To_Failure"
+		texturefile = "gfx/interface/ideas/NHM/TheHeirsToFailure.png"
+	}
+	spriteType = {
+		name = "GFX_idea_NHM_Fairies_In_The_Forest"
+		texturefile = "gfx/interface/ideas/NHM/FairiesInTheForest.png"
+	}
+	spriteType = {
+		name = "GFX_idea_NYK_Dance_Of_The_Sachems"
+		texturefile = "gfx/interface/ideas/NYK/TheDanceOfSachems.png"
+	}
+	spriteType = {
+		name = "GFX_idea_NYK_The_Apples_Core"
+		texturefile = "gfx/interface/ideas/NYK/TheApplesCorez.png"
+	}
+	spriteType = {
+		name = "GFX_idea_NYK_This_Aint_The_Mud_Club"
+		texturefile = "gfx/interface/ideas/NYK/ThisAintTheMudClub.png"
+	}
+	spriteType = {
+		name = "GFX_idea_MAS_The_Rock_Of_America"
+		texturefile = "gfx/interface/ideas/MAS/TheRockOfAmerica.png"
+	}
+	spriteType = {
+		name = "GFX_idea_MAS_The_Crucible_Of_Progress"
+		texturefile = "gfx/interface/ideas/MAS/TheCrucibleOfProgress.png"
+	}
+	spriteType = {
+		name = "GFX_idea_MAS_The_Madmans_Gallery"
+		texturefile = "gfx/interface/ideas/MAS/TheMadmansGallery.png"
+	}
+	spriteType = {
+		name = "GFX_idea_CAL_Curbing_The_Rest"
+		texturefile = "gfx/interface/ideas/CAL/CurbingtheRest.png"
+	}
+	spriteType = {
+		name = "GFX_idea_CAL_New_Age_Retro_Hippies"
+		texturefile = "gfx/interface/ideas/CAL/NewAgeRetroHippies.png"
+	}
+	spriteType = {
+		name = "GFX_idea_CAL_Audit_Of_The_Century"
+		texturefile = "gfx/interface/ideas/CAL/AuditoftheCentury.png"
+	}
+	spriteType = {
+		name = "GFX_idea_VEG_Frank_Rosenthal_Show"
+		texturefile = "gfx/interface/ideas/VEG/FrankRosenthalShow.png"
+	}
+	spriteType = {
+		name = "GFX_idea_VEG_Bought_Found"
+		texturefile = "gfx/interface/ideas/VEG/BoughtFound.png"
+	}
+	spriteType = {
+		name = "GFX_idea_VEG_Final_Sin_Stupidity"
+		texturefile = "gfx/interface/ideas/VEG/FinalSinStupidity.png"
+	}
+	spriteType = {
+		name = "GFX_idea_NEV_Tropical_Hot_Dog_Night"
+		texturefile = "gfx/interface/ideas/NEV/TropicalHotDogNight.png"
+	}
+	spriteType = {
+		name = "GFX_idea_NEV_A_Scrambled_Opposition"
+		texturefile = "gfx/interface/ideas/NEV/AScrambledOpposition.png"
+	}
+	spriteType = {
+		name = "GFX_idea_ORE_Packwoods_Problems"
+		texturefile = "gfx/interface/ideas/ORE/PackwoodsProblems.png"
+	}
+	spriteType = {
+		name = "GFX_idea_ORE_Wild_Wild_Country"
+		texturefile = "gfx/interface/ideas/ORE/WildWildCountry.png"
+	}
+	spriteType = {
+		name = "GFX_idea_ORE_I_Want_My_MTV"
+		texturefile = "gfx/interface/ideas/ORE/IWantMyMTV.png"
+	}
+	spriteType = {
+		name = "GFX_idea_CCT_Sea_To_Shining_Sea"
+		texturefile = "gfx/interface/ideas/CCT/SeatoShiningSea.png"
+	}
+	spriteType = {
+		name = "GFX_idea_CCT_Common_Law"
+		texturefile = "gfx/interface/ideas/CCT/CommonLaw.png"
+	}
+	spriteType = {
+		name = "GFX_idea_NVJ_Remnants_In_The_Southwest"
+		texturefile = "gfx/interface/ideas/NVJ/RemnantsintheSouthwest.png"
+	}
+	spriteType = {
+		name = "GFX_idea_NVJ_Weaving_A_New_Age"
+		texturefile = "gfx/interface/ideas/NVJ/WeavingaNewAge.png"
+	}
+	spriteType = {
+		name = "GFX_idea_NVJ_Lamanites_And_Lophophora"
+		texturefile = "gfx/interface/ideas/NVJ/LamanitesandLophophora.png"
+	}
+	spriteType = {
+		name = "GFX_idea_NAU_Holy_Zion"
+		texturefile = "gfx/interface/ideas/NAU/HolyZion.png"
+	}
+	spriteType = {
+		name = "GFX_idea_NAU_Wrinkles_In_Scripture"
+		texturefile = "gfx/interface/ideas/NAU/WrinklesInTheScripture.png"
+	}
+	spriteType = {
+		name = "GFX_idea_NAU_Sodomites_In_Temple"
+		texturefile = "gfx/interface/ideas/NAU/SodomitesInTheTemple.png"
+	}
+	spriteType = {
+		name = "GFX_idea_ATK_Thems_Good_Eatin"
+		texturefile = "gfx/interface/ideas/ATK/Themsgoodeatin.png"
+	}
+	spriteType = {
+		name = "GFX_idea_ATK_Bayou_Brotherhood"
+		texturefile = "gfx/interface/ideas/ATK/BayouBrotherhood.png"
+	}
+	spriteType = {
+		name = "GFX_idea_ATK_The_Old_Ways"
+		texturefile = "gfx/interface/ideas/ATK/TheOldWays.png"
+	}
+	spriteType = {
+		name = "GFX_idea_JNG_The_Red_and_The_Black"
+		texturefile = "gfx/interface/ideas/JNG/TheRedandTheBlack.png"
+	}
+	spriteType = {
+		name = "GFX_idea_JNG_Run_Through_The_Jungle"
+		texturefile = "gfx/interface/ideas/JNG/RunThruTheJungle.png"
+	}
+	spriteType = {
+		name = "GFX_idea_PRU_Ataypura"
+		texturefile = "gfx/interface/ideas/PRU/Ataypura.png"
+	}
+	spriteType = {
+		name = "GFX_idea_PRU_Across_Ucayali"
+		texturefile = "gfx/interface/ideas/PRU/AcrossUcayali.png"
+	}
+	spriteType = {
+		name = "GFX_idea_ECU_Stuck_In_The_Middle"
+		texturefile = "gfx/interface/ideas/ECU/StuckintheMiddle.png"
+	}
+	spriteType = {
+		name = "GFX_idea_ECU_El_Dorado"
+		texturefile = "gfx/interface/ideas/ECU/ElDorado.png"
+	}
+	spriteType = {
+		name = "GFX_idea_COL_La_Guerra_Lenta"
+		texturefile = "gfx/interface/ideas/COL/LaGuerraLenta.png"
+	}
+	spriteType = {
+		name = "GFX_idea_COL_Prisencolinensinainciusol"
+		texturefile = "gfx/interface/ideas/COL/Prisencolinensinainciusol.png"
+	}
+	spriteType = {
+		name = "GFX_idea_MNH_Solidao"
+		texturefile = "gfx/interface/ideas/MNH/Solidao.png"
+	}
+	spriteType = {
+		name = "GFX_idea_MNH_Irmandade_Nacional"
+		texturefile = "gfx/interface/ideas/MNH/Irmandade_Nacional.png"
+	}
+	spriteType = {
+		name = "GFX_idea_KOR_the_good_gooks"
+		texturefile = "gfx/interface/ideas/KOR/the_good_gooks.png"
+	}
+	spriteType = {
+		name = "GFX_idea_KOR_silver_pagoda"
+		texturefile = "gfx/interface/ideas/KOR/silver_pagoda.png"
+	}
+	spriteType = {
+		name = "GFX_idea_KOR_atmaghatadharma"
+		texturefile = "gfx/interface/ideas/KOR/atmaghatadharma.png"
+	}
+	spriteType = {
+		name = "GFX_idea_AST_Buggered"
+		texturefile = "gfx/interface/ideas/AST/A_Buggered_State_of_Affairs.png"
+	}
+	spriteType = {
+		name = "GFX_idea_AST_Eureka"
+		texturefile = "gfx/interface/ideas/AST/Alongwayfromeureka.png"
+	}
+	spriteType = {
+		name = "GFX_idea_AST_Billabong"
+		texturefile = "gfx/interface/ideas/AST/Billabongsabubblin.png"
+	}
+	spriteType = {
+		name = "GFX_idea_AST_Sinclair"
+		texturefile = "gfx/interface/ideas/AST/Sinclairsdiemens.png"
+	}
+}

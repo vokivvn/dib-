@@ -1,0 +1,33 @@
+state={
+	id=1507
+	name="STATE_1507"
+
+	history={
+		owner = TEI
+		add_core_of = TEI
+		victory_points = {
+			15881 30 
+		}
+		victory_points = {
+			15883 10 
+		}
+		buildings = {
+			infrastructure = 7
+			industrial_complex = 3
+			office_building = 2
+			dockyard = 2
+			15881 = {
+				naval_base = 6
+			}
+		}
+
+	}
+
+	provinces={
+		15881 15882 15883 15884 
+	}
+	manpower=1283920
+	buildings_max_level_factor=1.000
+	state_category=metropolis
+	local_supplies=0.000
+}

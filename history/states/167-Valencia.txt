@@ -1,0 +1,39 @@
+
+state={
+	id=167
+	name="STATE_167"
+
+	history={
+		owner = VAL
+		victory_points = {
+			6906 10 
+		}
+		victory_points = {
+			4098 3 
+		}
+		buildings = {
+			infrastructure = 3
+			dockyard = 1
+			air_base = 3
+			6906 = {
+				naval_base = 3
+
+			}
+			4098 = {
+				naval_base = 2
+
+			}
+
+		}
+		add_core_of = VAL
+
+	}
+
+	provinces={
+		962 1093 3799 3873 3891 3945 4098 6817 6856 6906 6959 7111 9889 9896 10024 10109 
+	}
+	manpower=1979294
+	buildings_max_level_factor=1.000
+	state_category=large_town
+	local_supplies=0.000
+}

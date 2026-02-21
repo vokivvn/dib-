@@ -1,0 +1,30 @@
+state={
+	id=970
+	name="STATE_970"
+
+	history={
+		owner = HAW
+		add_core_of = HAW
+		buildings = {
+			infrastructure = 3
+			air_base = 2
+			industrial_complex = 2
+			arms_factory = 1
+			13438 = {
+				naval_base = 5
+			}
+
+		}
+		victory_points = {
+			13438 15
+		}
+	}
+
+	provinces={
+		4180 13437 13438 13439 13440 
+	}
+	manpower=836231
+	buildings_max_level_factor=1.000
+	state_category=city
+	local_supplies=9.000
+}

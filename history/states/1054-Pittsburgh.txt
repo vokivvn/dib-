@@ -1,0 +1,28 @@
+state={
+	id=1054
+	name="STATE_1054"
+
+	history={
+		owner = PEN
+		buildings = {
+			infrastructure = 4
+			telecom_infrastructure = 3
+			industrial_complex = 3
+			arms_factory = 2
+			air_base = 1
+		}
+		add_core_of = PEN
+		victory_points = {
+			11800 15 
+		}
+
+	}
+
+	provinces={
+		11800 13715 13716 
+	}
+	manpower=669817
+	buildings_max_level_factor=1.000
+	state_category=city
+	local_supplies=0.000
+}

@@ -1,0 +1,144 @@
+ideas = {
+	country = {
+		NVJ_Remnants_In_The_Southwest = {
+			picture = NVJ_Remnants_In_The_Southwest
+			allowed = {
+				tag = NVJ
+			}
+
+            available = {
+               	tag = NVJ
+            }
+
+            cancel = {
+              
+            }
+
+			allowed_civil_war = {
+				always = no
+			}
+			
+			modifier = {
+			political_power_cost = 0.1
+    		stability_factor = -0.15
+			drift_defence = -0.3
+			}
+		}
+		NVJ_Weaving_A_New_Age = {
+			picture = NVJ_Weaving_A_New_Age
+			allowed = {
+				tag = NVJ
+			}
+
+            available = {
+               	tag = NVJ
+            }
+
+            cancel = {
+              
+            }
+
+			allowed_civil_war = {
+				always = no
+			}
+			
+			modifier = {
+			political_power_gain = 0.07
+    		
+			}
+		}
+		NVJ_Lamanites_And_Lophophora = {
+			picture = NVJ_Lamanites_And_Lophophora
+			allowed = {
+				tag = NVJ
+			}
+
+            available = {
+               	tag = NVJ
+            }
+
+            cancel = {
+              
+            }
+
+			allowed_civil_war = {
+				always = no
+			}
+			
+			modifier = {
+			political_power_gain = 0.07
+    		
+			}
+		}
+		NAU_Holy_Zion = {
+			picture = NAU_Holy_Zion
+			allowed = {
+				tag = NAU
+			}
+
+            available = {
+               	tag = NAU
+            }
+
+            cancel = {
+              
+            }
+
+			allowed_civil_war = {
+				always = no
+			}
+			
+			modifier = {
+			political_power_cost = 0.1
+    		stability_factor = -0.15
+			drift_defence = -0.3
+			}
+		}
+		NAU_Wrinkles_In_Scripture = {
+			picture = NAU_Wrinkles_In_Scripture
+			allowed = {
+				tag = NAU
+			}
+
+            available = {
+               	tag = NAU
+            }
+
+            cancel = {
+              
+            }
+
+			allowed_civil_war = {
+				always = no
+			}
+			
+			modifier = {
+			political_power_gain = 0.07
+    		
+			}
+		}
+		NAU_Sodomites_In_Temple = {
+			picture = NAU_Sodomites_In_Temple
+			allowed = {
+				tag = NAU
+			}
+
+            available = {
+               	tag = NAU
+            }
+
+            cancel = {
+              
+            }
+
+			allowed_civil_war = {
+				always = no
+			}
+			
+			modifier = {
+			political_power_gain = 0.07
+    		
+			}
+		}
+	}
+}

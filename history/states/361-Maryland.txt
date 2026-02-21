@@ -1,0 +1,37 @@
+
+state={
+	id=361
+	name="STATE_361"
+
+	history={
+		owner = MRL
+		victory_points = {
+			6984 5 
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 5
+			dockyard = 1
+			air_base = 6
+			6984 = {
+				naval_base = 2
+
+			}
+			3957 = {
+				naval_base = 1
+
+			}
+
+		}
+		add_core_of = MRL
+
+	}
+
+	provinces={
+		3957 6892 6984 9758 11892 13502 13505 13506 13508
+	}
+	manpower=2118394
+	buildings_max_level_factor=1.000
+	state_category=city
+	local_supplies=0.000
+}

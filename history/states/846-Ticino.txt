@@ -1,0 +1,23 @@
+
+state={
+	id=846
+	name="STATE_846"
+	manpower = 2699407
+	state_category = city
+	history={
+		owner = CCT
+		buildings = {
+			infrastructure = 3
+			telecom_infrastructure = 1
+			industrial_complex = 3
+		}
+		victory_points = {
+			6890 5 
+		}
+		add_core_of = CCT
+	}
+	provinces={
+		882 4442 6890 9825 13380 15798 15799
+	}
+	local_supplies=0.0  
+}

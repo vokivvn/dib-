@@ -1,0 +1,51 @@
+state=
+{
+	id=596
+	name="STATE_596"
+	manpower = 21230700
+	state_category = city
+	history=
+	{
+		owner = CHI
+		add_core_of = CHI
+		victory_points = {
+			11913 20 
+		}
+		victory_points = {
+			7014 5
+		}
+		victory_points = {
+			10076 3
+		}
+		victory_points = { 
+			9974 1 
+		}
+		victory_points = { 
+			7191 1 
+		}
+		victory_points = {
+			12019 1
+		}
+		
+		buildings = {
+			infrastructure = 2
+			7191 = {
+				naval_base = 1
+			}
+			9974 = {
+				naval_base = 3
+			}
+			1055 = {
+				naval_base = 3
+			}
+			7014 = {
+				naval_base = 6
+			}
+		}
+	}
+	provinces={
+		996 1001 1029 1055 1076 1089 1096 1099 1121 1125 1153 1161 1168 1171 1195 4001 4005 4013 4031 4042 4082 4091 4099 4105 4123 4173 4148 7007 7014 7025 7058 7086 7104 7120 7142 7146 7174 7181 7191 7200 9944 9953 9956 9972 9974 10014 10034 10044 10058 10076 10086 10095 10101 11913 11920 11928 11937 11947 11973 11982 11991 12019 12052 12055 12059 12067 12076 13142 13144
+	}
+
+	local_supplies=0.0 
+}

@@ -1,0 +1,39 @@
+state={
+	id=972
+	name="STATE_972"
+
+	history={
+		owner = HAW
+		add_core_of = HAW
+		buildings = {
+			infrastructure = 3
+			air_base = 2
+			industrial_complex = 2
+			arms_factory = 1
+			13434 = {
+				naval_base = 3
+			}
+
+		}
+		victory_points = {
+			13434 5
+		}
+		victory_points = {
+			13435 3
+		}
+		victory_points = {
+			13436 3
+		}
+		victory_points = {
+			7195 3
+		}
+	}
+
+	provinces={
+		7195 13434 13435 13436 
+	}
+	manpower=100374
+	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=4.000
+}

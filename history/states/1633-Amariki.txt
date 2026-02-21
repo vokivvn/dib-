@@ -1,0 +1,24 @@
+state={
+	id=1633
+	name="STATE_1633"
+
+	history={
+		owner = MRJ
+		add_core_of = MRJ
+		buildings = {
+			infrastructure = 1
+		}
+		victory_points = {
+			16534 1 
+		}
+
+	}
+
+	provinces={
+		16534 16546 
+	}
+	manpower=4019
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+	local_supplies=0.000
+}

@@ -1,0 +1,31 @@
+﻿capital = 1371
+
+#oob = ""
+
+# Starting tech
+set_technology = {
+	infantry_weapons = 1
+}
+
+set_convoys = 5
+set_variable = { SUR.CULTURE = 83 }
+set_variable = { SUR.RELIGION = 82 }
+
+set_politics = {
+	ruling_party = radical_democracy
+	last_election = "1936.1.1"
+	election_frequency = 48
+	elections_allowed = no
+}
+set_popularities = {
+	radical_democracy = 100
+}
+create_country_leader = {
+	name = "Rooplall Dudhnath"
+	desc = ""
+	picture = "gfx/leaders/SUR/Rooplall_Dudhnath.png"
+	expire = "2000.1.1"
+	ideology = social_faith
+	traits = {
+	}
+}

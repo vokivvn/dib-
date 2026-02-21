@@ -1,0 +1,28 @@
+state={
+	id=1482
+	name="STATE_1482"
+
+	history={
+		victory_points = {
+			15816 3 
+		}
+		owner = BEM
+		buildings = {
+			infrastructure = 3
+			telecom_infrastructure = 1
+			industrial_complex = 1
+			15816 = {
+				naval_base = 1
+			}
+		}
+		add_core_of = BEM
+	}
+
+	provinces={
+		374 15815 15816 15817 15818 
+	}
+	manpower=45562
+	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=0.000
+}

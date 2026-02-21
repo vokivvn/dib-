@@ -1,0 +1,27 @@
+state={
+	id=1035
+	name="STATE_1035"
+
+	history={
+		owner = NEV
+		victory_points = {
+			13667 15 
+		}
+		buildings = {
+			infrastructure = 3
+			telecom_infrastructure = 2
+			industrial_complex = 2
+			arms_factory = 1
+		}
+		add_core_of = NEV
+
+	}
+
+	provinces={
+		13667 
+	}
+	manpower=133850
+	buildings_max_level_factor=1.000
+	state_category=city
+	local_supplies=0.000
+}

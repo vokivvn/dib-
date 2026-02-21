@@ -1,0 +1,28 @@
+
+state={
+	id=365
+	name="STATE_365"
+	manpower = 85925
+	
+	state_category = rural
+
+	history={
+		owner = GRG
+		add_core_of = GRG
+		buildings = {
+			infrastructure = 2
+			telecom_infrastructure = 1
+			farm_estate = 2
+		}
+		victory_points = {
+			638 3 
+		}
+
+	}
+
+	provinces={
+		638 15088 
+	}
+
+	local_supplies=0.0 
+}

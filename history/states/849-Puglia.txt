@@ -1,0 +1,46 @@
+
+state={
+	id=849
+	name="STATE_849"
+
+	history={
+		owner = TTS
+		victory_points = {
+			9784 3 
+		}
+		victory_points = {
+			11998 3 
+		}
+		victory_points = {
+			11837 15 
+		}
+		victory_points = {
+			883 3 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			dockyard = 4
+			air_base = 5
+			11837 = {
+				naval_base = 10
+
+			}
+			9784 = {
+				naval_base = 3
+
+			}
+
+		}
+		add_core_of = TTS
+
+	}
+
+	provinces={
+		883 963 3923 3966 6831 6843 6939 6980 9784 11837 11998 
+	}
+	manpower=2642000
+	buildings_max_level_factor=1.000
+	state_category=city
+	local_supplies=0.000
+}

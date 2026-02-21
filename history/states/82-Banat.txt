@@ -1,0 +1,37 @@
+
+state={
+	id=82
+	name="STATE_82"
+	resources={
+		aluminium=4.000
+	}
+
+	history={
+		victory_points = {
+			9606 25 
+		}
+		victory_points = {
+			13542 10 
+		}
+		victory_points = {
+			662 5 
+		}
+		owner = TRA
+		buildings = {
+			infrastructure = 3
+			telecom_infrastructure = 2
+			industrial_complex = 2
+			air_base = 1
+		}
+		add_core_of = TRA
+
+	}
+
+	provinces={
+		646 662 9606 11608 13541 13542 13546 
+	}
+	manpower=700033
+	buildings_max_level_factor=1.000
+	state_category=city
+	local_supplies=7.000
+}

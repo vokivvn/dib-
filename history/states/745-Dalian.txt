@@ -1,0 +1,30 @@
+state={
+	id=745
+	name="STATE_745"
+	provinces={
+		6909 9832 9847 9850 13363
+	}
+	state_category = large_city
+	history=
+	{
+		owner = CCT
+		add_core_of = CCT
+		victory_points = {
+			9850 5
+		}
+		victory_points = {
+			9847 5
+		}
+		buildings = {
+			infrastructure = 4
+			air_base = 2
+			industrial_complex = 3
+		}
+
+	
+	}
+	manpower=3107576	
+	buildings_max_level_factor=1.000
+
+	local_supplies=0.0 
+}

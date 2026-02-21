@@ -1,0 +1,24 @@
+focus_tree = {
+	id = wwr_starting
+
+	country = {
+		factor = 0
+		
+		modifier = {
+			add = 50
+			tag = WWR
+            has_country_leader = {
+			    name = "Thomas Metzger"
+			    ruling_only = yes
+			}
+		}
+		
+		modifier = {
+			add = 10
+			original_tag = WWR
+		}
+	}
+    shared_focus = LAS_the_battle_for_angeles
+    shared_focus = WWR_white_pride_is_nothing_to_hide
+    shared_focus = WWR_weaponry_and_tactics
+}

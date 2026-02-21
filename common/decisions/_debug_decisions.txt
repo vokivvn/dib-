@@ -1,0 +1,1544 @@
+debug_decisions = {
+
+	debug_show_decisions = {
+		priority = 100
+		allowed = {
+			always = yes
+		}
+
+		visible = {
+			is_ai = no
+			is_debug = yes
+			NOT = { has_global_flag = show_debug_decisions_flag }
+		}
+		complete_effect = {
+			set_global_flag = show_debug_decisions_flag
+		}
+	}
+
+	debug_hide_decisions = {
+		priority = -1
+		allowed = {
+			always = yes
+		}
+
+		visible = {
+			is_ai = no
+			is_debug = yes
+			has_global_flag = show_debug_decisions_flag
+		}
+		complete_effect = {
+			clr_global_flag = show_debug_decisions_flag
+		}
+	}
+
+	america_ough = {
+		priority = 100
+		allowed = {
+			always = yes
+		}
+
+		visible = {
+			is_ai = no
+			is_debug = yes
+			NOT = { has_global_flag = show_debug_decisions_flag }
+		}
+		complete_effect = {
+			CAL = {
+				set_cosmetic_tag = CAL_Hayden
+			}
+			annex_country = {
+    			target = USA
+    			transfer_troops = yes
+			}
+			annex_country = {
+    			target = NEV
+    			transfer_troops = yes
+			}
+			annex_country = {
+    			target = ORE
+    			transfer_troops = yes
+			}
+			annex_country = {
+    			target = VEG
+    			transfer_troops = yes
+			}
+			annex_country = {
+    			target = ARZ
+    			transfer_troops = yes
+			}
+			annex_country = {
+    			target = SON
+    			transfer_troops = yes
+			}
+			annex_country = {
+    			target = TYL
+    			transfer_troops = yes
+			}
+			annex_country = {
+    			target = CIH
+    			transfer_troops = yes
+			}
+			annex_country = {
+    			target = TEX
+    			transfer_troops = yes
+			}
+			annex_country = {
+    			target = NAU
+    			transfer_troops = yes
+			}
+			annex_country = {
+    			target = DAK
+    			transfer_troops = yes
+			}
+			annex_country = {
+    			target = MIN
+    			transfer_troops = yes
+			}
+			annex_country = {
+    			target = IND
+    			transfer_troops = yes
+			}
+			annex_country = {
+    			target = KAN
+    			transfer_troops = yes
+			}
+			annex_country = {
+    			target = LOU
+    			transfer_troops = yes
+			}
+			annex_country = {
+    			target = MSP
+    			transfer_troops = yes
+			}
+			annex_country = {
+    			target = GRG
+    			transfer_troops = yes
+			}
+			annex_country = {
+    			target = OHI
+    			transfer_troops = yes
+			}
+			annex_country = {
+    			target = VIR
+    			transfer_troops = yes
+			}
+			annex_country = {
+    			target = NCR
+    			transfer_troops = yes
+			}
+			annex_country = {
+    			target = SCR
+    			transfer_troops = yes
+			}
+			annex_country = {
+    			target = FLO
+    			transfer_troops = yes
+			}
+			annex_country = {
+    			target = CNC
+    			transfer_troops = yes
+			}
+			annex_country = {
+    			target = MCI
+    			transfer_troops = yes
+			}
+			annex_country = {
+    			target = PEN
+    			transfer_troops = yes
+			}
+			annex_country = {
+    			target = CCT
+    			transfer_troops = yes
+			}
+			annex_country = {
+    			target = MAS
+    			transfer_troops = yes
+			}
+			annex_country = {
+    			target = RHI
+    			transfer_troops = yes
+			}
+			annex_country = {
+    			target = NHM
+    			transfer_troops = yes
+			}
+			annex_country = {
+    			target = MRL
+    			transfer_troops = yes
+			}
+			annex_country = {
+    			target = DLW
+    			transfer_troops = yes
+			}
+			annex_country = {
+    			target = NYK
+    			transfer_troops = yes
+			}
+			annex_country = {
+    			target = JER
+    			transfer_troops = yes
+			}
+		}
+	}
+
+	america_racist = {
+		priority = 100
+		allowed = {
+			always = yes
+		}
+
+		visible = {
+			is_ai = no
+			is_debug = yes
+			NOT = { has_global_flag = show_debug_decisions_flag }
+		}
+		complete_effect = {
+			CAL = {
+				set_cosmetic_tag = CAL_Murray
+			}
+			annex_country = {
+    			target = USA
+    			transfer_troops = yes
+			}
+			annex_country = {
+    			target = NEV
+    			transfer_troops = yes
+			}
+			annex_country = {
+    			target = ORE
+    			transfer_troops = yes
+			}
+			annex_country = {
+    			target = VEG
+    			transfer_troops = yes
+			}
+			annex_country = {
+    			target = ARZ
+    			transfer_troops = yes
+			}
+			annex_country = {
+    			target = SON
+    			transfer_troops = yes
+			}
+			annex_country = {
+    			target = TYL
+    			transfer_troops = yes
+			}
+			annex_country = {
+    			target = CIH
+    			transfer_troops = yes
+			}
+			annex_country = {
+    			target = TEX
+    			transfer_troops = yes
+			}
+			annex_country = {
+    			target = NAU
+    			transfer_troops = yes
+			}
+			annex_country = {
+    			target = DAK
+    			transfer_troops = yes
+			}
+			annex_country = {
+    			target = MIN
+    			transfer_troops = yes
+			}
+			annex_country = {
+    			target = IND
+    			transfer_troops = yes
+			}
+			annex_country = {
+    			target = KAN
+    			transfer_troops = yes
+			}
+			annex_country = {
+    			target = LOU
+    			transfer_troops = yes
+			}
+			annex_country = {
+    			target = MSP
+    			transfer_troops = yes
+			}
+			annex_country = {
+    			target = GRG
+    			transfer_troops = yes
+			}
+			annex_country = {
+    			target = OHI
+    			transfer_troops = yes
+			}
+			annex_country = {
+    			target = VIR
+    			transfer_troops = yes
+			}
+			annex_country = {
+    			target = NCR
+    			transfer_troops = yes
+			}
+			annex_country = {
+    			target = SCR
+    			transfer_troops = yes
+			}
+			annex_country = {
+    			target = FLO
+    			transfer_troops = yes
+			}
+			annex_country = {
+    			target = CNC
+    			transfer_troops = yes
+			}
+			annex_country = {
+    			target = MCI
+    			transfer_troops = yes
+			}
+			annex_country = {
+    			target = PEN
+    			transfer_troops = yes
+			}
+			annex_country = {
+    			target = CCT
+    			transfer_troops = yes
+			}
+			annex_country = {
+    			target = MAS
+    			transfer_troops = yes
+			}
+			annex_country = {
+    			target = RHI
+    			transfer_troops = yes
+			}
+			annex_country = {
+    			target = NHM
+    			transfer_troops = yes
+			}
+			annex_country = {
+    			target = MRL
+    			transfer_troops = yes
+			}
+			annex_country = {
+    			target = DLW
+    			transfer_troops = yes
+			}
+			annex_country = {
+    			target = NVJ
+    			transfer_troops = yes
+			}
+			annex_country = {
+    			target = SIO
+    			transfer_troops = yes
+			}
+			annex_country = {
+    			target = ATK
+    			transfer_troops = yes
+			}
+			annex_country = {
+    			target = INT
+    			transfer_troops = yes
+			}
+			annex_country = {
+    			target = MUN
+    			transfer_troops = yes
+			}
+			annex_country = {
+    			target = BLK
+    			transfer_troops = yes
+			}
+		}
+	}
+
+	chicanobomb = {
+		priority = 100
+		allowed = {
+			always = yes
+		}
+
+		visible = {
+			is_ai = no
+			is_debug = yes
+			NOT = { has_global_flag = show_debug_decisions_flag }
+		}
+		complete_effect = {
+			CAL = {
+				set_cosmetic_tag = BAJ_Sanchez
+			}
+			KAN = {
+				set_cosmetic_tag = KAN_Sanchez
+			}
+			DAK = {
+				set_cosmetic_tag = DAK_Sanchez
+				transfer_state = 387
+				transfer_state = 599
+			}
+			ORE = {
+				set_cosmetic_tag = ORE_Sanchez
+			}
+			CLR = {
+				transfer_state = 383
+				transfer_state = 1103
+				transfer_state = 1102
+				transfer_state = 1104
+				transfer_state = 382
+			}
+		}
+	}
+
+	sessho_sekki = {
+		priority = 100
+		allowed = {
+			always = yes
+		}
+
+		visible = {
+			is_ai = no
+			is_debug = yes
+			NOT = { has_global_flag = show_debug_decisions_flag }
+		}
+		complete_effect = {
+			EZO = {
+				transfer_state = 536
+			}
+			TSA = {
+				set_cosmetic_tag = TSA_war
+				transfer_state = 530
+			}
+			IMM = {
+				transfer_state = 529
+			}
+			OFL = {
+				transfer_state = 533
+			}
+			KYO = {
+				set_cosmetic_tag = KYO_war
+				transfer_state = 531
+				transfer_state = 532
+				transfer_state = 535
+				transfer_state = 282
+				transfer_state = 534
+			}
+			OSK = {
+				transfer_state = 1167
+			}
+			SNC = {
+				transfer_state = 528
+			}
+			ISU = {
+				transfer_state = 1168
+			}
+		}
+	}
+
+	ephraim_splosion = {
+		priority = 100
+		allowed = {
+			always = yes
+		}
+
+		visible = {
+			is_ai = no
+			is_debug = yes
+			NOT = { has_global_flag = show_debug_decisions_flag }
+		}
+		complete_effect = {
+			RFF = {
+				transfer_state = 121
+				transfer_state = 133
+				transfer_state = 134
+				transfer_state = 135
+			}
+			AOM = {
+				transfer_state = 120
+				transfer_state = 136
+				transfer_state = 933
+			}
+			RTU = {
+				transfer_state = 113
+				transfer_state = 119
+				transfer_state = 932
+			}
+			SNA = {
+				transfer_state = 129
+				transfer_state = 130
+			}
+			SRM = {
+				transfer_state = 931
+				transfer_state = 131
+				transfer_state = 1142
+			}
+			WPI = {
+				transfer_state = 128
+				transfer_state = 132
+				transfer_state = 1141
+			}
+			NLF = {
+				transfer_state = 122
+				transfer_state = 123
+			}
+			ILP = {
+				transfer_state = 126
+				transfer_state = 127
+				transfer_state = 338
+			}
+		}
+	}
+
+	cali_go_boom = {
+		priority = 100
+		allowed = {
+			always = yes
+		}
+
+		visible = {
+			is_ai = no
+			is_debug = yes
+			NOT = { has_global_flag = show_debug_decisions_flag }
+		}
+		complete_effect = {
+			CAL = {
+				set_cosmetic_tag = CAL_war
+			}
+			CST = {
+				transfer_state = 975
+				transfer_state = 845
+				transfer_state = 1230
+				transfer_state = 1222
+				transfer_state = 1220
+				load_oob = CST_CALIBOOM
+		        declare_war_on = {
+			        target = SFC
+			        type = annex_everything
+		        }
+			}
+			PAC = {
+				transfer_state = 974
+				transfer_state = 802
+				transfer_state = 1231
+				transfer_state = 1232
+			}
+			BAJ = {
+				transfer_state = 450
+				transfer_state = 484
+				transfer_state = 1549
+				transfer_state = 1550
+				transfer_state = 1551
+				transfer_state = 1552
+				transfer_state = 1553
+				transfer_state = 1554
+				transfer_state = 1555
+				transfer_state = 1556
+				transfer_state = 1557
+				transfer_state = 1558
+				transfer_state = 1559
+				transfer_state = 1560
+				transfer_state = 1560
+				transfer_state = 1560
+				transfer_state = 1560
+				transfer_state = 1561
+				transfer_state = 1562
+				transfer_state = 1563
+				transfer_state = 1564
+				transfer_state = 1565
+				transfer_state = 1566
+				transfer_state = 1567
+				transfer_state = 1568
+				transfer_state = 1569
+				transfer_state = 1570
+				transfer_state = 1571
+				transfer_state = 1572
+				transfer_state = 1573
+				transfer_state = 1574
+				transfer_state = 1575
+				transfer_state = 1576
+				transfer_state = 1577
+				transfer_state = 1578
+			}
+			FAM = {
+				transfer_state = 85
+				transfer_state = 1225
+				transfer_state = 1224
+			}
+			LAS = {
+				transfer_state = 1030
+				transfer_state = 321
+				transfer_state = 1228
+				transfer_state = 1227
+				transfer_state = 1229
+				transfer_state = 1226
+			}
+			SFC = {
+				transfer_state = 1221
+				transfer_state = 1216
+				transfer_state = 1218
+				transfer_state = 1217
+				transfer_state = 1219
+				load_oob = SFC_CALIBOOM
+				add_state_core = 1221
+				add_state_core = 1216
+				add_state_core = 1218
+				add_state_core = 1217
+				add_state_core = 1219
+			}
+		}
+	}
+
+	zodiacks = {
+		priority = 100
+		allowed = {
+			always = yes
+		}
+
+		visible = {
+			is_ai = no
+			is_debug = yes
+			NOT = { has_global_flag = show_debug_decisions_flag }
+		}
+		complete_effect = {
+			ZDK = {
+				transfer_state = 975
+				transfer_state = 845
+			}
+		}
+	}
+
+	ecotopia = {
+		priority = 100
+		allowed = {
+			always = yes
+		}
+
+		visible = {
+			is_ai = no
+			is_debug = yes
+			NOT = { has_global_flag = show_debug_decisions_flag }
+		}
+		complete_effect = {
+			ECO = {
+				set_cosmetic_tag = ECO_Callenbach
+			}
+			annex_country = {
+    			target = ORE
+    			transfer_troops = yes
+			}
+			ECO = {
+				transfer_state = 974
+				transfer_state = 802
+				transfer_state = 1231
+				transfer_state = 1232
+			}
+		}
+	}
+
+	oregon_go_boom = {
+		priority = 100
+		allowed = {
+			always = yes
+		}
+
+		visible = {
+			is_ai = no
+			is_debug = yes
+			NOT = { has_global_flag = show_debug_decisions_flag }
+		}
+		complete_effect = {
+			ORE = {
+				set_cosmetic_tag = ORE_war
+			}
+			ECO = {
+				transfer_state = 233
+				transfer_state = 609
+			}
+			PMU = {
+				transfer_state = 593
+				transfer_state = 827
+			}
+			LLG = {
+				transfer_state = 599
+			}
+			RJN = {
+				transfer_state = 613
+				transfer_state = 749
+			}
+			ITO = {
+				transfer_state = 592
+				transfer_state = 591
+			}
+		}
+	}
+
+	cascadia_button = {
+		priority = 100
+		allowed = {
+			always = yes
+		}
+
+		visible = {
+			is_ai = no
+			is_debug = yes
+			NOT = { has_global_flag = show_debug_decisions_flag }
+		}
+		complete_effect = {
+			CAS = {
+				transfer_state = 1824
+				transfer_state = 1826
+				transfer_state = 1827
+				transfer_state = 1828
+				transfer_state = 1829
+				transfer_state = 1819
+				transfer_state = 1820
+				transfer_state = 1818
+				transfer_state = 1825
+				transfer_state = 1830
+				transfer_state = 1823
+				transfer_state = 1817
+				transfer_state = 1815
+				transfer_state = 1816
+				transfer_state = 233
+			}
+		}
+	}
+
+	pennsylvania_go_boom = {
+		priority = 100
+		allowed = {
+			always = yes
+		}
+
+		visible = {
+			is_ai = no
+			is_debug = yes
+			NOT = { has_global_flag = show_debug_decisions_flag }
+		}
+		complete_effect = {
+			PHA = {
+				transfer_state = 993
+				transfer_state = 995
+				transfer_state = 1053
+			}
+			LNC = {
+				transfer_state = 1058
+				transfer_state = 1057
+				transfer_state = 360
+				transfer_state = 994
+				transfer_state = 1059
+			}
+			PIT = {
+				transfer_state = 1054
+				transfer_state = 1056
+				transfer_state = 1060
+				transfer_state = 320
+				transfer_state = 1055
+				transfer_state = 1061
+			}
+			FIR = {
+				transfer_state = 846
+			}
+		}
+	}
+
+	kansas_go_boom = {
+		priority = 100
+		allowed = {
+			always = yes
+		}
+
+		visible = {
+			is_ai = no
+			is_debug = yes
+			NOT = { has_global_flag = show_debug_decisions_flag }
+		}
+		complete_effect = {
+			KAN = {
+				set_cosmetic_tag = KAN_war
+			}
+			FPR = {
+				transfer_state = 383
+				transfer_state = 1103
+				transfer_state = 1104
+			}
+			JBB = {
+				transfer_state = 1102
+				transfer_state = 1098
+				transfer_state = 1097
+			}
+		}
+	}
+
+	southern_tragedy_strikes = {
+		priority = 100
+		allowed = {
+			always = yes
+		}
+
+		visible = {
+			is_ai = no
+			is_debug = yes
+			NOT = { has_global_flag = show_debug_decisions_flag }
+		}
+		complete_effect = {
+			EVG = {
+				transfer_state = 981
+				transfer_state = 980
+				transfer_state = 978
+				transfer_state = 1079
+			}
+			PSD = {
+				transfer_state = 803
+				transfer_state = 979
+				transfer_state = 188
+				transfer_state = 1080
+			}
+			TAL = {
+				transfer_state = 850
+				transfer_state = 366
+			}
+		}
+	}
+
+	pennsylvania_go_boom_WORSE = {
+		priority = 100
+		allowed = {
+			always = yes
+		}
+
+		visible = {
+			is_ai = no
+			is_debug = yes
+			NOT = { has_global_flag = show_debug_decisions_flag }
+		}
+		complete_effect = {
+			MOV = {
+				transfer_state = 993
+			}
+			QUA = {
+				transfer_state = 1058
+				transfer_state = 1057
+			}
+		}
+	}
+	
+	research_all_tank_techs_nsb = {
+		icon = generic_tank
+
+		visible = {
+			is_ai = no
+			is_debug = yes
+			has_global_flag = show_debug_decisions_flag
+		}
+
+		complete_effect = {
+			set_technology = {
+				gwtank_chassis = 1
+				popup = no
+			}
+			set_technology = {
+				basic_light_tank_chassis = 1
+				popup = no
+			}			
+			set_technology = {
+				improved_light_tank_chassis = 1
+				popup = no
+			}			
+			set_technology = {
+				amphibious_tank_chassis = 1
+				popup = no
+			}			
+			set_technology = {
+				amphibious_drive = 1
+				popup = no
+			}			
+			set_technology = {
+				advanced_light_tank_chassis = 1
+				popup = no
+			}			
+			set_technology = {
+				basic_medium_tank_chassis = 1
+				popup = no
+			}			
+			set_technology = {
+				improved_medium_tank_chassis = 1
+				popup = no
+			}			
+			set_technology = {
+				advanced_medium_tank_chassis = 1
+				popup = no
+			}			
+			set_technology = {
+				main_battle_tank_chassis = 1
+				popup = no
+			}			
+			set_technology = {
+				basic_heavy_tank_chassis = 1
+				popup = no
+			}			
+			set_technology = {
+				improved_heavy_tank_chassis = 1
+				popup = no
+			}			
+			set_technology = {
+				advanced_heavy_tank_chassis = 1
+				popup = no
+			}			
+			set_technology = {
+				super_heavy_tank_chassis = 1
+				popup = no
+			}			
+			set_technology = {
+				armor_tech_1 = 1
+				popup = no
+			}			
+			set_technology = {
+				armor_tech_2 = 1
+				popup = no
+			}			
+			set_technology = {
+				armor_tech_3 = 1
+				popup = no
+			}			
+			set_technology = {
+				armor_tech_4 = 1
+				popup = no
+			}			
+			set_technology = {
+				engine_tech_1 = 1
+				popup = no
+			}			
+			set_technology = {
+				engine_tech_2 = 1
+				popup = no
+			}			
+			set_technology = {
+				engine_tech_3 = 1
+				popup = no
+			}			
+			set_technology = {
+				engine_tech_4 = 1
+				popup = no
+			}
+			set_technology = {
+				gw_artillery = 1
+				popup = no
+			}
+			set_technology = {
+				interwar_artillery = 1
+				popup = no
+			}
+			set_technology = {
+				artillery1 = 1
+				popup = no
+			}
+			set_technology = {
+				artillery2 = 1
+				popup = no
+			}
+			set_technology = {
+				artillery3 = 1
+				popup = no
+			}
+			set_technology = {
+				artillery4 = 1
+				popup = no
+			}
+			set_technology = {
+				artillery5 = 1
+				popup = no
+			}
+			set_technology = {
+				mountain_gun = 1
+				popup = no
+			}
+			set_technology = {
+				rocket_artillery = 1
+				popup = no
+			}
+			set_technology = {
+				rocket_artillery2 = 1
+				popup = no
+			}
+			set_technology = {
+				rocket_artillery3 = 1
+				popup = no
+			}
+			set_technology = {
+				rocket_artillery4 = 1
+				popup = no
+			}
+			set_technology = {
+				interwar_antiair = 1
+				popup = no
+			}
+			set_technology = {
+				antiair1 = 1
+				popup = no
+			}
+			set_technology = {
+				antiair2 = 1
+				popup = no
+			}
+			set_technology = {
+				antiair3 = 1
+				popup = no
+			}
+			set_technology = {
+				antiair4 = 1
+				popup = no
+			}
+			set_technology = {
+				antiair5 = 1
+				popup = no
+			}
+			set_technology = {
+				interwar_antitank = 1
+				popup = no
+			}
+			set_technology = {
+				antitank1 = 1
+				popup = no
+			}
+			set_technology = {
+				antitank2 = 1
+				popup = no
+			}
+			set_technology = {
+				antitank3 = 1
+				popup = no
+			}
+			set_technology = {
+				antitank4 = 1
+				popup = no
+			}
+			set_technology = {
+				antitank5 = 1
+				popup = no
+			}
+			set_technology = {
+				tech_engineers = 1
+				popup = no
+			}
+			set_technology = {
+				tech_engineers2 = 1
+				popup = no
+			}
+
+			if = {
+				limit = {
+					tag = ITA
+				}
+				complete_national_focus = ITA_italian_tankettes
+				complete_national_focus = ITA_self_propelled_guns
+				complete_national_focus = ITA_end_fiat_ansaldo_duopoly
+				complete_national_focus = ITA_ferrea_mole_ferreo_cuore
+			}
+			else_if = {
+				limit = {
+					tag = SOV
+				}
+				complete_national_focus = SOV_superior_war_machines
+				complete_national_focus = SOV_soviet_artillery
+				complete_national_focus = SOV_they_will_know_fear
+			}
+		}
+	}
+
+	add_efficiency_growth_debug = {
+		icon = generic_research
+
+		available = {
+			is_ai = no
+			is_debug = yes
+		}
+
+		visible = {
+			is_ai = no
+			is_debug = yes
+			has_global_flag = show_debug_decisions_flag
+		}
+
+		fire_only_once = no
+		cost = 0
+
+		complete_effect = {
+			add_ideas = add_production_efficiency
+		}
+	}
+		
+	remove_efficiency_growth_debug = {
+		icon = generic_research
+
+		available = {
+			is_ai = no
+			is_debug = yes
+		}
+
+		visible = {
+			is_ai = no
+			is_debug = yes
+			has_global_flag = show_debug_decisions_flag
+		}
+
+		fire_only_once = no
+		cost = 0
+
+		complete_effect = {
+			if = {
+				limit = {
+					has_idea = add_production_efficiency
+				}
+				remove_ideas = add_production_efficiency
+			}
+			if = {
+				limit = {
+					has_idea = decrease_production_efficiency
+				}
+				remove_ideas = decrease_production_efficiency
+			}	
+		}
+	}
+		
+	decrease_efficiency_growth_debug = {
+		icon = generic_research
+
+		available = {
+			is_ai = no
+			is_debug = yes
+		}
+
+		visible = {
+			is_ai = no
+			is_debug = yes
+			has_global_flag = show_debug_decisions_flag
+		}
+
+		fire_only_once = no
+		cost = 0
+
+		complete_effect = {
+			add_ideas = decrease_production_efficiency
+		}
+
+		ai_will_do = {
+			base = 0
+		}
+	}
+	
+	history_entry_debug = {
+
+		icon = generic_research
+
+		available = {
+			is_ai = no
+		}
+
+		visible = {
+			is_ai = no
+			is_debug = yes
+			has_global_flag = show_debug_decisions_flag
+		}
+
+		fire_only_once = no
+		cost = 0
+
+		complete_effect = {
+			random_country_division = {
+
+				add_history_entry = {
+					key = custom_localized_key
+					subject = "Custom String (not localized)"
+					allow = yes
+				}
+			}
+			
+		}
+
+		ai_will_do = {
+			base = 0
+		}
+	}
+
+
+	create_operative_debug = {
+
+		icon = generic_research
+
+		available = {
+			is_ai = no
+		}
+
+		visible = {
+			is_ai = no
+			is_debug = yes
+			has_global_flag = show_debug_decisions_flag
+		}
+
+		fire_only_once = no
+		cost = 0
+
+		complete_effect = {
+			create_operative_leader = {
+				bypass_recruitment = yes
+			}
+		}
+
+		ai_will_do = {
+			base = 0
+		}
+		
+		power_balance = _test_balance
+	}
+
+
+	create_recruitable_operative_not_to_spy_master_debug = {
+		icon = generic_research
+
+		available = {
+			is_ai = no
+		}
+
+		visible = {
+			is_ai = no
+			is_debug = yes
+			has_global_flag = show_debug_decisions_flag
+		}
+
+		fire_only_once = no
+		cost = 0
+
+		complete_effect = {
+			create_operative_leader = {
+				bypass_recruitment = no
+				available_to_spy_master = no
+			}
+		}
+
+		ai_will_do = {
+			base = 0
+		}
+	}
+
+	create_recruitable_operative_debug = {
+		icon = generic_research
+
+		available = {
+			is_ai = no
+		}
+
+		visible = {
+			is_ai = no
+			is_debug = yes
+			has_global_flag = show_debug_decisions_flag
+		}
+
+		fire_only_once = no
+		cost = 0
+
+		complete_effect = {
+			create_operative_leader = {
+				bypass_recruitment = no
+			}
+		}
+
+		ai_will_do = {
+			base = 0
+		}
+	}
+
+
+	FRA_capture_operative_debug = {
+		available = {
+			NOT = { TAG = FRA }
+			num_of_operatives > 0
+		}
+
+		visible = {
+			is_ai = no
+			is_debug = yes
+			has_global_flag = show_debug_decisions_flag
+		}
+
+		fire_only_once = no
+		cost = 0
+
+		complete_effect = {
+			random_operative = {
+				limit = {
+					is_operative_captured = no
+				}
+				capture_operative = {
+					captured_by = FRA
+				}
+			}
+		}
+
+		ai_will_do = {
+			base = 0
+		}
+
+	}
+
+	FRA_turn_operative_debug = {
+		available = {
+			NOT = { TAG = FRA }
+			num_of_operatives > 0
+		}
+
+		visible = {
+			is_ai = no
+			is_debug = yes
+			has_global_flag = show_debug_decisions_flag
+		}
+
+		fire_only_once = no
+		cost = 0
+
+		complete_effect = {
+			random_operative = {
+				limit = {
+					is_operative_captured = no
+				}
+				set_nationality = FRA
+				operative_leader_event = {
+					id = lar_operative_event.5
+					set_from_from = GER #tells the event which nationality to add
+				}
+			}
+		}
+
+		ai_will_do = {
+			base = 0
+		}
+
+	}
+
+	harm_operative_debug = {
+		available = {
+			#num_of_operatives > 0
+		}
+
+		visible = {
+			is_ai = no
+			is_debug = yes
+			has_global_flag = show_debug_decisions_flag
+		}
+
+		fire_only_once = no
+		cost = 0
+
+		complete_effect = {
+			if = {
+				limit = {
+					has_game_rule = {
+						rule = SWE_ai_behavior
+						option = SWE_DEMOCRATIC_DEM_ALT
+					}
+				}
+
+				add_political_power = 1000
+			}
+		}
+
+		ai_will_do = {
+			base = 0
+		}
+
+	}
+
+	add_random_nationality = {
+		available = {
+			num_of_operatives > 0
+		}
+
+		visible = {
+			is_ai = no
+			is_debug = yes
+			has_global_flag = show_debug_decisions_flag
+		}
+
+		fire_only_once = no
+		cost = 0
+
+		complete_effect = {
+			random_country = {
+				limit = {
+					NOT = { tag = FROM }
+				}
+				FROM = {
+					random_operative = {
+						add_nationality = PREV.PREV
+					}
+				}
+			}
+		}
+
+		ai_will_do = {
+			base = 0
+		}
+
+	}
+
+	slot_machine = { # we pegi 18 now
+		available = {
+			is_ai = no
+		}
+
+		visible = {
+			is_ai = no
+			is_debug = yes
+			has_global_flag = show_debug_decisions_flag
+		}
+
+		days_remove = 777
+
+		modifier = {
+			operative_slot = 99
+		}
+	}
+
+	decryption_tech_1 = {
+		available = {
+			is_ai = no
+		}
+
+		visible = {
+			is_ai = no
+			is_debug = yes
+			has_global_flag = show_debug_decisions_flag
+		}
+		days_remove = 100
+		modifier = {
+			decryption = 1
+		}
+	}
+
+	decryption_tech_2 = {
+		available = {
+			is_ai = no
+		}
+
+		visible = {
+			is_ai = no
+			is_debug = yes
+			has_global_flag = show_debug_decisions_flag
+		}
+		days_remove = 100
+		modifier = {
+			decryption = 1
+		}
+	}
+
+	decryption_tech_3 = {
+		available = {
+			is_ai = no
+		}
+
+		visible = {
+			is_ai = no
+			is_debug = yes
+			has_global_flag = show_debug_decisions_flag
+		}
+		days_remove = 100
+		modifier = {
+			decryption = 1
+		}
+	}
+
+	encryption_tech_1 = {
+		available = {
+			is_ai = no
+		}
+
+		visible = {
+			is_ai = no
+			is_debug = yes
+			has_global_flag = show_debug_decisions_flag
+		}
+		days_remove = 100
+		modifier = {
+			encryption = 1
+		}
+	}
+
+	encryption_tech_2 = {
+		available = {
+			is_ai = no
+		}
+
+		visible = {
+			is_ai = no
+			is_debug = yes
+			has_global_flag = show_debug_decisions_flag
+		}
+		days_remove = 100
+		modifier = {
+			encryption = 1
+		}
+	}
+
+	encryption_tech_3 = {
+		available = {
+			is_ai = no
+		}
+
+		visible = {
+			is_ai = no
+			is_debug = yes
+			has_global_flag = show_debug_decisions_flag
+		}
+		days_remove = 100
+		modifier = {
+			encryption = 1
+		}
+	}
+
+	plane_generator_test = {
+		available = {
+			is_ai = no
+		}
+
+		visible = {
+			is_ai = no
+			is_debug = yes
+			has_global_flag = show_debug_decisions_flag
+		}
+		complete_effect = {
+			set_variable = { fighter_buy_amount = 200 }
+			save_event_target_as = license_target
+			bba_get_fighter_GER_effect = yes
+			GER = {
+				bba_create_fighter_license_effect = yes
+			}
+		}
+		
+	}
+
+	debug_clr_dreadnought_flags = {
+		cost = 0
+		icon = GFX_decision_generic_naval
+		fire_only_once = no
+		visible = {
+			has_country_flag = generic_purchase_dreadnoughts_flag
+		}
+		available = {
+			NOT = {
+				USA = {
+					OR = {
+						has_civil_war = yes
+						has_capitulated = yes
+						has_opinion = {
+							target = FROM
+							value < 50
+						}
+					}					
+				}
+			}
+			
+		}
+		days_remove = 1
+		remove_effect = {
+			every_other_country = {
+				clr_country_flag = negotiating_dreadnought_purchase_flag@ROOT  
+				clr_country_flag = sold_dreadnoughts_to_us@ROOT
+			}
+		}
+	}
+	
+}

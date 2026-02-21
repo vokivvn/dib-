@@ -1,0 +1,31 @@
+state={
+	id=1319
+	name="STATE_1319"
+
+	history={
+		owner = GRG
+		add_core_of = GRG
+		buildings = {
+			infrastructure = 6
+			telecom_infrastructure = 5
+			industrial_complex = 3
+			arms_factory = 2
+			office_building = 2
+		}
+		victory_points = {
+			15017 30 
+		}
+		victory_points = {
+			15015 15 
+		}
+
+	}
+
+	provinces={
+		15015 15016 15017 15018 15019 
+	}
+	manpower=1181176
+	buildings_max_level_factor=1.000
+	state_category=metropolis
+	local_supplies=0.000
+}

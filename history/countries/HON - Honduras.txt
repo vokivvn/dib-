@@ -1,0 +1,33 @@
+﻿capital = 1205
+
+#oob = "HON_1936"
+
+# Starting tech
+set_technology = {
+	infantry_weapons = 1
+}
+
+set_war_support = 0.1
+set_convoys = 10
+
+set_variable = { HON.CULTURE = 35 }
+set_variable = { HON.RELIGION = 35 }
+
+set_politics = {
+	ruling_party = radical_democracy
+	last_election = "1932.10.28"
+	election_frequency = 48
+	elections_allowed = no
+}
+set_popularities = {
+	radical_democracy = 100
+}
+create_country_leader = {
+	name = "Moses Kalon"
+	desc = ""
+	picture = "gfx/leaders/HON/Moshe_Kahlon.png"
+	expire = "2000.1.1"
+	ideology = forwardism
+	traits = {
+	}
+}

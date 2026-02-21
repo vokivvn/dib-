@@ -1,0 +1,1165 @@
+scripted_map_modes = {
+	religion_map_mode = {
+		top = { type = none }
+		bottom = {
+			type = state
+			color = {
+				set_temp_variable = { alpha = 0.8 }
+				if = {
+					limit = {
+						FROM = {
+							check_variable = { faith = 1 } #Santeria
+						}
+					}
+					set_temp_variable = { red = 0.50 }
+		            set_temp_variable = { green = 0.26 }
+		            set_temp_variable = { blue = 0.06 }
+		            set_temp_variable = { alpha = 0.75 }
+				}
+				else_if = {
+					limit = {
+						FROM = {
+							check_variable = { faith = 2 } #Voodoo
+						}
+					}
+					set_temp_variable = { red = 0.50 }
+		            set_temp_variable = { green = 0.26 }
+		            set_temp_variable = { blue = 0.06 }
+		            set_temp_variable = { alpha = 0.75 }
+				}
+				else_if = {
+					limit = {
+						FROM = {
+							check_variable = { faith = 3 } #Mahayana
+						}
+					}
+					set_temp_variable = { red = 0.71 }
+		            set_temp_variable = { green = 0.11 }
+		            set_temp_variable = { blue = 0.28 }
+		            set_temp_variable = { alpha = 0.75 }
+				}
+				else_if = {
+					limit = {
+						FROM = {
+							check_variable = { faith = 4 } #Shingon
+						}
+					}
+					set_temp_variable = { red = 0.71 }
+		            set_temp_variable = { green = 0.11 }
+		            set_temp_variable = { blue = 0.28 }
+		            set_temp_variable = { alpha = 0.75 }
+				}
+				else_if = {
+					limit = {
+						FROM = {
+							check_variable = { faith = 5 } #Soka Gakkai
+						}
+					}
+					set_temp_variable = { red = 0.71 }
+		            set_temp_variable = { green = 0.11 }
+		            set_temp_variable = { blue = 0.28 }
+		            set_temp_variable = { alpha = 0.75 }
+				}
+				else_if = {
+					limit = {
+						FROM = {
+							check_variable = { faith = 6 } #Tendai
+						}
+					}
+					set_temp_variable = { red = 0.71 }
+		            set_temp_variable = { green = 0.11 }
+		            set_temp_variable = { blue = 0.28 }
+		            set_temp_variable = { alpha = 0.75 }
+				}
+				else_if = {
+					limit = {
+						FROM = {
+							check_variable = { faith = 7 } #Theravada
+						}
+					}
+					set_temp_variable = { red = 0.71 }
+		            set_temp_variable = { green = 0.11 }
+		            set_temp_variable = { blue = 0.28 }
+		            set_temp_variable = { alpha = 0.75 }
+				}
+				else_if = {
+					limit = {
+						FROM = {
+							check_variable = { faith = 8 } #Vajrayana
+						}
+					}
+					set_temp_variable = { red = 0.71 }
+		            set_temp_variable = { green = 0.11 }
+		            set_temp_variable = { blue = 0.28 }
+		            set_temp_variable = { alpha = 0.75 }
+				}
+				else_if = {
+					limit = {
+						FROM = {
+							check_variable = { faith = 9 } #Western Buddhist
+						}
+					}
+					set_temp_variable = { red = 0.71 }
+		            set_temp_variable = { green = 0.11 }
+		            set_temp_variable = { blue = 0.28 }
+		            set_temp_variable = { alpha = 0.75 }
+				}
+				else_if = {
+					limit = {
+						FROM = {
+							check_variable = { faith = 10 } #Folk Catholic
+						}
+					}
+					set_temp_variable = { red = 0.91 }
+		            set_temp_variable = { green = 0.77 }
+		            set_temp_variable = { blue = 0.14 }
+		            set_temp_variable = { alpha = 0.75 }
+				}
+				else_if = {
+					limit = {
+						FROM = {
+							check_variable = { faith = 11 } #Kirishtan
+						}
+					}
+					set_temp_variable = { red = 0.91 }
+		            set_temp_variable = { green = 0.77 }
+		            set_temp_variable = { blue = 0.14 }
+		            set_temp_variable = { alpha = 0.75 }
+				}
+				else_if = {
+					limit = {
+						FROM = {
+							check_variable = { faith = 12 } #Roman Catholic
+						}
+					}
+					set_temp_variable = { red = 0.91 }
+		            set_temp_variable = { green = 0.77 }
+		            set_temp_variable = { blue = 0.14 }
+		            set_temp_variable = { alpha = 0.75 }
+				}
+				else_if = {
+					limit = {
+						FROM = {
+							check_variable = { faith = 13 } #Sedevacantist
+						}
+					}
+					set_temp_variable = { red = 0.91 }
+		            set_temp_variable = { green = 0.77 }
+		            set_temp_variable = { blue = 0.14 }
+		            set_temp_variable = { alpha = 0.75 }
+				}
+				else_if = {
+					limit = {
+						FROM = {
+							check_variable = { faith = 14 } #Roerichist
+						}
+					}
+					set_temp_variable = { red = 0.45 }
+		            set_temp_variable = { green = 0.11 }
+		            set_temp_variable = { blue = 0.68 }
+		            set_temp_variable = { alpha = 0.75 }
+				}
+				else_if = {
+					limit = {
+						FROM = {
+							check_variable = { faith = 15 } #Russian Cosmist
+						}
+					}
+					set_temp_variable = { red = 0.45 }
+		            set_temp_variable = { green = 0.11 }
+		            set_temp_variable = { blue = 0.68 }
+		            set_temp_variable = { alpha = 0.75 }
+				}
+				else_if = {
+					limit = {
+						FROM = {
+							check_variable = { faith = 16 } #christopagan
+						}
+					}
+					set_temp_variable = { red = 0.13 }
+		            set_temp_variable = { green = 0.2 }
+		            set_temp_variable = { blue = 0.15 }
+		            set_temp_variable = { alpha = 0.75 }
+				}
+				else_if = {
+					limit = {
+						FROM = {
+							check_variable = { faith = 17 } #Druze
+						}
+					}
+					set_temp_variable = { red = 0.13 }
+		            set_temp_variable = { green = 0.2 }
+		            set_temp_variable = { blue = 0.15 }
+		            set_temp_variable = { alpha = 0.75 }
+				}
+				else_if = {
+					limit = {
+						FROM = {
+							check_variable = { faith = 18 } #Manichaean
+						}
+					}
+					set_temp_variable = { red = 0.13 }
+		            set_temp_variable = { green = 0.2 }
+		            set_temp_variable = { blue = 0.15 }
+		            set_temp_variable = { alpha = 0.75 }
+				}
+				else_if = {
+					limit = {
+						FROM = {
+							check_variable = { faith = 19 } #Neo-Gnostic
+						}
+					}
+					set_temp_variable = { red = 0.13 }
+		            set_temp_variable = { green = 0.2 }
+		            set_temp_variable = { blue = 0.15 }
+		            set_temp_variable = { alpha = 0.75 }
+				}
+				else_if = {
+					limit = {
+						FROM = {
+							check_variable = { faith = 20 } #Free Zone
+						}
+					}
+					set_temp_variable = { red = 0.10 }
+		            set_temp_variable = { green = 0.93 }
+		            set_temp_variable = { blue = 0.99 }
+		            set_temp_variable = { alpha = 0.75 }
+				}
+				else_if = {
+					limit = {
+						FROM = {
+							check_variable = { faith = 21 } #Scientologist
+						}
+					}
+					set_temp_variable = { red = 0.10 }
+		            set_temp_variable = { green = 0.93 }
+		            set_temp_variable = { blue = 0.99 }
+		            set_temp_variable = { alpha = 0.75 }
+				}
+				else_if = {
+					limit = {
+						FROM = {
+							check_variable = { faith = 22 } #Athiest
+						}
+					}
+					set_temp_variable = { red = 0.90 }
+		            set_temp_variable = { green = 0.90 }
+		            set_temp_variable = { blue = 0.90 }
+		            set_temp_variable = { alpha = 0.75 }
+				}
+				else_if = {
+					limit = {
+						FROM = {
+							check_variable = { faith = 23 } #Masonic
+						}
+					}
+					set_temp_variable = { red = 0.90 }
+		            set_temp_variable = { green = 0.90 }
+		            set_temp_variable = { blue = 0.90 }
+		            set_temp_variable = { alpha = 0.75 }
+				}
+				else_if = {
+					limit = {
+						FROM = {
+							check_variable = { faith = 24 } #Rationalist
+						}
+					}
+					set_temp_variable = { red = 0.90 }
+		            set_temp_variable = { green = 0.90 }
+		            set_temp_variable = { blue = 0.90 }
+		            set_temp_variable = { alpha = 0.75 }
+				}
+				else_if = {
+					limit = {
+						FROM = {
+							check_variable = { faith = 25 } #Secular
+						}
+					}
+					set_temp_variable = { red = 0.90 }
+		            set_temp_variable = { green = 0.90 }
+		            set_temp_variable = { blue = 0.90 }
+		            set_temp_variable = { alpha = 0.75 }
+				}
+				else_if = {
+					limit = {
+						FROM = {
+							check_variable = { faith = 26 } #Chabad
+						}
+					}
+					set_temp_variable = { red = 0.10 }
+		            set_temp_variable = { green = 0.50 }
+		            set_temp_variable = { blue = 0.68 }
+		            set_temp_variable = { alpha = 0.75 }
+				}
+				else_if = {
+					limit = {
+						FROM = {
+							check_variable = { faith = 27 } #Kuzarite
+						}
+					}
+					set_temp_variable = { red = 0.10 }
+		            set_temp_variable = { green = 0.50 }
+		            set_temp_variable = { blue = 0.68 }
+		            set_temp_variable = { alpha = 0.75 }
+				}
+				else_if = {
+					limit = {
+						FROM = {
+							check_variable = { faith = 28 } #Messianic Jewish
+						}
+					}
+					set_temp_variable = { red = 0.10 }
+		            set_temp_variable = { green = 0.50 }
+		            set_temp_variable = { blue = 0.68 }
+		            set_temp_variable = { alpha = 0.75 }
+				}
+				else_if = {
+					limit = {
+						FROM = {
+							check_variable = { faith = 29 } #Rabbinic
+						}
+					}
+					set_temp_variable = { red = 0.10 }
+		            set_temp_variable = { green = 0.50 }
+		            set_temp_variable = { blue = 0.68 }
+		            set_temp_variable = { alpha = 0.75 }
+				}
+				else_if = {
+					limit = {
+						FROM = {
+							check_variable = { faith = 30 } #Brighamite
+						}
+					}
+					set_temp_variable = { red = 0.61 }
+		            set_temp_variable = { green = 0.93 }
+		            set_temp_variable = { blue = 0.99 }
+		            set_temp_variable = { alpha = 0.75 }
+				}
+				else_if = {
+					limit = {
+						FROM = {
+							check_variable = { faith = 31 } #Kanabite
+						}
+					}
+					set_temp_variable = { red = 0.61 }
+		            set_temp_variable = { green = 0.93 }
+		            set_temp_variable = { blue = 0.99 }
+		            set_temp_variable = { alpha = 0.75 }
+				}
+				else_if = {
+					limit = {
+						FROM = {
+							check_variable = { faith = 32 } #Smithian
+						}
+					}
+					set_temp_variable = { red = 0.61 }
+		            set_temp_variable = { green = 0.93 }
+		            set_temp_variable = { blue = 0.99 }
+		            set_temp_variable = { alpha = 0.75 }
+				}
+				else_if = {
+					limit = {
+						FROM = {
+							check_variable = { faith = 33 } #Shia
+						}
+					}
+					set_temp_variable = { red = 0.05 }
+		            set_temp_variable = { green = 0.99 }
+		            set_temp_variable = { blue = 0.12 }
+		            set_temp_variable = { alpha = 0.75 }
+				}
+				else_if = {
+					limit = {
+						FROM = {
+							check_variable = { faith = 34 } #Sufi
+						}
+					}
+					set_temp_variable = { red = 0.05 }
+		            set_temp_variable = { green = 0.99 }
+		            set_temp_variable = { blue = 0.12 }
+		            set_temp_variable = { alpha = 0.75 }
+				}
+				else_if = {
+					limit = {
+						FROM = {
+							check_variable = { faith = 35 } #Sunni
+						}
+					}
+					set_temp_variable = { red = 0.05 }
+		            set_temp_variable = { green = 0.99 }
+		            set_temp_variable = { blue = 0.12 }
+		            set_temp_variable = { alpha = 0.75 }
+				}
+				else_if = {
+					limit = {
+						FROM = {
+							check_variable = { faith = 36 } #Gaian
+						}
+					}
+					set_temp_variable = { red = 0.96 }
+		            set_temp_variable = { green = 0.05 }
+		            set_temp_variable = { blue = 0.99 }
+		            set_temp_variable = { alpha = 0.75 }
+				}
+				else_if = {
+					limit = {
+						FROM = {
+							check_variable = { faith = 37 } #Happy Science
+						}
+					}
+					set_temp_variable = { red = 0.96 }
+		            set_temp_variable = { green = 0.05 }
+		            set_temp_variable = { blue = 0.99 }
+		            set_temp_variable = { alpha = 0.75 }
+				}
+				else_if = {
+					limit = {
+						FROM = {
+							check_variable = { faith = 38 } #Mansonite
+						}
+					}
+					set_temp_variable = { red = 0.96 }
+		            set_temp_variable = { green = 0.05 }
+		            set_temp_variable = { blue = 0.99 }
+		            set_temp_variable = { alpha = 0.75 }
+				}
+				else_if = {
+					limit = {
+						FROM = {
+							check_variable = { faith = 39 } #Psychic
+						}
+					}
+					set_temp_variable = { red = 0.96 }
+		            set_temp_variable = { green = 0.05 }
+		            set_temp_variable = { blue = 0.99 }
+		            set_temp_variable = { alpha = 0.75 }
+				}
+				else_if = {
+					limit = {
+						FROM = {
+							check_variable = { faith = 40 } #Psychoshamanist
+						}
+					}
+					set_temp_variable = { red = 0.96 }
+		            set_temp_variable = { green = 0.05 }
+		            set_temp_variable = { blue = 0.99 }
+		            set_temp_variable = { alpha = 0.75 }
+				}
+				else_if = {
+					limit = {
+						FROM = {
+							check_variable = { faith = 41 } #Rajneeshi
+						}
+					}
+					set_temp_variable = { red = 0.96 }
+		            set_temp_variable = { green = 0.05 }
+		            set_temp_variable = { blue = 0.99 }
+		            set_temp_variable = { alpha = 0.75 }
+				}
+				else_if = {
+					limit = {
+						FROM = {
+							check_variable = { faith = 42 } #Zetanologist
+						}
+					}
+					set_temp_variable = { red = 0.96 }
+		            set_temp_variable = { green = 0.05 }
+		            set_temp_variable = { blue = 0.99 }
+		            set_temp_variable = { alpha = 0.75 }
+				}
+				else_if = {
+					limit = {
+						FROM = {
+							check_variable = { faith = 43 } #Fifth Monarchist
+						}
+					}
+					set_temp_variable = { red = 0.71 }
+		            set_temp_variable = { green = 0.42 }
+		            set_temp_variable = { blue = 0.42 }
+		            set_temp_variable = { alpha = 0.75 }
+				}
+				else_if = {
+					limit = {
+						FROM = {
+							check_variable = { faith = 44 } #Gottschalkite
+						}
+					}
+					set_temp_variable = { red = 0.71 }
+		            set_temp_variable = { green = 0.42 }
+		            set_temp_variable = { blue = 0.42 }
+		            set_temp_variable = { alpha = 0.75 }
+				}
+				else_if = {
+					limit = {
+						FROM = {
+							check_variable = { faith = 45 } #Mennonite
+						}
+					}
+					set_temp_variable = { red = 0.71 }
+		            set_temp_variable = { green = 0.42 }
+		            set_temp_variable = { blue = 0.42 }
+		            set_temp_variable = { alpha = 0.75 }
+				}
+				else_if = {
+					limit = {
+						FROM = {
+							check_variable = { faith = 46 } #Moravian
+						}
+					}
+					set_temp_variable = { red = 0.71 }
+		            set_temp_variable = { green = 0.42 }
+		            set_temp_variable = { blue = 0.42 }
+		            set_temp_variable = { alpha = 0.75 }
+				}
+				else_if = {
+					limit = {
+						FROM = {
+							check_variable = { faith = 47 } #Puritan
+						}
+					}
+					set_temp_variable = { red = 0.71 }
+		            set_temp_variable = { green = 0.42 }
+		            set_temp_variable = { blue = 0.42 }
+		            set_temp_variable = { alpha = 0.75 }
+				}
+				else_if = {
+					limit = {
+						FROM = {
+							check_variable = { faith = 48 } #Seventh Day Adventist
+						}
+					}
+					set_temp_variable = { red = 0.71 }
+		            set_temp_variable = { green = 0.42 }
+		            set_temp_variable = { blue = 0.42 }
+		            set_temp_variable = { alpha = 0.75 }
+				}
+				else_if = {
+					limit = {
+						FROM = {
+							check_variable = { faith = 49 } #Waldensian
+						}
+					}
+					set_temp_variable = { red = 0.71 }
+		            set_temp_variable = { green = 0.42 }
+		            set_temp_variable = { blue = 0.42 }
+		            set_temp_variable = { alpha = 0.75 }
+				}
+				else_if = {
+					limit = {
+						FROM = {
+							check_variable = { faith = 50 } #Confucian
+						}
+					}
+					set_temp_variable = { red = 0.71 }
+		            set_temp_variable = { green = 0.56 }
+		            set_temp_variable = { blue = 0.19 }
+		            set_temp_variable = { alpha = 0.75 }
+				}
+				else_if = {
+					limit = {
+						FROM = {
+							check_variable = { faith = 51 } #Shenist
+						}
+					}
+					set_temp_variable = { red = 0.71 }
+		            set_temp_variable = { green = 0.56 }
+		            set_temp_variable = { blue = 0.19 }
+		            set_temp_variable = { alpha = 0.75 }
+				}
+				else_if = {
+					limit = {
+						FROM = {
+							check_variable = { faith = 52 } #Shinto
+						}
+					}
+					set_temp_variable = { red = 0.71 }
+		            set_temp_variable = { green = 0.56 }
+		            set_temp_variable = { blue = 0.19 }
+		            set_temp_variable = { alpha = 0.75 }
+				}
+				else_if = {
+					limit = {
+						FROM = {
+							check_variable = { faith = 53 } #Taoist
+						}
+					}
+					set_temp_variable = { red = 0.71 }
+		            set_temp_variable = { green = 0.56 }
+		            set_temp_variable = { blue = 0.19 }
+		            set_temp_variable = { alpha = 0.75 }
+				}
+				else_if = {
+					limit = {
+						FROM = {
+							check_variable = { faith = 54 } #Coptic
+						}
+					}
+					set_temp_variable = { red = 0.51 }
+		            set_temp_variable = { green = 0.40 }
+		            set_temp_variable = { blue = 0.14 }
+		            set_temp_variable = { alpha = 0.75 }
+				}
+				else_if = {
+					limit = {
+						FROM = {
+							check_variable = { faith = 55 } #Eastern Orthodox
+						}
+					}
+					set_temp_variable = { red = 1.51 }
+		            set_temp_variable = { green = 0.60 }
+		            set_temp_variable = { blue = 0.14 }
+		            set_temp_variable = { alpha = 0.75 }
+				}
+				else_if = {
+					limit = {
+						FROM = {
+							check_variable = { faith = 56 } #Nestorian
+						}
+					}
+					set_temp_variable = { red = 1.51 }
+		            set_temp_variable = { green = 0.60 }
+		            set_temp_variable = { blue = 0.14 }
+		            set_temp_variable = { alpha = 0.75 }
+				}
+				else_if = {
+					limit = {
+						FROM = {
+							check_variable = { faith = 57 } #Druidic
+						}
+					}
+					set_temp_variable = { red = 0.29 }
+		            set_temp_variable = { green = 0.40 }
+		            set_temp_variable = { blue = 0.04 }
+		            set_temp_variable = { alpha = 0.75 }
+				}
+				else_if = {
+					limit = {
+						FROM = {
+							check_variable = { faith = 58 } #Fetishist
+						}
+					}
+					set_temp_variable = { red = 0.29 }
+		            set_temp_variable = { green = 0.40 }
+		            set_temp_variable = { blue = 0.04 }
+		            set_temp_variable = { alpha = 0.75 }
+				}
+				else_if = {
+					limit = {
+						FROM = {
+							check_variable = { faith = 59 } #Fyrnsidu
+						}
+					}
+					set_temp_variable = { red = 0.29 }
+		            set_temp_variable = { green = 0.40 }
+		            set_temp_variable = { blue = 0.04 }
+		            set_temp_variable = { alpha = 0.75 }
+				}
+				else_if = {
+					limit = {
+						FROM = {
+							check_variable = { faith = 60 } #Kapu
+						}
+					}
+					set_temp_variable = { red = 0.29 }
+		            set_temp_variable = { green = 0.40 }
+		            set_temp_variable = { blue = 0.04 }
+		            set_temp_variable = { alpha = 0.75 }
+				}
+				else_if = {
+					limit = {
+						FROM = {
+							check_variable = { faith = 61 } #Tengri
+						}
+					}
+					set_temp_variable = { red = 0.29 }
+		            set_temp_variable = { green = 0.40 }
+		            set_temp_variable = { blue = 0.04 }
+		            set_temp_variable = { alpha = 0.75 }
+				}
+				else_if = {
+					limit = {
+						FROM = {
+							check_variable = { faith = 62 } #Totemist
+						}
+					}
+					set_temp_variable = { red = 0.29 }
+		            set_temp_variable = { green = 0.40 }
+		            set_temp_variable = { blue = 0.04 }
+		            set_temp_variable = { alpha = 0.75 }
+				}
+				else_if = {
+					limit = {
+						FROM = {
+							check_variable = { faith = 63 } #Tungusic
+						}
+					}
+					set_temp_variable = { red = 0.29 }
+		            set_temp_variable = { green = 0.40 }
+		            set_temp_variable = { blue = 0.04 }
+		            set_temp_variable = { alpha = 0.75 }
+				}
+				else_if = {
+					limit = {
+						FROM = {
+							check_variable = { faith = 64 } #Promethean
+						}
+					}
+					set_temp_variable = { red = 0.79 }
+		            set_temp_variable = { green = 0.15 }
+		            set_temp_variable = { blue = 0.65 }
+		            set_temp_variable = { alpha = 0.75 }
+				}
+				else_if = {
+					limit = {
+						FROM = {
+							check_variable = { faith = 65 } #Surreal
+						}
+					}
+					set_temp_variable = { red = 0.79 }
+		            set_temp_variable = { green = 0.15 }
+		            set_temp_variable = { blue = 0.65 }
+		            set_temp_variable = { alpha = 0.75 }
+				}
+				else_if = {
+					limit = {
+						FROM = {
+							check_variable = { faith = 66 } #Anglican
+						}
+					}
+					set_temp_variable = { red = 0.20 }
+		            set_temp_variable = { green = 0.23 }
+		            set_temp_variable = { blue = 0.99 }
+		            set_temp_variable = { alpha = 0.75 }
+				}
+				else_if = {
+					limit = {
+						FROM = {
+							check_variable = { faith = 67 } #Episcopalian
+						}
+					}
+					set_temp_variable = { red = 0.20 }
+		            set_temp_variable = { green = 0.23 }
+		            set_temp_variable = { blue = 0.99 }
+		            set_temp_variable = { alpha = 0.75 }
+				}
+				else_if = {
+					limit = {
+						FROM = {
+							check_variable = { faith = 68 } #Holiness
+						}
+					}
+					set_temp_variable = { red = 0.20 }
+		            set_temp_variable = { green = 0.23 }
+		            set_temp_variable = { blue = 0.99 }
+		            set_temp_variable = { alpha = 0.75 }
+				}
+				else_if = {
+					limit = {
+						FROM = {
+							check_variable = { faith = 69 } #Independent Baptist
+						}
+					}
+					set_temp_variable = { red = 0.20 }
+		            set_temp_variable = { green = 0.23 }
+		            set_temp_variable = { blue = 0.99 }
+		            set_temp_variable = { alpha = 0.75 }
+				}
+				else_if = {
+					limit = {
+						FROM = {
+							check_variable = { faith = 70 } #Lutheran
+						}
+					}
+					set_temp_variable = { red = 0.20 }
+		            set_temp_variable = { green = 0.23 }
+		            set_temp_variable = { blue = 0.99 }
+		            set_temp_variable = { alpha = 0.75 }
+				}
+				else_if = {
+					limit = {
+						FROM = {
+							check_variable = { faith = 71 } #Methodist
+						}
+					}
+					set_temp_variable = { red = 0.20 }
+		            set_temp_variable = { green = 0.23 }
+		            set_temp_variable = { blue = 0.99 }
+		            set_temp_variable = { alpha = 0.75 }
+				}
+				else_if = {
+					limit = {
+						FROM = {
+							check_variable = { faith = 72 } #Pentecostal
+						}
+					}
+					set_temp_variable = { red = 0.20 }
+		            set_temp_variable = { green = 0.23 }
+		            set_temp_variable = { blue = 0.99 }
+		            set_temp_variable = { alpha = 0.75 }
+				}
+				else_if = {
+					limit = {
+						FROM = {
+							check_variable = { faith = 73 } #Presbyterian
+						}
+					}
+					set_temp_variable = { red = 0.20 }
+		            set_temp_variable = { green = 0.23 }
+		            set_temp_variable = { blue = 0.99 }
+		            set_temp_variable = { alpha = 0.75 }
+				}
+				else_if = {
+					limit = {
+						FROM = {
+							check_variable = { faith = 74 } #Quaker
+						}
+					}
+					set_temp_variable = { red = 0.20 }
+		            set_temp_variable = { green = 0.23 }
+		            set_temp_variable = { blue = 0.99 }
+		            set_temp_variable = { alpha = 0.75 }
+				}
+				else_if = {
+					limit = {
+						FROM = {
+							check_variable = { faith = 75 } #Reformed
+						}
+					}
+					set_temp_variable = { red = 0.20 }
+		            set_temp_variable = { green = 0.23 }
+		            set_temp_variable = { blue = 0.99 }
+		            set_temp_variable = { alpha = 0.75 }
+				}
+				else_if = {
+					limit = {
+						FROM = {
+							check_variable = { faith = 76 } #Southern Baptist
+						}
+					}
+					set_temp_variable = { red = 0.20 }
+		            set_temp_variable = { green = 0.23 }
+		            set_temp_variable = { blue = 0.99 }
+		            set_temp_variable = { alpha = 0.75 }
+				}
+				else_if = {
+					limit = {
+						FROM = {
+							check_variable = { faith = 77 } #Western Baptist
+						}
+					}
+					set_temp_variable = { red = 0.20 }
+		            set_temp_variable = { green = 0.23 }
+		            set_temp_variable = { blue = 0.99 }
+		            set_temp_variable = { alpha = 0.75 }
+				}
+				else_if = {
+					limit = {
+						FROM = {
+							check_variable = { faith = 78 } #Christian Satanist
+						}
+					}
+					set_temp_variable = { red = 0.35 }
+		            set_temp_variable = { green = 0.05 }
+		            set_temp_variable = { blue = 0.05 }
+		            set_temp_variable = { alpha = 0.75 }
+				}
+				else_if = {
+					limit = {
+						FROM = {
+							check_variable = { faith = 79 } #LaVeyan Satanist
+						}
+					}
+					set_temp_variable = { red = 0.35 }
+		            set_temp_variable = { green = 0.05 }
+		            set_temp_variable = { blue = 0.05 }
+		            set_temp_variable = { alpha = 0.75 }
+				}
+				else_if = {
+					limit = {
+						FROM = {
+							check_variable = { faith = 80 } #Processean
+						}
+					}
+					set_temp_variable = { red = 0.35 }
+		            set_temp_variable = { green = 0.05 }
+		            set_temp_variable = { blue = 0.05 }
+		            set_temp_variable = { alpha = 0.75 }
+				}
+				else_if = {
+					limit = {
+						FROM = {
+							check_variable = { faith = 81 } #Theistic Satanist
+						}
+					}
+					set_temp_variable = { red = 0.35 }
+		            set_temp_variable = { green = 0.05 }
+		            set_temp_variable = { blue = 0.05 }
+		            set_temp_variable = { alpha = 0.75 }
+				}
+				else_if = {
+					limit = {
+						FROM = {
+							check_variable = { faith = 82 } #Bahai
+						}
+					}
+					set_temp_variable = { red = 0.72 }
+		            set_temp_variable = { green = 0.91 }
+		            set_temp_variable = { blue = 0.73 }
+		            set_temp_variable = { alpha = 0.75 }
+				}
+				else_if = {
+					limit = {
+						FROM = {
+							check_variable = { faith = 83 } #Christlamic
+						}
+					}
+					set_temp_variable = { red = 0.72 }
+		            set_temp_variable = { green = 0.91 }
+		            set_temp_variable = { blue = 0.73 }
+		            set_temp_variable = { alpha = 0.75 }
+				}
+				else_if = {
+					limit = {
+						FROM = {
+							check_variable = { faith = 84 } #Din-i Ilahi
+						}
+					}
+					set_temp_variable = { red = 0.72 }
+		            set_temp_variable = { green = 0.91 }
+		            set_temp_variable = { blue = 0.73 }
+		            set_temp_variable = { alpha = 0.75 }
+				}
+				else_if = {
+					limit = {
+						FROM = {
+							check_variable = { faith = 85 } #One Native Church
+						}
+					}
+					set_temp_variable = { red = 0.72 }
+		            set_temp_variable = { green = 0.91 }
+		            set_temp_variable = { blue = 0.73 }
+		            set_temp_variable = { alpha = 0.75 }
+				}
+				else_if = {
+					limit = {
+						FROM = {
+							check_variable = { faith = 86 } #TM
+						}
+					}
+					set_temp_variable = { red = 0.96 }
+		            set_temp_variable = { green = 0.05 }
+		            set_temp_variable = { blue = 0.99 }
+		            set_temp_variable = { alpha = 0.75 }
+				}
+				else_if = {
+					limit = {
+						FROM = {
+							check_variable = { faith = 87 } #Eigenkerk
+						}
+					}
+					set_temp_variable = { red = 0.72 }
+		            set_temp_variable = { green = 0.91 }
+		            set_temp_variable = { blue = 0.73 }
+		            set_temp_variable = { alpha = 0.75 }
+				}
+				else_if = {
+					limit = {
+						FROM = {
+							check_variable = { faith = 88 } #Folk Muslim
+						}
+					}
+					set_temp_variable = { red = 0.05 }
+		            set_temp_variable = { green = 0.99 }
+		            set_temp_variable = { blue = 0.12 }
+		            set_temp_variable = { alpha = 0.75 }
+				}
+				else_if = {
+					limit = {
+						FROM = {
+							check_variable = { faith = 89 } #Sanpon
+						}
+					}
+					set_temp_variable = { red = 0.50 }
+		            set_temp_variable = { green = 0.26 }
+		            set_temp_variable = { blue = 0.06 }
+		            set_temp_variable = { alpha = 0.75 }
+				}
+				else_if = {
+					limit = {
+						FROM = {
+							check_variable = { faith = 90 } #Winti
+						}
+					}
+					set_temp_variable = { red = 0.50 }
+		            set_temp_variable = { green = 0.26 }
+		            set_temp_variable = { blue = 0.06 }
+		            set_temp_variable = { alpha = 0.75 }
+				}
+				else_if = {
+					limit = {
+						FROM = {
+							check_variable = { faith = 91 } #Alleluia Church
+						}
+					}
+					set_temp_variable = { red = 0.72 }
+		            set_temp_variable = { green = 0.91 }
+		            set_temp_variable = { blue = 0.73 }
+		            set_temp_variable = { alpha = 0.75 }
+				}
+				else_if = {
+					limit = {
+						FROM = {
+							check_variable = { faith = 92 } #Kejawen
+						}
+					}
+					set_temp_variable = { red = 0.72 }
+		            set_temp_variable = { green = 0.91 }
+		            set_temp_variable = { blue = 0.73 }
+		            set_temp_variable = { alpha = 0.75 }
+				}
+				else_if = {
+					limit = {
+						FROM = {
+							check_variable = { faith = 93 } #Obeah
+						}
+					}
+					set_temp_variable = { red = 0.50 }
+		            set_temp_variable = { green = 0.26 }
+		            set_temp_variable = { blue = 0.06 }
+		            set_temp_variable = { alpha = 0.75 }
+				}
+				else_if = {
+					limit = {
+						FROM = {
+							check_variable = { faith = 94 } #Sai Babi
+						}
+					}
+					set_temp_variable = { red = 0.80 }
+		            set_temp_variable = { green = 0.48 }
+		            set_temp_variable = { blue = 0.06 }
+		            set_temp_variable = { alpha = 0.75 }
+				}
+				else_if = {
+					limit = {
+						FROM = {
+							check_variable = { faith = 95 } #Shaktist
+						}
+					}
+					set_temp_variable = { red = 0.80 }
+		            set_temp_variable = { green = 0.48 }
+		            set_temp_variable = { blue = 0.06 }
+		            set_temp_variable = { alpha = 0.75 }
+				}
+				else_if = {
+					limit = {
+						FROM = {
+							check_variable = { faith = 96 } #Animist
+						}
+					}
+					set_temp_variable = { red = 0.29 }
+		            set_temp_variable = { green = 0.40 }
+		            set_temp_variable = { blue = 0.04 }
+		            set_temp_variable = { alpha = 0.75 }
+				}
+				else_if = {
+					limit = {
+						FROM = {
+							check_variable = { faith = 97 } #Sonnekult
+						}
+					}
+					set_temp_variable = { red = 0.72 }
+		            set_temp_variable = { green = 0.91 }
+		            set_temp_variable = { blue = 0.73 }
+		            set_temp_variable = { alpha = 0.75 }
+				}
+				else_if = {
+					limit = {
+						FROM = {
+							check_variable = { faith = 98 } #Peyote
+						}
+					}
+					set_temp_variable = { red = 0.72 }
+		            set_temp_variable = { green = 0.91 }
+		            set_temp_variable = { blue = 0.73 }
+		            set_temp_variable = { alpha = 0.75 }
+				}
+				else_if = {
+					limit = {
+						FROM = {
+							check_variable = { faith = 99 } #Neolinite
+						}
+					}
+					set_temp_variable = { red = 0.72 }
+		            set_temp_variable = { green = 0.91 }
+		            set_temp_variable = { blue = 0.73 }
+		            set_temp_variable = { alpha = 0.75 }
+				}
+				else_if = {
+					limit = {
+						FROM = {
+							check_variable = { faith = 100 } #Kardecist
+						}
+					}
+					set_temp_variable = { red = 0.90 }
+		            set_temp_variable = { green = 0.93 }
+		            set_temp_variable = { blue = 1.00 }
+		            set_temp_variable = { alpha = 0.75 }
+				}
+				else_if = {
+					limit = {
+						FROM = {
+							check_variable = { faith = 101 } #Batuque
+						}
+					}
+					set_temp_variable = { red = 0.50 }
+		            set_temp_variable = { green = 0.26 }
+		            set_temp_variable = { blue = 0.06 }
+		            set_temp_variable = { alpha = 0.75 }
+				}
+				else_if = {
+					limit = {
+						FROM = {
+							check_variable = { faith = 102 } #Tambor De Mina
+						}
+					}
+					set_temp_variable = { red = 0.50 }
+		            set_temp_variable = { green = 0.26 }
+		            set_temp_variable = { blue = 0.06 }
+		            set_temp_variable = { alpha = 0.75 }
+				}
+				else_if = {
+					limit = {
+						FROM = {
+							check_variable = { faith = 103 } #Karaite
+						}
+					}
+					set_temp_variable = { red = 0.10 }
+		            set_temp_variable = { green = 0.50 }
+		            set_temp_variable = { blue = 0.68 }
+		            set_temp_variable = { alpha = 0.75 }
+				}
+				else_if = {
+					limit = {
+						FROM = {
+							check_variable = { faith = 104 } #Oriental Orthodox
+						}
+					}
+					set_temp_variable = { red = 1.51 }
+		            set_temp_variable = { green = 0.60 }
+		            set_temp_variable = { blue = 0.14 }
+		            set_temp_variable = { alpha = 0.75 }
+				}
+				else = {
+		 			set_temp_variable = { red = 0.001 }
+		 			set_temp_variable = { green = 0.001 }
+		 			set_temp_variable = { blue = 0.001 }
+		 			set_temp_variable = { alpha = 0.75 }
+				}
+
+			}
+		}
+		far_text = no
+		near_text = no
+		update_daily = no
+	}
+}

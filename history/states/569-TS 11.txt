@@ -1,0 +1,33 @@
+
+state={
+	id=569
+	name="STATE_569"
+
+	history={
+		owner = SIH
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+
+		}
+		add_core_of = SIH
+		victory_points = {
+			7757 1 
+		}
+		victory_points = {
+			7822 1 
+		}
+		victory_points = {
+			10580 2 
+		}
+
+	}
+
+	provinces={
+		1685 1702 1816 4789 7822 7886 10580 10639 10649 10712 12631 
+	}
+	manpower=1567322
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

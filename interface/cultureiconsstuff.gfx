@@ -1,0 +1,14 @@
+SpriteTypes = {
+	spriteType = {
+		name = "GFX_cultures_strip"
+		texturefile = "gfx/interface/cultures/cultures_strip.dds"
+		noOfFrames = 135
+	}
+}
+SpriteTypes = {
+	spriteType = {
+		name = "GFX_religions_strip"
+		texturefile = "gfx/interface/religions/religions_strip.dds"
+		noOfFrames = 104
+	}
+}

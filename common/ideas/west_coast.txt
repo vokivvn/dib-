@@ -1,0 +1,388 @@
+ideas = {
+	country = {
+			CAL_Curbing_The_Rest = {
+			picture = CAL_Curbing_The_Rest
+			allowed = {
+				tag = CAL
+			}
+
+            available = {
+               	tag = CAL
+            }
+
+            cancel = {
+              
+            }
+
+			allowed_civil_war = {
+				always = no
+			}
+			
+			modifier = {
+			}
+		}
+			CAL_New_Age_Retro_Hippies = {
+			picture = CAL_New_Age_Retro_Hippies
+			allowed = {
+				tag = CAL
+			}
+
+            available = {
+               	tag = CAL
+            }
+
+            cancel = {
+              
+            }
+
+			allowed_civil_war = {
+				always = no
+			}
+			
+			modifier = {
+			}
+		}
+			CAL_Audit_Of_The_Century = {
+			picture = CAL_Audit_Of_The_Century
+			allowed = {
+				tag = CAL
+			}
+
+            available = {
+               	tag = CAL
+            }
+
+            cancel = {
+              
+            }
+
+			allowed_civil_war = {
+				always = no
+			}
+			
+			modifier = {
+			}
+		}
+			CAL_Bay_Booming = {
+			picture = CAL_Bay_Booming
+			allowed = {
+				tag = CAL
+			}
+
+            available = {
+               	tag = CAL
+            }
+
+            cancel = {
+              
+            }
+
+			allowed_civil_war = {
+				always = no
+			}
+			
+			modifier = {
+			navy_fuel_consumption_factor = -0.175
+	        production_speed_infrastructure_factor = 0.075
+	        production_speed_industrial_complex_factor = 0.05
+	        production_speed_naval_facility_factor = 0.125
+			production_speed_naval_base_factor = 0.125
+			}
+		}
+			CAL_Forward_Years_Idea = {
+			picture = CAL_Bay_Booming
+			allowed = {
+				tag = CAL
+			}
+
+            available = {
+               	tag = CAL
+            }
+
+            cancel = {
+              
+            }
+
+			allowed_civil_war = {
+				always = no
+			}
+			
+			modifier = {
+			research_speed_factor = 0.05
+			}
+		}
+			CAL_Domestic_Partnership_Act = {
+			picture = CAL_Bay_Booming
+			allowed = {
+				tag = CAL
+			}
+
+            available = {
+               	tag = CAL
+            }
+
+            cancel = {
+              
+            }
+
+			allowed_civil_war = {
+				always = no
+			}
+			
+			modifier = {
+			stability_factor = 0.03
+			consumer_goods_factor = -0.025
+			}
+		}
+			VEG_Frank_Rosenthal_Show = {
+			picture = VEG_Frank_Rosenthal_Show
+			allowed = {
+				tag = VEG
+			}
+
+            available = {
+               	tag = VEG
+            }
+
+            cancel = {
+              
+            }
+
+			allowed_civil_war = {
+				always = no
+			}
+			
+			modifier = {
+			}
+		}
+			VEG_Bought_Found = {
+			picture = VEG_Bought_Found
+			allowed = {
+				tag = VEG
+			}
+
+            available = {
+               	tag = VEG
+            }
+
+            cancel = {
+              
+            }
+
+			allowed_civil_war = {
+				always = no
+			}
+			
+			modifier = {
+			}
+		}
+			VEG_Final_Sin_Stupidity = {
+			picture = VEG_Final_Sin_Stupidity
+			allowed = {
+				tag = VEG
+			}
+
+            available = {
+               	tag = VEG
+            }
+
+            cancel = {
+              
+            }
+
+			allowed_civil_war = {
+				always = no
+			}
+			
+			modifier = {
+			}
+		}
+			NEV_Tropical_Hot_Dog_Night = {
+			picture = NEV_Tropical_Hot_Dog_Night
+			allowed = {
+				tag = NEV
+			}
+
+            available = {
+               	tag = NEV
+            }
+
+            cancel = {
+              
+            }
+
+			allowed_civil_war = {
+				always = no
+			}
+			
+			modifier = {
+			}
+		}
+			NEV_A_Scrambled_Opposition = {
+			picture = NEV_A_Scrambled_Opposition
+			allowed = {
+				tag = NEV
+			}
+
+            available = {
+               	tag = NEV
+            }
+
+            cancel = {
+              
+            }
+
+			allowed_civil_war = {
+				always = no
+			}
+			
+			modifier = {
+			}
+		}
+			ORE_Packwoods_Problems = {
+			picture = ORE_Packwoods_Problems
+			allowed = {
+				tag = ORE
+			}
+
+            available = {
+               	tag = ORE
+            }
+
+            cancel = {
+              
+            }
+
+			allowed_civil_war = {
+				always = no
+			}
+			
+			modifier = {
+			}
+		}
+			ORE_Wild_Wild_Country = {
+			picture = ORE_Wild_Wild_Country
+			allowed = {
+				tag = ORE
+			}
+
+            available = {
+               	tag = ORE
+            }
+
+            cancel = {
+              
+            }
+
+			allowed_civil_war = {
+				always = no
+			}
+			
+			modifier = {
+			}
+		}
+			ORE_I_Want_My_MTV = {
+			picture = ORE_I_Want_My_MTV
+			allowed = {
+				tag = ORE
+			}
+
+            available = {
+               	tag = ORE
+            }
+
+            cancel = {
+              
+            }
+
+			allowed_civil_war = {
+				always = no
+			}
+			
+			modifier = {
+			}
+		}
+			SFC_United_Front = {
+			picture = SFC_The_United_Front
+			allowed = {
+				tag = SFC
+			}
+
+            available = {
+               	tag = SFC
+            }
+
+            cancel = {
+              
+            }
+
+			allowed_civil_war = {
+				always = no
+			}
+			
+			modifier = {
+			research_speed_factor = 0.05
+			political_power_cost =-0.1
+			stability_factor = 0.125
+			war_support_factor = 0.25
+			attrition = -0.1
+			army_defense_factor = 0.075
+			army_org_regain = 0.15
+			conscription_factor = 0.02
+			}
+		}
+			SFC_The_Great_San_Fran_Exodus = {
+			picture = SFC_The_Great_San_Fran_Exodus
+			allowed = {
+				tag = SFC
+			}
+
+            available = {
+               	tag = SFC
+            }
+
+            cancel = {
+              
+            }
+
+			allowed_civil_war = {
+				always = no
+			}
+			
+			modifier = {
+			weekly_manpower = 500
+			monthly_population = 0.1
+			research_speed_factor = 0.05
+			planning_speed = -0.1
+			breakthrough_factor = 0.05
+			}
+		}
+			SFC_Surfer_Paradise = {
+			picture = SFC_Surfer_Paradise
+			allowed = {
+				tag = SFC
+			}
+
+            available = {
+               	tag = SFC
+            }
+
+            cancel = {
+              
+            }
+
+			allowed_civil_war = {
+				always = no
+			}
+			
+			modifier = {
+			transport_capacity = 0.25
+			experience_gain_navy = 0.01
+			extra_marine_supply_grace = 120
+			special_forces_attack_factor = 0.075
+			special_forces_defence_factor = 0.1
+			special_forces_speed_factor = 0.075
+			}
+		}
+	}
+}

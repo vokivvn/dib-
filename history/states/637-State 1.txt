@@ -1,0 +1,37 @@
+
+state={
+	id=637
+	name="STATE_637"
+
+	history={
+		owner = CSI
+		victory_points = {
+			13491 10 
+		}
+		victory_points = {
+			13495 5 
+		}
+		victory_points = {
+			1823 3 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			13491 = {
+				naval_base = 1
+
+			}
+
+		}
+		add_core_of = CSI
+
+	}
+
+	provinces={
+		1823 12207 13491 13494 13495 13496 13497 13498 13500 
+	}
+	manpower=148831
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+	local_supplies=0.000
+}

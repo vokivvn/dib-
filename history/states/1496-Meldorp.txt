@@ -1,0 +1,30 @@
+state={
+	id=1496
+	name="STATE_1496"
+
+	history={
+		victory_points = {
+			15854 10
+		}
+		owner = DMR
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			arms_factory = 1
+			farm_estate = 1
+			15860 = {
+				naval_base = 3
+			}
+		}
+		add_core_of = DMR
+
+	}
+
+	provinces={
+		15854 15860 15861 
+	}
+	manpower=32829
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

@@ -1,0 +1,30 @@
+state=
+{
+	id=743
+	name="STATE_743"
+	manpower = 1432066
+	state_category = large_town
+	
+	
+	history=
+	{
+		owner = NHM
+		add_core_of = NHM
+		victory_points = {
+			3715 3
+		}
+		victory_points = {
+			4445 3
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+			air_base = 1
+		}
+	}
+	provinces={
+		733 3712 3715 4445 7629 9675 10481 13158 13365
+	}
+
+	local_supplies=0.0 
+}

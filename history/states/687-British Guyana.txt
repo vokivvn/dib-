@@ -1,0 +1,31 @@
+state={
+	id=687
+	name="STATE_687"
+	manpower = 9874
+	
+	state_category = rural
+
+	history={
+		add_core_of = SUR
+		owner = SUR
+		victory_points = {
+			15302 5
+		}
+		victory_points = {
+			15298 3
+		}
+		victory_points = {
+			15301 1
+		}
+		buildings = {
+			infrastructure = 1
+			farm_estate = 1
+		}
+	}
+	
+	provinces={
+	 15291 15296 15297 15298 15299 15300 15301 15302 15303
+	}
+
+	local_supplies=5.0 
+}

@@ -1,0 +1,2513 @@
+
+defined_text = {
+	name = RELIGION_NAME
+	text = {
+		trigger = {
+			check_variable = { ROOT.RELIGION = 1 }
+		}
+		localization_key = santeria
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.RELIGION = 2 }
+		}
+		localization_key = voodoo
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.RELIGION = 3 }
+		}
+		localization_key = mahayana
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.RELIGION = 4 }
+		}
+		localization_key = shingon
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.RELIGION = 5 }
+		}
+		localization_key = soka_gakkai
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.RELIGION = 6 }
+		}
+		localization_key = tendai
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.RELIGION = 7 }
+		}
+		localization_key = theravada
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.RELIGION = 8 }
+		}
+		localization_key = vajrayana
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.RELIGION = 9 }
+		}
+		localization_key = western_buddhist
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.RELIGION = 10 }
+		}
+		localization_key = folk_catholic
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.RELIGION = 11 }
+		}
+		localization_key = kirishtan
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.RELIGION = 12 }
+		}
+		localization_key = roman_catholic
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.RELIGION = 13 }
+		}
+		localization_key = sedevacantist
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.RELIGION = 14 }
+		}
+		localization_key = roerichist
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.RELIGION = 15 }
+		}
+		localization_key = russian_cosmist
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.RELIGION = 16 }
+		}
+		localization_key = christopagan
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.RELIGION = 17 }
+		}
+		localization_key = druze
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.RELIGION = 18 }
+		}
+		localization_key = manichaean
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.RELIGION = 19 }
+		}
+		localization_key = neo_gnostic
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.RELIGION = 20 }
+		}
+		localization_key = free_zone
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.RELIGION = 21 }
+		}
+		localization_key = scientologist
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.RELIGION = 22 }
+		}
+		localization_key = athiest
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.RELIGION = 23 }
+		}
+		localization_key = masonic
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.RELIGION = 24 }
+		}
+		localization_key = rationalist
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.RELIGION = 25 }
+		}
+		localization_key = secular
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.RELIGION = 26 }
+		}
+		localization_key = chabad
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.RELIGION = 27 }
+		}
+		localization_key = kuzarite
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.RELIGION = 28 }
+		}
+		localization_key = messianic_jewish
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.RELIGION = 29 }
+		}
+		localization_key = rabbinic
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.RELIGION = 30 }
+		}
+		localization_key = brighamite
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.RELIGION = 31 }
+		}
+		localization_key = kanabite
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.RELIGION = 32 }
+		}
+		localization_key = smithian
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.RELIGION = 33 }
+		}
+		localization_key = shia
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.RELIGION = 34 }
+		}
+		localization_key = sufi
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.RELIGION = 35 }
+		}
+		localization_key = sunni
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.RELIGION = 36 }
+		}
+		localization_key = gaian
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.RELIGION = 37 }
+		}
+		localization_key = happy_science
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.RELIGION = 38 }
+		}
+		localization_key = mansonite
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.RELIGION = 39 }
+		}
+		localization_key = psychic
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.RELIGION = 40 }
+		}
+		localization_key = psychoshamanist
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.RELIGION = 41 }
+		}
+		localization_key = rajneeshi
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.RELIGION = 42 }
+		}
+		localization_key = zetanologist
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.RELIGION = 43 }
+		}
+		localization_key = fifth_monarchist
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.RELIGION = 44 }
+		}
+		localization_key = gottschalkite
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.RELIGION = 45 }
+		}
+		localization_key = mennonite
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.RELIGION = 46 }
+		}
+		localization_key = moravian
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.RELIGION = 47 }
+		}
+		localization_key = puritan
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.RELIGION = 48 }
+		}
+		localization_key = seventh_day_adventist
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.RELIGION = 49 }
+		}
+		localization_key = waldensian
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.RELIGION = 50 }
+		}
+		localization_key = confucian
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.RELIGION = 51 }
+		}
+		localization_key = shenist
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.RELIGION = 52 }
+		}
+		localization_key = shinto
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.RELIGION = 53 }
+		}
+		localization_key = taoist
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.RELIGION = 54 }
+		}
+		localization_key = coptic
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.RELIGION = 55 }
+		}
+		localization_key = eastern_orthodox
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.RELIGION = 56 }
+		}
+		localization_key = nestorian
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.RELIGION = 57 }
+		}
+		localization_key = druidic
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.RELIGION = 58 }
+		}
+		localization_key = fetishist
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.RELIGION = 59 }
+		}
+		localization_key = fyrnsidu
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.RELIGION = 60 }
+		}
+		localization_key = kapu
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.RELIGION = 61 }
+		}
+		localization_key = tengri
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.RELIGION = 62 }
+		}
+		localization_key = totemist
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.RELIGION = 63 }
+		}
+		localization_key = tungusic
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.RELIGION = 64 }
+		}
+		localization_key = promethean
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.RELIGION = 65 }
+		}
+		localization_key = surreal
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.RELIGION = 66 }
+		}
+		localization_key = anglican
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.RELIGION = 67 }
+		}
+		localization_key = episcopalian
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.RELIGION = 68 }
+		}
+		localization_key = holiness
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.RELIGION = 69 }
+		}
+		localization_key = independent_baptist
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.RELIGION = 70 }
+		}
+		localization_key = lutheran
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.RELIGION = 71 }
+		}
+		localization_key = methodist
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.RELIGION = 72 }
+		}
+		localization_key = pentecostal
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.RELIGION = 73 }
+		}
+		localization_key = presbyterian
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.RELIGION = 74 }
+		}
+		localization_key = quaker
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.RELIGION = 75 }
+		}
+		localization_key = reformed
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.RELIGION = 76 }
+		}
+		localization_key = southern_baptist
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.RELIGION = 77 }
+		}
+		localization_key = western_baptist
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.RELIGION = 78 }
+		}
+		localization_key = christian_satanist
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.RELIGION = 79 }
+		}
+		localization_key = laveyan_satanist
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.RELIGION = 80 }
+		}
+		localization_key = the_process
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.RELIGION = 81 }
+		}
+		localization_key = theistic_satanist
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.RELIGION = 82 }
+		}
+		localization_key = bahai
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.RELIGION = 83 }
+		}
+		localization_key = christlamic
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.RELIGION = 84 }
+		}
+		localization_key = din_i_ilahi
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.RELIGION = 85 }
+		}
+		localization_key = one_native_church
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.RELIGION = 86 }
+		}
+		localization_key = transcendental_meditation
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.RELIGION = 87 }
+		}
+		localization_key = eigenkerk
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.RELIGION = 88 }
+		}
+		localization_key = folk_muslim
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.RELIGION = 89 }
+		}
+		localization_key = sanpon
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.RELIGION = 90 }
+		}
+		localization_key = winti
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.RELIGION = 91 }
+		}
+		localization_key = alleluiachurch
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.RELIGION = 92 }
+		}
+		localization_key = kejawen
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.RELIGION = 93 }
+		}
+		localization_key = obeah
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.RELIGION = 94 }
+		}
+		localization_key = saibabi
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.RELIGION = 95 }
+		}
+		localization_key = shaktist
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.RELIGION = 96 }
+		}
+		localization_key = animist
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.RELIGION = 97 }
+		}
+		localization_key = sonnekult
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.RELIGION = 98 }
+		}
+		localization_key = peyote
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.RELIGION = 99 }
+		}
+		localization_key = neolinite
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.RELIGION = 100 }
+		}
+		localization_key = kardecist
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.RELIGION = 101 }
+		}
+		localization_key = batuque
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.RELIGION = 102 }
+		}
+		localization_key = tambor_de_mina
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.RELIGION = 103 }
+		}
+		localization_key = karaite
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.RELIGION = 104 }
+		}
+		localization_key = oriental_orthodox
+	}
+	localization_key = somethingwrong #fallback
+}
+defined_text = {
+	name = RELIGION_NAME_DIPLO
+	text = {
+		trigger = {
+			check_variable = { THIS.RELIGION = 1 }
+		}
+		localization_key = santeria
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.RELIGION = 2 }
+		}
+		localization_key = voodoo
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.RELIGION = 3 }
+		}
+		localization_key = mahayana
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.RELIGION = 4 }
+		}
+		localization_key = shingon
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.RELIGION = 5 }
+		}
+		localization_key = soka_gakkai
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.RELIGION = 6 }
+		}
+		localization_key = tendai
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.RELIGION = 7 }
+		}
+		localization_key = theravada
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.RELIGION = 8 }
+		}
+		localization_key = vajrayana
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.RELIGION = 9 }
+		}
+		localization_key = western_buddhist
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.RELIGION = 10 }
+		}
+		localization_key = folk_catholic
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.RELIGION = 11 }
+		}
+		localization_key = kirishtan
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.RELIGION = 12 }
+		}
+		localization_key = roman_catholic
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.RELIGION = 13 }
+		}
+		localization_key = sedevacantist
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.RELIGION = 14 }
+		}
+		localization_key = roerichist
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.RELIGION = 15 }
+		}
+		localization_key = russian_cosmist
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.RELIGION = 16 }
+		}
+		localization_key = christopagan
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.RELIGION = 17 }
+		}
+		localization_key = druze
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.RELIGION = 18 }
+		}
+		localization_key = manichaean
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.RELIGION = 19 }
+		}
+		localization_key = neo_gnostic
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.RELIGION = 20 }
+		}
+		localization_key = free_zone
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.RELIGION = 21 }
+		}
+		localization_key = scientologist
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.RELIGION = 22 }
+		}
+		localization_key = athiest
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.RELIGION = 23 }
+		}
+		localization_key = masonic
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.RELIGION = 24 }
+		}
+		localization_key = rationalist
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.RELIGION = 25 }
+		}
+		localization_key = secular
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.RELIGION = 26 }
+		}
+		localization_key = chabad
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.RELIGION = 27 }
+		}
+		localization_key = kuzarite
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.RELIGION = 28 }
+		}
+		localization_key = messianic_jewish
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.RELIGION = 29 }
+		}
+		localization_key = rabbinic
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.RELIGION = 30 }
+		}
+		localization_key = brighamite
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.RELIGION = 31 }
+		}
+		localization_key = kanabite
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.RELIGION = 32 }
+		}
+		localization_key = smithian
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.RELIGION = 33 }
+		}
+		localization_key = shia
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.RELIGION = 34 }
+		}
+		localization_key = sufi
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.RELIGION = 35 }
+		}
+		localization_key = sunni
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.RELIGION = 36 }
+		}
+		localization_key = gaian
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.RELIGION = 37 }
+		}
+		localization_key = happy_science
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.RELIGION = 38 }
+		}
+		localization_key = mansonite
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.RELIGION = 39 }
+		}
+		localization_key = psychic
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.RELIGION = 40 }
+		}
+		localization_key = psychoshamanist
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.RELIGION = 41 }
+		}
+		localization_key = rajneeshi
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.RELIGION = 42 }
+		}
+		localization_key = zetanologist
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.RELIGION = 43 }
+		}
+		localization_key = fifth_monarchist
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.RELIGION = 44 }
+		}
+		localization_key = gottschalkite
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.RELIGION = 45 }
+		}
+		localization_key = mennonite
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.RELIGION = 46 }
+		}
+		localization_key = moravian
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.RELIGION = 47 }
+		}
+		localization_key = puritan
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.RELIGION = 48 }
+		}
+		localization_key = seventh_day_adventist
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.RELIGION = 49 }
+		}
+		localization_key = waldensian
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.RELIGION = 50 }
+		}
+		localization_key = confucian
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.RELIGION = 51 }
+		}
+		localization_key = shenist
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.RELIGION = 52 }
+		}
+		localization_key = shinto
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.RELIGION = 53 }
+		}
+		localization_key = taoist
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.RELIGION = 54 }
+		}
+		localization_key = coptic
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.RELIGION = 55 }
+		}
+		localization_key = eastern_orthodox
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.RELIGION = 56 }
+		}
+		localization_key = nestorian
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.RELIGION = 57 }
+		}
+		localization_key = druidic
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.RELIGION = 58 }
+		}
+		localization_key = fetishist
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.RELIGION = 59 }
+		}
+		localization_key = fyrnsidu
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.RELIGION = 60 }
+		}
+		localization_key = kapu
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.RELIGION = 61 }
+		}
+		localization_key = tengri
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.RELIGION = 62 }
+		}
+		localization_key = totemist
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.RELIGION = 63 }
+		}
+		localization_key = tungusic
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.RELIGION = 64 }
+		}
+		localization_key = promethean
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.RELIGION = 65 }
+		}
+		localization_key = surreal
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.RELIGION = 66 }
+		}
+		localization_key = anglican
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.RELIGION = 67 }
+		}
+		localization_key = episcopalian
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.RELIGION = 68 }
+		}
+		localization_key = holiness
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.RELIGION = 69 }
+		}
+		localization_key = independent_baptist
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.RELIGION = 70 }
+		}
+		localization_key = lutheran
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.RELIGION = 71 }
+		}
+		localization_key = methodist
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.RELIGION = 72 }
+		}
+		localization_key = pentecostal
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.RELIGION = 73 }
+		}
+		localization_key = presbyterian
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.RELIGION = 74 }
+		}
+		localization_key = quaker
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.RELIGION = 75 }
+		}
+		localization_key = reformed
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.RELIGION = 76 }
+		}
+		localization_key = southern_baptist
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.RELIGION = 77 }
+		}
+		localization_key = western_baptist
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.RELIGION = 78 }
+		}
+		localization_key = christian_satanist
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.RELIGION = 79 }
+		}
+		localization_key = laveyan_satanist
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.RELIGION = 80 }
+		}
+		localization_key = the_process
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.RELIGION = 81 }
+		}
+		localization_key = theistic_satanist
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.RELIGION = 82 }
+		}
+		localization_key = bahai
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.RELIGION = 83 }
+		}
+		localization_key = christlamic
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.RELIGION = 84 }
+		}
+		localization_key = din_i_ilahi
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.RELIGION = 85 }
+		}
+		localization_key = one_native_church
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.RELIGION = 86 }
+		}
+		localization_key = transcendental_meditation
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.RELIGION = 87 }
+		}
+		localization_key = eigenkerk
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.RELIGION = 88 }
+		}
+		localization_key = folk_muslim
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.RELIGION = 89 }
+		}
+		localization_key = sanpon
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.RELIGION = 90 }
+		}
+		localization_key = winti
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.RELIGION = 91 }
+		}
+		localization_key = alleluiachurch
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.RELIGION = 92 }
+		}
+		localization_key = kejawen
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.RELIGION = 93 }
+		}
+		localization_key = obeah
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.RELIGION = 94 }
+		}
+		localization_key = saibabi
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.RELIGION = 95 }
+		}
+		localization_key = shaktist
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.RELIGION = 96 }
+		}
+		localization_key = animist
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.RELIGION = 97 }
+		}
+		localization_key = sonnekult
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.RELIGION = 98 }
+		}
+		localization_key = peyote
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.RELIGION = 99 }
+		}
+		localization_key = neolinite
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.RELIGION = 100 }
+		}
+		localization_key = kardecist
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.RELIGION = 101 }
+		}
+		localization_key = batuque
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.RELIGION = 102 }
+		}
+		localization_key = tambor_de_mina
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.RELIGION = 103 }
+		}
+		localization_key = karaite
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.RELIGION = 104 }
+		}
+		localization_key = oriental_orthodox
+	}
+	localization_key = somethingwrong #fallback
+}
+defined_text = {
+	name = RELIGION_DESC
+	text = {
+		trigger = {
+			check_variable = { ROOT.RELIGION = 1 }
+		}
+		localization_key = santeria_desc
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.RELIGION = 2 }
+		}
+		localization_key = voodoo_desc
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.RELIGION = 3 }
+		}
+		localization_key = mahayana_desc
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.RELIGION = 4 }
+		}
+		localization_key = shingon_desc
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.RELIGION = 5 }
+		}
+		localization_key = soka_gakkai_desc
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.RELIGION = 6 }
+		}
+		localization_key = tendai_desc
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.RELIGION = 7 }
+		}
+		localization_key = theravada_desc
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.RELIGION = 8 }
+		}
+		localization_key = vajrayana_desc
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.RELIGION = 9 }
+		}
+		localization_key = western_buddhist_desc
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.RELIGION = 10 }
+		}
+		localization_key = folk_catholic_desc
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.RELIGION = 11 }
+		}
+		localization_key = kirishtan_desc
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.RELIGION = 12 }
+		}
+		localization_key = roman_catholic_desc
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.RELIGION = 13 }
+		}
+		localization_key = sedevacantist_desc
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.RELIGION = 14 }
+		}
+		localization_key = roerichist_desc
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.RELIGION = 15 }
+		}
+		localization_key = russian_cosmist_desc
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.RELIGION = 16 }
+		}
+		localization_key = christopagan_desc
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.RELIGION = 17 }
+		}
+		localization_key = druze_desc
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.RELIGION = 18 }
+		}
+		localization_key = manichaean_desc
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.RELIGION = 19 }
+		}
+		localization_key = neo_gnostic_desc
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.RELIGION = 20 }
+		}
+		localization_key = free_zone_desc
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.RELIGION = 21 }
+		}
+		localization_key = scientologist_desc
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.RELIGION = 22 }
+		}
+		localization_key = athiest_desc
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.RELIGION = 23 }
+		}
+		localization_key = masonic_desc
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.RELIGION = 24 }
+		}
+		localization_key = rationalist_desc
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.RELIGION = 25 }
+		}
+		localization_key = secular_desc
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.RELIGION = 26 }
+		}
+		localization_key = chabad_desc
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.RELIGION = 27 }
+		}
+		localization_key = kuzarite_desc
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.RELIGION = 28 }
+		}
+		localization_key = messianic_jewish_desc
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.RELIGION = 29 }
+		}
+		localization_key = rabbinic_desc
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.RELIGION = 30 }
+		}
+		localization_key = brighamite_desc
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.RELIGION = 31 }
+		}
+		localization_key = kanabite_desc
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.RELIGION = 32 }
+		}
+		localization_key = smithian_desc
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.RELIGION = 33 }
+		}
+		localization_key = shia_desc
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.RELIGION = 34 }
+		}
+		localization_key = sufi_desc
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.RELIGION = 35 }
+		}
+		localization_key = sunni_desc
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.RELIGION = 36 }
+		}
+		localization_key = gaian_desc
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.RELIGION = 37 }
+		}
+		localization_key = happy_science_desc
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.RELIGION = 38 }
+		}
+		localization_key = mansonite_desc
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.RELIGION = 39 }
+		}
+		localization_key = psychic_desc
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.RELIGION = 40 }
+		}
+		localization_key = psychoshamanist_desc
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.RELIGION = 41 }
+		}
+		localization_key = rajneeshi_desc
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.RELIGION = 42 }
+		}
+		localization_key = zetanologist_desc
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.RELIGION = 43 }
+		}
+		localization_key = fifth_monarchist_desc
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.RELIGION = 44 }
+		}
+		localization_key = gottschalkite_desc
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.RELIGION = 45 }
+		}
+		localization_key = mennonite_desc
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.RELIGION = 46 }
+		}
+		localization_key = moravian_desc
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.RELIGION = 47 }
+		}
+		localization_key = puritan_desc
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.RELIGION = 48 }
+		}
+		localization_key = seventh_day_adventist_desc
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.RELIGION = 49 }
+		}
+		localization_key = waldensian_desc
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.RELIGION = 50 }
+		}
+		localization_key = confucian_desc
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.RELIGION = 51 }
+		}
+		localization_key = shenist_desc
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.RELIGION = 52 }
+		}
+		localization_key = shinto_desc
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.RELIGION = 53 }
+		}
+		localization_key = taoist_desc
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.RELIGION = 54 }
+		}
+		localization_key = coptic_desc
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.RELIGION = 55 }
+		}
+		localization_key = eastern_orthodox_desc
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.RELIGION = 56 }
+		}
+		localization_key = nestorian_desc
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.RELIGION = 57 }
+		}
+		localization_key = druidic_desc
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.RELIGION = 58 }
+		}
+		localization_key = fetishist_desc
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.RELIGION = 59 }
+		}
+		localization_key = fyrnsidu_desc
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.RELIGION = 60 }
+		}
+		localization_key = kapu_desc
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.RELIGION = 61 }
+		}
+		localization_key = tengri_desc
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.RELIGION = 62 }
+		}
+		localization_key = totemist_desc
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.RELIGION = 63 }
+		}
+		localization_key = tungusic_desc
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.RELIGION = 64 }
+		}
+		localization_key = promethean_desc
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.RELIGION = 65 }
+		}
+		localization_key = surreal_desc
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.RELIGION = 66 }
+		}
+		localization_key = anglican_desc
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.RELIGION = 67 }
+		}
+		localization_key = episcopalian_desc
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.RELIGION = 68 }
+		}
+		localization_key = holiness_desc
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.RELIGION = 69 }
+		}
+		localization_key = independent_baptist_desc
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.RELIGION = 70 }
+		}
+		localization_key = lutheran_desc
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.RELIGION = 71 }
+		}
+		localization_key = methodist_desc
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.RELIGION = 72 }
+		}
+		localization_key = pentecostal_desc
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.RELIGION = 73 }
+		}
+		localization_key = presbyterian_desc
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.RELIGION = 74 }
+		}
+		localization_key = quaker_desc
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.RELIGION = 75 }
+		}
+		localization_key = reformed_desc
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.RELIGION = 76 }
+		}
+		localization_key = southern_baptist_desc
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.RELIGION = 77 }
+		}
+		localization_key = western_baptist_desc
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.RELIGION = 78 }
+		}
+		localization_key = christian_satanist_desc
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.RELIGION = 79 }
+		}
+		localization_key = laveyan_satanist_desc
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.RELIGION = 80 }
+		}
+		localization_key = the_process_desc
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.RELIGION = 81 }
+		}
+		localization_key = theistic_satanist_desc
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.RELIGION = 82 }
+		}
+		localization_key = bahai_desc
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.RELIGION = 83 }
+		}
+		localization_key = christlamic_desc
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.RELIGION = 84 }
+		}
+		localization_key = din_i_ilahi_desc
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.RELIGION = 85 }
+		}
+		localization_key = one_native_church_desc
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.RELIGION = 86 }
+		}
+		localization_key = transcendental_meditation_desc
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.RELIGION = 87 }
+		}
+		localization_key = eigenkerk_desc
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.RELIGION = 88 }
+		}
+		localization_key = folk_muslim_desc
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.RELIGION = 89 }
+		}
+		localization_key = sanpon_desc
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.RELIGION = 90 }
+		}
+		localization_key = winti_desc
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.RELIGION = 91 }
+		}
+		localization_key = alleluiachurch_desc
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.RELIGION = 92 }
+		}
+		localization_key = kejawen_desc
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.RELIGION = 93 }
+		}
+		localization_key = obeah_desc
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.RELIGION = 94 }
+		}
+		localization_key = saibabi_desc
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.RELIGION = 95 }
+		}
+		localization_key = shaktist_desc
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.RELIGION = 96 }
+		}
+		localization_key = animist_desc
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.RELIGION = 97 }
+		}
+		localization_key = sonnekult_desc
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.RELIGION = 98 }
+		}
+		localization_key = peyote_desc
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.RELIGION = 99 }
+		}
+		localization_key = neolinite_desc
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.RELIGION = 100 }
+		}
+		localization_key = kardecist_desc
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.RELIGION = 101 }
+		}
+		localization_key = batuque_desc
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.RELIGION = 102 }
+		}
+		localization_key = tambor_de_mina_desc
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.RELIGION = 103 }
+		}
+		localization_key = karaite_desc
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.RELIGION = 104 }
+		}
+		localization_key = oriental_orthodox_desc
+	}
+	localization_key = somethingwrong #fallback_desc
+}
+defined_text = {
+	name = RELIGION_DESC_DIPLO
+	text = {
+		trigger = {
+			check_variable = { THIS.RELIGION = 1 }
+		}
+		localization_key = santeria_desc
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.RELIGION = 2 }
+		}
+		localization_key = voodoo_desc
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.RELIGION = 3 }
+		}
+		localization_key = mahayana_desc
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.RELIGION = 4 }
+		}
+		localization_key = shingon_desc
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.RELIGION = 5 }
+		}
+		localization_key = soka_gakkai_desc
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.RELIGION = 6 }
+		}
+		localization_key = tendai_desc
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.RELIGION = 7 }
+		}
+		localization_key = theravada_desc
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.RELIGION = 8 }
+		}
+		localization_key = vajrayana_desc
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.RELIGION = 9 }
+		}
+		localization_key = western_buddhist_desc
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.RELIGION = 10 }
+		}
+		localization_key = folk_catholic_desc
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.RELIGION = 11 }
+		}
+		localization_key = kirishtan_desc
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.RELIGION = 12 }
+		}
+		localization_key = roman_catholic_desc
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.RELIGION = 13 }
+		}
+		localization_key = sedevacantist_desc
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.RELIGION = 14 }
+		}
+		localization_key = roerichist_desc
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.RELIGION = 15 }
+		}
+		localization_key = russian_cosmist_desc
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.RELIGION = 16 }
+		}
+		localization_key = christopagan_desc
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.RELIGION = 17 }
+		}
+		localization_key = druze_desc
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.RELIGION = 18 }
+		}
+		localization_key = manichaean_desc
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.RELIGION = 19 }
+		}
+		localization_key = neo_gnostic_desc
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.RELIGION = 20 }
+		}
+		localization_key = free_zone_desc
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.RELIGION = 21 }
+		}
+		localization_key = scientologist_desc
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.RELIGION = 22 }
+		}
+		localization_key = athiest_desc
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.RELIGION = 23 }
+		}
+		localization_key = masonic_desc
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.RELIGION = 24 }
+		}
+		localization_key = rationalist_desc
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.RELIGION = 25 }
+		}
+		localization_key = secular_desc
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.RELIGION = 26 }
+		}
+		localization_key = chabad_desc
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.RELIGION = 27 }
+		}
+		localization_key = kuzarite_desc
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.RELIGION = 28 }
+		}
+		localization_key = messianic_jewish_desc
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.RELIGION = 29 }
+		}
+		localization_key = rabbinic_desc
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.RELIGION = 30 }
+		}
+		localization_key = brighamite_desc
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.RELIGION = 31 }
+		}
+		localization_key = kanabite_desc
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.RELIGION = 32 }
+		}
+		localization_key = smithian_desc
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.RELIGION = 33 }
+		}
+		localization_key = shia_desc
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.RELIGION = 34 }
+		}
+		localization_key = sufi_desc
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.RELIGION = 35 }
+		}
+		localization_key = sunni_desc
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.RELIGION = 36 }
+		}
+		localization_key = gaian_desc
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.RELIGION = 37 }
+		}
+		localization_key = happy_science_desc
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.RELIGION = 38 }
+		}
+		localization_key = mansonite_desc
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.RELIGION = 39 }
+		}
+		localization_key = psychic_desc
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.RELIGION = 40 }
+		}
+		localization_key = psychoshamanist_desc
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.RELIGION = 41 }
+		}
+		localization_key = rajneeshi_desc
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.RELIGION = 42 }
+		}
+		localization_key = zetanologist_desc
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.RELIGION = 43 }
+		}
+		localization_key = fifth_monarchist_desc
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.RELIGION = 44 }
+		}
+		localization_key = gottschalkite_desc
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.RELIGION = 45 }
+		}
+		localization_key = mennonite_desc
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.RELIGION = 46 }
+		}
+		localization_key = moravian_desc
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.RELIGION = 47 }
+		}
+		localization_key = puritan_desc
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.RELIGION = 48 }
+		}
+		localization_key = seventh_day_adventist_desc
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.RELIGION = 49 }
+		}
+		localization_key = waldensian_desc
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.RELIGION = 50 }
+		}
+		localization_key = confucian_desc
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.RELIGION = 51 }
+		}
+		localization_key = shenist_desc
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.RELIGION = 52 }
+		}
+		localization_key = shinto_desc
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.RELIGION = 53 }
+		}
+		localization_key = taoist_desc
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.RELIGION = 54 }
+		}
+		localization_key = coptic_desc
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.RELIGION = 55 }
+		}
+		localization_key = eastern_orthodox_desc
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.RELIGION = 56 }
+		}
+		localization_key = nestorian_desc
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.RELIGION = 57 }
+		}
+		localization_key = druidic_desc
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.RELIGION = 58 }
+		}
+		localization_key = fetishist_desc
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.RELIGION = 59 }
+		}
+		localization_key = fyrnsidu_desc
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.RELIGION = 60 }
+		}
+		localization_key = kapu_desc
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.RELIGION = 61 }
+		}
+		localization_key = tengri_desc
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.RELIGION = 62 }
+		}
+		localization_key = totemist_desc
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.RELIGION = 63 }
+		}
+		localization_key = tungusic_desc
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.RELIGION = 64 }
+		}
+		localization_key = promethean_desc
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.RELIGION = 65 }
+		}
+		localization_key = surreal_desc
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.RELIGION = 66 }
+		}
+		localization_key = anglican_desc
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.RELIGION = 67 }
+		}
+		localization_key = episcopalian_desc
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.RELIGION = 68 }
+		}
+		localization_key = holiness_desc
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.RELIGION = 69 }
+		}
+		localization_key = independent_baptist_desc
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.RELIGION = 70 }
+		}
+		localization_key = lutheran_desc
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.RELIGION = 71 }
+		}
+		localization_key = methodist_desc
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.RELIGION = 72 }
+		}
+		localization_key = pentecostal_desc
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.RELIGION = 73 }
+		}
+		localization_key = presbyterian_desc
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.RELIGION = 74 }
+		}
+		localization_key = quaker_desc
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.RELIGION = 75 }
+		}
+		localization_key = reformed_desc
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.RELIGION = 76 }
+		}
+		localization_key = southern_baptist_desc
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.RELIGION = 77 }
+		}
+		localization_key = western_baptist_desc
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.RELIGION = 78 }
+		}
+		localization_key = christian_satanist_desc
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.RELIGION = 79 }
+		}
+		localization_key = laveyan_satanist_desc
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.RELIGION = 80 }
+		}
+		localization_key = the_process_desc
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.RELIGION = 81 }
+		}
+		localization_key = theistic_satanist_desc
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.RELIGION = 82 }
+		}
+		localization_key = bahai_desc
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.RELIGION = 83 }
+		}
+		localization_key = christlamic_desc
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.RELIGION = 84 }
+		}
+		localization_key = din_i_ilahi_desc
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.RELIGION = 85 }
+		}
+		localization_key = one_native_church_desc
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.RELIGION = 86 }
+		}
+		localization_key = transcendental_meditation_desc
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.RELIGION = 87 }
+		}
+		localization_key = eigenkerk_desc
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.RELIGION = 88 }
+		}
+		localization_key = folk_muslim_desc
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.RELIGION = 89 }
+		}
+		localization_key = sanpon_desc
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.RELIGION = 90 }
+		}
+		localization_key = winti_desc
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.RELIGION = 91 }
+		}
+		localization_key = alleluiachurch_desc
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.RELIGION = 92 }
+		}
+		localization_key = kejawen_desc
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.RELIGION = 93 }
+		}
+		localization_key = obeah_desc
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.RELIGION = 94 }
+		}
+		localization_key = saibabi_desc
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.RELIGION = 95 }
+		}
+		localization_key = shaktist_desc
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.RELIGION = 96 }
+		}
+		localization_key = animist_desc
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.RELIGION = 97 }
+		}
+		localization_key = sonnekult_desc
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.RELIGION = 98 }
+		}
+		localization_key = peyote_desc
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.RELIGION = 99 }
+		}
+		localization_key = neolinite_desc
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.RELIGION = 100 }
+		}
+		localization_key = kardecist_desc
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.RELIGION = 101 }
+		}
+		localization_key = batuque_desc
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.RELIGION = 102 }
+		}
+		localization_key = tambor_de_mina_desc
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.RELIGION = 103 }
+		}
+		localization_key = karaite_desc
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.RELIGION = 104 }
+		}
+		localization_key = oriental_orthodox_desc
+	}
+	localization_key = somethingwrong #fallback_desc
+}

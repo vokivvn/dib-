@@ -1,0 +1,27 @@
+
+state={
+	id=571
+	name="STATE_571"
+
+	history={
+		owner = ARS
+		buildings = {
+			infrastructure = 2
+			arms_factory = 1
+
+		}
+		victory_points = {
+			10696 3 
+		}
+		add_core_of = ARS
+
+	}
+
+	provinces={
+		1726 1784 1856 4700 4771 4780 4817 7685 7837 10533 10663 12390 12514 12517 12542 12574 12580 12639 12652 12672 
+	}
+	manpower=1317157
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=8.000
+}

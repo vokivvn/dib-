@@ -1,0 +1,25 @@
+state={
+	id=1467
+	name="STATE_1467"
+
+	history={
+		owner = MUN
+		buildings = {
+			infrastructure = 2
+			farm_estate = 1
+		}
+		add_core_of = MUN
+		victory_points = {
+			15768 3
+		}
+
+	}
+
+	provinces={
+		15768 15769 
+	}
+	manpower=37099
+	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=0.000
+}

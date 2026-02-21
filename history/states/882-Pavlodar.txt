@@ -1,0 +1,29 @@
+
+state={
+	id=882
+	name="STATE_882"
+	resources={
+		chromium=6.000
+	}
+
+	history={
+		owner = KAZ
+		add_core_of = KAZ
+		buildings = {
+			infrastructure = 2
+
+		}
+		victory_points = {
+			7708 1 
+		}
+
+	}
+
+	provinces={
+		1662 1709 1800 1879 4661 4670 4685 7317 7708 10202 10235 10630 10696 12546 12616 12679 
+	}
+	manpower=230210
+	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=0.000
+}

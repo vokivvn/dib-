@@ -1,0 +1,338 @@
+VEN_radical_right = {
+	color = rgb { 132 76 104 }
+	color_ui = rgb { 132 76 104 }
+}
+
+SAF_radical_right = {
+	color = rgb { 79 47 49 }
+	color_ui = rgb { 79 47 49 }
+}
+
+SAF_anarchism = {
+	color = rgb { 172 100 50 }
+	color_ui = rgb { 172 100 50 }
+}
+
+IND_radical_right = {
+	color = rgb { 84 47 63 }
+	color_ui = rgb { 84 47 63 }
+}
+
+CAL_war = {
+	color = rgb { 201 150 68 }
+	color_ui = rgb { 201 150 68 }
+}
+
+CAL_Brown = {
+	color = rgb { 207 142 3 }
+	color_ui = rgb { 207 142 3 }
+}
+
+CAL_Hayden = {
+	color = rgb { 183 78 87 }
+	color_ui = rgb { 183 78 87 }
+}
+
+CAL_Murray = {
+	color = rgb { 58 119 83 }
+	color_ui = rgb { 58 119 83 }
+}
+
+CAL_Bill = {
+	color = rgb { 44 116 142 }
+	color_ui = rgb { 44 116 142 }
+}
+
+CAL_Jobs = {
+	color = rgb { 44 116 142 }
+	color_ui = rgb { 44 116 142 }
+}
+
+CAL_Reagan = {
+	color = rgb { 124 49 17 }
+	color_ui = rgb { 124 49 17 }
+}
+
+NXIVM = {
+	color = rgb { 91 91 91 }
+	color_ui = rgb { 91 91 91 }
+}
+
+LAS_Miscavige = {
+	color = rgb { 30 75 96 }
+	color_ui = rgb { 30 75 96 }
+}
+
+LAS_Puthoff = {
+	color = rgb { 30 75 96 }
+	color_ui = rgb { 30 75 96 }
+}
+
+LAS_Cleaver = {
+	color = rgb { 32 76 53 }
+	color_ui = rgb { 32 76 53 }
+}
+
+LAS_DeVito = {
+	color = rgb { 145 44 15 }
+	color_ui = rgb { 145 44 15 }
+}
+
+LAS_Ping = {
+	color = rgb { 145 44 15 }
+	color_ui = rgb { 145 44 15 }
+}
+
+LAS_Hirsch = {
+	color = rgb { 97 141 160 }
+	color_ui = rgb { 97 141 160 }
+}
+
+LAS_Martinson = {
+	color = rgb { 54 68 113 }
+	color_ui = rgb { 54 68 113 }
+}
+
+LAS_Jackson = {
+	color = rgb { 135 25 40 }
+	color_ui = rgb { 135 25 40 }
+}
+
+LAS_Kerry = {
+	color = rgb { 158 49 33 }
+	color_ui = rgb { 158 49 33 }
+}
+
+LAS_Symb = {
+	color = rgb { 98 9 3 }
+	color_ui = rgb { 98 9 3 }
+}
+
+LAS_RichieOne = {
+	color = rgb { 47 66 104 }
+	color_ui = rgb { 47 66 104 }
+}
+
+LAS_Beck = {
+	color = rgb { 145 47 124 }
+	color_ui = rgb { 145 47 124 }
+}
+
+LAS_Botte = {
+	color = rgb { 81 177 204 }
+	color_ui = rgb { 81 177 204 }
+}
+
+WWR_Metzger = {
+	color = rgb { 178 176 177 }
+	color_ui = rgb { 178 176 177 }
+}
+
+WWR_Chick = {
+	color = rgb { 183 141 25 }
+	color_ui = rgb { 183 141 25 }
+}
+
+WWR_Swift = {
+	color = rgb { 183 141 25 }
+	color_ui = rgb { 183 141 25 }
+}
+
+WWR_Burros = {
+	color = rgb { 0 75 144 }
+	color_ui = rgb { 0 75 144 }
+}
+
+WWR_Veh = {
+	color = rgb { 178 176 177 }
+	color_ui = rgb { 178 176 177 }
+}
+
+WWR_McCalden = {
+	color = rgb { 178 176 177 }
+	color_ui = rgb { 178 176 177 }
+}
+
+BAJ_Sanchez = {
+	color = rgb { 118 76 41 }
+	color_ui = rgb { 118 76 41 }
+}
+
+PAC_LeFevre = {
+	color = rgb { 91 138 198 }
+	color_ui = rgb { 91 138 198 }
+}
+
+PAC_Foldvary = {
+	color = rgb { 91 128 39 }
+	color_ui = rgb { 91 128 39 }
+}
+
+PAC_Green = {
+	color = rgb { 0 131 5 }
+	color_ui = rgb { 0 131 5 }
+}
+
+PAC_Schulman = {
+	color = rgb { 68 123 126 }
+	color_ui = rgb { 68 123 126 }
+}
+
+PAC_Yarvin = {
+	color = rgb { 68 123 126 }
+	color_ui = rgb { 68 123 126 }
+}
+
+PAC_Allen = {
+	color = rgb { 49 59 86 }
+	color_ui = rgb { 12 45 131 }
+}
+
+PAC_Cooper = {
+	color = rgb { 49 59 86 }
+	color_ui = rgb { 12 45 131 }
+}
+
+FAM_Manson = {
+	color = rgb { 214 214 214 }
+	color_ui = rgb { 214 214 214 }
+}
+
+FAM_Wilson = {
+	color = rgb { 219 160 24 }
+	color_ui = rgb { 219 160 24 }
+}
+
+FAM_Hinckley = {
+	color = rgb { 214 214 214 }
+	color_ui = rgb { 214 214 214 }
+}
+
+FAM_Watson = {
+	color = rgb { 214 214 214 }
+	color_ui = rgb { 214 214 214 }
+}
+
+CST_McColman = {
+	color = rgb { 135 27 27 }
+	color_ui = rgb { 135 27 27 }
+}
+
+CST_Nakagawa = {
+	color = rgb { 206 187 20 }
+	color_ui = rgb { 206 187 20 }
+}
+
+CST_LaVey = {
+	color = rgb { 15 0 0 }
+	color_ui = rgb { 15 0 0 }
+}
+
+CST_Rice = {
+	color = rgb { 15 0 0 }
+	color_ui = rgb { 15 0 0 }
+}
+
+CST_Mason = {
+	color = rgb { 15 0 0 }
+	color_ui = rgb { 15 0 0 }
+}
+
+CST_Jantsang = {
+	color = rgb { 102 17 0 }
+	color_ui = rgb { 102 17 0 }
+}
+
+KAN_Sanchez = {
+	color = rgb { 175 138 6 }
+	color_ui = rgb { 175 138 6 }
+}
+
+DAK_Sanchez = {
+	color = rgb { 175 138 6 }
+	color_ui = rgb { 175 138 6 }
+}
+
+ORE_Sanchez = {
+	color = rgb { 175 138 6 }
+	color_ui = rgb { 175 138 6 }
+}
+
+ORE_war = {
+	color = rgb { 125 132 155 }
+	color_ui = rgb { 125 132 155 }
+}
+
+KAN_war = {
+	color = rgb { 86 86 86 }
+	color_ui = rgb { 86 86 86 }
+}
+
+united_states = {
+	color = rgb { 49 59 86 }
+	color_ui = rgb { 12 45 131 }
+}
+
+KYO_war = {
+	color = rgb { 131 2 2 }
+	color_ui = rgb { 131 2 2 }
+}
+TSA_war = {	
+	color = rgb { 163 127 45 }
+	color_ui = rgb { 163 127 45 }
+}
+
+FLO_Tommassi = {	
+	color = rgb { 58 76 47 }
+	color_ui = rgb {  58 76 47 }
+}
+
+ORE_Takenaka = {	
+	color = rgb { 20 5 5 }
+	color_ui = rgb {  20 5 5 }
+}
+
+ORE_Suzuki = {
+	color = rgb { 49 59 86 }
+	color_ui = rgb { 12 45 131 }
+}
+
+ORE_Ugajin = {
+	color = rgb { 0 153 0 }
+	color_ui = rgb { 0 153 0 }
+}
+
+ECO_Callenbach = {
+	color = rgb { 0 99 51 }
+	color_ui = rgb { 0 99 51 }
+}
+
+ECO_Baldwin = {
+	color = rgb { 54 127 62 }
+	color_ui = rgb { 54 127 62 }
+}
+
+CAS_Squamish = {
+	color = rgb { 49 59 86 }
+	color_ui = rgb { 49 59 86 }
+}
+
+CAS_Astoria = {
+	color = rgb { 49 59 86 }
+	color_ui = rgb { 49 59 86 }
+}
+
+CAS_Washington = {
+	color = rgb { 49 59 86 }
+	color_ui = rgb { 49 59 86 }
+}
+
+CAS_Jefferson = {
+	color = rgb { 49 59 86 }
+	color_ui = rgb { 49 59 86 }
+}
+
+CAS_Illehee = {
+	color = rgb { 49 59 86 }
+	color_ui = rgb { 49 59 86 }
+}

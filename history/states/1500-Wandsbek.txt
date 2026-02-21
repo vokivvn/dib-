@@ -1,0 +1,27 @@
+state={
+	id=1500
+	name="STATE_1500"
+
+	history={
+		victory_points = {
+			15869 20
+		}
+		owner = HAM
+		buildings = {
+			infrastructure = 7
+			telecom_infrastructure = 5
+			office_building = 2
+			industrial_complex = 3
+			arms_factory = 1
+		}
+		add_core_of = HAM
+	}
+
+	provinces={
+		15863 15869 
+	}
+	manpower=398471
+	buildings_max_level_factor=1.000
+	state_category=large_city
+	local_supplies=0.000
+}

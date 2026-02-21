@@ -1,0 +1,33 @@
+state={
+	id=1691
+	name="STATE_1691"
+
+	history={
+		owner = MED
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+			farm_estate = 1
+			dockyard = 1
+			16784 = {
+				naval_base = 2
+			}
+		}
+		victory_points = {
+			16784 8
+		}
+		victory_points = {
+			16787 3
+		}
+		add_core_of = MED
+
+	}
+
+	provinces={
+		16783 16784 16785 16786 16787 16788 
+	}
+	manpower=183924
+	buildings_max_level_factor=1.000
+	state_category=large_town
+	local_supplies=0.000
+}

@@ -1,0 +1,23 @@
+
+state={
+	id=562
+	name="STATE_562"
+
+	history={
+		owner = YAK
+		buildings = {
+			infrastructure = 1
+
+		}
+		add_core_of = YAK
+
+	}
+
+	provinces={
+		1714 11607 12518 12551 
+	}
+	manpower=63480
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+	local_supplies=0.000
+}

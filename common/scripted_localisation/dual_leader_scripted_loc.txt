@@ -1,0 +1,173 @@
+# For the Duel Leader Title, Leader Names, and custom portrait!
+
+defined_text = {
+	name = GetDualLeaderName
+	text = {
+		trigger = {
+			tag = KOR
+			has_country_flag = uisang
+			has_country_flag = dual_leader_open
+		}
+		localization_key = KOR_UISANG
+	}
+	text = {
+		localization_key = IAMERROR
+	}
+}
+defined_text = {
+	name = GetSecondTitle
+	text = {
+		trigger = {
+			tag = KOR
+			has_country_flag = uisang
+			has_country_flag = dual_leader_open
+		}
+		localization_key = KOR_UISANG_TITLE
+	}
+	text = {
+		localization_key = IAMERROR
+	}
+}
+defined_text = {
+    name = GetDualLeaderPortrait
+	text = {
+		trigger = {
+			tag = KOR
+			has_country_flag = uisang
+			has_country_flag = dual_leader_open
+		}
+		localization_key = GFX_KOR_UISANG
+	}
+	text = {
+		localization_key = IAMERROR
+	}
+}
+
+defined_text = {
+	name = GetDualLeaderName
+	text = {
+		trigger = {
+			tag = SWE
+			has_country_flag = carlgustaf
+			has_country_flag = dual_leader_open
+		}
+		localization_key = SWE_CARLGUSTAF
+	}
+	text = {
+		localization_key = IAMERROR
+	}
+}
+defined_text = {
+	name = GetSecondTitle
+	text = {
+		trigger = {
+			tag = SWE
+			has_country_flag = carlgustaf
+			has_country_flag = dual_leader_open
+		}
+		localization_key = SWE_CARLGUSTAF_TITLE
+	}
+	text = {
+		localization_key = IAMERROR
+	}
+}
+defined_text = {
+    name = GetDualLeaderPortrait
+	text = {
+		trigger = {
+			tag = SWE
+			has_country_flag = carlgustaf
+			has_country_flag = dual_leader_open
+		}
+		localization_key = GFX_SWE_CARLGUSTAF
+	}
+	text = {
+		localization_key = IAMERROR
+	}
+}
+
+defined_text = {
+	name = GetDualLeaderName
+	text = {
+		trigger = {
+			tag = BEM
+			has_country_flag = carlgustaf2
+			has_country_flag = dual_leader_open
+		}
+		localization_key = BEM_CARLGUSTAF
+	}
+	text = {
+		localization_key = IAMERROR
+	}
+}
+defined_text = {
+	name = GetSecondTitle
+	text = {
+		trigger = {
+			tag = BEM
+			has_country_flag = carlgustaf2
+			has_country_flag = dual_leader_open
+		}
+		localization_key = BEM_CARLGUSTAF_TITLE
+	}
+	text = {
+		localization_key = IAMERROR
+	}
+}
+defined_text = {
+    name = GetDualLeaderPortrait
+	text = {
+		trigger = {
+			tag = BEM
+			has_country_flag = carlgustaf2
+			has_country_flag = dual_leader_open
+		}
+		localization_key = GFX_BEM_CARLGUSTAF
+	}
+	text = {
+		localization_key = IAMERROR
+	}
+}
+
+defined_text = {
+	name = GetDualLeaderName
+	text = {
+		trigger = {
+			tag = TEI
+			has_country_flag = isabelle
+			has_country_flag = dual_leader_open
+		}
+		localization_key = TEI_ISABELLE
+	}
+	text = {
+		localization_key = IAMERROR
+	}
+}
+defined_text = {
+	name = GetSecondTitle
+	text = {
+		trigger = {
+			tag = TEI
+			has_country_flag = isabelle
+			has_country_flag = dual_leader_open
+		}
+		localization_key = TEI_ISABELLE_TITLE
+	}
+	text = {
+		localization_key = IAMERROR
+	}
+}
+defined_text = {
+    name = GetDualLeaderPortrait
+	text = {
+		trigger = {
+			tag = TEI
+			has_country_flag = isabelle
+			has_country_flag = dual_leader_open
+		}
+		localization_key = GFX_TEI_ISABELLE
+	}
+	text = {
+		localization_key = IAMERROR
+	}
+}

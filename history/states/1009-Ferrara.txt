@@ -1,0 +1,29 @@
+state={
+	id=1009
+	name="STATE_1009"
+
+	history={
+		owner = FEA
+		victory_points = {
+			6793 10 
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 2
+			air_base = 1
+			6793 = {
+				naval_base = 3
+			}
+
+		}
+		add_core_of = FEA
+	}
+
+	provinces={
+		6793 9582 
+	}
+	manpower=138015
+	buildings_max_level_factor=1.000
+	state_category=city
+	local_supplies=0.000
+}

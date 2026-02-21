@@ -1,0 +1,53 @@
+﻿capital = 745
+
+#oob = "CCT_1936"
+
+set_research_slots = 3
+set_stability = 0.75
+set_war_support = 0
+add_command_power = 20
+# Starting tech
+set_technology = {
+	infantry_weapons = 1
+	infantry_weapons1 = 1
+	tech_trucks = 1
+	tech_recon = 1
+	tech_support = 1		
+	tech_engineers = 1
+	gw_artillery = 1
+	interwar_antiair = 1
+	motorised_infantry = 1
+	fuel_silos = 1
+	fuel_refining = 1
+	marines = 1
+	basic_train = 1
+	engine_tech_1 = 1
+}
+
+set_convoys = 250
+recruit_character = CCT_stewart_mckinney
+set_country_flag = is_us_state
+
+set_variable = { CCT.CULTURE = 9 }
+set_variable = { CCT.RELIGION = 25 }
+
+
+add_ideas = {
+	CCT_Sea_To_Shining_Sea
+	CCT_Common_Law
+}
+
+set_politics = {
+	ruling_party = western_democracy
+	last_election = "1932.11.8"
+	election_frequency = 48
+	elections_allowed = no
+}
+
+set_popularities = {
+	western_democracy = 55
+	radical_democracy = 30
+	independent_socialism = 5
+	marxism = 5
+	radical_right = 5
+}

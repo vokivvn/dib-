@@ -1,0 +1,31 @@
+
+state={
+	id=939
+	name="STATE_939"
+	resources={
+		aluminium=4.000
+	}
+
+	history={
+		owner = CAY
+		add_core_of = CAY
+		buildings = {
+			infrastructure = 1
+			farm_estate = 1
+		}
+		victory_points = {
+			15193 3
+		}
+		victory_points = {
+			15194 1
+		}
+	}
+
+	provinces={
+		15146 15159 15162 15180 15187 15190 15191 15192 15193 15194 15196 15198 
+	}
+	manpower=3500
+	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=0.000
+}

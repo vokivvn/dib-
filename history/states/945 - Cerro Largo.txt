@@ -1,0 +1,38 @@
+
+state = {
+	id = 945
+	name = "STATE_945"
+	manpower = 9635562
+	
+	state_category = metropolis
+	
+	resources = {
+		steel = 2
+	}
+
+	history = { 
+		owner = NYK
+		add_core_of = NYK
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 4
+			dockyard = 2
+		}
+		victory_points = {
+			13384 10 
+		}
+		victory_points = {
+			13386 5 
+		}
+		victory_points = {
+			706 3 
+		}
+
+	}
+
+	provinces = {
+		706 3894 6911 9774 13384 13386 13387
+	}
+
+	local_supplies = 0.0 
+}

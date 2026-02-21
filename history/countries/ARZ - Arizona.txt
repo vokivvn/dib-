@@ -1,0 +1,54 @@
+﻿capital = 1436
+
+#oob = "ARZ_1936"
+
+set_research_slots = 3
+set_stability = 0.75
+set_war_support = 0
+add_command_power = 20
+# Starting tech
+set_technology = {
+	infantry_weapons = 1
+	infantry_weapons1 = 1
+	tech_trucks = 1
+	tech_recon = 1
+	tech_support = 1		
+	tech_engineers = 1
+	gw_artillery = 1
+	interwar_antiair = 1
+	motorised_infantry = 1
+	fuel_silos = 1
+	fuel_refining = 1
+	marines = 1
+	basic_train = 1
+	engine_tech_1 = 1
+}
+
+set_convoys = 0
+set_variable = { ARZ.CULTURE = 91 }
+set_variable = { ARZ.RELIGION = 72 }
+
+set_country_flag = is_us_state
+
+set_politics = {
+	ruling_party = new_right
+	last_election = "1932.11.8"
+	election_frequency = 48
+	elections_allowed = no
+}
+
+set_popularities = {
+	new_right = 70
+	western_democracy = 20
+	radical_democracy = 10
+}
+
+create_country_leader = {
+	name = "Rex Allen"
+	desc = ""
+	picture = "gfx/leaders/ARZ/Rex_Allen.png"
+	expire = "2000.1.1"
+	ideology = libertarianism
+	traits = {
+	}
+}

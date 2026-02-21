@@ -1,0 +1,30 @@
+
+state={
+	id=699
+	name="STATE_699"
+
+	history={
+		owner = CHA
+		add_core_of = CHA
+		buildings = {
+			infrastructure = 1
+			8038 = {
+				naval_base = 1
+
+			}
+
+		}
+		victory_points = {
+			8038 1 
+		}
+
+	}
+
+	provinces={
+		1958 4022 4920 5012 5046 7203 7908 7979 8035 8038 8088 8111 10731 10779 10838 10875 12857 
+	}
+	manpower=21056
+	buildings_max_level_factor=1.000
+	state_category=wasteland
+	local_supplies=0.000
+}

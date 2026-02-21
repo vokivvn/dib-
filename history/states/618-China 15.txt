@@ -1,0 +1,26 @@
+
+state={
+	id=618
+	name="STATE_618"
+
+	history={
+		owner = BEI
+		add_core_of = BEI
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+		}
+		victory_points = {
+			4823 2 
+		}
+
+	}
+
+	provinces={
+		1749 1708 1818 1844 4674 4714 4823 4849 7693 7737 10610 12427 12529 12590 12662 12737 13197
+	}
+	manpower=670800
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+	local_supplies=0.000
+}

@@ -1,0 +1,30 @@
+state={
+	id=1635
+	name="STATE_1635"
+
+	history={
+		owner = MRJ
+		add_core_of = MRJ
+		buildings = {
+			infrastructure = 4
+			dockyard = 1
+			industrial_complex = 1
+			office_building = 1
+			16542 = {
+				naval_base = 2
+			}
+		}
+		victory_points = {
+			16542 20 
+		}
+
+	}
+
+	provinces={
+		16541 16542 16543 
+	}
+	manpower=209221
+	buildings_max_level_factor=1.000
+	state_category=city
+	local_supplies=0.000
+}

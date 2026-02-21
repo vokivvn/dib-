@@ -1,0 +1,30 @@
+state={
+	id=1813
+	name="STATE_1813"
+
+	history = {
+
+		owner = HYR
+		add_core_of = HYR
+		victory_points = {
+			17163 1 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			17163 = {
+				naval_base = 8
+				coastal_bunker = 3
+			}
+		}
+		
+	}
+
+	provinces={
+		17163
+	}
+	manpower=859270
+	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=0.000
+}

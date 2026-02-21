@@ -1,0 +1,27 @@
+state={
+	id=1608
+	name="STATE_1608"
+
+	history={
+		owner = NEV
+		victory_points = {
+			16461 5
+		}
+		victory_points = {
+			16460 1
+		}
+		buildings = {
+			infrastructure = 1
+		}
+		add_core_of = NEV
+		add_claim_by = NAU
+	}
+
+	provinces={
+		7827 16459 16460 16461 16462 16463 16464 16465 16466 16467 16468 
+	}
+	manpower=4076
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+	local_supplies=0.000
+}

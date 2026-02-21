@@ -1,0 +1,50 @@
+state={
+	id=987
+	name="STATE_987"
+
+	history={
+		owner = MSP
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 3
+			arms_factory = 2
+		}
+		add_core_of = MSP
+		victory_points = {
+			13518 15 
+		}
+		victory_points = {
+			13524 10 
+		}
+		victory_points = {
+			4567 10 
+		}
+		victory_points = {
+			13519 5
+		}
+		victory_points = {
+			10477 3
+		}
+		victory_points = {
+			13529 3
+		}
+		victory_points = {
+			13531 3
+		}
+		victory_points = {
+			13523 3
+		}
+		victory_points = {
+			13512 1
+		}
+
+	}
+
+	provinces={
+		1534 4444 4567 4597 7586 10370 10477 12463 13512 13517 13518 13519 13520 13521 13522 13523 13524 13525 13526 13529 13530 13531 
+	}
+	manpower=2489266
+	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=9.000
+}

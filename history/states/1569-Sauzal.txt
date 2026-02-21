@@ -1,0 +1,25 @@
+state={
+	id=1569
+	name="STATE_1569"
+
+	history={
+		owner = CAL
+		buildings = {
+			infrastructure = 2
+			farm_estate = 2
+		}
+		add_core_of = CAL
+		victory_points = {
+			16202 4
+		}
+
+	}
+
+	provinces={
+		16189 16201 16202 
+	}
+	manpower=14371
+	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=0.000
+}

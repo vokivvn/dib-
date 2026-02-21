@@ -1,0 +1,29 @@
+state={
+	id=762
+	name="STATE_762"
+	provinces={
+		4464 7480 7524 7668
+	}
+	manpower=968287
+	state_category = large_town
+	history={
+		owner = FLO
+		victory_points = {
+			7480 10 
+		}
+		victory_points = {
+			4464 5 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+			dockyard = 1
+			7480 = {
+				naval_base = 5
+			}
+		}
+		add_core_of = FLO
+	}
+
+	local_supplies=0.0 
+}

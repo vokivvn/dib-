@@ -1,0 +1,24 @@
+on_actions = {
+	on_startup = {
+		effect = {
+            every_country = {
+                limit = { is_ai = no }
+                country_event = CTM.1
+            }
+			every_country = {
+                limit = { is_ai = no }
+                country_event = CTM.2
+            }
+        }
+	}
+    on_weekly_ZZZ = {
+		effect = {
+			force_update_map_mode = {
+				mapmode = culture_map_mode
+			}
+			force_update_map_mode = {
+				mapmode = religion_map_mode
+			}
+		}
+	}
+}

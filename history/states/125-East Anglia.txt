@@ -1,0 +1,32 @@
+
+state={
+	id=125
+	name="STATE_125"
+	manpower = 3234256
+	
+	state_category = metropolis
+
+	history={
+		owner = FRO
+		victory_points = { 14810 40 }
+		victory_points = { 14807 10 }
+		victory_points = { 14809 10 }
+		buildings = {
+			infrastructure = 7
+			telecom_infrastructure = 4
+			arms_factory = 2
+			industrial_complex = 3
+			office_building = 3
+			271 = {
+				naval_base = 3
+			}
+		}
+		add_core_of = FRO
+	}
+
+	provinces={
+		14804 14807 14808 14809 14810 14811 14812 
+	}
+
+	local_supplies=0.0 
+}

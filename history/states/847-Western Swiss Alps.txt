@@ -1,0 +1,33 @@
+
+state={
+	id=847
+	name="STATE_847"
+
+	history={
+		owner = CNC
+		victory_points = {
+			13458 10 
+		}
+		victory_points = {
+			13478 5 
+		}
+		buildings = {
+			infrastructure = 2
+			arms_factory = 1
+			dockyard = 1
+			13458 = {
+				naval_base = 2
+			}
+		}
+		add_core_of = CNC
+
+	}
+
+	provinces={
+		13458 13477 13478 
+	}
+	manpower=73090
+	buildings_max_level_factor=1.000
+	state_category=small_island
+	local_supplies=3.000
+}

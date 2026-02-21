@@ -1,0 +1,45 @@
+﻿capital = 114
+
+starting_train_buffer = 1.5
+
+set_research_slots = 4
+set_stability = 0.6
+set_war_support = 0.7
+
+# Starting tech
+set_technology = {
+	infantry_weapons = 1
+	infantry_weapons1 = 1
+	tech_support = 1		
+	tech_engineers = 1
+	tech_mountaineers = 1
+	tech_trucks = 1
+	motorised_infantry = 1
+	gw_artillery = 1
+	interwar_antiair = 1
+	trench_warfare = 1
+	fleet_in_being = 1
+	fuel_silos = 1
+	fuel_refining = 1
+	basic_train = 1
+}
+set_convoys = 180
+
+set_politics = {
+	ruling_party = obscurantism
+	last_election = "1934.3.26"
+	election_frequency = 60
+	elections_allowed = no
+}
+set_popularities = {
+	obscurantism = 100
+}
+create_country_leader = {
+	name = "Vittorio Emanuele IV"
+	desc = ""
+	picture = "gfx/leaders/ITA/Vittorio_Emanuele_IV.png"
+	expire = "2000.1.1"
+	ideology = obscurantism_id
+	traits = {
+	}
+}

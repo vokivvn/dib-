@@ -1,0 +1,11 @@
+NDefines_Graphics.NGraphics.GRADIENT_BORDERS_COUNTRY_CENTER_THICKNESS = 0.0 -- Original 2.0 // Толщина цветного аутлайна
+NDefines_Graphics.NGraphics.BORDER_WIDTH = 1.0 -- Original 1.5 // Общий модификатор толщины границы между тайлами стран/регионов/провинций
+NDefines_Graphics.NGraphics.GRADIENT_BORDERS_THICKNESS_COUNTRY_LOW = 10.0 -- Original 5.0 // толщина внутренней подсветки маленькой страны
+NDefines_Graphics.NGraphics.GRADIENT_BORDERS_THICKNESS_COUNTRY_HIGH = 10.0 -- Original 25.0 // толщина внутренней подсветки большой(? и маленькой) страны
+NDefines.NGraphics.SUN_HEIGHT = 1500
+NDefines.NGraphics.SUN_INTENSITY = 0.9
+NDefines.NGraphics.MOON_HEIGHT = 1500
+NDefines.NGraphics.MOON_INTENSITY = 0.9
+NDefines_Graphics.NGraphics.BLOOM_SCALE = 0.0
+NDefines.NFrontend.CAMERA_MIN_HEIGHT = 70
+NDefines.NFrontend.CAMERA_MAX_HEIGHT = 3000

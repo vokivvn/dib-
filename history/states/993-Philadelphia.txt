@@ -1,0 +1,38 @@
+state={
+	id=993
+	name="STATE_993"
+
+	history={
+		owner = PEN
+		buildings = {
+			infrastructure = 5
+			telecom_infrastructure = 4
+			industrial_complex = 3
+			arms_factory = 2
+			dockyard = 2
+			air_base = 2
+			6845 = {
+				naval_base = 8
+			}
+
+		}
+		add_core_of = PEN
+		victory_points = {
+			6845 20 
+		}
+		victory_points = {
+			13558 20 
+		}
+		victory_points = {
+			13556 20 
+		}
+	}
+
+	provinces={
+		6845 13556 13557 13558 
+	}
+	manpower=1585577
+	buildings_max_level_factor=1.000
+	state_category=metropolis
+	local_supplies=12.000
+}

@@ -1,0 +1,24 @@
+state={
+	id=1354
+	name="STATE_1354"
+
+	history={
+		owner = GRG
+		add_core_of = GRG
+		buildings = {
+			infrastructure = 2
+			farm_estate = 1
+		}
+		victory_points = {
+			15108 3 
+		}
+	}
+
+	provinces={
+		12470 15103 15107 15108 
+	}
+	manpower=43830
+	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=0.000
+}

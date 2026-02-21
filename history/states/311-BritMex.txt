@@ -1,0 +1,26 @@
+state=
+{
+	id=311
+	name="STATE_311"
+	manpower = 297774
+	
+	state_category = rural
+	history={
+		add_core_of = BLZ
+		owner = BLZ
+		victory_points = {
+			14158 5 
+		}
+		victory_points = {
+			14167 3 
+		}
+		buildings = {
+			infrastructure = 1
+			farm_estate = 1
+		}
+	}
+	provinces={
+		14158 14159 14160 14162 14166 14167 14168 
+	}
+	local_supplies=0.0 
+}

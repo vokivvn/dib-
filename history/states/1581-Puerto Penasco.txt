@@ -1,0 +1,30 @@
+state={
+	id=1581
+	name="STATE_1581"
+
+	history={
+		owner = SON
+		buildings = {
+			infrastructure = 6
+			telecom_infrastructure = 3
+			office_building = 1
+			industrial_complex = 2
+			16240 = {
+				naval_base = 7
+			}
+		}
+		add_core_of = SON
+		add_claim_by = ARZ
+		victory_points = {
+			16240 25
+		}
+	}
+
+	provinces={
+		16240 
+	}
+	manpower=392033
+	buildings_max_level_factor=1.000
+	state_category=city
+	local_supplies=0.000
+}

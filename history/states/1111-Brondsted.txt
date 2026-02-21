@@ -1,0 +1,23 @@
+state={
+	id=1111
+	name="STATE_1111"
+
+	history={
+		owner = TAC
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 2
+			dockyard = 2
+		}
+		add_core_of = TAC
+
+	}
+
+	provinces={
+		13875 13877 13878 13879 13880 13881 13882 13883 13884 
+	}
+	manpower=500000
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

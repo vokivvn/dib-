@@ -1,0 +1,29 @@
+state={
+	id=1264
+	name="STATE_1264"
+
+	history={
+		owner = CRC
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			arms_factory = 1
+			farm_estate = 1
+		}
+		add_core_of = CRC
+		victory_points = {
+			14690 5
+		}
+		victory_points = {
+			14696 5
+		}
+	}
+
+	provinces={
+		1944 14690 14691 14696 
+	}
+	manpower=446757
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

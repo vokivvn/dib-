@@ -1,0 +1,14 @@
+characters={
+	CCT_stewart_mckinney={
+		name="Stewart McKinney"
+		portraits={
+			civilian={
+				large=GFX_portrait_stewart_mckinney
+			}
+		}
+		country_leader={
+			ideology=new_liberalism
+			expire="2000.1.1.1"
+		}
+	}
+}

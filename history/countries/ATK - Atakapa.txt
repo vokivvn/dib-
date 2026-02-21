@@ -1,0 +1,57 @@
+﻿capital = 1033
+
+#oob = "ATK_1936"
+
+set_variable = { ATK.CULTURE = 52 }
+set_variable = { ATK.RELIGION = 12 }
+
+set_research_slots = 3
+set_stability = 0.75
+set_war_support = 0
+add_command_power = 20
+# Starting tech
+set_technology = {
+	infantry_weapons = 1
+	infantry_weapons1 = 1
+	tech_trucks = 1
+	tech_recon = 1
+	tech_support = 1		
+	tech_engineers = 1
+	gw_artillery = 1
+	interwar_antiair = 1
+	motorised_infantry = 1
+	fuel_silos = 1
+	fuel_refining = 1
+	marines = 1
+	basic_train = 1
+	engine_tech_1 = 1
+}
+
+set_convoys = 20
+
+add_ideas = {
+	ATK_Thems_Good_Eatin
+	ATK_Bayou_Brotherhood
+	ATK_The_Old_Ways
+}
+
+set_politics = {
+	ruling_party = oriental_despotism
+	last_election = "1932.11.8"
+	election_frequency = 48
+	elections_allowed = no
+}
+
+set_popularities = {
+	oriental_despotism = 100
+}
+
+create_country_leader = {
+	name = "Élise Hiyekiti-Tussaud"
+	desc = ""
+	picture = "gfx/leaders/ATK/Élise_Hiyekiti-Tussaud.png"
+	expire = "2000.1.1"
+	ideology = tribal_absolutism
+	traits = {
+	}
+}

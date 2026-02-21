@@ -1,0 +1,37 @@
+﻿capital = 165
+
+#oob = ""
+
+# Starting tech
+set_technology = {
+	infantry_weapons = 1
+	infantry_weapons1 = 1
+	tech_recon = 1
+	tech_support = 1		
+	tech_engineers = 1
+	tech_mountaineers = 1
+	tech_trucks = 1
+	gw_artillery = 1
+	interwar_antiair = 1
+}
+
+set_convoys = 20
+
+set_politics = {
+	ruling_party = anarchism
+	last_election = "1936.1.1"
+	election_frequency = 48
+	elections_allowed = no
+}
+set_popularities = {
+	anarchism = 100
+}
+create_country_leader = {
+	name = "Francisco Ponzán"
+	desc = ""
+	picture = "gfx/leaders/ARA/Francisco_Ponzán.png"
+	expire = "2000.1.1"
+	ideology = anarcho_syndicalism
+	traits = {
+	}
+}

@@ -1,0 +1,28 @@
+﻿capital = 1132
+
+# Starting tech
+set_technology = {
+	infantry_weapons = 1
+}
+
+set_convoys = 320
+
+set_politics = {
+	ruling_party = occidental_despotism
+	last_election = "1936.1.1"
+	election_frequency = 48
+	elections_allowed = no
+}
+set_popularities = {
+	occidental_despotism = 100
+}
+
+create_country_leader = {
+	name = "Philip Mountbatten"
+	desc = ""
+	picture = "gfx/leaders/LEM/Philip_2.png"
+	expire = "2000.1.1"
+	ideology = colonial_government
+	traits = {
+	}
+}

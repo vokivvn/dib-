@@ -1,0 +1,31 @@
+state={
+	id=990
+	name="STATE_990"
+
+	history={
+		victory_points = {
+			11592 5
+		}
+		victory_points = {
+			13543 3
+		}
+		victory_points = {
+			3649 3
+		}
+		owner = TRA
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+		}
+		add_core_of = TRA
+
+	}
+
+	provinces={
+		3649 11592 13543 13544 13545 
+	}
+	manpower=375794
+	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=3.000
+}

@@ -1,0 +1,87 @@
+bookmarks = {
+	bookmark = {
+		name = "DIB2_NAME"
+		desc = "DIB2_DESC"
+		date = 1985.5.1.12
+		picture = "GFX_select_date_2"
+		default_country = "ENG"
+		default = yes
+		
+		ENG={
+			history = "ENG"
+			ideology = occidental_despotism
+			ideas = {
+			}
+			focuses = {
+			}
+		}
+
+        GER={
+			history = "GER"
+			ideology = western_democracy
+			ideas = {
+			}
+			focuses = {
+			}
+		}
+
+        FRA={
+			history = "FRA"
+			ideology = marxism
+			ideas = {
+			}
+			focuses = {
+			}
+		}
+
+		BRG={
+			history = "BRG"
+			ideology = radical_democracy
+			ideas = {
+			}
+			focuses = {
+			}
+		}
+
+		PAP={
+			history = "PAP"
+			ideology = obscurantism
+			ideas = {
+			}
+			focuses = {
+			}
+		}
+
+		LBV={
+			history = "LBV"
+			ideology = occidental_despotism
+			ideas = {
+			}
+			focuses = {
+			}
+		}
+
+        PRE={
+			history = "PRE"
+			ideology = obscurantism
+			ideas = {
+			}
+			focuses = {
+			}
+		}
+
+        SOV={
+			history = "SOV"
+			ideology = western_democracy
+			ideas = {
+			}
+			focuses = {
+			}
+		}
+		
+		effect = {
+			randomize_weather = 22345 # <- Obligatory in every bookmark !
+			#123 = { rain_light = yes }
+		}
+	}
+}

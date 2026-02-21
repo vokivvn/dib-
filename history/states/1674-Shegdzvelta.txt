@@ -1,0 +1,27 @@
+state={
+	id=1674
+	name="STATE_1674"
+
+	history={
+		owner = ARM
+		add_core_of = ARM
+		victory_points = {
+			16686 7
+		}
+		buildings = {
+			infrastructure = 4
+			farm_estate = 2
+			industrial_complex = 1
+			arms_factory = 1
+		}
+
+	}
+
+	provinces={
+		16683 16686 16717 16718 
+	}
+	manpower=402924
+	buildings_max_level_factor=1.000
+	state_category=large_town
+	local_supplies=0.000
+}

@@ -1,0 +1,25 @@
+state={
+	id=1750
+	name="STATE_1750"
+
+	history={
+		owner = GEN
+		victory_points = {
+			16995 2
+		}
+		buildings = {
+			infrastructure = 2
+			farm_estate = 1
+		}
+		add_core_of = GEN
+
+	}
+
+	provinces={
+		16982 16995 
+	}
+	manpower=14023
+	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=0.000
+}

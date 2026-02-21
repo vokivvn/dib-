@@ -1,0 +1,28 @@
+state= {
+	id=380
+	name="STATE_380"
+	manpower = 507846
+	
+	state_category = rural
+	
+	resources={
+		tungsten=76 # was: 106
+	}
+
+	history={
+		owner = NAU
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+		}
+		add_core_of = NAU
+		victory_points = {
+			4865 1 
+		}
+	}
+	provinces={
+		1663 1740 1756 4668 4742 4865 6887 7684 7764 7818 7999 9792 10535 10582 10651 10662 12573 12633 12699 13153 13401 13402 13403 13404 16330 16331 16332 16333 16366 16427
+	}
+
+	local_supplies=0.0 
+}

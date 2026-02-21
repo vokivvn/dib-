@@ -1,0 +1,27 @@
+state={
+	id=1200
+	name="STATE_1200"
+
+	history={
+		owner = HON
+		buildings = {
+			infrastructure = 2
+			farm_estate = 1
+		}
+		add_core_of = HON
+		victory_points = {
+			14321 3
+		}
+		victory_points = {
+			14317 1
+		}
+	}
+
+	provinces={
+		14316 14317 14320 14321 
+	}
+	manpower=198090
+	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=0.000
+}

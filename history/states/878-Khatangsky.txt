@@ -1,0 +1,23 @@
+
+state={
+	id=878
+	name="STATE_878"
+
+	history={
+		owner = ARS
+		buildings = {
+			infrastructure = 1
+
+		}
+		add_core_of = ARS
+
+	}
+
+	provinces={
+		4812 12687 13065 
+	}
+	manpower=15974
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+	local_supplies=0.000
+}

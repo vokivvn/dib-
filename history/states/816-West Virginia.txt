@@ -1,0 +1,28 @@
+
+state={
+	id=816
+	name="STATE_816"
+
+	history={
+		owner = VIR
+		add_core_of = VIR
+		buildings = {
+			industrial_complex = 2
+			infrastructure = 3
+			air_base = 3
+
+		}
+		victory_points = {
+			7588 3 
+		}
+
+	}
+
+	provinces={
+		801 3975 4627 6850 6971 7588 10441 
+	}
+	manpower=1901974
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

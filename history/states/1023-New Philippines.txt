@@ -1,0 +1,40 @@
+state={
+	id=1023
+	name="STATE_1023"
+
+	history={
+		owner = CUB
+		buildings = {
+			infrastructure = 3
+			arms_factory = 1
+			industrial_complex = 3
+			air_base = 1
+			13540 = {
+				naval_base = 3
+			}
+			13620 = {
+				naval_base = 3
+			}
+
+		}
+		add_core_of = CUB
+		victory_points = {
+			13540 10 
+		}
+		victory_points = {
+			13620 5 
+		}
+		victory_points = {
+			13617 5 
+		}
+
+	}
+
+	provinces={
+		4600 13540 13617 13620 
+	}
+	manpower=937900
+	buildings_max_level_factor=1.000
+	state_category=large_town
+	local_supplies=0.000
+}

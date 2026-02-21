@@ -1,0 +1,25 @@
+state={
+	id=1755
+	name="STATE_1755"
+
+	history={
+		owner = GTH
+		victory_points = {
+			16986 2
+		}
+		buildings = {
+			infrastructure = 2
+			farm_estate = 1
+		}
+		add_core_of = GTH
+
+	}
+
+	provinces={
+		16985 16986 16987 
+	}
+	manpower=98323
+	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=0.000
+}

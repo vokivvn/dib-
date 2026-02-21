@@ -1,0 +1,29 @@
+
+state={
+	id=188
+	name="STATE_188"
+
+	history={
+		owner = FLO
+		victory_points = {
+			13482 3 
+		}
+		buildings = {
+			infrastructure = 1
+			13464 = {
+				naval_base = 6
+			}
+
+		}
+		add_core_of = FLO
+
+	}
+
+	provinces={
+		13462 13463 13482 13483 
+	}
+	manpower=747534
+	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=0.000
+}

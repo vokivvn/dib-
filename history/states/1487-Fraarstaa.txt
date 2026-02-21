@@ -1,0 +1,29 @@
+state={
+	id=1487
+	name="STATE_1487"
+
+	history={
+		victory_points = {
+			15826 8 
+		}
+		owner = NFR
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			dockyard = 1
+			15826 = {
+				naval_base = 3
+			}
+		}
+		add_core_of = NFR
+
+	}
+
+	provinces={
+		15822 15826 15828 
+	}
+	manpower=87293
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

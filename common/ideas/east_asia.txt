@@ -1,0 +1,67 @@
+ideas = {
+	country = {
+		KOR_the_good_gooks = {
+			picture = KOR_the_good_gooks
+			allowed = {
+				tag = KOR
+			}
+
+            available = {
+               	tag = KOR
+            }
+
+            cancel = {
+              
+            }
+
+			allowed_civil_war = {
+				always = no
+			}
+			
+			modifier = {
+			}
+		}
+		KOR_silver_pagoda = {
+			picture = KOR_silver_pagoda
+			allowed = {
+				tag = KOR
+			}
+
+            available = {
+               	tag = KOR
+            }
+
+            cancel = {
+              
+            }
+
+			allowed_civil_war = {
+				always = no
+			}
+			
+			modifier = {
+			}
+		}
+		KOR_atmaghatadharma = {
+			picture = KOR_atmaghatadharma
+			allowed = {
+				tag = KOR
+			}
+
+            available = {
+               	tag = KOR
+            }
+
+            cancel = {
+              
+            }
+
+			allowed_civil_war = {
+				always = no
+			}
+			
+			modifier = {
+			}
+		}
+	}
+}

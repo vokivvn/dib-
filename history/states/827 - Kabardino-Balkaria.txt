@@ -1,0 +1,24 @@
+state = {
+	id = 827
+	name = "STATE_827"
+
+	history = {
+		owner = ORE
+		victory_points = {
+			13413 3 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+		}
+		add_core_of = ORE
+	}
+
+	provinces = {
+		13413
+	}
+	manpower = 87990
+	buildings_max_level_factor = 1.000
+	state_category = rural
+	local_supplies = 0.0 
+}

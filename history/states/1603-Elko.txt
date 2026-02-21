@@ -1,0 +1,32 @@
+state={
+	id=1603
+	name="STATE_1603"
+
+	history={
+		owner = NEV
+		victory_points = {
+			16335 10
+		}
+		victory_points = {
+			16341 1
+		}
+		victory_points = {
+			16348 1
+		}
+		buildings = {
+			infrastructure = 2
+			farm_estate = 1
+			industrial_complex = 1
+		}
+		add_core_of = NEV
+		add_claim_by = NAU
+	}
+
+	provinces={
+		13690 16335 16336 16337 16338 16339 16340 16341 16342 16343 16344 16345 16346 16347 16348 16349 16350 16351 
+	}
+	manpower=13958
+	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=0.000
+}

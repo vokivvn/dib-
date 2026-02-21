@@ -1,0 +1,15 @@
+state={
+	id=965
+	name="STATE_965"
+	provinces={
+		5232 12965 13327 13328 13329 13330 13332 13335 13336 13360
+	}
+	history={
+		owner = CUR
+		add_core_of = CUR
+	}
+	manpower=21987
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	state_category=wasteland
+}

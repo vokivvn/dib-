@@ -1,0 +1,17 @@
+#focus_tree = {
+#	id = LAS_warlord
+#	country = {
+#		factor = 0
+#		modifier = {
+#			add = 250
+#            OR = {
+#			tag = LAS
+#            tag = WWR
+#            tag = BAJ
+#            tag = SYM
+#            }
+#		}
+#	}
+#	shared_focus = LAS_the_battle_for_angeles
+#}
+#experimental

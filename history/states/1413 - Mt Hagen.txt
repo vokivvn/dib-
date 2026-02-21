@@ -1,0 +1,26 @@
+state={
+	id=1413
+	name="STATE_1413"
+
+	history={
+		owner = MTH
+		victory_points = {
+			15451 3
+		}
+		buildings = {
+			infrastructure = 3
+			farm_estate = 2
+			arms_factory = 1
+		}
+		add_core_of = MTH
+
+	}
+
+	provinces={
+		15451 15452 15453 15454
+	}
+	manpower=80299
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

@@ -1,0 +1,37 @@
+state={
+	id=1018
+	name="STATE_1018"
+
+	history={
+		owner = MAS
+		buildings = {
+			infrastructure = 3
+			arms_factory = 1
+			industrial_complex = 3
+			dockyard = 2
+			air_base = 1
+			1338 = {
+				naval_base = 3
+			}
+		}
+		add_core_of = MAS
+		victory_points = {
+			13608 15 
+		}
+		victory_points = {
+			13609 5 
+		}
+		victory_points = {
+			1338 3 
+		}
+
+	}
+
+	provinces={
+		1338 1619 13606 13607 13608 13609 13610 
+	}
+	manpower=120280
+	buildings_max_level_factor=1.000
+	state_category=large_town
+	local_supplies=9.000
+}

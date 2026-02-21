@@ -1,0 +1,41 @@
+
+state={
+	id=808
+	name="STATE_808"
+	resources={
+		steel=1.000
+	}
+
+	history={
+		owner = HNS
+		victory_points = {
+			9340 15 
+		}
+		victory_points = {
+			3296 5 
+		}
+		victory_points = {
+			6322 5 
+		}
+		buildings = {
+			infrastructure = 4
+			telecom_infrastructure = 1
+			arms_factory = 2
+			industrial_complex = 3
+			dockyard = 2
+			9340 = {
+				naval_base = 5
+			}
+		}
+		add_core_of = HNS
+
+	}
+
+	provinces={
+		3296 3525 6222 6322 9340 
+	}
+	manpower=1155219
+	buildings_max_level_factor=1.000
+	state_category=large_city
+	local_supplies=5.000
+}

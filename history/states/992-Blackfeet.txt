@@ -1,0 +1,24 @@
+state={
+	id=992
+	name="STATE_992"
+
+	history={
+		owner = BLK
+		buildings = {
+			infrastructure = 1
+		}
+		add_core_of = BLK
+		victory_points = {
+			10624 1 
+		}
+
+	}
+
+	provinces={
+		4863 7883 10593 10624 
+	}
+	manpower=717321
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+	local_supplies=3.000
+}

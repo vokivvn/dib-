@@ -1,0 +1,1642 @@
+
+defined_text = {
+	name = CULTURE_NAME
+	text = {
+		trigger = {
+			check_variable = { ROOT.CULTURE = 1 }
+		}
+		localization_key = afroamerican
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.CULTURE = 2 }
+		}
+		localization_key = alleghenian
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.CULTURE = 3 }
+		}
+		localization_key = californian
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.CULTURE = 4 }
+		}
+		localization_key = floridian
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.CULTURE = 5 }
+		}
+		localization_key = hoosier
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.CULTURE = 6 }
+		}
+		localization_key = mexiamerican
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.CULTURE = 7 }
+		}
+		localization_key = nauvooan
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.CULTURE = 8 }
+		}
+		localization_key = nevadan
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.CULTURE = 9 }
+		}
+		localization_key = new_english
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.CULTURE = 10 }
+		}
+		localization_key = new_yorker
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.CULTURE = 11 }
+		}
+		localization_key = oregonian
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.CULTURE = 12 }
+		}
+		localization_key = pennamite
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.CULTURE = 13 }
+		}
+		localization_key = texan
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.CULTURE = 14 }
+		}
+		localization_key = argentine
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.CULTURE = 15 }
+		}
+		localization_key = coabano
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.CULTURE = 16 }
+		}
+		localization_key = nichi_ei
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.CULTURE = 17 }
+		}
+		localization_key = cornish
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.CULTURE = 18 }
+		}
+		localization_key = english
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.CULTURE = 19 }
+		}
+		localization_key = welsh
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.CULTURE = 20 }
+		}
+		localization_key = hungarian
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.CULTURE = 21 }
+		}
+		localization_key = han
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.CULTURE = 22 }
+		}
+		localization_key = byelorussian
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.CULTURE = 23 }
+		}
+		localization_key = muscovite
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.CULTURE = 24 }
+		}
+		localization_key = novgorodian
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.CULTURE = 25 }
+		}
+		localization_key = ukrainian
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.CULTURE = 26 }
+		}
+		localization_key = burgundian
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.CULTURE = 27 }
+		}
+		localization_key = french
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.CULTURE = 28 }
+		}
+		localization_key = acadian
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.CULTURE = 29 }
+		}
+		localization_key = cajun
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.CULTURE = 30 }
+		}
+		localization_key = dutch
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.CULTURE = 31 }
+		}
+		localization_key = prussian
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.CULTURE = 32 }
+		}
+		localization_key = welserlander
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.CULTURE = 33 }
+		}
+		localization_key = persian
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.CULTURE = 34 }
+		}
+		localization_key = yamato
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.CULTURE = 35 }
+		}
+		localization_key = amerikal
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.CULTURE = 36 }
+		}
+		localization_key = disturk
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.CULTURE = 37 }
+		}
+		localization_key = fredonyan
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.CULTURE = 38 }
+		}
+		localization_key = kreol
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.CULTURE = 39 }
+		}
+		localization_key = joseon_in
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.CULTURE = 40 }
+		}
+		localization_key = khmer
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.CULTURE = 41 }
+		}
+		localization_key = saka
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.CULTURE = 42 }
+		}
+		localization_key = michigander
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.CULTURE = 43 }
+		}
+		localization_key = colombiano
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.CULTURE = 44 }
+		}
+		localization_key = quiche
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.CULTURE = 45 }
+		}
+		localization_key = chorti
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.CULTURE = 46 }
+		}
+		localization_key = lenca
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.CULTURE = 47 }
+		}
+		localization_key = itza
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.CULTURE = 48 }
+		}
+		localization_key = garifuna
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.CULTURE = 49 }
+		}
+		localization_key = plautdietsch
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.CULTURE = 50 }
+		}
+		localization_key = frisian
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.CULTURE = 51 }
+		}
+		localization_key = fulnio
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.CULTURE = 52 }
+		}
+		localization_key = atakapa
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.CULTURE = 53 }
+		}
+		localization_key = mexican
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.CULTURE = 54 }
+		}
+		localization_key = miskito
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.CULTURE = 55 }
+		}
+		localization_key = rama
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.CULTURE = 56 }
+		}
+		localization_key = minhotan
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.CULTURE = 57 }
+		}
+		localization_key = guahibo
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.CULTURE = 58 }
+		}
+		localization_key = puinave
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.CULTURE = 59 }
+		}
+		localization_key = riverian
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.CULTURE = 60 }
+		}
+		localization_key = wallisian
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.CULTURE = 61 }
+		}
+		localization_key = papiamento
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.CULTURE = 62 }
+		}
+		localization_key = wayuu
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.CULTURE = 63 }
+		}
+		localization_key = chimila
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.CULTURE = 64 }
+		}
+		localization_key = avonturier
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.CULTURE = 65 }
+		}
+		localization_key = carib
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.CULTURE = 66 }
+		}
+		localization_key = taya
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.CULTURE = 67 }
+		}
+		localization_key = ruritanian
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.CULTURE = 68 }
+		}
+		localization_key = oostengellander
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.CULTURE = 69 }
+		}
+		localization_key = dheyvi
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.CULTURE = 70 }
+		}
+		localization_key = malagasy
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.CULTURE = 71 }
+		}
+		localization_key = karipuna
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.CULTURE = 72 }
+		}
+		localization_key = bushinengue
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.CULTURE = 73 }
+		}
+		localization_key = wayampi
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.CULTURE = 74 }
+		}
+		localization_key = appalachian
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.CULTURE = 75 }
+		}
+		localization_key = brazamerican
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.CULTURE = 76 }
+		}
+		localization_key = mcintoshian
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.CULTURE = 77 }
+		}
+		localization_key = akawaio
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.CULTURE = 78 }
+		}
+		localization_key = makushi
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.CULTURE = 79 }
+		}
+		localization_key = patamona
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.CULTURE = 80 }
+		}
+		localization_key = uaiana
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.CULTURE = 81 }
+		}
+		localization_key = wapishana
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.CULTURE = 82 }
+		}
+		localization_key = kromantyn
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.CULTURE = 83 }
+		}
+		localization_key = indoguyanese
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.CULTURE = 84 }
+		}
+		localization_key = sephardi
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.CULTURE = 85 }
+		}
+		localization_key = eastindian
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.CULTURE = 86 }
+		}
+		localization_key = navajo
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.CULTURE = 87 }
+		}
+		localization_key = hopi
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.CULTURE = 88 }
+		}
+		localization_key = ute
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.CULTURE = 89 }
+		}
+		localization_key = zuni
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.CULTURE = 90 }
+		}
+		localization_key = hagendeutsch
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.CULTURE = 91 }
+		}
+		localization_key = arizonan
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.CULTURE = 92 }
+		}
+		localization_key = apache
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.CULTURE = 93 }
+		}
+		localization_key = oodham
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.CULTURE = 94 }
+		}
+		localization_key = paiute
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.CULTURE = 95 }
+		}
+		localization_key = cocopah
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.CULTURE = 96 }
+		}
+		localization_key = havasupai
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.CULTURE = 97 }
+		}
+		localization_key = hualapai
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.CULTURE = 98 }
+		}
+		localization_key = maricopa
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.CULTURE = 99 }
+		}
+		localization_key = mohave
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.CULTURE = 100 }
+		}
+		localization_key = quechan
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.CULTURE = 101 }
+		}
+		localization_key = yavapai
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.CULTURE = 102 }
+		}
+		localization_key = keres
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.CULTURE = 103 }
+		}
+		localization_key = delaware
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.CULTURE = 104 }
+		}
+		localization_key = ottawa
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.CULTURE = 105 }
+		}
+		localization_key = shawnee
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.CULTURE = 106 }
+		}
+		localization_key = wiyot
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.CULTURE = 107 }
+		}
+		localization_key = miami
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.CULTURE = 108 }
+		}
+		localization_key = seneca
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.CULTURE = 109 }
+		}
+		localization_key = wyandot
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.CULTURE = 110 }
+		}
+		localization_key = draxian
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.CULTURE = 111 }
+		}
+		localization_key = komori
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.CULTURE = 112 }
+		}
+		localization_key = makua
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.CULTURE = 113 }
+		}
+		localization_key = low_saxon
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.CULTURE = 114 }
+		}
+		localization_key = north_frisian
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.CULTURE = 115 }
+		}
+		localization_key = kongo
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.CULTURE = 116 }
+		}
+		localization_key = tropican
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.CULTURE = 117 }
+		}
+		localization_key = kampot
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.CULTURE = 118 }
+		}
+		localization_key = quilombola
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.CULTURE = 119 }
+		}
+		localization_key = munduruku
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.CULTURE = 120 }
+		}
+		localization_key = mebengokre
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.CULTURE = 121 }
+		}
+		localization_key = llanero
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.CULTURE = 122 }
+		}
+		localization_key = chicano
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.CULTURE = 123 }
+		}
+		localization_key = gitano
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.CULTURE = 124 }
+		}
+		localization_key = morisco
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.CULTURE = 125 }
+		}
+		localization_key = andalusian
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.CULTURE = 126 }
+		}
+		localization_key = equinoxiale
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.CULTURE = 127 }
+		}
+		localization_key = quillamaru
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.CULTURE = 128 }
+		}
+		localization_key = kumeyaay
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.CULTURE = 129 }
+		}
+		localization_key = chan
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.CULTURE = 130 }
+		}
+		localization_key = hayk
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.CULTURE = 131 }
+		}
+		localization_key = karto
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.CULTURE = 132 }
+		}
+		localization_key = qivruli
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.CULTURE = 133 }
+		}
+		localization_key = chewa
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.CULTURE = 134 }
+		}
+		localization_key = nguni
+	}
+	text = {
+		trigger = {
+			check_variable = { ROOT.CULTURE = 135 }
+		}
+		localization_key = shona
+	}
+	localization_key = somethingwrong #fallback
+}
+
+defined_text = {
+	name = CULTURE_NAME_DIPLO
+	text = {
+		trigger = {
+			check_variable = { THIS.CULTURE = 1 }
+		}
+		localization_key = afroamerican
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.CULTURE = 2 }
+		}
+		localization_key = alleghenian
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.CULTURE = 3 }
+		}
+		localization_key = californian
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.CULTURE = 4 }
+		}
+		localization_key = floridian
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.CULTURE = 5 }
+		}
+		localization_key = hoosier
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.CULTURE = 6 }
+		}
+		localization_key = mexiamerican
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.CULTURE = 7 }
+		}
+		localization_key = nauvooan
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.CULTURE = 8 }
+		}
+		localization_key = nevadan
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.CULTURE = 9 }
+		}
+		localization_key = new_english
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.CULTURE = 10 }
+		}
+		localization_key = new_yorker
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.CULTURE = 11 }
+		}
+		localization_key = oregonian
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.CULTURE = 12 }
+		}
+		localization_key = pennamite
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.CULTURE = 13 }
+		}
+		localization_key = texan
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.CULTURE = 14 }
+		}
+		localization_key = argentine
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.CULTURE = 15 }
+		}
+		localization_key = coabano
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.CULTURE = 16 }
+		}
+		localization_key = nichi_ei
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.CULTURE = 17 }
+		}
+		localization_key = cornish
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.CULTURE = 18 }
+		}
+		localization_key = english
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.CULTURE = 19 }
+		}
+		localization_key = welsh
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.CULTURE = 20 }
+		}
+		localization_key = hungarian
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.CULTURE = 21 }
+		}
+		localization_key = han
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.CULTURE = 22 }
+		}
+		localization_key = byelorussian
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.CULTURE = 23 }
+		}
+		localization_key = muscovite
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.CULTURE = 24 }
+		}
+		localization_key = novgorodian
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.CULTURE = 25 }
+		}
+		localization_key = ukrainian
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.CULTURE = 26 }
+		}
+		localization_key = burgundian
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.CULTURE = 27 }
+		}
+		localization_key = french
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.CULTURE = 28 }
+		}
+		localization_key = acadian
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.CULTURE = 29 }
+		}
+		localization_key = cajun
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.CULTURE = 30 }
+		}
+		localization_key = dutch
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.CULTURE = 31 }
+		}
+		localization_key = prussian
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.CULTURE = 32 }
+		}
+		localization_key = welserlander
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.CULTURE = 33 }
+		}
+		localization_key = persian
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.CULTURE = 34 }
+		}
+		localization_key = yamato
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.CULTURE = 35 }
+		}
+		localization_key = amerikal
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.CULTURE = 36 }
+		}
+		localization_key = disturk
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.CULTURE = 37 }
+		}
+		localization_key = fredonyan
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.CULTURE = 38 }
+		}
+		localization_key = kreol
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.CULTURE = 39 }
+		}
+		localization_key = joseon_in
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.CULTURE = 40 }
+		}
+		localization_key = khmer
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.CULTURE = 41 }
+		}
+		localization_key = saka
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.CULTURE = 42 }
+		}
+		localization_key = michigander
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.CULTURE = 43 }
+		}
+		localization_key = colombiano
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.CULTURE = 44 }
+		}
+		localization_key = quiche
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.CULTURE = 45 }
+		}
+		localization_key = chorti
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.CULTURE = 46 }
+		}
+		localization_key = lenca
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.CULTURE = 47 }
+		}
+		localization_key = itza
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.CULTURE = 48 }
+		}
+		localization_key = garifuna
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.CULTURE = 49 }
+		}
+		localization_key = plautdietsch
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.CULTURE = 50 }
+		}
+		localization_key = frisian
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.CULTURE = 51 }
+		}
+		localization_key = fulnio
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.CULTURE = 52 }
+		}
+		localization_key = atakapa
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.CULTURE = 53 }
+		}
+		localization_key = mexican
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.CULTURE = 54 }
+		}
+		localization_key = miskito
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.CULTURE = 55 }
+		}
+		localization_key = rama
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.CULTURE = 56 }
+		}
+		localization_key = minhotan
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.CULTURE = 57 }
+		}
+		localization_key = guahibo
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.CULTURE = 58 }
+		}
+		localization_key = puinave
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.CULTURE = 59 }
+		}
+		localization_key = riverian
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.CULTURE = 60 }
+		}
+		localization_key = wallisian
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.CULTURE = 61 }
+		}
+		localization_key = papiamento
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.CULTURE = 62 }
+		}
+		localization_key = wayuu
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.CULTURE = 63 }
+		}
+		localization_key = chimila
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.CULTURE = 64 }
+		}
+		localization_key = avonturier
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.CULTURE = 65 }
+		}
+		localization_key = carib
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.CULTURE = 66 }
+		}
+		localization_key = taya
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.CULTURE = 67 }
+		}
+		localization_key = ruritanian
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.CULTURE = 68 }
+		}
+		localization_key = oostengellander
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.CULTURE = 69 }
+		}
+		localization_key = dheyvi
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.CULTURE = 70 }
+		}
+		localization_key = malagasy
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.CULTURE = 71 }
+		}
+		localization_key = karipuna
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.CULTURE = 71 }
+		}
+		localization_key = karipuna
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.CULTURE = 72 }
+		}
+		localization_key = bushinengue
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.CULTURE = 73 }
+		}
+		localization_key = wayampi
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.CULTURE = 74 }
+		}
+		localization_key = appalachian
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.CULTURE = 75 }
+		}
+		localization_key = brazamerican
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.CULTURE = 75 }
+		}
+		localization_key = brazamerican
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.CULTURE = 76 }
+		}
+		localization_key = mcintoshian
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.CULTURE = 77 }
+		}
+		localization_key = akawaio
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.CULTURE = 78 }
+		}
+		localization_key = makushi
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.CULTURE = 79 }
+		}
+		localization_key = patamona
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.CULTURE = 80 }
+		}
+		localization_key = uaiana
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.CULTURE = 81 }
+		}
+		localization_key = wapishana
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.CULTURE = 82 }
+		}
+		localization_key = kromantyn
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.CULTURE = 83 }
+		}
+		localization_key = indoguyanese
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.CULTURE = 84 }
+		}
+		localization_key = sephardi
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.CULTURE = 85 }
+		}
+		localization_key = eastindian
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.CULTURE = 86 }
+		}
+		localization_key = navajo
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.CULTURE = 87 }
+		}
+		localization_key = hopi
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.CULTURE = 88 }
+		}
+		localization_key = ute
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.CULTURE = 89 }
+		}
+		localization_key = zuni
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.CULTURE = 90 }
+		}
+		localization_key = hagendeutsch
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.CULTURE = 91 }
+		}
+		localization_key = arizonan
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.CULTURE = 92 }
+		}
+		localization_key = apache
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.CULTURE = 93 }
+		}
+		localization_key = oodham
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.CULTURE = 94 }
+		}
+		localization_key = paiute
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.CULTURE = 95 }
+		}
+		localization_key = cocopah
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.CULTURE = 96 }
+		}
+		localization_key = havasupai
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.CULTURE = 97 }
+		}
+		localization_key = hualapai
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.CULTURE = 98 }
+		}
+		localization_key = maricopa
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.CULTURE = 99 }
+		}
+		localization_key = mohave
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.CULTURE = 100 }
+		}
+		localization_key = quechan
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.CULTURE = 101 }
+		}
+		localization_key = yavapai
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.CULTURE = 102 }
+		}
+		localization_key = keres
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.CULTURE = 103 }
+		}
+		localization_key = delaware
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.CULTURE = 104 }
+		}
+		localization_key = ottawa
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.CULTURE = 105 }
+		}
+		localization_key = shawnee
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.CULTURE = 106 }
+		}
+		localization_key = wiyot
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.CULTURE = 107 }
+		}
+		localization_key = miami
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.CULTURE = 108 }
+		}
+		localization_key = seneca
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.CULTURE = 109 }
+		}
+		localization_key = wyandot
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.CULTURE = 110 }
+		}
+		localization_key = draxian
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.CULTURE = 111 }
+		}
+		localization_key = komori
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.CULTURE = 112 }
+		}
+		localization_key = makua
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.CULTURE = 113 }
+		}
+		localization_key = low_saxon
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.CULTURE = 114 }
+		}
+		localization_key = north_frisian
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.CULTURE = 115 }
+		}
+		localization_key = kongo
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.CULTURE = 116 }
+		}
+		localization_key = tropican
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.CULTURE = 117 }
+		}
+		localization_key = kampot
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.CULTURE = 118 }
+		}
+		localization_key = quilombola
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.CULTURE = 119 }
+		}
+		localization_key = munduruku
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.CULTURE = 120 }
+		}
+		localization_key = mebengokre
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.CULTURE = 121 }
+		}
+		localization_key = llanero
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.CULTURE = 122 }
+		}
+		localization_key = chicano
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.CULTURE = 123 }
+		}
+		localization_key = gitano
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.CULTURE = 124 }
+		}
+		localization_key = morisco
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.CULTURE = 125 }
+		}
+		localization_key = andalusian
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.CULTURE = 126 }
+		}
+		localization_key = equinoxiale
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.CULTURE = 127 }
+		}
+		localization_key = quillamaru
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.CULTURE = 128 }
+		}
+		localization_key = kumeyaay
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.CULTURE = 129 }
+		}
+		localization_key = chan
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.CULTURE = 130 }
+		}
+		localization_key = hayk
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.CULTURE = 131 }
+		}
+		localization_key = karto
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.CULTURE = 132 }
+		}
+		localization_key = qivruli
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.CULTURE = 133 }
+		}
+		localization_key = chewa
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.CULTURE = 134 }
+		}
+		localization_key = nguni
+	}
+	text = {
+		trigger = {
+			check_variable = { THIS.CULTURE = 135 }
+		}
+		localization_key = shona
+	}
+	localization_key = somethingwrong #fallback
+}

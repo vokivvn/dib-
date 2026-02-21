@@ -1,0 +1,143 @@
+focus_tree = {
+	id = wwr_veh
+
+	country = {
+		factor = 0
+		
+		modifier = {
+			add = 50
+			tag = WWR
+			has_country_leader = {
+			    name = "Russell Veh"
+			    ruling_only = yes
+			}
+		}
+		
+		modifier = {
+			add = 10
+			original_tag = WWR
+		}
+	}
+	default = no
+	continuous_focus_position = { x = 50 y = 1600 }
+
+focus = {
+	id = WWR_i_will_follow_him
+	icon = GFX_WWR_i_will_follow_him
+	cost = 2
+	x = 3
+	y = 0
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus WWR_i_will_follow_him"
+	}
+}
+
+focus = {
+	id = WWR_the_overmen_ride_on
+	icon = GFX_WWR_the_overmen_ride_on
+	cost = 2
+	x = 0
+	y = 1
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus WWR_the_overmen_ride_on"
+	}
+	relative_position_id = WWR_i_will_follow_him
+	prerequisite = { focus = WWR_i_will_follow_him }
+}
+
+focus = {
+	id = WWR_athenian_democracy
+	icon = GFX_WWR_athenian_democracy
+	cost = 2
+	x = -3
+	y = 1
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus WWR_athenian_democracy"
+	}
+	relative_position_id = WWR_the_overmen_ride_on
+	prerequisite = { focus = WWR_the_overmen_ride_on }
+}
+
+focus = {
+	id = WWR_spartan_camraderie
+	icon = GFX_WWR_spartan_camraderie
+	cost = 2
+	x = -1
+	y = 1
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus WWR_spartan_camraderie"
+	}
+	relative_position_id = WWR_the_overmen_ride_on
+	prerequisite = { focus = WWR_the_overmen_ride_on }
+}
+
+focus = {
+	id = WWR_alexandrian_violence
+	icon = GFX_WWR_alexandrian_violence
+	cost = 2
+	x = 1
+	y = 1
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus WWR_alexandrian_violence"
+	}
+	relative_position_id = WWR_the_overmen_ride_on
+	prerequisite = { focus = WWR_the_overmen_ride_on }
+}
+
+focus = {
+	id = WWR_elagabalian_romanticism
+	icon = GFX_WWR_elagabalian_romanticism
+	cost = 2
+	x = 3
+	y = 1
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus WWR_elagabalian_romanticism"
+	}
+	relative_position_id = WWR_the_overmen_ride_on
+	prerequisite = { focus = WWR_the_overmen_ride_on }
+}
+
+focus = {
+	id = WWR_the_unicorn_reborn
+	icon = GFX_WWR_the_unicorn_reborn
+	cost = 2
+	x = 3
+	y = 1
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus WWR_the_unicorn_reborn"
+	}
+	relative_position_id = WWR_athenian_democracy
+	prerequisite = { focus = WWR_athenian_democracy }
+	prerequisite = { focus = WWR_spartan_camraderie }
+	prerequisite = { focus = WWR_alexandrian_violence }
+	prerequisite = { focus = WWR_elagabalian_romanticism }
+}
+
+focus = {
+	id = WWR_stonewall_mythology
+	icon = GFX_WWR_stonewall_mythology
+	cost = 2
+	x = -1
+	y = 1
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus WWR_stonewall_mythology"
+	}
+	relative_position_id = WWR_the_unicorn_reborn
+	prerequisite = { focus = WWR_the_unicorn_reborn }
+	mutually_exclusive = { focus = WWR_ancient_inspirations }
+}
+
+focus = {
+	id = WWR_ancient_inspirations
+	icon = GFX_WWR_ancient_inspirations
+	cost = 2
+	x = 1
+	y = 1
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus WWR_ancient_inspirations"
+	}
+	relative_position_id = WWR_the_unicorn_reborn
+	prerequisite = { focus = WWR_the_unicorn_reborn }
+	mutually_exclusive = { focus = WWR_stonewall_mythology }
+}
+}

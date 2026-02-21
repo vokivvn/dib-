@@ -1,0 +1,362 @@
+focus_tree = {
+	id = ore_focus
+
+	country = {
+		factor = 0
+		
+		modifier = {
+			add = 10
+			tag = ORE
+		}
+		
+		modifier = {
+			add = 10
+			original_tag = ORE
+		}
+	}
+	default = no
+	continuous_focus_position = { x = 50 y = 3000 }
+
+	focus = {
+		id = ORE_an_explosive_new_year
+		icon = GFX_ORE_an_explosive_new_year
+		cost = 2
+		x = 5
+		y = 0
+		completion_reward = {
+			log = "[GetDateText]: [Root.GetName]: Focus ORE_an_explosive_new_year"
+		}
+	}
+
+	focus = {
+		id = ORE_blood_on_the_trail
+		icon = GFX_ORE_blood_on_the_trail
+		cost = 2
+		x = 0
+		y = 1
+		completion_reward = {
+			log = "[GetDateText]: [Root.GetName]: Focus ORE_blood_on_the_trail"
+		}
+		relative_position_id = ORE_an_explosive_new_year
+		prerequisite = { focus = ORE_an_explosive_new_year }
+	}
+
+	focus = {
+		id = ORE_samba_in_satsuma
+		icon = GFX_ORE_samba_in_satsuma
+		cost = 2
+		x = 0
+		y = 1
+		completion_reward = {
+			log = "[GetDateText]: [Root.GetName]: Focus ORE_samba_in_satsuma"
+		}
+		relative_position_id = ORE_blood_on_the_trail
+		prerequisite = { focus = ORE_blood_on_the_trail }
+	}
+
+	focus = {
+		id = ORE_crisis_averted
+		icon = GFX_ORE_crisis_averted
+		cost = 2
+		x = -1
+		y = 1
+		completion_reward = {
+			log = "[GetDateText]: [Root.GetName]: Focus ORE_crisis_averted"
+		}
+		relative_position_id = ORE_samba_in_satsuma
+		prerequisite = { focus = ORE_samba_in_satsuma }
+		mutually_exclusive = { focus = ORE_fire_with_fire }
+	}
+
+	focus = {
+		id = ORE_fire_with_fire
+		icon = GFX_ORE_fire_with_fire
+		cost = 2
+		x = 1
+		y = 1
+		completion_reward = {
+			log = "[GetDateText]: [Root.GetName]: Focus ORE_fire_with_fire"
+		}
+		relative_position_id = ORE_samba_in_satsuma
+		prerequisite = { focus = ORE_samba_in_satsuma }
+		mutually_exclusive = { focus = ORE_crisis_averted }
+	}
+
+	focus = {
+		id = ORE_a_semblance_of_normalcy
+		icon = GFX_ORE_a_semblance_of_normalcy
+		cost = 2
+		x = 1
+		y = 1
+		completion_reward = {
+			log = "[GetDateText]: [Root.GetName]: Focus ORE_a_semblance_of_normalcy"
+		}
+		relative_position_id = ORE_crisis_averted
+		prerequisite = { focus = ORE_crisis_averted }
+		prerequisite = { focus = ORE_fire_with_fire }
+	}
+
+	focus = {
+		id = ORE_tightening_the_noose
+		icon = GFX_ORE_tightening_the_noose
+		cost = 2
+		x = -1
+		y = 1
+		completion_reward = {
+			log = "[GetDateText]: [Root.GetName]: Focus ORE_tightening_the_noose"
+		}
+		relative_position_id = ORE_crisis_averted
+		prerequisite = { focus = ORE_crisis_averted }
+	}
+
+	focus = {
+		id = ORE_no_mercy
+		icon = GFX_ORE_no_mercy
+		cost = 2
+		x = 1
+		y = 1
+		completion_reward = {
+			log = "[GetDateText]: [Root.GetName]: Focus ORE_no_mercy"
+		}
+		relative_position_id = ORE_fire_with_fire
+		prerequisite = { focus = ORE_fire_with_fire }
+	}
+
+	focus = {
+		id = ORE_fire_on_the_prairie
+		icon = GFX_ORE_fire_on_the_prairie
+		cost = 2
+		x = 0
+		y = 1
+		completion_reward = {
+			log = "[GetDateText]: [Root.GetName]: Focus ORE_fire_on_the_prairie"
+		}
+		relative_position_id = ORE_no_mercy
+		prerequisite = { focus = ORE_no_mercy }
+	}
+
+	focus = {
+		id = ORE_across_the_aisle
+		icon = GFX_ORE_across_the_aisle
+		cost = 2
+		x = 0
+		y = 1
+		completion_reward = {
+			log = "[GetDateText]: [Root.GetName]: Focus ORE_across_the_aisle"
+		}
+		relative_position_id = ORE_tightening_the_noose
+		prerequisite = { focus = ORE_tightening_the_noose }
+	}
+
+	focus = {
+		id = ORE_just_before_dawn
+		icon = GFX_ORE_just_before_dawn
+		cost = 2
+		x = 0
+		y = 1
+		completion_reward = {
+			log = "[GetDateText]: [Root.GetName]: Focus ORE_just_before_dawn"
+		}
+		relative_position_id = ORE_a_semblance_of_normalcy
+		prerequisite = { focus = ORE_a_semblance_of_normalcy }
+	}
+
+	focus = {
+		id = ORE_terror_in_twin_falls
+		icon = GFX_ORE_terror_in_twin_falls
+		cost = 2
+		x = 1
+		y = 6
+		completion_reward = {
+			log = "[GetDateText]: [Root.GetName]: Focus ORE_terror_in_twin_falls"
+		}
+	}
+
+	focus = {
+		id = ORE_ashrams_and_ash_trees
+		icon = GFX_ORE_ashrams_and_ash_trees
+		cost = 2
+		x = 9
+		y = 6
+		completion_reward = {
+			log = "[GetDateText]: [Root.GetName]: Focus ORE_ashrams_and_ash_trees"
+		}
+	}
+
+	focus = {
+		id = ORE_battles_in_the_butte
+		icon = GFX_ORE_battles_in_the_butte
+		cost = 2
+		x = 0
+		y = 1
+		completion_reward = {
+			log = "[GetDateText]: [Root.GetName]: Focus ORE_battles_in_the_butte"
+		}
+		relative_position_id = ORE_terror_in_twin_falls
+		prerequisite = { focus = ORE_terror_in_twin_falls }
+	}
+
+	focus = {
+		id = ORE_on_the_hunt
+		icon = GFX_ORE_on_the_hunt
+		cost = 2
+		x = 0
+		y = 1
+		completion_reward = {
+			log = "[GetDateText]: [Root.GetName]: Focus ORE_on_the_hunt"
+		}
+		relative_position_id = ORE_battles_in_the_butte
+		prerequisite = { focus = ORE_battles_in_the_butte }
+	}
+
+	focus = {
+		id = ORE_a_city_sent_packing
+		icon = GFX_ORE_a_city_sent_packing
+		cost = 2
+		x = -1
+		y = 1
+		completion_reward = {
+			log = "[GetDateText]: [Root.GetName]: Focus ORE_a_city_sent_packing"
+		}
+		relative_position_id = ORE_on_the_hunt
+		prerequisite = { focus = ORE_on_the_hunt }
+		mutually_exclusive = { focus = ORE_gurucide }
+	}
+
+	focus = {
+		id = ORE_gurucide
+		icon = GFX_ORE_gurucide
+		cost = 2
+		x = 1
+		y = 1
+		completion_reward = {
+			log = "[GetDateText]: [Root.GetName]: Focus ORE_gurucide"
+		}
+		relative_position_id = ORE_on_the_hunt
+		prerequisite = { focus = ORE_on_the_hunt }
+		mutually_exclusive = { focus = ORE_a_city_sent_packing }
+	}
+
+	focus = {
+		id = ORE_go_home_hippie
+		icon = GFX_ORE_go_home_hippie
+		cost = 2
+		x = 0
+		y = 1
+		completion_reward = {
+			log = "[GetDateText]: [Root.GetName]: Focus ORE_go_home_hippie"
+		}
+		relative_position_id = ORE_a_city_sent_packing
+		prerequisite = { focus = ORE_a_city_sent_packing }
+		mutually_exclusive = { focus = ORE_ecocide }
+	}
+
+	focus = {
+		id = ORE_ecocide
+		icon = GFX_ORE_ecocide
+		cost = 2
+		x = 0
+		y = 1
+		completion_reward = {
+			log = "[GetDateText]: [Root.GetName]: Focus ORE_ecocide"
+		}
+		relative_position_id = ORE_gurucide
+		prerequisite = { focus = ORE_gurucide }
+		mutually_exclusive = { focus = ORE_go_home_hippie }
+	}
+
+	focus = {
+		id = ORE_the_indian_fighter
+		icon = GFX_ORE_the_indian_fighter
+		cost = 2
+		x = 1
+		y = 1
+		completion_reward = {
+			log = "[GetDateText]: [Root.GetName]: Focus ORE_the_indian_fighter"
+		}
+		relative_position_id = ORE_go_home_hippie
+		prerequisite = { focus = ORE_go_home_hippie }
+		prerequisite = { focus = ORE_ecocide }
+	}
+
+	focus = {
+		id = ORE_a_sense_of_calm
+		icon = GFX_ORE_a_sense_of_calm
+		cost = 2
+		x = 0
+		y = 1
+		completion_reward = {
+			log = "[GetDateText]: [Root.GetName]: Focus ORE_a_sense_of_calm"
+		}
+		relative_position_id = ORE_the_indian_fighter
+		prerequisite = { focus = ORE_the_indian_fighter }
+	}
+
+	focus = {
+		id = ORE_striking_down_the_band
+		icon = GFX_ORE_striking_down_the_band
+		cost = 2
+		x = 0
+		y = 1
+		completion_reward = {
+			log = "[GetDateText]: [Root.GetName]: Focus ORE_striking_down_the_band"
+		}
+		relative_position_id = ORE_ashrams_and_ash_trees
+		prerequisite = { focus = ORE_ashrams_and_ash_trees }
+	}
+
+	focus = {
+		id = ORE_blue_mountain_bombardment
+		icon = GFX_ORE_blue_mountain_bombardment
+		cost = 2
+		x = 0
+		y = 1
+		completion_reward = {
+			log = "[GetDateText]: [Root.GetName]: Focus ORE_blue_mountain_bombardment"
+		}
+		relative_position_id = ORE_striking_down_the_band
+		prerequisite = { focus = ORE_striking_down_the_band }
+	}
+
+	focus = {
+		id = ORE_frontier_anewed
+		icon = GFX_ORE_frontier_anewed
+		cost = 2
+		x = -1
+		y = 1
+		completion_reward = {
+			log = "[GetDateText]: [Root.GetName]: Focus ORE_frontier_anewed"
+		}
+		relative_position_id = ORE_blue_mountain_bombardment
+		prerequisite = { focus = ORE_blue_mountain_bombardment }
+		mutually_exclusive = { focus = ORE_sacred_ground }
+	}
+
+	focus = {
+		id = ORE_sacred_ground
+		icon = GFX_ORE_sacred_ground
+		cost = 2
+		x = 1
+		y = 1
+		completion_reward = {
+			log = "[GetDateText]: [Root.GetName]: Focus ORE_sacred_ground"
+		}
+		relative_position_id = ORE_blue_mountain_bombardment
+		prerequisite = { focus = ORE_blue_mountain_bombardment }
+		mutually_exclusive = { focus = ORE_frontier_anewed }
+	}
+
+	focus = {
+		id = ORE_all_for_nothing_at_all
+		icon = GFX_ORE_all_for_nothing_at_all
+		cost = 2
+		x = 1
+		y = 1
+		completion_reward = {
+			log = "[GetDateText]: [Root.GetName]: Focus ORE_all_for_nothing_at_all"
+		}
+		relative_position_id = ORE_frontier_anewed
+		prerequisite = { focus = ORE_frontier_anewed }
+		prerequisite = { focus = ORE_sacred_ground }
+	}
+}

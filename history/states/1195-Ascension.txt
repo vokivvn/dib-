@@ -1,0 +1,28 @@
+state={
+	id=1195
+	name="STATE_1195"
+	
+	history={
+		owner = HON
+		buildings = {
+			infrastructure = 3
+			arms_factory = 1
+			industrial_complex = 2
+		}
+		add_core_of = HON
+		victory_points = {
+			14286 10
+		}
+		victory_points = {
+			14287 5
+		}
+	}
+
+	provinces={
+		10886 14285 14286 14287 14288 
+	}
+	manpower=803181
+	buildings_max_level_factor=1.000
+	state_category=large_town
+	local_supplies=0.000
+}

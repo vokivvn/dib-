@@ -1,0 +1,29 @@
+state={
+	id=1240
+	name="STATE_1240"
+
+	history={
+		add_core_of = MOR
+		owner = MOR
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+			office_building = 1
+			dockyard = 1
+			11350 = {
+				naval_base = 3
+			}
+		}
+		victory_points = {
+			11350 20
+		}
+	}
+
+	provinces={
+		11350 
+	}
+	manpower=260491
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

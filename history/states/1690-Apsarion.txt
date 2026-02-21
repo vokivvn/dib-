@@ -1,0 +1,25 @@
+state={
+	id=1690
+	name="STATE_1690"
+
+	history={
+		owner = MED
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 2
+		}
+		victory_points = {
+			16772 2
+		}
+		add_core_of = MED
+
+	}
+
+	provinces={
+		16772 16773 16774 
+	}
+	manpower=49284
+	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=0.000
+}

@@ -1,0 +1,34 @@
+
+state={
+	id=488
+	name="STATE_488"
+
+	history={
+		owner = VEN
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 1
+		}
+		add_core_of = VEN
+		victory_points = {
+			10879 5 
+		}
+		victory_points = {
+			1981 5 
+		}
+		victory_points = {
+			7915 3
+		}
+		victory_points = {
+			13362 1
+		}
+	}
+
+	provinces={
+		1981 7915 10736 10849 10879 13362 
+	}
+	manpower=900310
+	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=2.000
+}

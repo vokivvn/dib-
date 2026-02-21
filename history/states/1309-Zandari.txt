@@ -1,0 +1,38 @@
+state={
+	id=1309
+	name="STATE_1309"
+
+	history={
+		owner = MTV
+		add_core_of = MTV
+		victory_points = { 14897 30 }
+		victory_points = { 14910 20 }
+		victory_points = { 14905 10 }
+		victory_points = { 14906 5 }
+		buildings = {
+			infrastructure = 5
+			telecom_infrastructure = 3
+			industrial_complex = 4
+			arms_factory = 1
+			office_building = 2
+			dockyard = 2
+			14897 = {
+				naval_base = 7
+			}
+			14910 = {
+				naval_base = 3
+			}
+			14905 = {
+				naval_base = 1
+			}
+		}
+	}
+
+	provinces={
+		14897 14905 14906 14907 14908 14909 14910 14911 14912 14913 14914 14915 14916 14917 
+	}
+	manpower=2023826
+	buildings_max_level_factor=1.000
+	state_category=large_city
+	local_supplies=0.000
+}

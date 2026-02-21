@@ -1,0 +1,28 @@
+
+state={
+	id=694
+	name="STATE_694"
+
+	history={
+		add_core_of = MOR
+		owner = MOR
+		victory_points = {
+			9377 1 
+		}
+		buildings = {
+			infrastructure = 2
+			dockyard = 2
+			9377 = {
+				naval_base = 1
+			}
+		}
+	}
+
+	provinces={
+		9377 
+	}
+	manpower=300290
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=3.000
+}

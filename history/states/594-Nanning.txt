@@ -1,0 +1,47 @@
+
+state={
+	id=594
+	name="STATE_594"
+	resources={
+		tungsten=11.000
+		steel=8.000
+		chromium=3.000
+	}
+
+	history={
+		owner = LNQ
+		add_core_of = LNQ
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			1070 = {
+				naval_base = 2
+
+			}
+			11981 = {
+				naval_base = 1
+
+			}
+			9938 = {
+				naval_base = 1
+
+			}
+
+		}
+		victory_points = {
+			7137 10 
+		}
+		victory_points = {
+			10404 3 
+		}
+
+	}
+
+	provinces={
+		  1023        1597 1625  4028  4077 4085    4134 4152    4628    7095   7137  7168   7650       10039 10050      10404 10431 10459  11926   12407 12436 
+	}
+	manpower=6550000
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=1.000
+}

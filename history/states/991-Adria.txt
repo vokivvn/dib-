@@ -1,0 +1,53 @@
+state={
+	id=991
+	name="STATE_991"
+
+	history={
+		owner = VEN
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 3
+			arms_factory = 2
+			7968 = {
+				naval_base = 6
+			}
+			13548 = {
+				naval_base = 5
+			}
+			13552 = {
+				naval_base = 4
+			}
+			10767 = {
+				naval_base = 3
+			}
+		}
+		add_core_of = VEN
+		victory_points = {
+			7968 30
+		}
+		victory_points = {
+			13548 15
+		}
+		victory_points = {
+			13552 15
+		}
+		victory_points = {
+			10767 5
+		}
+		victory_points = {
+			8080 3
+		}
+		victory_points = {
+			13555 3
+		}
+
+	}
+
+	provinces={
+		7968 8080 10767 10823 10912 13547 13548 13549 13550 13551 13552 13554 13555
+	}
+	manpower=4454139
+	buildings_max_level_factor=1.000
+	state_category=large_city
+	local_supplies=7.000
+}

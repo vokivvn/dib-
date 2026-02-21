@@ -1,0 +1,30 @@
+state= {
+	id=599
+	name="STATE_599"
+	manpower = 343935
+	state_category = rural
+
+	history= {
+		owner = ORE
+		add_core_of = ORE
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 2
+			arms_factory = 1
+		}
+		victory_points = { 
+			12535 5 
+		}
+		victory_points = { 
+			9695 5 
+		}
+		victory_points = { 
+			12561 1 
+		}
+	}
+	provinces={
+		7688 7888 9695 12535 12561
+	}
+
+	local_supplies=0.0 
+}

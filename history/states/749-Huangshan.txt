@@ -1,0 +1,22 @@
+state={
+	id=749
+	name="STATE_749"
+	provinces={
+		4826 7865 12553
+	}
+	manpower=11424
+	buildings_max_level_factor=1.000
+	state_category=rural
+	history={
+		owner = ORE
+		add_core_of = ORE
+		buildings = {
+			infrastructure = 2
+		}
+		victory_points = {
+			12553 1
+		}
+	}
+
+	local_supplies=0.0 
+}

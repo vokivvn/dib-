@@ -1,0 +1,28 @@
+state={
+	id=1139
+	name="STATE_1139"
+
+	history={
+		owner = MTV
+		add_core_of = MTV
+		victory_points = { 14010 10 }
+		victory_points = { 15011 3 }
+		victory_points = { 15004 3 }
+		buildings = {
+			infrastructure = 3
+			arms_factory = 1
+			farm_estate = 2
+			14010 = {
+				naval_base = 2
+			}
+		}
+	}
+
+	provinces={
+		14010 15004 15005 15006 15007 15008 15009 15010 15011 15012 15013 15014
+	}
+	manpower=967384
+	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=0.000
+}

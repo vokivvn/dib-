@@ -1,0 +1,26 @@
+state={
+	id=591
+	name="STATE_591"
+	manpower = 386383
+	state_category = large_city
+
+	history={
+		owner = ORE
+		add_core_of = ORE
+		victory_points = {
+			3513 25
+		}
+		buildings = {
+			infrastructure = 4
+			telecom_infrastructure = 4
+			industrial_complex = 3
+			arms_factory = 2
+			air_base = 5
+		}
+	}
+
+	provinces={
+		3513
+	}
+	local_supplies=1.0 
+}

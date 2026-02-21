@@ -1,0 +1,27 @@
+
+state={
+	id=565
+	name="STATE_565"
+	resources={
+		steel=10.000
+		chromium=5.000
+	}
+
+	history={
+		owner = YAK
+		buildings = {
+			infrastructure = 1
+
+		}
+		add_core_of = YAK
+
+	}
+
+	provinces={
+		4795 4868 12538 
+	}
+	manpower=195325
+	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=5.000
+}

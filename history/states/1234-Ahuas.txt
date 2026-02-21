@@ -1,0 +1,27 @@
+state={
+	id=1234
+	name="STATE_1234"
+
+	history={
+		owner = MIS
+		buildings = {
+			infrastructure = 2
+			farm_estate = 1
+			13567 = {
+				naval_base = 2
+			}
+		}
+		add_core_of = MIS
+		victory_points = {
+			13567 5
+		}
+	}
+
+	provinces={
+		13567 14456 
+	}
+	manpower=11283
+	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=0.000
+}

@@ -1,0 +1,25 @@
+state={
+	id=1651
+	name="STATE_1651"
+
+	history={
+		owner = ARM
+		add_core_of = ARM
+		victory_points = {
+			16591 1 
+		}
+		buildings = {
+			infrastructure = 1
+			farm_estate = 1
+		}
+
+	}
+
+	provinces={
+		16591 16601 16602 16603 16604 
+	}
+	manpower=41029
+	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=0.000
+}

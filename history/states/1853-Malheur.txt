@@ -1,0 +1,24 @@
+state={
+	id=1853
+	name="STATE_1853"
+
+	history={
+		owner = ORE
+		add_core_of = ORE
+		victory_points = {
+			17334 3
+		}
+		buildings = {
+			infrastructure = 2
+			farm_estate = 1
+		}
+	}
+
+	provinces={
+		17333 17334 17335 17336 17337 17338 17339 17340 
+	}
+	manpower=23169
+	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=0.000
+}

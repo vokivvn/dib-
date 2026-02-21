@@ -1,0 +1,33 @@
+scripted_gui = {
+	nationality_screen = {
+		context_type = selected_state_context
+
+		window_name = "culture_icon_container"
+		parent_window_token = selected_state_view
+		dirty = nationality
+		
+		ai_enabled = {
+			always = no
+		}
+		
+		visible = {
+		}
+		effects = {
+		}
+		triggers = {
+			culture_icon_visible = {
+				check_variable = {
+					var = ROOT.CULTURE
+					value = 0
+					compare = greater_than
+				}
+			}
+		}
+
+		properties = {
+			culture_icon = {
+				image = "ROOT.CULTURE"
+			}
+		}
+	}
+}

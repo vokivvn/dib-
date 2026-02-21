@@ -1,0 +1,34 @@
+﻿capital = 306
+
+#oob = "OSP1936"
+
+# Starting tech
+set_technology = {
+	infantry_weapons = 1
+	tech_support = 1		
+	tech_engineers = 1
+	tech_trucks = 1
+	gw_artillery = 1
+	interwar_antiair = 1
+}
+
+set_convoys = 0
+
+set_politics = {
+	ruling_party = obscurantism
+	last_election = "1934.2.11"
+	election_frequency = 48
+	elections_allowed = no
+}
+set_popularities = {
+	obscurantism = 100
+}
+create_country_leader = {
+	name = "Nicolás Altamirano"
+	desc = ""
+	picture = "gfx/leaders/OSP/Klaus_Barbie.png"
+	expire = "2000.1.1"
+	ideology = gothic_monarchy
+	traits = {
+	}
+}

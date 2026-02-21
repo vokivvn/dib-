@@ -1,0 +1,36 @@
+
+state={
+	id=475
+	name="STATE_475"
+
+	history={
+		owner = ZAP
+		buildings = {
+			infrastructure = 2
+
+		}
+		add_core_of = ZAP
+		add_core_of = MEX
+		victory_points = {
+			13698 10 
+		}
+		victory_points = {
+			12867 5 
+		}
+		victory_points = {
+			13703 3 
+		}
+		victory_points = {
+			13702 3 
+		}
+
+	}
+
+	provinces={
+		1900 12867 13698 13699 13702 13703 13705 13706 13707 13708 
+	}
+	manpower=1212121
+	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=0.000
+}

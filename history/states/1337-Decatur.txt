@@ -1,0 +1,28 @@
+state={
+	id=1337
+	name="STATE_1337"
+
+	history={
+		owner = GRG
+		add_core_of = GRG
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+			farm_estate = 2
+		}
+		victory_points = {
+			15076 5 
+		}
+		victory_points = {
+			15087 5 
+		}
+	}
+
+	provinces={
+		15076 15077 15087 
+	}
+	manpower=109600
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

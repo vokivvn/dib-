@@ -1,0 +1,26 @@
+state={
+	id=1753
+	name="STATE_1753"
+
+	history={
+		owner = GTH
+		victory_points = {
+			16989 15
+		}
+		buildings = {
+			infrastructure = 6
+			industrial_complex = 3
+			arms_factory = 1
+		}
+		add_core_of = GTH
+
+	}
+
+	provinces={
+		16984 16989 
+	}
+	manpower=442782
+	buildings_max_level_factor=1.000
+	state_category=city
+	local_supplies=0.000
+}

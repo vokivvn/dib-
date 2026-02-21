@@ -1,0 +1,27 @@
+state={
+	id=1623
+	name="STATE_1623"
+
+	history = {
+		owner = VEG
+		victory_points = {
+			16511 12
+		}
+		buildings = {
+			infrastructure = 4
+			telecom_infrastructure = 2
+			industrial_complex = 2
+			office_building = 1
+		}
+		add_core_of = VEG
+		add_claim_by = NEV
+	}
+
+	provinces={
+		16511 
+	}
+	manpower=47707
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

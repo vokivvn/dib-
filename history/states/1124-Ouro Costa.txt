@@ -1,0 +1,22 @@
+state={
+	id=1124
+	name="STATE_1124"
+
+	history={
+		owner = SPD
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 2
+			dockyard = 2
+		}
+		add_core_of = SPD
+	}
+
+	provinces={
+		13930 13931 13932 
+	}
+	manpower=90000
+	buildings_max_level_factor=1.000
+	state_category=small_island
+	local_supplies=0.000
+}

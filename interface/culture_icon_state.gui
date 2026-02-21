@@ -1,0 +1,15 @@
+guiTypes = {
+	containerWindowType = {
+		name = "culture_icon_container"
+		position = {x=60 y=87}
+		size = { width=780 height=496 }
+
+		iconType = {
+			name = "culture_icon"
+			quadTextureSprite = "GFX_cultures_strip"
+			position = {x=80 y= 345}
+			spriteType = GFX_culture_0
+			pdx_tooltip = "CULTURE_NAMEKEY"
+		}
+	}
+}

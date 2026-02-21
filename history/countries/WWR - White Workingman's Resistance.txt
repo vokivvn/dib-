@@ -1,0 +1,79 @@
+﻿capital = 1219 #temporarily Surf City because LUNA WON'T TELL ME WHERE THEY ARE!!!!!!!!
+
+#oob = "WWR_1985"
+
+set_research_slots = 3
+set_stability = 0.44
+set_war_support = 0.55
+add_command_power = 20
+# Starting tech
+set_technology = {
+	infantry_weapons = 1
+	infantry_weapons1 = 1
+	tech_trucks = 1
+	tech_recon = 1
+	tech_support = 1		
+	tech_engineers = 1
+	gw_artillery = 1
+	interwar_antiair = 1
+	motorised_infantry = 1
+	fuel_silos = 1
+	fuel_refining = 1
+	marines = 1
+	basic_train = 1
+	engine_tech_1 = 1
+}
+
+set_convoys = 100
+
+set_politics = {
+	ruling_party = radical_right
+	last_election = "1932.11.8"
+	election_frequency = 48
+	elections_allowed = no
+}
+
+set_popularities = {
+	radical_right = 30
+	new_right = 40
+	old_right = 10
+	occidental_despotism = 10
+	marxism = 10
+}
+
+create_country_leader = {
+	name = "Thomas Metzger"
+	desc = ""
+	picture = "gfx/leaders/WWR/Tom_Metzger.png"
+	expire = "2000.1.1"
+	ideology = white_nationalism
+	traits = {
+	}
+}
+create_country_leader = {
+	name = "Jack Chick"
+	desc = ""
+	picture = "gfx/leaders/WWR/Jack_Chick.png"
+	expire = "2000.1.1"
+	ideology = christian_nationalism
+	traits = {
+	}
+}
+create_country_leader = {
+	name = "Wesley A. Swift"
+	desc = ""
+	picture = "gfx/leaders/WWR/Wesley_Swift.png"
+	expire = "2000.1.1"
+	ideology = christian_theocracy
+	traits = {
+	}
+}
+create_country_leader = {
+	name = "Daniel Burros"
+	desc = ""
+	picture = "gfx/leaders/WWR/Daniel_Burros.png"
+	expire = "2000.1.1"
+	ideology = national_syndicalism
+	traits = {
+	}
+}

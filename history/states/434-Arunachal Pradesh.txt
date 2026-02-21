@@ -1,0 +1,23 @@
+
+state={
+	id=434
+	name="STATE_434"
+
+	history={
+		owner = KCH
+		add_core_of = KCH
+		buildings = {
+			infrastructure = 1
+
+		}
+
+	}
+
+	provinces={
+		1197 1525 1553 1934 4087 4318 4996 12366 12395 
+	}
+	manpower=200000
+	buildings_max_level_factor=1.000
+	state_category=wasteland
+	local_supplies=3.000
+}

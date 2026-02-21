@@ -1,0 +1,37 @@
+
+state={
+	id=506
+	name="STATE_506"
+	resources={
+		tungsten=42.000
+	}
+
+	history={
+		owner = ARG
+		add_core_of = ARG
+		add_claim_by = BOL
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+			dockyard = 1
+			air_base = 1
+			12994 = {
+				naval_base = 1
+
+			}
+
+		}
+		victory_points = {
+			12994 10 
+		}
+
+	}
+
+	provinces={
+		5146 5171 12994 13304 
+	}
+	manpower=423605
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

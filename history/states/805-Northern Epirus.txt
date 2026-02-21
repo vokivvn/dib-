@@ -1,0 +1,23 @@
+state={
+	id=805
+	name="STATE_805"
+	provinces={
+	 15779 15787 
+	}
+	manpower = 7654
+	
+	state_category = rural
+
+	history= {
+		owner = MUN
+		victory_points = {
+			11760 1 
+		}
+		buildings = {
+			infrastructure = 1
+		}
+		add_core_of = MUN
+	}
+
+	local_supplies=0.0 
+}

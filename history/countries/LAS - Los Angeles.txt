@@ -1,0 +1,104 @@
+﻿capital = 1030
+
+#oob = "LAS_1936"
+
+set_research_slots = 3
+set_stability = 0.75
+set_war_support = 0
+add_command_power = 20
+# Starting tech
+set_technology = {
+	infantry_weapons = 1
+	infantry_weapons1 = 1
+	tech_trucks = 1
+	tech_recon = 1
+	tech_support = 1		
+	tech_engineers = 1
+	gw_artillery = 1
+	interwar_antiair = 1
+	motorised_infantry = 1
+	fuel_silos = 1
+	fuel_refining = 1
+	marines = 1
+	basic_train = 1
+	engine_tech_1 = 1
+}
+
+set_convoys = 0
+
+set_politics = {
+	ruling_party = western_democracy
+	last_election = "1932.11.8"
+	election_frequency = 48
+	elections_allowed = no
+}
+
+set_popularities = {
+	western_democracy = 25
+	radical_democracy = 15
+	marxism = 10
+	independent_socialism = 10
+	occidental_despotism = 5
+	institutionalism = 30
+	radical_right = 5
+}
+
+create_country_leader = {
+	name = "Michael Antonovich"
+	desc = ""
+	picture = "gfx/leaders/LAS/Michael_D_Antonovich.png"
+	expire = "2000.1.1"
+	ideology = conservative_liberalism
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "Scott Richie"
+	desc = ""
+	picture = "gfx/leaders/LAS/Scott_Richie.png"
+	expire = "2000.1.1"
+	ideology = radical_liberalism
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "Eldridge Cleaver"
+	desc = ""
+	picture = "gfx/leaders/LAS/Eldridge_Cleaver.png"
+	expire = "2000.1.1"
+	ideology = kleptocracy
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "Daryl Gates"
+	desc = ""
+	picture = "gfx/leaders/LAS/Daryl_Gates.png"
+	expire = "2000.1.1"
+	ideology = police_state
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "Chin Yu Ping"
+	desc = ""
+	picture = "gfx/leaders/LAS/Yu_Ping.png"
+	expire = "2000.1.1"
+	ideology = agrarian_socialism
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "Gerard Hirsch"
+	desc = ""
+	picture = "gfx/leaders/LAS/Gerard_Hirsch.png"
+	expire = "2000.1.1"
+	ideology = western_marxism
+	traits = {
+	}
+}

@@ -1,0 +1,13 @@
+guiTypes = {
+	containerWindowType = {
+		name = "cultures_polscreeen_diplo"
+		position = { x = 0 y = 0 }
+		iconType ={
+			name ="culture_icon"
+			quadTextureSprite = "GFX_cultures_strip"
+			position = { x= 225 y = 191 }
+			Orientation = "UPPER_LEFT"
+			pdx_tooltip = CULTURE_NAMEKEY_DIPLO
+		}
+    }
+}

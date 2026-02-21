@@ -1,0 +1,371 @@
+shared_focus = {
+	id = WWR_white_pride_is_nothing_to_hide
+	icon = GFX_WWR_white_pride_is_nothing_to_hide
+	cost = 2
+	x = 4
+	y = 0
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus WWR_white_pride_is_nothing_to_hide"
+	}
+}
+
+shared_focus = {
+	id = WWR_let_a_thousand_petunias_bloom
+	icon = GFX_WWR_let_a_thousand_petunias_bloom
+	cost = 2
+	x = 0
+	y = 1
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus WWR_let_a_thousand_petunias_bloom"
+	}
+	relative_position_id = WWR_white_pride_is_nothing_to_hide
+	prerequisite = { focus = WWR_white_pride_is_nothing_to_hide }
+}
+
+shared_focus = {
+	id = WWR_awaken_manasseh_burros
+	icon = GFX_WWR_awaken_manasseh_burros
+	cost = 2
+	x = -4
+	y = 1
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus WWR_awaken_manasseh_burros"
+	}
+	relative_position_id = WWR_let_a_thousand_petunias_bloom
+	prerequisite = { focus = WWR_let_a_thousand_petunias_bloom }
+}
+
+shared_focus = {
+	id = WWR_the_elohim_cities_swift
+	icon = GFX_WWR_the_elohim_cities_swift
+	cost = 2
+	x = -1
+	y = 1
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus WWR_the_elohim_cities_swift"
+	}
+	relative_position_id = WWR_let_a_thousand_petunias_bloom
+	prerequisite = { focus = WWR_let_a_thousand_petunias_bloom }
+}
+
+shared_focus = {
+	id = WWR_pulp_christianity_chick
+	icon = GFX_WWR_pulp_christianity_chick
+	cost = 2
+	x = 1
+	y = 1
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus WWR_pulp_christianity_chick"
+	}
+	relative_position_id = WWR_let_a_thousand_petunias_bloom
+	prerequisite = { focus = WWR_let_a_thousand_petunias_bloom }
+}
+
+shared_focus = {
+	id = WWR_the_crooked_boys_nordic_league
+	icon = GFX_WWR_the_crooked_boys_nordic_league
+	cost = 2
+	x = 4
+	y = 1
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus WWR_the_crooked_boys_nordic_league"
+	}
+	relative_position_id = WWR_let_a_thousand_petunias_bloom
+	prerequisite = { focus = WWR_let_a_thousand_petunias_bloom }
+}
+
+shared_focus = {
+	id = WWR_unity_and_race
+	icon = GFX_WWR_unity_and_race
+	cost = 2
+	x = 4
+	y = 1
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus WWR_unity_and_race"
+	}
+	relative_position_id = WWR_awaken_manasseh_burros
+	prerequisite = { focus = WWR_awaken_manasseh_burros }
+	prerequisite = { focus = WWR_the_elohim_cities_swift }
+	prerequisite = { focus = WWR_pulp_christianity_chick }
+	prerequisite = { focus = WWR_the_crooked_boys_nordic_league }
+}
+
+shared_focus = {
+	id = WWR_lines_in_california_gravel
+	icon = GFX_WWR_lines_in_california_gravel
+	cost = 2
+	x = 0
+	y = 1
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus WWR_lines_in_california_gravel"
+	}
+	relative_position_id = WWR_unity_and_race
+	prerequisite = { focus = WWR_unity_and_race }
+}
+
+shared_focus = {
+	id = WWR_from_moscow_to_lisbon
+	icon = GFX_WWR_from_moscow_to_lisbon
+	cost = 2
+	x = -1
+	y = 1
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus WWR_from_moscow_to_lisbon"
+	}
+	relative_position_id = WWR_lines_in_california_gravel
+	prerequisite = { focus = WWR_lines_in_california_gravel }
+	mutually_exclusive = { focus = WWR_hallstatt_totem_pole_system }
+}
+
+shared_focus = {
+	id = WWR_hallstatt_totem_pole_system
+	icon = GFX_WWR_hallstatt_totem_pole_system
+	cost = 2
+	x = 5
+	y = 5
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus WWR_hallstatt_totem_pole_system"
+	}
+    prerequisite = { focus = WWR_lines_in_california_gravel }
+	mutually_exclusive = { focus = WWR_from_moscow_to_lisbon }
+}
+
+shared_focus = {
+	id = WWR_a_moral_republic
+	icon = GFX_WWR_a_moral_republic
+	cost = 2
+	x = 0
+	y = 1
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus WWR_a_moral_republic"
+	}
+	relative_position_id = WWR_hallstatt_totem_pole_system
+	prerequisite = { focus = WWR_hallstatt_totem_pole_system  focus = WWR_from_moscow_to_lisbon}
+	mutually_exclusive = { focus = WWR_queers_and_steers }
+}
+
+shared_focus = {
+	id = WWR_queers_and_steers
+	icon = GFX_WWR_queers_and_steers
+	cost = 2
+	x = 0
+	y = 1
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus WWR_queers_and_steers"
+	}
+	relative_position_id = WWR_from_moscow_to_lisbon
+	prerequisite = { focus = WWR_from_moscow_to_lisbon focus = WWR_hallstatt_totem_pole_system }
+	mutually_exclusive = { focus = WWR_a_moral_republic }
+}
+
+shared_focus = {
+	id = WWR_harness_hollywood
+	icon = GFX_WWR_harness_hollywood
+	cost = 2
+	x = 0
+	y = 1
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus WWR_harness_hollywood"
+	}
+	relative_position_id = WWR_queers_and_steers
+	prerequisite = { focus = WWR_queers_and_steers focus = WWR_a_moral_republic }
+	mutually_exclusive = { focus = WWR_learning_la }
+}
+
+shared_focus = {
+	id = WWR_learning_la
+	icon = GFX_WWR_learning_la
+	cost = 2
+	x = 0
+	y = 1
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus WWR_learning_la"
+	}
+	relative_position_id = WWR_a_moral_republic
+	prerequisite = { focus = WWR_queers_and_steers focus = WWR_a_moral_republic }
+	mutually_exclusive = { focus = WWR_harness_hollywood }
+}
+
+shared_focus = {
+	id = WWR_one_republic
+	icon = GFX_WWR_one_republic
+	cost = 2
+	x = 0
+	y = 1
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus WWR_one_republic"
+	}
+	relative_position_id = WWR_learning_la
+	prerequisite = { focus = WWR_harness_hollywood focus = WWR_learning_la }
+	mutually_exclusive = { focus = WWR_patched_work }
+}
+
+shared_focus = {
+	id = WWR_patched_work
+	icon = GFX_WWR_patched_work
+	cost = 2
+	x = 0
+	y = 1
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus WWR_patched_work"
+	}
+	relative_position_id = WWR_harness_hollywood
+	prerequisite = { focus = WWR_harness_hollywood focus = WWR_learning_la }
+	mutually_exclusive = { focus = WWR_one_republic }
+}
+
+shared_focus = {
+	id = WWR_affaires_dtat
+	icon = GFX_WWR_affaires_dtat
+	cost = 2
+	x = -1
+	y = 1
+    cancelable = no
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus WWR_affaires_dtat"
+	}
+	relative_position_id = WWR_one_republic
+	prerequisite = { focus = WWR_one_republic focus = WWR_patched_work }
+}
+
+shared_focus = {
+	id = WWR_weaponry_and_tactics
+	icon = GFX_WWR_weaponry_and_tactics
+	cost = 2
+	x = 14
+	y = 0
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus WWR_weaponry_and_tactics"
+	}
+}
+
+shared_focus = {
+	id = WWR_autonomous_temporary_militia_regime
+	icon = GFX_WWR_autonomous_temporary_militia_regime
+	cost = 2
+	x = 0
+	y = 1
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus WWR_autonomous_temporary_militia_regime"
+	}
+	relative_position_id = WWR_weaponry_and_tactics
+	prerequisite = { focus = WWR_weaponry_and_tactics }
+}
+
+shared_focus = {
+	id = WWR_functional_and_welloiled
+	icon = GFX_WWR_functional_and_welloiled
+	cost = 2
+	x = -3
+	y = 1
+    available = {
+        always = no
+    }
+    bypass = {
+        #add conditions
+    }
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus WWR_functional_and_welloiled"
+	}
+	relative_position_id = WWR_autonomous_temporary_militia_regime
+	prerequisite = { focus = WWR_autonomous_temporary_militia_regime }
+}
+
+shared_focus = {
+	id = WWR_poorly_coordinated_and_weak
+	icon = GFX_WWR_poorly_coordinated_and_weak
+	cost = 2
+	x = 3
+	y = 1
+    available = {
+        always = no
+    }
+    bypass = {
+        #add conditions
+    }
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus WWR_poorly_coordinated_and_weak"
+	}
+	relative_position_id = WWR_autonomous_temporary_militia_regime
+	prerequisite = { focus = WWR_autonomous_temporary_militia_regime }
+}
+
+shared_focus = {
+	id = WWR_the_barrelorgan_orchestra
+	icon = GFX_WWR_the_barrelorgan_orchestra
+	cost = 2
+	x = 0
+	y = 1
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus WWR_the_barrelorgan_orchestra"
+	}
+	relative_position_id = WWR_functional_and_welloiled
+	prerequisite = { focus = WWR_functional_and_welloiled }
+}
+
+shared_focus = {
+	id = WWR_unification_and_simplification
+	icon = GFX_WWR_unification_and_simplification
+	cost = 2
+	x = 0
+	y = 1
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus WWR_unification_and_simplification"
+	}
+	relative_position_id = WWR_poorly_coordinated_and_weak
+	prerequisite = { focus = WWR_poorly_coordinated_and_weak }
+}
+
+shared_focus = {
+	id = WWR_collaborators_and_turncoats
+	icon = GFX_WWR_collaborators_and_turncoats
+	cost = 2
+	x = 3
+	y = 1
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus WWR_collaborators_and_turncoats"
+	}
+	relative_position_id = WWR_the_barrelorgan_orchestra
+	prerequisite = { focus = WWR_the_barrelorgan_orchestra }
+	prerequisite = { focus = WWR_unification_and_simplification }
+}
+
+shared_focus = {
+	id = WWR_keep_the_militias
+	icon = GFX_WWR_keep_the_militias
+	cost = 2
+	x = -1
+	y = 1
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus WWR_keep_the_militias"
+	}
+	relative_position_id = WWR_collaborators_and_turncoats
+	prerequisite = { focus = WWR_collaborators_and_turncoats }
+	mutually_exclusive = { focus = WWR_dissolve_the_atmr }
+}
+
+shared_focus = {
+	id = WWR_dissolve_the_atmr
+	icon = GFX_WWR_dissolve_the_atmr
+	cost = 2
+	x = 15
+	y = 5
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus WWR_dissolve_the_atmr"
+	}
+    	prerequisite = { focus = WWR_collaborators_and_turncoats }
+	mutually_exclusive = { focus = WWR_keep_the_militias }
+}
+
+shared_focus = {
+	id = WWR_solutions_to_conditions
+	icon = GFX_WWR_solutions_to_conditions
+	cost = 2
+	x = 1
+	y = 1
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus WWR_solutions_to_conditions"
+	}
+	relative_position_id = WWR_keep_the_militias
+	prerequisite = { focus = WWR_keep_the_militias focus = WWR_dissolve_the_atmr }
+}

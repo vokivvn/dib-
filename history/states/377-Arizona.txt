@@ -1,0 +1,32 @@
+
+state={
+	id=377
+	name="STATE_377"
+
+	history={
+		owner = ARZ
+		buildings = {
+			infrastructure = 2
+			farm_estate = 1
+		}
+		add_core_of = ARZ
+		victory_points = {
+			15670 10 
+		}
+		victory_points = {
+			12765 3 
+		}
+		victory_points = {
+			15675 3 
+		}
+
+	}
+
+	provinces={
+		853 1793 12765 15471 15603 15664 15667 15670 15674 15675 15676 15677 15678 15679 15680 15681 15682 15683 15684 15685 15686 15687 15688 15689 15690 15691 
+	}
+	manpower=65372
+	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=8.000
+}

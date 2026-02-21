@@ -1,0 +1,30 @@
+state=
+{
+	id=326
+	name="STATE_326"
+	manpower = 5752000
+	state_category = metropolis
+	history=
+	{
+		owner = LNQ
+		add_core_of = LNQ
+		victory_points = {
+			10062 40 
+		}
+		buildings = {
+			infrastructure = 7
+			industrial_complex = 3
+			arms_factory = 2
+			office_building = 1
+			dockyard = 1
+			10062 = {
+				naval_base = 6
+			}
+		}
+	}
+	provinces={
+		10062
+	}
+
+	local_supplies=0.0 
+}

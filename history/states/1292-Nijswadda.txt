@@ -1,0 +1,24 @@
+state={
+	id=1292
+	name="STATE_1292"
+
+	history={
+		owner = FRO
+		victory_points = { 13905 3 }
+		buildings = {
+			infrastructure = 2
+			13905 = {
+				naval_base = 1
+			}
+		}
+		add_core_of = FRO
+	}
+
+	provinces={
+		13905 14805 
+	}
+	manpower=3429
+	buildings_max_level_factor=1.000
+	state_category=small_island
+	local_supplies=0.000
+}

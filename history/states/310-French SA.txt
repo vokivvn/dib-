@@ -1,0 +1,25 @@
+
+state={
+	id=310
+	name="STATE_310"
+	manpower = 3341
+
+	state_category = rural
+
+	history={
+		owner = SUR
+		add_core_of = SUR
+		buildings = {
+			infrastructure = 1
+		}
+		victory_points = {
+			15402 1 
+		}
+	}
+
+	provinces={
+		15402 15416 15417 15418 15419 
+	}
+
+	local_supplies=0.0 
+}

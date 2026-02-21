@@ -1,0 +1,29 @@
+state={
+	id=1539
+	name="STATE_1539"
+
+	history={
+		owner = PNV
+		add_core_of = PNV
+		victory_points = {
+			16047 10
+		}
+		victory_points = {
+			16046 10
+		}
+		buildings = {
+			infrastructure = 4
+			arms_factory = 1
+			farm_estate = 2
+		}
+
+	}
+
+	provinces={
+		16036 16045 16046 16047 
+	}
+	manpower=529103
+	buildings_max_level_factor=1.000
+	state_category=large_city
+	local_supplies=0.000
+}

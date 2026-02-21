@@ -1,0 +1,25 @@
+state={
+	id=1197
+	name="STATE_1197"
+
+	history={
+		owner = HON
+		buildings = {
+			infrastructure = 2
+			arms_factory = 1
+			industrial_complex = 2
+		}
+		add_core_of = HON
+		victory_points = {
+			14303 3
+		}
+	}
+
+	provinces={
+		14303 14304 14308 14309 
+	}
+	manpower=190788
+	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=0.000
+}

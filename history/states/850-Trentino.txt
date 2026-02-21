@@ -1,0 +1,33 @@
+
+state = {
+	id = 850
+	name = "STATE_850"
+	manpower = 3024240
+	
+	state_category = city
+
+	history = {
+		owner = FLO
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+			arms_factory = 2
+			10352 = {
+				naval_base = 1
+			}
+			10380 = {
+				naval_base = 4
+			}
+		}
+		add_core_of = FLO
+		victory_points = {
+			10380 10 
+		}
+	}
+
+	provinces = {
+		10352 10380 10520
+	}
+
+	local_supplies = 0.0 
+}

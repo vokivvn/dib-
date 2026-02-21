@@ -1,0 +1,40 @@
+state={
+	id=1083
+	name="STATE_1083"
+
+	history={
+		owner = FLO
+		victory_points = {
+			866 3 
+		}
+		victory_points = {
+			12439 3 
+		}
+		victory_points = {
+			13476 3 
+		}
+		buildings = {
+			infrastructure = 2
+			telecom_infrastructure = 1
+			industrial_complex = 1
+			arms_factory = 1
+			866 = {
+				naval_base = 3
+			}
+			12439 = {
+				naval_base = 1
+			}
+
+		}
+		add_core_of = FLO
+
+	}
+
+	provinces={
+		866 12439 13476 
+	}
+	manpower=769690
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

@@ -1,0 +1,40 @@
+
+state={
+	id=1026
+	name="STATE_1026"
+
+	history={
+		owner = LOU
+		buildings = {
+			infrastructure = 3
+			telecom_infrastructure = 1
+			industrial_complex = 2
+			arms_factory = 2
+			air_base = 1
+			7552 = {
+				naval_base = 5
+
+			}
+
+		}
+		add_core_of = LOU
+		victory_points = {
+			7552 20 
+		}
+		victory_points = {
+			13628 5 
+		}
+		victory_points = {
+			13627 3 
+		}
+
+	}
+
+	provinces={
+		7552 13626 13627 13628 
+	}
+	manpower=968480
+	buildings_max_level_factor=1.000
+	state_category=city
+	local_supplies=0.000
+}

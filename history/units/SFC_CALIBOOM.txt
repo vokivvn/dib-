@@ -1,0 +1,123 @@
+division_template = {
+	name = "Monterey Guard"		# Infantry Division
+	#division_names_group = ENGL_INF_01
+
+	regiments = {
+		infantry = { x = 0 y = 0 }
+		infantry = { x = 0 y = 1 }
+		infantry = { x = 0 y = 2 }
+		infantry = { x = 1 y = 0 }
+		infantry = { x = 1 y = 1 }
+		infantry = { x = 1 y = 2 }
+	}
+	support = {
+		engineer = { x = 0 y = 0 }
+	}
+}
+division_template = {
+	name = "Surfer Divisions"		# Infantry Division
+	#division_names_group = ENGL_INF_01
+
+	regiments = {
+		marine = { x = 0 y = 0 }
+		marine = { x = 0 y = 1 }
+		marine = { x = 0 y = 2 }
+		marine = { x = 1 y = 0 }
+		marine = { x = 1 y = 1 }
+		marine = { x = 1 y = 2 }
+	}
+	support = {
+		engineer = { x = 0 y = 0 }
+	}
+}
+
+units = {
+	division= {	#
+		division_name = {
+				is_name_ordered = yes
+				name_order = 1
+		}
+		location = 14407
+		division_template = "Monterey Guard"
+		start_experience_factor = 0.3
+		start_equipment_factor = 1
+
+	}
+	division= {	#
+		division_name = {
+				is_name_ordered = yes
+				name_order = 1
+		}
+		location = 9671
+		division_template = "Monterey Guard"
+		start_experience_factor = 0.3
+		start_equipment_factor = 1
+
+	}
+	division= {	#
+		division_name = {
+				is_name_ordered = yes
+				name_order = 1
+		}
+		location = 14406
+		division_template = "Monterey Guard"
+		start_experience_factor = 0.3
+		start_equipment_factor = 1
+
+	}
+	division= {	#
+		division_name = {
+				is_name_ordered = yes
+				name_order = 1
+		}
+		location = 14409
+		division_template = "Monterey Guard"
+		start_experience_factor = 0.3
+		start_equipment_factor = 1
+
+	}
+	division= {	#
+		division_name = {
+				is_name_ordered = yes
+				name_order = 1
+		}
+		location = 14403
+		division_template = "Monterey Guard"
+		start_experience_factor = 0.3
+		start_equipment_factor = 1
+
+	}
+	division= {	#
+		division_name = {
+				is_name_ordered = yes
+				name_order = 1
+		}
+		location = 14408
+		division_template = "Monterey Guard"
+		start_experience_factor = 0.3
+		start_equipment_factor = 1
+
+	}
+	division= {	#
+		division_name = {
+				is_name_ordered = yes
+				name_order = 1
+		}
+		location = 9671
+		division_template = "Surfer Divisions"
+		start_experience_factor = 0.3
+		start_equipment_factor = 1
+
+	}
+	division= {	#
+		division_name = {
+				is_name_ordered = yes
+				name_order = 1
+		}
+		location = 9671
+		division_template = "Surfer Divisions"
+		start_experience_factor = 0.3
+		start_equipment_factor = 1
+
+	}
+}

@@ -1,0 +1,27 @@
+
+state={
+	id=584
+	name="STATE_584"
+
+	history={
+		owner = KWZ
+		victory_points = {
+			12333 2 
+		}
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 1
+
+		}
+		add_core_of = KWZ
+
+	}
+
+	provinces={
+		1649 4482 4549 4958 5003 7448 7491 7560 7584 7924 8099 10357 10414 10476 10742 12333 
+	}
+	manpower=931458
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+	local_supplies=4.000
+}

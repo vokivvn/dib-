@@ -1,0 +1,25 @@
+state={
+	id=1485
+	name="STATE_1485"
+
+	history={
+		victory_points = {
+			11366 5 
+		}
+		owner = NFR
+		buildings = {
+			infrastructure = 2
+			farm_estate = 1
+		}
+		add_core_of = NFR
+
+	}
+
+	provinces={
+		11366 15824 15825 15830 
+	}
+	manpower=37113
+	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=0.000
+}

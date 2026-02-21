@@ -1,0 +1,32 @@
+state={
+	id=1049
+	name="STATE_1049"
+
+	history={
+		owner = CRI
+		victory_points = {
+			9680 10 
+		}
+		victory_points = {
+			9718 5 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+			dockyard = 1
+			9680 = {
+				naval_base = 4
+			}
+		}
+		add_core_of = CRI
+
+	}
+
+	provinces={
+		9677 9680 9718 
+	}
+	manpower=461143
+	buildings_max_level_factor=1.000
+	state_category=city
+	local_supplies=4.000
+}

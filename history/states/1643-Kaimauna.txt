@@ -1,0 +1,22 @@
+state={
+	id=1643
+	name="STATE_1643"
+
+	history={
+		owner = KAI
+		add_core_of = KAI
+		buildings = {
+			infrastructure = 2
+
+		}
+
+	}
+
+	provinces={
+		16565 16566 16567 16568 16569 16570 16571 16572 16573 
+	}
+	manpower=50000
+	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=0.000
+}

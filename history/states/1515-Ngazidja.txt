@@ -1,0 +1,26 @@
+state={
+	id=1515
+	name="STATE_1515"
+
+	history={
+		owner = COM
+		add_core_of = COM
+		victory_points = {
+			15935 3 
+		}
+		buildings = {
+			infrastructure = 2
+			15935 = {
+				naval_base = 1
+			}
+		}
+	}
+
+	provinces={
+		15935 
+	}
+	manpower=238919
+	buildings_max_level_factor=1.000
+	state_category=small_island
+	local_supplies=0.000
+}

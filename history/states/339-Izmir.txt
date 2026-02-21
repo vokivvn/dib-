@@ -1,0 +1,39 @@
+
+state={
+	id=339
+	name="STATE_339"
+	resources={
+		chromium=50.000
+	}
+
+	history={
+		owner = ANT
+		victory_points = {
+			4112 15 
+		}
+		victory_points = {
+			928 5 
+		}
+		buildings = {
+			infrastructure = 2
+			telecom_infrastructure = 2
+			industrial_complex = 1
+			air_base = 2
+			4112 = {
+				naval_base = 5
+
+			}
+
+		}
+		add_core_of = ANT
+
+	}
+
+	provinces={
+		785 928 3927 4112 6992 7130 9799 9921 9929 10038 11778 11848 11898 
+	}
+	manpower=1401889
+	buildings_max_level_factor=1.000
+	state_category=large_town
+	local_supplies=8.000
+}

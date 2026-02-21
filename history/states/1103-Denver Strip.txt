@@ -1,0 +1,38 @@
+state={
+	id=1103
+	name="STATE_1103"
+
+	history={
+		owner = KAN
+		buildings = {
+			infrastructure = 3
+			arms_factory = 1
+			industrial_complex = 1
+			telecom_infrastructure = 2
+		}
+		add_core_of = KAN
+		victory_points = {
+			13819 20
+		}
+		victory_points = {
+			13820 10
+		}
+		victory_points = {
+			13824 5
+		}
+		victory_points = {
+			1809 3
+		}
+		victory_points = {
+			13834 3
+		}
+	}
+
+	provinces={
+		1809 4760 12642 13818 13819 13820 13821 13822 13823 13824 13831 13832 13833 13834 
+	}
+	manpower=600158
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

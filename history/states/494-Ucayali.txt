@@ -1,0 +1,32 @@
+
+state={
+	id=494
+	name="STATE_494"
+
+	history={
+		owner = PRU
+		add_core_of = PRU
+		buildings = {
+			infrastructure = 2
+
+		}
+		victory_points = {
+			8191 1 
+		}
+		victory_points = {
+			5166 3 
+		}
+		victory_points = {
+			2226 2 
+		}
+
+	}
+
+	provinces={
+		2212 2226 5162 10970 13316 
+	}
+	manpower=735826
+	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=0.000
+}

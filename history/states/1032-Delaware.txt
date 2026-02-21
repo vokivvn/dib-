@@ -1,0 +1,29 @@
+state={
+	id=1032
+	name="STATE_1032"
+
+	history={
+		owner = DLW
+		victory_points = {
+			13659 10 
+		}
+		victory_points = {
+			13660 5 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+			dockyard = 1
+		}
+		add_core_of = DLW
+
+	}
+
+	provinces={
+		9786 13507 13659 13660 13661
+	}
+	manpower=594338
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

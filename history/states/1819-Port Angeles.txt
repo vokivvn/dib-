@@ -1,0 +1,25 @@
+state={
+	id=1819
+	name="STATE_1819"
+
+	history={
+		owner = ORE
+		add_core_of = ORE
+		add_claim_by = NCL
+		victory_points = {
+			17179 5 
+		}
+		buildings = {
+			infrastructure = 3
+			dockyard = 1
+		}
+	}
+
+	provinces={
+		17179 
+	}
+	manpower=47710
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

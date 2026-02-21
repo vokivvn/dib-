@@ -1,0 +1,24 @@
+state={
+	id=1171
+	name="STATE_1171"
+
+	history=
+	{
+		owner = MRS
+		buildings = {
+			infrastructure = 3
+			arms_factory = 1
+			industrial_complex = 3
+		}
+		victory_points = { 11562 5 }
+		add_core_of = MRS
+	}
+
+	provinces={
+		11562 
+	}
+	manpower=5500
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

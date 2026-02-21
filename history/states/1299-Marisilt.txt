@@ -1,0 +1,28 @@
+state={
+	id=1299
+	name="STATE_1299"
+
+	history={
+		owner = FRR
+		victory_points = { 14865 10 }
+		victory_points = { 14857 5 }
+		buildings = {
+			infrastructure = 4
+			telecom_infrastructure = 2
+			industrial_complex = 2
+			arms_factory = 1
+			14865 = {
+				naval_base = 4
+			}
+		}
+		add_core_of = FRR
+	}
+
+	provinces={
+		13914 14857 14858 14865 14867 
+	}
+	manpower=767823
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

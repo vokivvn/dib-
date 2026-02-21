@@ -1,0 +1,7 @@
+spriteTypes = {	
+
+	spriteType = {
+		name = "GFX_portrait_stewart_mckinney"
+		texturefile = "gfx/leaders/CCT/Stewart_McKinney.dds"
+	}
+}

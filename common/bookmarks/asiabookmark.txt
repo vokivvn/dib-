@@ -1,0 +1,79 @@
+bookmarks = {
+	bookmark = {
+		name = "DIB3_NAME"
+		desc = "DIB3_DESC"
+		date = 1985.10.1.12
+		picture = "GFX_select_date_3"
+		default_country = "JAP"
+		default = yes
+		
+		JAP={
+			history = "JAP"
+			ideology = oriental_despotism
+			ideas = {
+			}
+			focuses = {
+			}
+		}
+
+		KYO={
+			history = "KYO"
+			ideology = oriental_despotism
+			ideas = {
+			}
+			focuses = {
+			}
+		}
+
+		SAT={
+			history = "SAT"
+			ideology = occidental_despotism
+			ideas = {
+			}
+			focuses = {
+			}
+		}
+
+		TSA={
+			history = "TSA"
+			ideology = occidental_despotism
+			ideas = {
+			}
+			focuses = {
+			}
+		}
+
+		HIR={
+			history = "HIR"
+			ideology = obscurantism
+			ideas = {
+			}
+			focuses = {
+			}
+		}
+
+        CHI={
+			history = "CHI"
+			ideology = oriental_despotism
+			ideas = {
+			}
+			focuses = {
+			}
+		}
+
+        MAN={
+			history = "MAN"
+			ideology = oriental_despotism
+			ideas = {
+			}
+			focuses = {
+			}
+		}
+		
+
+		effect = {
+			randomize_weather = 22345 # <- Obligatory in every bookmark !
+			#123 = { rain_light = yes }
+		}
+	}
+}

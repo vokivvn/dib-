@@ -1,0 +1,24 @@
+state={
+	id=1758
+	name="STATE_1758"
+
+	history={
+		owner = MND
+		add_core_of = MND
+		add_claim_by = PAI
+		buildings = {
+			infrastructure = 2
+			12190 ={
+				naval_base = 1
+			}
+		}
+	}
+
+	provinces={
+		1339 1355 4358 12206 
+	}
+	manpower=455555
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+	local_supplies=0.000
+}

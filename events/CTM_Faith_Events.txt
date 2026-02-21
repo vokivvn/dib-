@@ -1,0 +1,561 @@
+add_namespace = CTM
+
+country_event = {
+    id = CTM.2
+    immediate = {
+        1205 = { set_variable = { 1205.faith = 35 } } #Sunni
+	    set_variable = { 1203.faith = 35 }
+        set_variable = { 1208.faith = 35 }
+        set_variable = { 1204.faith = 35 }
+        set_variable = { 1212.faith = 35 }
+        set_variable = { 1211.faith = 35 }
+        set_variable = { 1210.faith = 35 }
+        set_variable = { 1207.faith = 35 }
+        set_variable = { 1234.faith = 35 }
+        set_variable = { 691.faith = 35 }
+        set_variable = { 1377.faith = 35 }
+        set_variable = { 1376.faith = 35 }
+        set_variable = { 1589.faith = 35 }
+
+        set_variable = { 311.faith = 88 } #Folk Muslim
+        set_variable = { 1173.faith = 88 }
+        set_variable = { 1190.faith = 88 }
+        set_variable = { 1196.faith = 88 }
+        set_variable = { 313.faith = 88 }
+        set_variable = { 1193.faith = 88 }
+        set_variable = { 312.faith = 88 }
+        set_variable = { 1215.faith = 88 }
+        set_variable = { 1213.faith = 88 }
+
+        set_variable = { 1504.faith = 101 } #Batuque
+        set_variable = { 1505.faith = 101 }
+
+        set_variable = { 1382.faith = 93 } #Obeah
+        set_variable = { 687.faith = 93 }
+        set_variable = { 1383.faith = 93 }
+        set_variable = { 1374.faith = 93 }
+        
+        set_variable = { 1121.faith = 89 } #Sanpon
+        set_variable = { 1287.faith = 89 }
+        set_variable = { 1286.faith = 89 }
+        set_variable = { 1282.faith = 89 }
+
+        set_variable = { 1518.faith = 102 } #Tambor de Mina
+        set_variable = { 1521.faith = 102 }
+
+        set_variable = { 1367.faith = 90 } #Winti
+        set_variable = { 939.faith = 90 }
+        set_variable = { 1368.faith = 90 }
+        set_variable = { 1357.faith = 90 }
+        set_variable = { 1358.faith = 90 }
+        set_variable = { 1359.faith = 90 }
+        set_variable = { 1392.faith = 90 }
+        set_variable = { 1394.faith = 90 }
+        set_variable = { 1396.faith = 90 }
+        set_variable = { 310.faith = 90 }
+        set_variable = { 1402.faith = 90 }
+
+        set_variable = { 1209.faith = 10 } #Folk Catholic
+        set_variable = { 1214.faith = 10 }
+        set_variable = { 1206.faith = 10 }
+        set_variable = { 1188.faith = 10 }
+        set_variable = { 1189.faith = 10 }
+        set_variable = { 1194.faith = 10 }
+        set_variable = { 1407.faith = 10 }
+        set_variable = { 1406.faith = 10 }
+        set_variable = { 1408.faith = 10 }
+        set_variable = { 1461.faith = 10 }
+        set_variable = { 1462.faith = 10 }
+        set_variable = { 1459.faith = 10 }
+        set_variable = { 503.faith = 10 }
+        set_variable = { 1438.faith = 10 }
+        set_variable = { 1439.faith = 10 }
+        set_variable = { 1454.faith = 10 }
+        set_variable = { 1463.faith = 10 }
+        set_variable = { 1417.faith = 10 }
+        set_variable = { 1421.faith = 10 }
+        set_variable = { 1418.faith = 10 }
+        set_variable = { 1419.faith = 10 }
+        set_variable = { 1457.faith = 10 }
+        set_variable = { 1464.faith = 10 }
+        set_variable = { 1475.faith = 10 }
+        set_variable = { 1476.faith = 10 }
+        set_variable = { 1477.faith = 10 }
+        set_variable = { 1470.faith = 10 }
+        set_variable = { 1661.faith = 10 }
+        set_variable = { 1660.faith = 10 }
+        set_variable = { 1651.faith = 10 }
+
+        set_variable = { 1202.faith = 12 } #Roman Catholic
+        set_variable = { 1201.faith = 12 }
+        set_variable = { 314.faith = 12 }
+        set_variable = { 1199.faith = 12 }
+        set_variable = { 1198.faith = 12 }
+        set_variable = { 1191.faith = 12 }
+        set_variable = { 1192.faith = 12 }
+        set_variable = { 1195.faith = 12 }
+        set_variable = { 1200.faith = 12 }
+        set_variable = { 1197.faith = 12 }
+        set_variable = { 1187.faith = 12 }
+        set_variable = { 1174.faith = 12 }
+        set_variable = { 1177.faith = 12 }
+        set_variable = { 1181.faith = 12 }
+        set_variable = { 1180.faith = 12 }
+        set_variable = { 1179.faith = 12 }
+        set_variable = { 1184.faith = 12 }
+        set_variable = { 1185.faith = 12 }
+        set_variable = { 1090.faith = 12 }
+        set_variable = { 1091.faith = 12 }
+        set_variable = { 1093.faith = 12 }
+        set_variable = { 1233.faith = 12 }
+        set_variable = { 1236.faith = 12 }
+        set_variable = { 1239.faith = 12 }
+        set_variable = { 1029.faith = 12 }
+        set_variable = { 1028.faith = 12 }
+        set_variable = { 1027.faith = 12 }
+        set_variable = { 1026.faith = 12 }
+        set_variable = { 450.faith = 12 }
+        set_variable = { 321.faith = 12 }
+        set_variable = { 85.faith = 12 }
+        set_variable = { 1223.faith = 12 }
+        set_variable = { 378.faith = 12 }
+        set_variable = { 976.faith = 12 }
+        set_variable = { 977.faith = 12 }
+        set_variable = { 484.faith = 12 }
+        set_variable = { 1038.faith = 12 }
+        set_variable = { 1037.faith = 12 }
+        set_variable = { 1035.faith = 12 }
+        set_variable = { 821.faith = 12 }
+        set_variable = { 483.faith = 12 }
+        set_variable = { 228.faith = 12 }
+        set_variable = { 482.faith = 12 }
+        set_variable = { 481.faith = 12 }
+        set_variable = { 480.faith = 12 }
+        set_variable = { 479.faith = 12 }
+        set_variable = { 478.faith = 12 }
+        set_variable = { 277.faith = 12 }
+        set_variable = { 485.faith = 12 }
+        set_variable = { 477.faith = 12 }
+        set_variable = { 476.faith = 12 }
+        set_variable = { 1023.faith = 12 }
+        set_variable = { 1025.faith = 12 }
+        set_variable = { 978.faith = 12 }
+        set_variable = { 1079.faith = 12 }
+        set_variable = { 1026.faith = 12 }
+        set_variable = { 979.faith = 12 }
+        set_variable = { 1085.faith = 12 }
+        set_variable = { 366.faith = 12 }
+        set_variable = { 1018.faith = 12 }
+        set_variable = { 1019.faith = 12 }
+        set_variable = { 728.faith = 12 }
+        set_variable = { 1414.faith = 12 }
+        set_variable = { 1415.faith = 12 }
+        set_variable = { 981.faith = 12 }
+        set_variable = { 1082.faith = 12 }
+        set_variable = { 1099.faith = 12 }
+        set_variable = { 1033.faith = 12 }
+        set_variable = { 1240.faith = 12 }
+        set_variable = { 1241.faith = 12 }
+        set_variable = { 692.faith = 12 }
+        set_variable = { 1242.faith = 12 }
+        set_variable = { 1244.faith = 12 }
+        set_variable = { 694.faith = 12 }
+        set_variable = { 1253.faith = 12 }
+        set_variable = { 1254.faith = 12 }
+        set_variable = { 486.faith = 12 }
+        set_variable = { 1256.faith = 12 }
+        set_variable = { 1255.faith = 12 }
+        set_variable = { 1257.faith = 12 }
+        set_variable = { 493.faith = 12 }
+        set_variable = { 1251.faith = 12 }
+        set_variable = { 1249.faith = 12 }
+        set_variable = { 1247.faith = 12 }
+        set_variable = { 1246.faith = 12 }
+        set_variable = { 1245.faith = 12 }
+        set_variable = { 1186.faith = 12 }
+        set_variable = { 498.faith = 12 }
+        set_variable = { 1183.faith = 12 }
+        set_variable = { 1182.faith = 12 }
+        set_variable = { 935.faith = 12 }
+        set_variable = { 1260.faith = 12 }
+        set_variable = { 1267.faith = 12 }
+        set_variable = { 1266.faith = 12 }
+        set_variable = { 695.faith = 12 }
+        set_variable = { 1272.faith = 12 }
+        set_variable = { 1270.faith = 12 }
+        set_variable = { 1279.faith = 12 }
+        set_variable = { 1280.faith = 12 }
+        set_variable = { 1274.faith = 12 }
+        set_variable = { 1278.faith = 12 }
+        set_variable = { 307.faith = 12 }
+        set_variable = { 489.faith = 12 }
+        set_variable = { 1277.faith = 12 }
+        set_variable = { 848.faith = 12 }
+        set_variable = { 1083.faith = 12 }
+        set_variable = { 1131.faith = 12 }
+        set_variable = { 999.faith = 12 }
+        set_variable = { 1008.faith = 12 }
+        set_variable = { 1281.faith = 12 }
+        set_variable = { 1283.faith = 12 }
+        set_variable = { 1284.faith = 12 }
+        set_variable = { 1285.faith = 12 }
+        set_variable = { 1291.faith = 12 }
+        set_variable = { 1290.faith = 12 }
+        set_variable = { 1288.faith = 12 }
+        set_variable = { 710.faith = 12 }
+        set_variable = { 1309.faith = 12 }
+        set_variable = { 1310.faith = 12 }
+        set_variable = { 1315.faith = 12 }
+        set_variable = { 1311.faith = 12 }
+        set_variable = { 1317.faith = 12 }
+        set_variable = { 1139.faith = 12 }
+        set_variable = { 1361.faith = 12 }
+        set_variable = { 1362.faith = 12 }
+        set_variable = { 1363.faith = 12 }
+        set_variable = { 1086.faith = 12 }
+        set_variable = { 1341.faith = 12 }
+        set_variable = { 1332.faith = 12 }
+        set_variable = { 1342.faith = 12 }
+        set_variable = { 1344.faith = 12 }
+        set_variable = { 1336.faith = 12 }
+        set_variable = { 1337.faith = 12 }
+        set_variable = { 1343.faith = 12 }
+        set_variable = { 1355.faith = 12 }
+        set_variable = { 1319.faith = 12 }
+        set_variable = { 1349.faith = 12 }
+        set_variable = { 365.faith = 12 }
+        set_variable = { 290.faith = 12 }
+        set_variable = { 1318.faith = 12 }
+        set_variable = { 1338.faith = 12 }
+        set_variable = { 993.faith = 12 }
+        set_variable = { 1400.faith = 12 }
+        set_variable = { 1403.faith = 12 }
+        set_variable = { 1401.faith = 12 }
+        set_variable = { 1426.faith = 12 }
+        set_variable = { 1429.faith = 12 }
+        set_variable = { 1500.faith = 12 }
+        set_variable = { 1501.faith = 12 }
+        set_variable = { 1496.faith = 12 }
+        set_variable = { 1493.faith = 12 }
+        set_variable = { 1495.faith = 12 }
+        set_variable = { 1488.faith = 12 }
+        set_variable = { 1489.faith = 12 }
+        set_variable = { 1492.faith = 12 }
+        set_variable = { 1513.faith = 12 }
+        set_variable = { 1512.faith = 12 }
+        set_variable = { 1507.faith = 12 }
+        set_variable = { 1503.faith = 12 }
+        set_variable = { 1527.faith = 12 }
+        set_variable = { 1524.faith = 12 }
+        set_variable = { 1526.faith = 12 }
+        set_variable = { 1519.faith = 12 }
+        set_variable = { 1531.faith = 12 }
+        set_variable = { 1530.faith = 12 }
+        set_variable = { 1532.faith = 12 }
+        set_variable = { 1590.faith = 12 }
+        set_variable = { 1588.faith = 12 }
+        set_variable = { 1594.faith = 12 }
+
+        set_variable = { 74.faith = 55 } #Eastern Orthodox
+        set_variable = { 814.faith = 55 }
+        set_variable = { 766.faith = 55 }
+        set_variable = { 731.faith = 55 }
+        set_variable = { 186.faith = 55 }
+        set_variable = { 797.faith = 55 }
+        set_variable = { 341.faith = 55 }
+
+        set_variable = { 1165.faith = 56 } #Nestorian
+        set_variable = { 1646.faith = 56 }
+        set_variable = { 1677.faith = 56 }
+        set_variable = { 1665.faith = 56 }
+        set_variable = { 1666.faith = 56 }
+
+        set_variable = { 1648.faith = 104 } #Oriental Orthodox
+        set_variable = { 1650.faith = 104 }
+        set_variable = { 1649.faith = 104 }
+        set_variable = { 1647.faith = 104 }
+        set_variable = { 1652.faith = 104 }
+        set_variable = { 1654.faith = 104 }
+        set_variable = { 1656.faith = 104 }
+        set_variable = { 1658.faith = 104 }
+        set_variable = { 1655.faith = 104 }
+        set_variable = { 1662.faith = 104 }
+        set_variable = { 1664.faith = 104 }
+        set_variable = { 1663.faith = 104 }
+        set_variable = { 1653.faith = 104 }
+        set_variable = { 1667.faith = 104 }
+        set_variable = { 1672.faith = 104 }
+        set_variable = { 1673.faith = 104 }
+        set_variable = { 1676.faith = 104 }
+        set_variable = { 1675.faith = 104 }
+        set_variable = { 1669.faith = 104 }
+        set_variable = { 1674.faith = 104 }
+        set_variable = { 1670.faith = 104 }
+        set_variable = { 1669.faith = 104 }
+        set_variable = { 1668.faith = 104 }
+
+        set_variable = { 315.faith = 66 } #Anglican
+        set_variable = { 1022.faith = 66 }
+        set_variable = { 1164.faith = 66 }
+        set_variable = { 690.faith = 66 }
+
+        set_variable = { 1081.faith = 67 } #Episcopalian
+        set_variable = { 1347.faith = 67 }
+        set_variable = { 1353.faith = 67 }
+        set_variable = { 1345.faith = 67 }
+        set_variable = { 1348.faith = 67 }
+        set_variable = { 1354.faith = 67 }
+        set_variable = { 1325.faith = 67 }
+        set_variable = { 1326.faith = 67 }
+        set_variable = { 1322.faith = 67 }
+        set_variable = { 1324.faith = 67 }
+        set_variable = { 995.faith = 67 }
+        set_variable = { 1057.faith = 67 }
+        set_variable = { 1053.faith = 67 }
+        set_variable = { 1061.faith = 67 }
+        set_variable = { 320.faith = 67 }
+        set_variable = { 1055.faith = 67 }
+        set_variable = { 1060.faith = 67 }
+
+        set_variable = { 1371.faith = 82 } #Bahai
+        set_variable = { 1373.faith = 82 }
+        set_variable = { 1372.faith = 82 }
+
+        set_variable = { 1381.faith = 91 } #Alleluia Church
+        set_variable = { 1379.faith = 91 }
+        set_variable = { 1380.faith = 91 }
+        set_variable = { 1378.faith = 91 }
+        set_variable = { 1370.faith = 91 }
+
+        set_variable = { 1390.faith = 92 } #Kejawen
+        set_variable = { 1391.faith = 92 }
+        set_variable = { 1389.faith = 92 }
+
+        set_variable = { 1176.faith = 87 } #Eigenkerk
+        set_variable = { 1107.faith = 87 }
+        set_variable = { 1293.faith = 87 }
+        set_variable = { 1294.faith = 87 }
+        set_variable = { 1295.faith = 87 }
+        set_variable = { 1296.faith = 87 }
+        set_variable = { 1297.faith = 87 }
+        set_variable = { 1302.faith = 87 }
+        set_variable = { 1303.faith = 87 }
+        set_variable = { 1105.faith = 87 }
+        set_variable = { 1298.faith = 87 }
+        set_variable = { 1299.faith = 87 }
+        set_variable = { 1301.faith = 87 }
+        set_variable = { 1300.faith = 87 }
+        set_variable = { 1292.faith = 87 }
+        set_variable = { 125.faith = 87 }
+        set_variable = { 1289.faith = 87 }
+
+        set_variable = { 980.faith = 21 } #Scientologist
+
+        set_variable = { 1094.faith = 72 } #Pentecostal
+        set_variable = { 1095.faith = 72 }
+        set_variable = { 1100.faith = 72 }
+        set_variable = { 1097.faith = 72 }
+        set_variable = { 1098.faith = 72 }
+        set_variable = { 1101.faith = 72 }
+        set_variable = { 1102.faith = 72 }
+        set_variable = { 1084.faith = 72 }
+        set_variable = { 803.faith = 72 }
+        set_variable = { 188.faith = 72 }
+        set_variable = { 1080.faith = 72 }
+        set_variable = { 847.faith = 72 }
+        set_variable = { 1321.faith = 72 }
+        set_variable = { 1320.faith = 72 }
+        set_variable = { 1054.faith = 72 }
+        set_variable = { 1056.faith = 72 }
+        set_variable = { 1436.faith = 72 }
+        set_variable = { 1447.faith = 72 }
+        set_variable = { 1437.faith = 72 }
+        set_variable = { 1446.faith = 72 }
+        set_variable = { 1435.faith = 72 }
+        set_variable = { 1450.faith = 72 }
+        set_variable = { 1427.faith = 72 }
+        set_variable = { 1422.faith = 72 }
+        set_variable = { 1420.faith = 72 }
+        set_variable = { 1416.faith = 72 }
+        set_variable = { 1424.faith = 72 }
+        set_variable = { 1423.faith = 72 }
+        set_variable = { 1430.faith = 72 }
+        set_variable = { 1432.faith = 72 }
+        set_variable = { 1433.faith = 72 }
+        set_variable = { 1425.faith = 72 }
+        set_variable = { 1428.faith = 72 }
+
+        set_variable = { 383.faith = 77 } #Western Baptist
+        set_variable = { 1104.faith = 77 }
+        set_variable = { 382.faith = 77 }
+        set_variable = { 1103.faith = 77 }
+        set_variable = { 1453.faith = 77 }
+        set_variable = { 1458.faith = 77 }
+        set_variable = { 1460.faith = 77 }
+        set_variable = { 1465.faith = 77 }
+        set_variable = { 1431.faith = 77 }
+        set_variable = { 1440.faith = 77 }
+
+        set_variable = { 1331.faith = 76 } #Southern Baptist
+        set_variable = { 1340.faith = 76 }
+        set_variable = { 1356.faith = 76 }
+        set_variable = { 1346.faith = 76 }
+        set_variable = { 1351.faith = 76 }
+        set_variable = { 1323.faith = 76 }
+        set_variable = { 1339.faith = 76 }
+        set_variable = { 1350.faith = 76 }
+        set_variable = { 1352.faith = 76 }
+        set_variable = { 1334.faith = 76 }
+        set_variable = { 1352.faith = 76 }
+        set_variable = { 729.faith = 76 }
+        set_variable = { 1335.faith = 76 }
+        set_variable = { 1333.faith = 76 }
+
+        set_variable = { 1248.faith = 69 } #Independent Baptist
+        set_variable = { 1165.faith = 69 }
+        set_variable = { 1166.faith = 69 }
+
+        set_variable = { 525.faith = 3 } #Mahayana
+        set_variable = { 527.faith = 3 }
+        set_variable = { 1092.faith = 3 }
+        set_variable = { 1316.faith = 3 }
+        set_variable = { 1314.faith = 3 }
+        set_variable = { 1313.faith = 3 }
+
+        set_variable = { 1312.faith = 8 } #Vajrayana
+
+        set_variable = { 1175.faith = 45 } #Mennonite
+        set_variable = { 1178.faith = 45 }
+        set_variable = { 1172.faith = 45 }
+        set_variable = { 994.faith = 45 }
+        set_variable = { 360.faith = 45 }
+        set_variable = { 1059.faith = 45 }
+
+        set_variable = { 1238.faith = 46 } #Moravian
+        set_variable = { 1235.faith = 46 }
+        set_variable = { 998.faith = 46 }
+        set_variable = { 1237.faith = 46 }
+        set_variable = { 1388.faith = 46 }
+        set_variable = { 1397.faith = 46 }
+        set_variable = { 1398.faith = 46 }
+        set_variable = { 309.faith = 46 }
+        set_variable = { 1369.faith = 46 }
+        set_variable = { 1468.faith = 46 }
+        set_variable = { 1473.faith = 46 }
+        set_variable = { 1474.faith = 46 }
+        set_variable = { 1478.faith = 46 }
+        set_variable = { 1466.faith = 46 }
+        set_variable = { 805.faith = 46 }
+
+        set_variable = { 233.faith = 36 } #Gaian
+
+        set_variable = { 613.faith = 41 } #Rajneeshi
+
+        set_variable = { 1225.faith = 38 } #Mansonite
+        set_variable = { 1224.faith = 38 }
+
+        set_variable = { 1058.faith = 74 } #Quaker
+
+        set_variable = { 1243.faith = 75 } #Reformed
+        set_variable = { 1276.faith = 75 }
+        set_variable = { 1275.faith = 75 }
+        set_variable = { 1274.faith = 75 }
+        set_variable = { 1305.faith = 75 }
+        set_variable = { 1308.faith = 75 }
+        set_variable = { 7.faith = 75 }
+        set_variable = { 36.faith = 75 }
+        set_variable = { 35.faith = 75 }
+        set_variable = { 1514.faith = 75 }
+        set_variable = { 1511.faith = 75 }
+        set_variable = { 1520.faith = 75 }
+        set_variable = { 1522.faith = 75 }
+
+        set_variable = { 1252.faith = 70 } #Lutheran
+        set_variable = { 1250.faith = 70 }
+        set_variable = { 1262.faith = 70 }
+        set_variable = { 1264.faith = 70 }
+        set_variable = { 1265.faith = 70 }
+        set_variable = { 1304.faith = 70 }
+        set_variable = { 1306.faith = 70 }
+        set_variable = { 1307.faith = 70 }
+        set_variable = { 1106.faith = 70 }
+        set_variable = { 1479.faith = 70 }
+        set_variable = { 1481.faith = 70 }
+        set_variable = { 1483.faith = 70 }
+        set_variable = { 1482.faith = 70 }
+        set_variable = { 1480.faith = 70 }
+        set_variable = { 1499.faith = 70 }
+        set_variable = { 1498.faith = 70 }
+        set_variable = { 1497.faith = 70 }
+        set_variable = { 1494.faith = 70 }
+        set_variable = { 1484.faith = 70 }
+        set_variable = { 1487.faith = 70 }
+        set_variable = { 1486.faith = 70 }
+        set_variable = { 1485.faith = 70 }
+
+        set_variable = { 1671.faith = 103 } #Karaite
+        set_variable = { 1659.faith = 103 }
+        set_variable = { 1657.faith = 103 }
+
+        set_variable = { 1375.faith = 29 } #Rabbinic
+        set_variable = { 1393.faith = 29 }
+        set_variable = { 1593.faith = 29 }
+
+        set_variable = { 1372.faith = 94 } #Sai Babi
+
+        set_variable = { 1387.faith = 95 } #Shaktist
+
+        set_variable = { 1385.faith = 96 } #Animist
+        set_variable = { 1386.faith = 96 }
+        set_variable = { 1384.faith = 96 }
+        set_variable = { 1395.faith = 96 }
+        set_variable = { 1399.faith = 96 }
+        set_variable = { 1360.faith = 96 }
+        set_variable = { 1365.faith = 96 }
+        set_variable = { 1366.faith = 96 }
+        set_variable = { 1258.faith = 96 }
+        set_variable = { 1261.faith = 96 }
+        set_variable = { 1263.faith = 96 }
+        set_variable = { 1259.faith = 96 }
+
+        set_variable = { 1404.faith = 30 } #Brighamite
+        set_variable = { 996.faith = 30 }
+        set_variable = { 1412.faith = 30 }
+        set_variable = { 1411.faith = 30 }
+        set_variable = { 380.faith = 30 }
+        set_variable = { 1449.faith = 30 }
+        set_variable = { 1443.faith = 30 }
+        set_variable = { 1444.faith = 30 }
+        set_variable = { 1448.faith = 30 }
+        set_variable = { 377.faith = 30 }
+        set_variable = { 1445.faith = 30 }
+        set_variable = { 1451.faith = 30 }
+
+        set_variable = { 1441.faith = 32 } #Smithian
+        set_variable = { 1452.faith = 32 }
+        set_variable = { 1442.faith = 32 }
+
+        set_variable = { 1410.faith = 98 } #Peyote
+        set_variable = { 1405.faith = 98 }
+        set_variable = { 1409.faith = 98 }
+        set_variable = { 1455.faith = 98 }
+        set_variable = { 1434.faith = 98 }
+        set_variable = { 1456.faith = 98 }
+
+        set_variable = { 1469.faith = 99 } #Neolinite
+        set_variable = { 1472.faith = 99 }
+        set_variable = { 1467.faith = 99 }
+        set_variable = { 1471.faith = 99 }
+        
+        set_variable = { 1413.faith = 97 } #Sonnekult
+        
+        set_variable = { 1506.faith = 100 } #Kardecist
+        set_variable = { 1491.faith = 100 }
+        set_variable = { 1490.faith = 100 }
+    }
+    title = RELIGION.1776.t
+	desc = RELIGION.1776.d
+    fire_only_once = yes
+	is_triggered_only = yes
+	hidden = yes
+}

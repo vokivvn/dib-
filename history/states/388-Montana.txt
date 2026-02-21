@@ -1,0 +1,31 @@
+
+state={
+	id=388
+	name="STATE_388"
+	resources={
+		tungsten=11.000
+	}
+
+	history={
+		owner = DAK
+		buildings = {
+			infrastructure = 2
+		}
+		add_core_of = DAK
+		victory_points = {
+			17211 30
+		}
+		victory_points = {
+			4860 1 
+		}
+
+	}
+
+	provinces={
+		1736 1767 1851 1854 1857 4741 4838 4857 4860 6742 7760 7779 7880 10587 10602 10672 10706 11712 12572 12585 12676 17211 17212 17213 17214 
+	}
+	manpower=537605
+	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=0.000
+}

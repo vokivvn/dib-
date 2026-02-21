@@ -1,0 +1,14 @@
+﻿capital = 267
+
+#set_oob = "AFG_1936"
+
+set_politics = {
+	ruling_party = radical_right
+	last_election = "1936.1.1"
+	election_frequency = 48
+	elections_allowed = no
+}
+
+set_popularities = {
+	radical_right = 100
+}

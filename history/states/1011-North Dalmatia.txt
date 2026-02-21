@@ -1,0 +1,30 @@
+state={
+	id=1011
+	name="STATE_1011"
+
+	history={
+		owner = CRO
+		victory_points = {
+			11901 10 
+		}
+		victory_points = {
+			13252 5 
+		}
+		buildings = {
+			infrastructure = 3
+			telecom_infrastructure = 1
+			dockyard = 1
+			industrial_complex = 2
+		}
+		add_core_of = CRO
+
+	}
+
+	provinces={
+		591 6611 11901 13252 
+	}
+	manpower=623042
+	buildings_max_level_factor=1.000
+	state_category=large_town
+	local_supplies=3.000
+}

@@ -1,0 +1,27 @@
+state={
+	id=1359
+	name="STATE_1359"
+
+	history={
+		owner = CAY
+		add_core_of = CAY
+		buildings = {
+			infrastructure = 2
+			farm_estate = 1
+		}
+		victory_points = {
+			15135 3
+		}
+		victory_points = {
+			15133 1
+		}
+	}
+
+	provinces={
+		15132 15133 15134 15135 15136 
+	}
+	manpower=7839
+	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=0.000
+}

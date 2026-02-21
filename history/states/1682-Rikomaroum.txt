@@ -1,0 +1,28 @@
+state={
+	id=1682
+	name="STATE_1682"
+
+	history={
+		owner = MED
+		buildings = {
+			infrastructure = 3
+			farm_estate = 1
+			11647 = {
+				naval_base = 1
+			}
+		}
+		victory_points = {
+			11647 3
+		}
+		add_core_of = MED
+
+	}
+
+	provinces={
+		11647 
+	}
+	manpower=9838
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

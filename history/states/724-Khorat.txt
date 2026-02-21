@@ -1,0 +1,22 @@
+state={
+	id=724
+	name="STATE_724"
+	manpower = 2041700
+	
+	state_category = rural
+
+
+	history={
+		owner = PNP
+		buildings = {
+			infrastructure = 2
+		}
+		add_core_of = PNP
+	}
+	
+	provinces={
+		1281 1308 1337 1394 4312 4371 4388 12201 
+	}
+
+	local_supplies=0.0 
+}

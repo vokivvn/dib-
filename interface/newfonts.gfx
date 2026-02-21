@@ -1,0 +1,14 @@
+bitmapfonts = {
+   	bitmapfont = {
+    	name = "ibminterface"
+    	fontfiles = {
+      	    "gfx/fonts/ibminterface"
+     	    "gfx/fonts/ibminterface"
+     	}
+     	color = 0xffffffff
+
+    	textcolors = {
+    	    G = { 86 172 91 }
+    	}
+    }
+}

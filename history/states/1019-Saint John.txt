@@ -1,0 +1,35 @@
+state={
+	id=1019
+	name="STATE_1019"
+
+	history={
+		owner = MAS
+		buildings = {
+			infrastructure = 2
+			arms_factory = 2
+			industrial_complex = 1
+		}
+		add_core_of = MAS
+		victory_points = {
+			13612 3 
+		}
+		victory_points = {
+			13605 3 
+		}
+		victory_points = {
+			12221 3 
+		}
+		victory_points = {
+			13611 3 
+		}
+
+	}
+
+	provinces={
+		1282 4287 10247 12221 13605 13611 13612 13613 13614 
+	}
+	manpower=292371
+	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=0.000
+}

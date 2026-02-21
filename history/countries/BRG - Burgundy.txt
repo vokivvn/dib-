@@ -1,0 +1,63 @@
+﻿capital = 735
+
+#set_oob = "BRG_1936"
+
+starting_train_buffer = 2
+
+set_research_slots = 3
+set_stability = 0.5
+add_command_power = 20
+
+# Starting tech
+set_technology = {
+	infantry_weapons = 1
+	infantry_weapons1 = 1
+	tech_support = 1
+	tech_engineers = 1
+	tech_recon = 1
+	tech_mountaineers = 1
+	tech_trucks = 1
+	motorised_infantry = 1
+	gw_artillery = 1
+	interwar_antiair = 1
+	trench_warfare = 1
+	fleet_in_being = 1
+	fuel_silos = 1
+	fuel_refining = 1
+	basic_train = 1
+}
+
+set_convoys = 80
+
+add_ideas = {
+	BRG_Tradcath
+	BRG_Problem
+}
+
+set_variable = { BRG.CULTURE = 26 }
+set_variable = { BRG.RELIGION = 12 }
+
+set_politics = {
+	ruling_party = radical_democracy
+	last_election = "1932.5.1"
+	election_frequency = 48
+	elections_allowed = no
+}
+set_popularities = {
+	radical_democracy = 40
+	western_democracy = 10
+	institutionalism = 10
+	obscurantism = 25
+	independent_socialism = 5
+	marxism = 10
+}
+
+create_country_leader = {
+	name = "Julien Freund"
+	desc = ""
+	picture = "gfx/leaders/BRG/Julien_Freund.png"
+	expire = "2000.1.1"
+	ideology = girondism
+	traits = {
+	}
+}

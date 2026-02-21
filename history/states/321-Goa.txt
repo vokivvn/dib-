@@ -1,0 +1,35 @@
+
+state={
+	id=321
+	name="STATE_321"
+
+	history={
+		owner = CAL
+		add_core_of = CAL
+		victory_points = {
+			13399 15 
+		}
+		victory_points = {
+			14434 10 
+		}
+		buildings = {
+			infrastructure = 4
+			telecom_infrastructure = 1
+			arms_factory = 1
+			industrial_complex = 3
+			dockyard = 1
+			13399 = {
+				naval_base = 3
+			}
+		}
+
+	}
+
+	provinces={
+		13399 14434
+	}
+	manpower=2410556
+	buildings_max_level_factor=1.000
+	state_category=metropolis
+	local_supplies=15.000
+}

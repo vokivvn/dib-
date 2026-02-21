@@ -1,0 +1,162 @@
+spriteTypes = {
+	SpriteType = { 
+		name = "GFX_WWR_i_will_follow_him"
+		texturefile = "gfx/interface/goals/WWR/2.png"
+	}
+	SpriteType = { 
+		name = "GFX_WWR_the_overmen_ride_on"
+		texturefile = "gfx/interface/goals/WWR/1.png"
+	}
+	SpriteType = { 
+		name = "GFX_WWR_athenian_democracy"
+		texturefile = "gfx/interface/goals/WWR/3.png"
+	}
+	SpriteType = { 
+		name = "GFX_WWR_spartan_camraderie"
+		texturefile = "gfx/interface/goals/WWR/4.png"
+	}
+	SpriteType = { 
+		name = "GFX_WWR_alexandrian_violence"
+		texturefile = "gfx/interface/goals/WWR/5a.png"
+	}
+	SpriteType = { 
+		name = "GFX_WWR_elagabalian_romanticism"
+		texturefile = "gfx/interface/goals/WWR/6.png"
+	}
+	SpriteType = { 
+		name = "GFX_WWR_the_unicorn_reborn"
+		texturefile = "gfx/interface/goals/WWR/7.png"
+	}
+	SpriteType = { 
+		name = "GFX_WWR_stonewall_mythology"
+		texturefile = "gfx/interface/goals/WWR/8.png"
+	}
+	SpriteType = { 
+		name = "GFX_WWR_ancient_inspirations"
+		texturefile = "gfx/interface/goals/WWR/9.png"
+	}
+	SpriteType = { 
+		name = "GFX_WWR_white_pride_is_nothing_to_hide"
+		texturefile = "gfx/interface/goals/WWR/starting/wp.png"
+	}
+	SpriteType = { 
+		name = "GFX_WWR_let_a_thousand_petunias_bloom"
+		texturefile = "gfx/interface/goals/WWR/starting/pet.png"
+	}
+	SpriteType = { 
+		name = "GFX_WWR_awaken_manasseh_burros"
+		texturefile = "gfx/interface/goals/WWR/starting/manasseh.png"
+	}
+	SpriteType = { 
+		name = "GFX_WWR_the_elohim_cities_swift"
+		texturefile = "gfx/interface/goals/WWR/starting/elohim.png"
+	}
+	SpriteType = { 
+		name = "GFX_WWR_pulp_christianity_chick"
+		texturefile = "gfx/interface/goals/WWR/starting/pulp.png"
+	}
+	SpriteType = { 
+		name = "GFX_WWR_the_crooked_boys_nordic_league"
+		texturefile = "gfx/interface/goals/WWR/starting/crooked.png"
+	}
+	SpriteType = { 
+		name = "GFX_WWR_unity_and_race"
+		texturefile = "gfx/interface/goals/WWR/starting/unityrace.png"
+	}
+	SpriteType = { 
+		name = "GFX_WWR_lines_in_california_gravel"
+		texturefile = "gfx/interface/goals/WWR/starting/gravel.png"
+	}
+	SpriteType = { 
+		name = "GFX_WWR_from_moscow_to_lisbon"
+		texturefile = "gfx/interface/goals/WWR/starting/mosclis.png"
+	}
+	SpriteType = { 
+		name = "GFX_WWR_hallstatt_totem_pole_system"
+		texturefile = "gfx/interface/goals/WWR/starting/totempole.png"
+	}
+	SpriteType = { 
+		name = "GFX_WWR_a_moral_republic"
+		texturefile = "gfx/interface/goals/WWR/starting/moral.png"
+	}
+	SpriteType = { 
+		name = "GFX_WWR_queers_and_steers"
+		texturefile = "gfx/interface/goals/WWR/starting/queer.png"
+	}
+	SpriteType = { 
+		name = "GFX_LAS_the_battle_for_angeles"
+		texturefile = "gfx/interface/goals/LAS/battle.png"
+	}
+	SpriteType = { 
+		name = "GFX_LAS_reach_the_coast"
+		texturefile = "gfx/interface/goals/LAS/reach.png"
+	}
+	SpriteType = { 
+		name = "GFX_LAS_spearhead_the_valley"
+		texturefile = "gfx/interface/goals/LAS/spearhead.png"
+	}
+	SpriteType = { 
+		name = "GFX_LAS_harbor_blues"
+		texturefile = "gfx/interface/goals/LAS/harbor.png"
+	}
+	SpriteType = { 
+		name = "GFX_LAS_spanning_to_spahn"
+		texturefile = "gfx/interface/goals/LAS/spahn.png"
+	}
+	SpriteType = { 
+		name = "GFX_LAS_return_the_dockworkers"
+		texturefile = "gfx/interface/goals/LAS/dock.png"
+	}
+	SpriteType = { 
+		name = "GFX_LAS_resume_cinematic_production"
+		texturefile = "gfx/interface/goals/LAS/cinema.png"
+	}
+	SpriteType = { 
+		name = "GFX_LAS_foothold_building"
+		texturefile = "gfx/interface/goals/LAS/foothold.png"
+	}
+	SpriteType = { 
+		name = "GFX_LAS_the_final_showdown"
+		texturefile = "gfx/interface/goals/LAS/showdown.png"
+	}
+	SpriteType = { 
+		name = "GFX_LAS_this_town_aint_big_enough"
+		texturefile = "gfx/interface/goals/LAS/bigenough.png"
+	}
+	SpriteType = { 
+		name = "GFX_LAS_onwards_to_orange"
+		texturefile = "gfx/interface/goals/LAS/onwardsor.png"
+	}
+	SpriteType = { 
+		name = "GFX_LAS_collaborate_and_apologize"
+		texturefile = "gfx/interface/goals/LAS/collab.png"
+	}
+	SpriteType = { 
+		name = "GFX_LAS_butting_with_the_bear"
+		texturefile = "gfx/interface/goals/LAS/buttbear.png"
+	}
+	SpriteType = { 
+		name = "GFX_LAS_face_off_death_valley"
+		texturefile = "gfx/interface/goals/LAS/deval.png"
+	}
+	SpriteType = { 
+		name = "GFX_LAS_munitions_and_militias"
+		texturefile = "gfx/interface/goals/LAS/munition.png"
+	}
+	SpriteType = { 
+		name = "GFX_LAS_feed_off_of_the_pushovers"
+		texturefile = "gfx/interface/goals/LAS/pushover.png"
+	}
+	SpriteType = { 
+		name = "GFX_LAS_training_and_technique"
+		texturefile = "gfx/interface/goals/LAS/train.png"
+	}
+	SpriteType = { 
+		name = "GFX_LAS_fencein_frisco"
+		texturefile = "gfx/interface/goals/LAS/frisco.png"
+	}
+	SpriteType = { 
+		name = "GFX_LAS_curb_to_the_curb"
+		texturefile = "gfx/interface/goals/LAS/curb.png"
+	}
+}

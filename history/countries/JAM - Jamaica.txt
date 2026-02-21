@@ -1,0 +1,30 @@
+﻿capital = 1067
+
+#oob = ""
+
+# Starting tech
+set_technology = {
+	infantry_weapons = 1
+}
+
+set_convoys = 400
+
+set_politics = {
+	ruling_party = marxism
+	last_election = "1936.1.1"
+	election_frequency = 48
+	elections_allowed = yes
+}
+set_popularities = {
+	marxism = 100
+}
+
+create_country_leader = {
+	name = "Malkom Küçük"
+	desc = ""
+	picture = "gfx/leaders/JAM/Malcolm_Little.png"
+	expire = "2000.1.1"
+	ideology = religious_socialism
+	traits = {
+	}
+}

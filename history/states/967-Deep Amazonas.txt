@@ -1,0 +1,19 @@
+
+state={
+	id=967
+	name="STATE_967"
+
+	history={
+		owner = AMZ
+		add_core_of = AMZ
+
+	}
+
+	provinces={
+		5083 5317 8050 12919 13285 13344 13345 13346 13352
+	}
+	manpower=10342
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+	local_supplies=0.000
+}

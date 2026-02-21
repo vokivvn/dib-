@@ -1,0 +1,38 @@
+state={
+	id=1069
+	name="STATE_1069"
+
+	history={
+		owner = JAM
+		buildings = {
+			infrastructure = 3
+			telecom_infrastructure = 1
+			arms_factory = 1
+			industrial_complex = 2
+			dockyard = 1
+			13535 = {
+				naval_base = 3
+			}
+
+		}
+		add_core_of = JAM
+		victory_points = {
+			13535 10 
+		}
+		victory_points = {
+			7546 5 
+		}
+		victory_points = {
+			13731 3 
+		}
+
+	}
+
+	provinces={
+		7546 13535 13726 13730 13731 
+	}
+	manpower=982395
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

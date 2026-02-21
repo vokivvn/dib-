@@ -1,0 +1,32 @@
+state={
+	id=1061
+	name="STATE_1061"
+
+	history={
+		owner = CCT
+		add_core_of = CCT
+		add_claim_by = PEN
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 4
+		}
+		victory_points = {
+			11817 5 
+		}
+		victory_points = {
+			3697 3 
+		}
+		victory_points = {
+			9836 1 
+		}
+
+	}
+
+	provinces={
+		3697 9836 11817 
+	}
+	manpower=677116
+	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=0.000
+}

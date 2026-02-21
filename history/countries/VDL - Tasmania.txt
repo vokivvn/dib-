@@ -1,0 +1,28 @@
+﻿capital = 518
+
+#oob = ""
+
+# Starting tech
+set_technology = {
+	infantry_weapons = 1
+}
+
+set_convoys = 5
+set_politics = {
+	ruling_party = anarchism
+	last_election = "1936.1.1"
+	election_frequency = 48
+	elections_allowed = no
+}
+set_popularities = {
+	anarchism = 100
+}
+create_country_leader = {
+	name = "Miles J. Stanford"
+	desc = ""
+	picture = "gfx/leaders/VDL/milesjstandford.png"
+	expire = "2000.1.1"
+	ideology = religious_anarchism
+	traits = {
+	}
+}

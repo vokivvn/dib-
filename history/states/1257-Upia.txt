@@ -1,0 +1,29 @@
+state={
+	id=1257
+	name="STATE_1257"
+
+	history={
+		owner = MNH
+		buildings = {
+			infrastructure = 2
+			farm_estate = 1
+			industrial_complex = 1
+		}
+		add_core_of = MNH
+		victory_points = {
+			14594 5
+		}
+		victory_points = {
+			14603 3
+		}
+
+	}
+
+	provinces={
+		14590 14592 14593 14594 14595 14596 14597 14598 14599 14600 14601 14602 14603 14604 14605 14606 
+	}
+	manpower=211329
+	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=0.000
+}

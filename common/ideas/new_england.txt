@@ -1,0 +1,235 @@
+ideas = {
+	country = {
+			NHM_Splendid_Isolation = {
+			picture = NHM_Splendid_Isolation
+			allowed = {
+				tag = NHM
+			}
+
+            available = {
+               	tag = NHM
+            }
+
+            cancel = {
+              
+            }
+
+			allowed_civil_war = {
+				always = no
+			}
+			
+			modifier = {
+			}
+		}
+			NHM_Heirs_To_Failure = {
+			picture = NHM_Heirs_To_Failure
+			allowed = {
+				tag = NHM
+			}
+
+            available = {
+               	tag = NHM
+            }
+
+            cancel = {
+              
+            }
+
+			allowed_civil_war = {
+				always = no
+			}
+			
+			modifier = {
+			}
+		}
+			NHM_Fairies_In_The_Forest = {
+			picture = NHM_Fairies_In_The_Forest
+			allowed = {
+				tag = NHM
+			}
+
+            available = {
+               	tag = NHM
+            }
+
+            cancel = {
+              
+            }
+
+			allowed_civil_war = {
+				always = no
+			}
+			
+			modifier = {
+			}
+		}
+			NYK_Dance_Of_The_Sachems = {
+			picture = NYK_Dance_Of_The_Sachems
+			allowed = {
+				tag = NYK
+			}
+
+            available = {
+               	tag = NYK
+            }
+
+            cancel = {
+              
+            }
+
+			allowed_civil_war = {
+				always = no
+			}
+			
+			modifier = {
+			}
+		}
+			NYK_The_Apples_Core = {
+			picture = NYK_The_Apples_Core
+			allowed = {
+				tag = NYK
+			}
+
+            available = {
+               	tag = NYK
+            }
+
+            cancel = {
+              
+            }
+
+			allowed_civil_war = {
+				always = no
+			}
+			
+			modifier = {
+			}
+		}
+			NYK_This_Aint_The_Mud_Club = {
+			picture = NYK_This_Aint_The_Mud_Club
+			allowed = {
+				tag = NYK
+			}
+
+            available = {
+               	tag = NYK
+            }
+
+            cancel = {
+              
+            }
+
+			allowed_civil_war = {
+				always = no
+			}
+			
+			modifier = {
+			}
+		}
+			MAS_The_Rock_Of_America = {
+			picture = MAS_The_Rock_Of_America
+			allowed = {
+				tag = MAS
+			}
+
+            available = {
+               	tag = MAS
+            }
+
+            cancel = {
+              
+            }
+
+			allowed_civil_war = {
+				always = no
+			}
+			
+			modifier = {
+			}
+		}
+			MAS_The_Crucible_Of_Progress = {
+			picture = MAS_The_Crucible_Of_Progress
+			allowed = {
+				tag = MAS
+			}
+
+            available = {
+               	tag = MAS
+            }
+
+            cancel = {
+              
+            }
+
+			allowed_civil_war = {
+				always = no
+			}
+			
+			modifier = {
+			}
+		}
+			MAS_The_Madmans_Gallery = {
+			picture = MAS_The_Madmans_Gallery
+			allowed = {
+				tag = MAS
+			}
+
+            available = {
+               	tag = MAS
+            }
+
+            cancel = {
+              
+            }
+
+			allowed_civil_war = {
+				always = no
+			}
+			
+			modifier = {
+			}
+		}
+			CCT_Sea_To_Shining_Sea = {
+			picture = CCT_Sea_To_Shining_Sea
+			allowed = {
+				tag = CCT
+			}
+
+            available = {
+               	tag = CCT
+            }
+
+            cancel = {
+              
+            }
+
+			allowed_civil_war = {
+				always = no
+			}
+			
+			modifier = {
+			}
+		}
+			CCT_Common_Law = {
+			picture = CCT_Common_Law
+			allowed = {
+				tag = CCT
+			}
+
+            available = {
+               	tag = CCT
+            }
+
+            cancel = {
+              
+            }
+
+			allowed_civil_war = {
+				always = no
+			}
+			
+			modifier = {
+			}
+		}
+	}
+}

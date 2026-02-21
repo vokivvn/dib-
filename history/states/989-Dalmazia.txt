@@ -1,0 +1,48 @@
+state={
+	id=989
+	name="STATE_989"
+
+	history={
+		owner = LBV
+		victory_points = {
+			6889 10
+		}
+		victory_points = {
+			3924 5 
+		}
+		victory_points = {
+			3868 5 
+		}
+		victory_points = {
+			3943 3 
+		}
+		buildings = {
+			infrastructure = 4
+			telecom_infrastructure = 2
+			dockyard = 2
+			industrial_complex = 2
+			3924 = {
+				naval_base = 5
+			}
+			3868 = {
+				naval_base = 3
+			}
+			6889 = {
+				naval_base = 8
+			}
+			3943 = {
+				naval_base = 3
+			}
+
+		}
+		add_core_of = LBV
+	}
+
+	provinces={
+		984 3868 3924 3943 3974 6889 11816 
+	}
+	manpower=967602
+	buildings_max_level_factor=1.000
+	state_category=city
+	local_supplies=8.000
+}

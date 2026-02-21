@@ -1,0 +1,32 @@
+capital = 737
+
+#oob = ""
+
+# Starting tech
+set_technology = {
+	infantry_weapons = 1
+}
+
+set_convoys = 0
+set_variable = { MTH.CULTURE = 90 }
+set_variable = { MTH.RELIGION = 97 }
+set_politics = {
+	ruling_party = radical_right
+	last_election = "1936.1.1"
+	election_frequency = 48
+	elections_allowed = no
+}
+set_popularities = {
+	radical_right = 45
+    oriental_despotism = 40
+    occidental_despotism = 15
+}
+create_country_leader = {
+	name = "Sonnenkönig Kracht"
+	desc = ""
+	picture = "gfx/leaders/MTH/Christian_Kracht.png"
+	expire = "2000.1.1"
+	ideology = mystic_nationalism
+	traits = {
+	}
+}

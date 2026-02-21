@@ -1,0 +1,30 @@
+state={
+	id=1165
+	name="STATE_1165"
+
+	history={
+		add_core_of = FLO
+		owner = FLO
+		add_claim_by = CUB
+		add_claim_by = BAH
+		victory_points = {
+			14140 5 
+		}
+		buildings = {
+			infrastructure = 2
+			dockyard = 1
+			14140 = {
+				naval_base = 1
+			}
+		}
+	}
+
+
+	provinces={
+		14140 
+	}
+	manpower=45075
+	buildings_max_level_factor=1.000
+	state_category=small_island
+	local_supplies=0.000
+}

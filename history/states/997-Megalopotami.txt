@@ -1,0 +1,29 @@
+state={
+	id=997
+	name="STATE_997"
+
+	history={
+		owner = PAN
+		victory_points = {
+			13561 10 
+		}
+		victory_points = {
+			1988 5 
+		}
+		buildings = {
+			infrastructure = 3
+			arms_factory = 2
+			industrial_complex = 2
+		}
+		add_core_of = PAN
+
+	}
+
+	provinces={
+		1988 13139 13178 13561 
+	}
+	manpower=2559774
+	buildings_max_level_factor=1.000
+	state_category=large_town
+	local_supplies=8.000
+}

@@ -1,0 +1,26 @@
+state={
+	id=1244
+	name="STATE_1244"
+
+	history={
+		add_core_of = MOR
+		owner = MOR
+		victory_points = {
+			7123 1 
+		}
+		buildings = {
+			infrastructure = 2
+			7123 = {
+				naval_base = 1
+			}
+		}
+	}
+
+	provinces={
+		7123 
+	}
+	manpower=71183
+	buildings_max_level_factor=1.000
+	state_category=small_island
+	local_supplies=0.000
+}

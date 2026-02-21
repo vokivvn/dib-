@@ -1,0 +1,379 @@
+spriteTypes = {	
+
+	#### California Starting Tree
+
+	SpriteType = {
+	name = "GFX_CAL_good_morning_california"
+	texturefile = "gfx/interface/goals/CAL/MikeCurb/GoodMorningCalifornia.png"			
+	}
+
+	SpriteType = {
+	name = "GFX_CAL_come_together"
+	texturefile = "gfx/interface/goals/CAL/MikeCurb/ComeTogether.png"			
+	}
+
+	SpriteType = {
+	name = "GFX_CAL_rolling_in_the_dough"
+	texturefile = "gfx/interface/goals/CAL/MikeCurb/RollingintheDough.png"			
+	}
+
+	SpriteType = {
+	name = "GFX_CAL_busy_lines"
+	texturefile = "gfx/interface/goals/CAL/MikeCurb/BusyLines.png"			
+	}
+
+	SpriteType = {
+	name = "GFX_CAL_black_water_gold"
+	texturefile = "gfx/interface/goals/CAL/MikeCurb/BlackWaterGold.png"			
+	}
+
+	SpriteType = {
+	name = "GFX_CAL_rockin_hollywood"
+	texturefile = "gfx/interface/goals/CAL/MikeCurb/RockinHollywood.png"			
+	}
+
+	SpriteType = {
+	name = "GFX_CAL_dirty_dancing"
+	texturefile = "gfx/interface/goals/CAL/MikeCurb/DirtyDancing.png"			
+	}
+
+	SpriteType = {
+	name = "GFX_CAL_cruisin_pacific"
+	texturefile = "gfx/interface/goals/CAL/MikeCurb/CruisinPacific.png"			
+	}
+
+	SpriteType = {
+	name = "GFX_CAL_legislating_freedom"
+	texturefile = "gfx/interface/goals/CAL/MikeCurb/LegislatingFreedom.png"			
+	}
+
+	SpriteType = {
+	name = "GFX_CAL_hallucination_generation"
+	texturefile = "gfx/interface/goals/CAL/MikeCurb/HallucinationGeneration.png"			
+	}
+
+	SpriteType = {
+	name = "GFX_CAL_promote_the_pfp"
+	texturefile = "gfx/interface/goals/CAL/MikeCurb/PromoteThePFP.png"			
+	}
+
+	SpriteType = {
+	name = "GFX_CAL_sideline_hayden"
+	texturefile = "gfx/interface/goals/CAL/MikeCurb/SidelineHayden.png"			
+	}
+
+	SpriteType = {
+	name = "GFX_CAL_charity_for_chinatown"
+	texturefile = "gfx/interface/goals/CAL/MikeCurb/CharityForChinatown.png"			
+	}
+
+	SpriteType = {
+	name = "GFX_CAL_backstage_bohemians"
+	texturefile = "gfx/interface/goals/CAL/MikeCurb/BackstageBohemians.png"			
+	}
+
+	SpriteType = {
+	name = "GFX_CAL_road_trip"
+	texturefile = "gfx/interface/goals/CAL/MikeCurb/RoadTrip.png"			
+	}
+
+	SpriteType = {
+	name = "GFX_CAL_surf_city"
+	texturefile = "gfx/interface/goals/CAL/MikeCurb/SurfCity.png"			
+	}
+
+	SpriteType = {
+	name = "GFX_CAL_los_angeles"
+	texturefile = "gfx/interface/goals/CAL/MikeCurb/LosAngeles.png"			
+	}
+
+	SpriteType = {
+	name = "GFX_CAL_san_francisco"
+	texturefile = "gfx/interface/goals/CAL/MikeCurb/SanFrancisco.png"			
+	}
+
+	SpriteType = {
+	name = "GFX_CAL_forward_years"
+	texturefile = "gfx/interface/goals/CAL/MikeCurb/ForwardYears.png"			
+	}
+
+	SpriteType = {
+	name = "GFX_CAL_college_cash"
+	texturefile = "gfx/interface/goals/CAL/MikeCurb/CollegeCash.png"			
+	}
+
+	SpriteType = {
+	name = "GFX_CAL_money_without_a_home"
+	texturefile = "gfx/interface/goals/CAL/MikeCurb/MoneyWithoutAHome.png"			
+	}
+
+	SpriteType = {
+	name = "GFX_CAL_to_the_bay"
+	texturefile = "gfx/interface/goals/CAL/MikeCurb/ToTheBay.png"			
+	}
+
+	SpriteType = {
+	name = "GFX_CAL_to_the_country"
+	texturefile = "gfx/interface/goals/CAL/MikeCurb/ToTheCountry.png"			
+	}
+
+	SpriteType = {
+	name = "GFX_CAL_to_the_valley"
+	texturefile = "gfx/interface/goals/CAL/MikeCurb/ToTheValley.png"			
+	}
+
+	SpriteType = {
+	name = "GFX_CAL_reno_trouts"
+	texturefile = "gfx/interface/goals/CAL/MikeCurb/RenoTrouts.png"			
+	}
+
+	SpriteType = {
+	name = "GFX_CAL_phoenix_snakes"
+	texturefile = "gfx/interface/goals/CAL/MikeCurb/PhoenixSnakes.png"			
+	}
+
+	SpriteType = {
+	name = "GFX_CAL_salem_beavers"
+	texturefile = "gfx/interface/goals/CAL/MikeCurb/SalemBeavers.png"			
+	}
+
+	SpriteType = {
+	name = "GFX_CAL_vegas_rats"
+	texturefile = "gfx/interface/goals/CAL/MikeCurb/VegasRats.png"			
+	}
+
+	SpriteType = {
+	name = "GFX_CAL_the_hippie_highway"
+	texturefile = "gfx/interface/goals/CAL/MikeCurb/TheHippieHighway.png"			
+	}
+
+	SpriteType = {
+	name = "GFX_CAL_dopes_in_the_desert"
+	texturefile = "gfx/interface/goals/CAL/MikeCurb/DopesInTheDesert.png"			
+	}
+
+	SpriteType = {
+	name = "GFX_CAL_embargos_for_change"
+	texturefile = "gfx/interface/goals/CAL/MikeCurb/Embargoesforchange.png"			
+	}
+
+	SpriteType = {
+	name = "GFX_CAL_guerilla_protests"
+	texturefile = "gfx/interface/goals/CAL/MikeCurb/GuerillaProtests.png"			
+	}
+
+	SpriteType = {
+	name = "GFX_CAL_kicked_to_the_curb"
+	texturefile = "gfx/interface/goals/CAL/MikeCurb/KickedtotheCurb.png"			
+	}
+
+	SpriteType = {
+	name = "GFX_CAL_casino_chaos"
+	texturefile = "gfx/interface/goals/CAL/MikeCurb/CasinoChaos.png"			
+	}
+
+	SpriteType = {
+	name = "GFX_CAL_summer_of_love"
+	texturefile = "gfx/interface/goals/CAL/MikeCurb/SummerofLove.png"			
+	}
+
+	SpriteType = {
+	name = "GFX_CAL_behind_the_boys_in_blue"
+	texturefile = "gfx/interface/goals/CAL/MikeCurb/BehindTheBoysInBlue.png"			
+	}
+
+	SpriteType = {
+	name = "GFX_CAL_why_cant_we_be_friends"
+	texturefile = "gfx/interface/goals/CAL/MikeCurb/WhyCantWeBeFriends.png"
+	}
+
+	SpriteType = {
+	name = "GFX_CAL_oriental_showdown"
+	texturefile = "gfx/interface/goals/CAL/MikeCurb/OrientalShowdown.png"			
+	}
+
+	SpriteType = {
+	name = "GFX_CAL_aapa_action"
+	texturefile = "gfx/interface/goals/CAL/MikeCurb/AAPAAction.png"			
+	}
+
+	SpriteType = {
+	name = "GFX_CAL_university_unity"
+	texturefile = "gfx/interface/goals/CAL/MikeCurb/UniversityUnity.png"			
+	}
+
+	SpriteType = {
+	name = "GFX_CAL_a_new_nadir"
+	texturefile = "gfx/interface/goals/CAL/MikeCurb/ANewNadir.png"			
+	}
+
+	SpriteType = {
+	name = "GFX_CAL_tough_love"
+	texturefile = "gfx/interface/goals/CAL/MikeCurb/ToughLove.png"			
+	}
+
+	SpriteType = {
+	name = "GFX_CAL_good_night_white"
+	texturefile = "gfx/interface/goals/CAL/MikeCurb/GoodNightWhite.png"			
+	}
+
+	SpriteType = {
+	name = "GFX_CAL_monterey_money"
+	texturefile = "gfx/interface/goals/CAL/MikeCurb/MontereyMoney.png"			
+	}
+
+	SpriteType = {
+	name = "GFX_CAL_faithful_freaks"
+	texturefile = "gfx/interface/goals/CAL/MikeCurb/FaithfulFreaks.png"			
+	}
+
+	SpriteType = {
+	name = "GFX_CAL_the_aloha_call"
+	texturefile = "gfx/interface/goals/CAL/MikeCurb/TheAlohaCall.png"			
+	}
+
+	SpriteType = {
+	name = "GFX_CAL_home_on_the_waves"
+	texturefile = "gfx/interface/goals/CAL/MikeCurb/HomeOnTheWaves.png"			
+	}
+
+	SpriteType = {
+	name = "GFX_CAL_a_war_on_drugs"
+	texturefile = "gfx/interface/goals/CAL/MikeCurb/AWarOnDrugs.png"			
+	}
+
+	SpriteType = {
+	name = "GFX_CAL_fortress_colorado"
+	texturefile = "gfx/interface/goals/CAL/MikeCurb/FortressColorado.png"			
+	}
+
+	SpriteType = {
+	name = "GFX_ORE_an_explosive_new_year"
+	texturefile = "gfx/interface/goals/ORE/Packwood/AnExplosiveNewYear.png"			
+	}
+
+	SpriteType = {
+	name = "GFX_ORE_blood_on_the_trail"
+	texturefile = "gfx/interface/goals/ORE/Packwood/BloodontheTrail.png"			
+	}
+	
+	SpriteType = {
+	name = "GFX_ORE_samba_in_satsuma"
+	texturefile = "gfx/interface/goals/ORE/Packwood/SambainSatsuma.png"			
+	}
+
+	SpriteType = {
+	name = "GFX_ORE_crisis_averted"
+	texturefile = "gfx/interface/goals/ORE/Packwood/CrisisAverted.png"			
+	}
+
+	SpriteType = {
+	name = "GFX_ORE_fire_with_fire"
+	texturefile = "gfx/interface/goals/ORE/Packwood/FireWithFire.png"			
+	}
+
+	SpriteType = {
+	name = "GFX_ORE_a_semblance_of_normalcy"
+	texturefile = "gfx/interface/goals/ORE/Packwood/ASemblanceOfNormalcy.png"			
+	}
+
+	SpriteType = {
+	name = "GFX_ORE_tightening_the_noose"
+	texturefile = "gfx/interface/goals/ORE/Packwood/TighteningTheNoose.png"			
+	}
+
+	SpriteType = {
+	name = "GFX_ORE_no_mercy"
+	texturefile = "gfx/interface/goals/ORE/Packwood/NoMercy.png"			
+	}
+
+	SpriteType = {
+	name = "GFX_ORE_fire_on_the_prairie"
+	texturefile = "gfx/interface/goals/ORE/Packwood/FireOnThePrairie.png"			
+	}
+
+	SpriteType = {
+	name = "GFX_ORE_across_the_aisle"
+	texturefile = "gfx/interface/goals/ORE/Packwood/AcrossTheAisle.png"			
+	}
+
+	SpriteType = {
+	name = "GFX_ORE_just_before_dawn"
+	texturefile = "gfx/interface/goals/ORE/Packwood/JustBeforeDawn.png"			
+	}
+
+	SpriteType = {
+	name = "GFX_ORE_terror_in_twin_falls"
+	texturefile = "gfx/interface/goals/ORE/Packwood/TerrorInTwinFalls.png"			
+	}
+
+	SpriteType = {
+	name = "GFX_ORE_ashrams_and_ash_trees"
+	texturefile = "gfx/interface/goals/ORE/Packwood/AshramsandAshTrees.png"			
+	}
+
+	SpriteType = {
+	name = "GFX_ORE_battles_in_the_butte"
+	texturefile = "gfx/interface/goals/ORE/Packwood/BattlesInTheButte.png"			
+	}
+
+	SpriteType = {
+	name = "GFX_ORE_on_the_hunt"
+	texturefile = "gfx/interface/goals/ORE/Packwood/OnTheHunt.png"			
+	}
+
+	SpriteType = {
+	name = "GFX_ORE_a_city_sent_packing"
+	texturefile = "gfx/interface/goals/ORE/Packwood/ACitySentPacking.png"			
+	}
+
+	SpriteType = {
+	name = "GFX_ORE_gurucide"
+	texturefile = "gfx/interface/goals/ORE/Packwood/Gurucide.png"			
+	}
+
+	SpriteType = {
+	name = "GFX_ORE_go_home_hippie"
+	texturefile = "gfx/interface/goals/ORE/Packwood/GoHomeHippie.png"			
+	}
+
+	SpriteType = {
+	name = "GFX_ORE_ecocide"
+	texturefile = "gfx/interface/goals/ORE/Packwood/Ecocide.png"			
+	}
+
+	SpriteType = {
+	name = "GFX_ORE_the_indian_fighter"
+	texturefile = "gfx/interface/goals/ORE/Packwood/TheIndianFighter.png"			
+	}
+
+	SpriteType = {
+	name = "GFX_ORE_a_sense_of_calm"
+	texturefile = "gfx/interface/goals/ORE/Packwood/ASenseofCalm.png"			
+	}
+
+	SpriteType = {
+	name = "GFX_ORE_striking_down_the_band"
+	texturefile = "gfx/interface/goals/ORE/Packwood/StrikingDownTheBand.png"			
+	}
+
+	SpriteType = {
+	name = "GFX_ORE_blue_mountain_bombardment"
+	texturefile = "gfx/interface/goals/ORE/Packwood/BlueMountainBombardment.png"			
+	}
+
+	SpriteType = {
+	name = "GFX_ORE_frontier_anewed"
+	texturefile = "gfx/interface/goals/ORE/Packwood/FrontierAnewed.png"			
+	}
+
+	SpriteType = {
+	name = "GFX_ORE_sacred_ground"
+	texturefile = "gfx/interface/goals/ORE/Packwood/SacredGround.png"			
+	}
+
+	SpriteType = {
+	name = "GFX_ORE_all_for_nothing_at_all"
+	texturefile = "gfx/interface/goals/ORE/Packwood/AllForNothingAtAll.png"			
+	}
+}

@@ -1,0 +1,38 @@
+
+state={
+	id=845
+	name="STATE_845"
+
+	history={
+		owner = CAL
+		victory_points = {
+			6681 10
+		}
+		victory_points = {
+			14411 10
+		}
+		victory_points = {
+			11658 10
+		}
+		buildings = {
+			infrastructure = 3
+			telecom_infrastructure = 2
+			office_building = 1
+			industrial_complex = 2
+			dockyard = 1
+			14411 = {
+				naval_base = 2
+			}
+		}
+		add_core_of = CAL
+
+	}
+
+	provinces={
+		677 6681 11658 14411 14413 14445 14446 
+	}
+	manpower=1069504
+	buildings_max_level_factor=1.000
+	state_category=large_city
+	local_supplies=9.000
+}

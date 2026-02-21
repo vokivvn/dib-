@@ -1,0 +1,25 @@
+state={
+	id=1584
+	name="STATE_1584"
+
+	history={
+		owner = SON
+		buildings = {
+			infrastructure = 2
+			farm_estate = 2
+		}
+		add_core_of = SON
+		add_claim_by = ARZ
+		victory_points = {
+			16253 2
+		}
+	}
+
+	provinces={
+		12833 16253 16254 16255 
+	}
+	manpower=8393
+	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=0.000
+}

@@ -1,0 +1,29 @@
+state={
+	id=1361
+	name="STATE_1361"
+
+	history={
+		owner = CAY
+		add_core_of = CAY
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 2
+			arms_factory = 1
+			dockyard = 1
+			15130 = {
+				naval_base = 6
+			}
+		}
+		victory_points = {
+			15128 30
+		}
+	}
+
+	provinces={
+		15128 15129 15130 
+	}
+	manpower=85486
+	buildings_max_level_factor=1.000
+	state_category=large_city
+	local_supplies=0.000
+}

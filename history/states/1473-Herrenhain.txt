@@ -1,0 +1,25 @@
+state={
+	id=1473
+	name="STATE_1473"
+
+	history={
+		owner = MUN
+		buildings = {
+			infrastructure = 2
+			farm_estate = 1
+		}
+		add_core_of = MUN
+		victory_points = {
+			3853 5
+		}
+
+	}
+
+	provinces={
+		659 3853 
+	}
+	manpower=43445
+	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=0.000
+}

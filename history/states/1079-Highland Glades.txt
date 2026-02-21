@@ -1,0 +1,28 @@
+state={
+	id=1079
+	name="STATE_1079"
+
+	history={
+		owner = FLO
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 2
+		}
+		victory_points = {
+			13473 5 
+		}
+		victory_points = {
+			13467 5 
+		}
+		add_core_of = FLO
+
+	}
+
+	provinces={
+		13466 13467 13473 
+	}
+	manpower=517178
+	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=0.000
+}

@@ -1,0 +1,35 @@
+﻿capital = 968
+
+
+oob = "OYA_1936"
+
+# Starting tech
+set_technology = {
+	infantry_weapons = 1
+	tech_support = 1		
+	tech_engineers = 1
+	tech_trucks = 1
+	gw_artillery = 1
+	interwar_antiair = 1
+	basic_train = 1	
+}
+
+set_politics = {
+	ruling_party = independent_socialism
+	last_election = "1934.7.17"
+	election_frequency = 48
+	elections_allowed = no
+}
+set_popularities = {
+	independent_socialism = 100
+}
+
+create_country_leader = {
+	name = "Cauã Ubiratã"
+	desc = ""
+	picture = "gfx/leaders/OYA/Cauã_Ubiratã.png"
+	expire = "2000.1.1"
+	ideology = militant_communism
+	traits = {
+	}
+}

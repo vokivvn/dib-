@@ -1,0 +1,34 @@
+state={
+	id=1091
+	name="STATE_1091"
+
+	history={
+		owner = KOR
+		buildings = {
+			infrastructure = 2
+			telecom_infrastructure = 1
+			industrial_complex = 1
+			dockyard = 1
+			12085 = {
+				naval_base = 3
+			}
+
+		}
+		victory_points = {
+			4126 10
+		}
+		victory_points = {
+			12085 5
+		}
+		add_core_of = KOR
+
+	}
+
+	provinces={
+		4126 10110 11948 12085 
+	}
+	manpower=4577399
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

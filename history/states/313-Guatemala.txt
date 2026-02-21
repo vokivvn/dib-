@@ -1,0 +1,28 @@
+
+state={
+	id=313
+	name="STATE_313"
+	manpower = 704695
+	
+	state_category = rural
+
+	history={
+		owner = HON
+		buildings = {
+			infrastructure = 2
+			farm_estate = 1
+		}
+		add_core_of = HON
+		victory_points = {
+			14291 5 
+		}
+
+	}
+
+	provinces={
+		14284 14289 14290 14291 14292 14298 
+	}
+	
+
+	local_supplies=0.0 
+}

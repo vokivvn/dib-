@@ -1,0 +1,26 @@
+
+state={
+	id=613
+	name="STATE_613"
+	manpower = 5000
+	
+	state_category = town
+	
+	history={
+		owner = ORE
+		add_core_of = ORE
+		buildings = {
+			infrastructure = 2
+			arms_factory = 1
+		}
+		victory_points = {
+			13425 10
+		}
+	}
+
+	provinces={
+		13423 13425  
+	}
+
+	local_supplies=0.0 
+}

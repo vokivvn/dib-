@@ -1,0 +1,26 @@
+
+state={
+	id=386
+	name="STATE_386"
+	manpower = 263395
+	
+	state_category = rural
+
+	history={
+		owner = ORE
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+		}
+		add_core_of = ORE
+		victory_points = {
+			1414 5 
+		}
+	}
+
+	provinces={
+		1414 4274 7398 12183 13424
+	}
+
+	local_supplies=0.0 
+}

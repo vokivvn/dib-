@@ -1,0 +1,24 @@
+state={
+	id=1177
+	name="STATE_1177"
+
+	history={
+		add_core_of = BLZ
+		owner = BLZ
+		victory_points = {
+			14149 5 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+		}
+	}
+
+	provinces={
+		14149 14154 
+	}
+	manpower=49040
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

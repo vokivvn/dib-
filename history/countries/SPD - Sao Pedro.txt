@@ -1,0 +1,32 @@
+﻿capital = 1123
+
+#oob = "SPD_1936"
+
+# Starting tech
+set_technology = {
+	infantry_weapons = 1
+	tech_trucks = 1
+}
+
+set_convoys = 10
+set_war_support = 0.1
+set_stability = 0.8
+
+set_politics = {
+	ruling_party = occidental_despotism
+	last_election = "1936.1.1"
+	election_frequency = 48
+	elections_allowed = no
+}
+set_popularities = {
+	occidental_despotism = 100
+}
+create_country_leader = {
+	name = "Duarte III"
+	desc = ""
+	picture = "gfx/leaders/SPD/Duarte_III.png"
+	expire = "2000.1.1"
+	ideology = absolutism
+	traits = {
+	}
+}

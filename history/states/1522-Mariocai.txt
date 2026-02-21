@@ -1,0 +1,33 @@
+state={
+	id=1522
+	name="STATE_1522"
+
+	history={
+		owner = TEI
+		add_core_of = TEI
+		victory_points = {
+			10874 5 
+		}
+		victory_points = {
+			15958 3
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			arms_factory = 1
+			farm_estate = 1
+			10874 = {
+				naval_base = 3
+			}
+		}
+
+	}
+
+	provinces={
+		10874 15955 15956 15957 15958 15959 
+	}
+	manpower=50287
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

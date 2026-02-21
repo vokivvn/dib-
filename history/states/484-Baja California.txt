@@ -1,0 +1,20 @@
+state = {
+	id=484
+	name="STATE_484"
+	manpower = 2010
+	state_category = rural
+	
+	history={
+		owner = CAL
+		buildings = {
+			infrastructure = 1
+		}
+		add_core_of = CAL
+
+	}
+	provinces={
+		12859 16225 16226 16227 16228 16229 
+	}
+
+	local_supplies=0.0 
+}

@@ -1,0 +1,23 @@
+state={
+	id=1109
+	name="STATE_1109"
+
+	history={
+		owner = POR
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			dockyard = 1
+		}
+		add_core_of = POR
+		add_claim_by = ATL
+	}
+
+	provinces={
+		13873 13874 
+	}
+	manpower=50000
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

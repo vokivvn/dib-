@@ -1,0 +1,33 @@
+state={
+	id=1235
+	name="STATE_1235"
+
+	history={
+		owner = MIS
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 2
+			arms_factory = 1
+			office_building = 1
+			dockyard = 1
+			14448 = {
+				naval_base = 5
+			}
+		}
+		add_core_of = MIS
+		victory_points = {
+			14448 20
+		}
+		victory_points = {
+			14449 10
+		}
+	}
+
+	provinces={
+		13565 14448 14449 14450 14451 14473 
+	}
+	manpower=56289
+	buildings_max_level_factor=1.000
+	state_category=large_town
+	local_supplies=0.000
+}

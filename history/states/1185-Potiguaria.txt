@@ -1,0 +1,35 @@
+state={
+	id=1185
+	name="STATE_1185"
+
+	history = {
+
+		owner = GRC
+		add_core_of = GRC
+
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			arms_factory = 1
+			farm_estate = 1
+			14231 = {
+				naval_base = 1
+			}
+		}
+
+		victory_points = {
+			14231 5
+		}
+		victory_points = {
+			14230 3
+		}
+	}
+
+	provinces={
+		14227 14228 14229 14230 14231 14232 14233 
+	}
+	manpower=342234
+	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=0.000
+}

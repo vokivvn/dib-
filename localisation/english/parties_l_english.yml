@@ -1,0 +1,821 @@
+﻿l_english:
+ 
+ anarchism:0 "Anarchist"
+ anarchism_noun:0 "Anarchism"
+ anarchism_desc:0 "Anarchy"
+
+ anarchism_id:0 "Anarchism"
+ anarchism_id_desc:0 "As the first fires were lit millennia ago, so too did the sparks of co-operation fly. That singular chain of help, that echo of an echo of friendship from aeons past is what stands at the centre of all social connection. And then comes the tyrants, the presidents, those who claim to hold all in mutual respect, and yet scheme, and plot and throw us, the people into the fires of their own misbegotten and vain hopes. Anarchy, Order in Chaos, arises as the cure. Not a Godhead nor an Emperor to hold the populace in tow. Naught but the fire of co-operation, keeping us warm, an interminable link. A system that we finally control. Many hold the name of Anarchism in their hearts, Bakunin, Kropotkin, Siuda, Zapata... but none will be its face. For the Anarchist is one with the people, and the people shall be free."
+ social_anarchism:0 "Social Anarchism"
+ social_anarchism_desc:0 "Social anarchism is a branch of anarchism that emphasizes the relationship between liberty and social equality. It advocates for a social revolution aimed at dismantling oppressive hierarchies, such as capitalism and the state, and replacing them with cooperative and non-hierarchical forms of organization. Social anarchists champion mutual aid as a guiding principle for fostering social collaboration and building egalitarian communities. Rooted in the socialist tradition, the ideology draws heavily on the works of Pierre-Joseph Proudhon, Mikhail Bakunin, and Peter Kropotkin."
+ religious_anarchism:0 "Religious Anarchism"
+ religious_anarchism_desc:0 "Deviating from mainstream Anarchist movements, which tend to be Athiest or Anti-Theist in nature, Religious Anarchists devise their statelessness from alternative systems of theology and philosophy. Whether it be a monotheistic concept of God's rule over the rule of man, or a more deep-set, self-reflective philosophy like those of Buddhists or Daoists. Technically speaking, Religious Anarchism is the oldest school of Anarchy, with roots in the stateless societies of Shamanistic tribes and early sects of Islam and Christianity."
+ individualist_anarchism:0 "Individualist Anarchism"
+ individualist_anarchism_desc:0 "Individualist Anarchism emphasizes, as one might expect, the individual, both in theory and praxis. While not inherently repulsed by ideas of collective power or organization, proponents tend to put a spotlight on individual value, ingenuity, and power, valuing things like social independence, lone-wolf actions, or even an anarchist-tuned great man theory."
+ mutualism:0 "Mutualism"
+ mutualism_desc:0 "A unique variant of market anarchism, credited to French radical Pierre-Joseph Proudhon, Mutualism espouses the necessity of an artisan-worker-directed market economy and horizontal, voluntarian society. It holds a particular prejudice to what it calls 'coercive' property, with the slogan 'Property is Theft!'."
+ market_anarchism:0 "Market Anarchism"
+ market_anarchism_desc:0 "A left-leaning offshoot of the philosophy of Murray Rothbard and his variable predecessors, Market Anarchists take the radical and wild nature of Austrian Economics and free markets to the next level, as, without the iron arm of the state lifting up monopolistic hierarchies, what market would be any freer? Most Market Anarchists express their ideals through the act of Agorism, morally dubious 'Grey Market' trade for the perpetuation of state-free trade and commerce."
+ anarcho_syndicalism:0 "Anarcho-Syndicalism"
+ anarcho_syndicalism_desc:0 "Anarcho-Syndicalism is a branch of syndicalism that aims to create a truly anarchist society, without any of the traditional political or economic structures of mainline Syndicalism. Drawing from the theories of libertarian socialism and syndicalism, anarcho-syndicalists see trade unions as both a means to achieve immediate improvements to working conditions and as a tool to build towards social revolution in the form of a general strike, with the ultimate aim of abolishing both capitalism and the state. Anarcho-Syndicalism rejects political parties and participation in politics, and most consider orthodox Syndicalism to be a malevolent influence on the labor movement."
+ creative_anarchism:0 "Creative Anarchism"
+ creative_anarchism_desc:0 "One of anarchism's more unusual strains, Creative Anarchism combines the standard foundations of state abolition, free association, and mutual aid with a downright worship of the arts and their creation. Penned and painted from the treatises and manifestos of radical artisans, Creative Anarchism puts a pedestal on culture houses as it does local councils, idolizes musicians and sculptures as it does activists and revolutionaries (if they are to be considered separate at all), and draws a target on prestigious museums and art schools as it does royal palaces and corporate offices."
+ lawlessness:0 "Lawlessness"
+ lawlessness_desc:0 "[...There's Nobody Here…]"
+ transcendentalism:0 "Transcendentalism"
+ transcendentalism_desc:0 ""Strip man down to their basics, and what drives them to do bad in this world? Is it the individual, or the environment that they inhabit? To some, the individual is to blame. To the Transcendentalist, it's the other way around. Inspired by the works of the Transcendental Club of Massachusetts, and that of key writers such as Henry David Thoreau, Ralph Waldo Emerson and Margaret Fuller, Transcendentalism aims to strip back the world around the individual to its very basics. It evokes a minimalistic, anti-consumerist lifestyle, railing against political parties, government entities or anything that might corrupt the over-soul of the individual. Only through self-reliance can true communities strive, and only through harmony with their surroundings can Transcendentalism survive"
+ dissident_anarchism:0 "Dissident Anarchism"
+ dissident_anarchism_desc:0 "The ultimate archetype of burning bright hatred, Dissident Anarchists are despised by their own kind, obeying no moral or societal hierarchy or norms. A broad category which can include anybody from raving white supremacist gangsters to psychotic bomb-crafting ecoterrorists to teenage dirtbags stockpiling guns in their basement. The spirit of rebellion for rebellion's sake unites these disparate souls, as they firmly force their mantra down the throat of any who may attempt to command them in the slightest; FUCK OFF."
+ bandit_anarchism:0 "Bandit Anarchism"
+ bandit_anarchism_desc:0 "No honor amongst thieves, and no rules amongst those that defy it. Ever since the Golden Age of Piracy has the interesting paradox of "bandit anarchism" cropped up. Evoked in the stories of Robin Hood and Captain Kid, preserved in the legends of Ned Kelly, Lampiao and Fonte, Bandit Anarchism subscribes to an organized, albeit loose confederation of do-as-thou-wilt "organizations" that, to certain descriptions, are 'bandits'. Whether they be criminal organization, loosely connected freedom fighters, biker clubs or guerrillas in the mist, the one thing that binds them is a devotion to communal and individual liberty, a willingness to use power to maintain their freedom and a relatively loose approach to definitions of legality."
+ liberal_anarchism:0 "Liberal Anarchism"
+ liberal_anarchism_desc:0 "With its origins in the French Revolution, Liberal Anarchism takes the ideals of the Lockean creed to their utmost extreme. The God given rights of man shall never be trampled by any state power, ever. Even with its historically significant background, however, the ideology remains rather fringe, kept afloat by Radical Liberal scholars and philosophy majors loyal to the doctrines of the founding fathers of the Enlightenment."
+ mystical_anarchism:0 "Mystical Anarchism"
+ mystical_anarchism_desc:0 "From the oldest schools of noble mystics in high temples down to the street edge of neoteric wannabe chaos magicians, Mystical Anarchism is the dark underpinning of the movement, it's adherents scheming and carrying out their methods of liberation through ritualistic direct action. Culture-jamming, Esoterrorism, Temporary Autonomous Zones, or the simplest surrealist act as put by André Breton, all are viable methods to the agents of Eris."
+ panarchism:0 "Panarchism"
+ panarchism_desc:0 "Inspired by the writings of Belgian social scientist Paul Émile de Puydt, Panarchism advocates a system of completely voluntary governance, or more often, non-governance. Conflict is settled in systems of polycentric law, with third party free courts settling disputes. Advocates of Panarchy are closely related to the New Right and Propertarians, as they share a belief in societies of thousands of small-scale self-managed communities functioning off of Voluntarist ethics."
+ stateless_society:0 "Stateless Society"
+ stateless_society_desc:0 "The truest form of anarchism there could be, a Stateless Society is a large area that lacks an overall state or government and instead is a disconnected patchwork of tribes, communities and other organizations. While disinterested in any governmental matter, these "stateless entities" do still share a common language, culture and even tribal heriarchy, however that is where the discussion stops. All manner of decisions are left solely in the hands of the various tribes, and through a disinterest in the concept of modern government, elects to leave it at that."
+
+ marxism:0 "Old Left"
+ marxism_noun:0 "Old Left"
+ marxism_desc:0 "Old Left Government"
+ marxism_drift:0 "Drift Towards The Old Left"
+
+ marxism_id:0 "Old Left"
+ marxism_id_desc:0 "At the backbone of every society is a quiet set of hands making things work. The grand machinery of the Capitalist world cannot make as significant an impact without the ever present figure of the Worker. Toiling, burning body and soul to earn nothing but hardship, pain and devastation from the greedy, the foul and the incompetent above them. So workers of the World, Unite! We have naught to lose but our chains. It is time to remind the Bourgeoisie that the blood we share is Red."
+ classical_marxism:0 "Classical Marxism"
+ classical_marxism_desc:0 "Revolution is a nuanced thing, one that needs structure and understanding of the conditions of a given era. The revolutions of 1848 bore fruit in this sense, as Marx championed a new cause for the nascent left-wing of Europe, soon the red pennants will be held high, as the songs of camaraderie and international revolution will be sung loud and clear. The worker shall not be trampled on, for they are what keeps society afloat Hegel's triumph writ large on the Red of the Worker's movement."
+ council_communism:0 "Council Communism"
+ council_communism_desc:0 "Tyrants cannot be allowed to roam free, perverting the justice inherent to Socialist ideals, but neither can the stateless, a body without a head, bleeding from it's neck until collapse. And so, the solution is ultimately simple, a plurality, many voices, many people, the creation of the council, wherein all shall speak, all shall know and understand the works of the government. That must be the socialism that should be put forwards, as the commune is naught but an empty ruin without the work of the People."
+ jacobinism:0 "Jacobinism"
+ jacobinism_desc:0 "One of the first cries of the common people, synthesised in a melting pot of despair, anguish and a burning eagerness to burn down the cages of inequality constraining the will of the people. Robespierre's vision was blood-soaked, but enlightenment will follow in its wake. The people of the world shall prosper under the rule of the free! And as such, the free must be protected at every cost, from every side, such is the manner of our righteous crusade against the despot, the monarch, the noble."
+ religious_socialism:0 "Religious Socialism"
+ religious_socialism_desc:0 "The Divine exists on Earth. Extant and yet intangible, so would it not be right to treat the world justly? The gardens of Eden were never closed to us, nor were the field of reeds or Dilmun,they were obscured by our ignorance, the folly of Capital exploitation. We make and create with our hands, and so to deny the people partaking in holy creation, is the Greatest sin. After all, is it not the worker that works the land of divinity with his hands?"
+ agrarian_socialism:0 "Agrarian Socialism"
+ agrarian_socialism_desc:0 "The workers alone aren't the pillars of society, for what are feats of strength and mind without the food and energy with which to push them forwards? Revolution cannot be synthesised in the workers! It must be created within those that are the essential link in society, the farmers, the shepherd, they who create the foundational aspects of modern society, they are the bread and butter of a nation, both of which they too provide."
+ syndicalism:0 "Syndicalism"
+ syndicalism_desc:0 "The union of unions, working together in concord. Syndicalism is one of the many strategies that put the control of the state into the hands of the workers, at long last. As trade unions work together to propel their people to a better, brighter future. One where every worker is in ownership of the blood, sweat and toil that goes into the work they do. From Anarchist Syndicalists, to more parliamentary representation, the goal is ultimately the same. Society cannot be free when the workers are chained, nor can they be heralded by intellectual vanguards, the power must come from the Unions!"
+ folk_socialism:0 "Folk Socialism"
+ folk_socialism_desc:0 "The people are the lifeblood of Socialism, our hearts bleed red as any other man, woman, child or animal. We are all the creatures of nature come together to find solace in this cruel world, and so we must trust in the masses, trust in the people, the folk alone know the way forwards. Socialism must be ingrained in the people before it can change the world."
+ conspiratorial_socialism:0 "Conspiratorial Socialism"
+ conspiratorial_socialism_desc:0 "The bourgeois rulers of society, however degenerated and ill-suited to rule as they may be, still hold power over the masses, over the working people. The common worker is deluded, fully partaking in the various opiates that the masses are drugged with. They must be helped, they must be led to the light, carefully, so that they do not lapse back into the same reactionary rhetoric that they have been so heavily imparted upon by their rulers. The Revolution must be a silent cabal, dictating the will of the masses from the background. Only the silent dagger in the back can a revolutionary be, only by steering the worker can the bourgeois influences on society be eliminated."
+ liberal_socialism:0 "Liberal Socialism"
+ liberal_socialism_desc:0 "The world of the socialist is one that has the potential to become cruel. To impoverish more than it claims to want to sustain. To be critical of Capitalism is one thing, but to abolish it in it's entirety is a mistake that the socialists would be better off not making. The Markets are hubs of society, brimming with culture and artifice, the people compete, boosting innovation and thought. To completely defrock capitalism is to remove the parts of it that are helpful, that have allowed society to come this far. And so, Liberal Socialism must enchain Capitalism to the bulwark of the Socialist project, it must sand down it's abrasive edges, it's cutting inequalities, and create a market where all are able to pursue an equal degree of wealth. The world shall be shown how far it has come, and the Liberal Socialists shall be at it's forefront!"
+ national_syndicalism:0 "National Syndicalism"
+ national_syndicalism_desc:0 "The Communist speaks for the international, spreading the rhetoric of the Worker's movement across the globe, and yet he ignores the cries of the Worker at home. The Syndicalist degenerates into benighted anarchism, lacking discipline as chaos takes the fore. They forget the power that molded them, fashioned them into a tool for the change of society. The Nation alone is what allows for the syndicalist project to continue, who will protect the revolution? Who will systematise their changes? The state always remains, the benefactor, the keeper of national identity and spirit. For the nation, the workers must unite!"
+ babouvism:0 "Babouvism"
+ babouvism_desc:0 "As industry has marched on, ravaging the simple aspects of life with every step, the people find themselves torn away from the true socialist method. Before the march of the grand machines, the broken chords of industrial society, communism already existed. Within the people, the communities that the people built. The people must not be seduced by the false language of iron and steel, of soulless machinery, their eyes must be opened. They must see that the socialism of the earth, the communism that the high minded intellectuals speak of only pulls the common folk to slavery by a different leash, while the ideology they deem "primitive" will be victorious."
+ barracks_communism:0 "Barracks Communism"
+ barracks_communism_desc:0 "The Communist Struggle is a fleeting, hopeful, fragile thing, that is assailed from all sides. The forces of reaction, capital and those who are simply uninformed pepper the bulwark of the project. The proletariat must be mobilised, society must be broken down and rebuilt, every worker regimented, kept in line and formed in cadres of workers, moving ever closer to the glorious ideal of Communist. They must be militant, they must be frugal, and they must be fully dedicated to the Socialist cause. For it is with them that society can move past the clutches of the bourgeois scum."
+ crony_socialism:0 "Crony Socialism"
+ crony_socialism_desc:0 "Socialism is something to be pursued at any cost necessary. The party cadres may rot, they may be full of corruption and bureaucratic loopholes that treasure the upper party echelons instead of the people, but it will survive. Survival is tantamount in a world as perilous as this, with capitalist nations snuffing out the lights of more hopeful projects, all that will remain is the dark, the ooze, the scum and villainy on the bootheel of the Socialist Corpse. And yet, they will survive it all. They will not let scrupulousness bury them with the ideals of movements that couldn't keep them alive. Gangrene and cancer can be excised, parties may fall and parties will rise, but for them, the Socialists survive. No matter how battered, bruised, faustian and corrupt. They survive, and Marx weeps..."
+ guild_socialism:0 "Guild Socialism"
+ guild_socialism_desc:0 "Before there were unions, there were guilds. Entities where artisans learned from guild backed knowledge and refinement of their abilities to be the best example of their vocation they could ever be. Guilds as places of learning, and as proto-Unionism was a concept that the left should have salvaged from the burning, headless wreckage of the feudal system. Let a thousand new guilds form, as humanity finds a new world, with light, innovation and wonder. Do not let the march of time take this important artefact from the people!"
+ mystic_socialism:0 "Mystic Socialism"
+ mystic_socialism_desc:0 "Those who peer into the space behind spaces, weave the threads of nature and peer into the eyes of the divine and survive its burning touch know that the world is one. Some may view lives as passers-by, dying and returning gaining truths only they can see. Whilst others seek to climb trees of creation, communing with divinity at it's apex. Regardless, does humanity not deserve the fruit of thei spiritual labor? Do they not deserve the right to climb Yggdrasil's heights, or cross the Abyss? Are the meek and the common not permitted to scour the Enochian Aethyrs, like scores of ungainly, greedy aristocrats who simply take and take from society until there is nothing left? Knowledge, the fruit of spiritual labours, must be attained by all. Gnosis awaits at the end of the road, the path must be made visible. All must be enlightened, none must be left behind."
+ sinclairian_democracy:0 "Sinclairian Democracy"
+ sinclairian_democracy_desc:0 "Dictatorships remain tyrannical, despite the freedom espoused by the revolutionaries and the workers, Socialism is a spectre. A spectre haunting the world, scaring bourgeoisie and worker alike. The people do not know the gifts that Socialism gives! They do not know the freedom it provides! The name brings with it a host of fears visions of red tides of angry workers, revolutionary terror and a host of troubles. Instead, one must approach the people without the language of socialism, allow for open conversation, and show that despite the fact that the word "Socialism" causes fear, it is truly what they want."
+ associationism:0 "Associationism"
+ associationism_desc:0 "All things are inevitable, and with the collapse of the grand capitalist system forever looming in the future, one wonders what comes next? And while some look towards the pragmatism of worker's councils, others aim for loftier goals of allowing man to achieve what our God-given individual passions dictate. Free from the confines of terrestrial worries of wages, the mind can blossom into a glorious Compound Association. Coined by Charles Fourier, Associationism aspires to make a grand social machine that does away with all divisions, relying on a communal economy, society and social science to build a grand unityism."
+ industrial_unionism:0 "Industrial Unionism"
+ industrial_unionism_desc:0 "As the Gilded Age ground the working man into the dust, the question of how best to make a better world was met with a flurry of answers. The revolutionary ideas of Karl Marx spread across the world like a wildfire, and through the burning came new interpretations of that exact framework of worker's revolution. Industrial Unionism, espoused by such leaders as Daniel De Leon elect to enshrine the power in the hands of a trade unions. Intertwining syndicalist economic planning with fervent federal republicanism, the Industrial Union exists to defend the right to peace, bread, and to preserve our one big union."
+ bellamyism:0 "Bellamyism"
+ bellamyism_desc:0 "How much does a nation's principles reflect on its people? If people do not turn to the good book, where do they derive right and wrong from? Parents are fickle, society is flimsy, and faith wanes. But their country? Their country, right or wrong, can imbue them with more than any sermon could. Espoused by the brothers Bellamy and enshrined in their Nationalist Clubs at the turn of the previous century, Bellamyism instills a firm hand in patriotic, bordering on paligenetic nationalist pride, while embracing progressive outlooks on the role government plays in the day to day lives of its citizens. While it keeps a firm divide between the workings of government and the will of the people, it still never the lest stands for the rights of liberty, and justice for all."
+ platformism:0 "Platformism"
+ platformism_desc:0 "Who better speaks for the people, than the people? When the shackles of oppression are thrown aside and the people rejoice in the seizing of production, who else but the people should enjoy the fruits of their glorious revolution? When the Forty-Eighters stormed the houses of dusty kings, a spark was ignited in the minds of the people. From each according to their own ability, to each according to their needs. Inspired by the likes of Dézamy, Kropotkin and Proudhon, Platformism enshrines the commune as the basis for society, rallying to abolish the tyranny of private property, and preserve the glory of the people's freedom through labor management and direct action."
+ peasant_republicanism:0 "Peasant Republicanism"
+ peasant_republicanism_desc:0 "Of all the classes that are termed revolutionary, the worker only ranks second in line to that of the Peasant. The Peasant may seem brutish, crude and unrefined to the intellectuals of the left, but within each simple soul is a connection to something much, much greater. A popular will lies slumbering underneath the surface, where Peasants have understood that at the core, they are what makes or breaks a noble's livelihood. That kernel of radicalism lies there in the dirt of the humble family home, within the the desire paths stamped out by generations of feet walking hither and tither and quiet cottage taverns. The peasant will only need one threat to their life to mobilise, as King Louis XIV would come to realise."
+
+ independent_socialism:0 "New Left"
+ independent_socialism_noun:0 "New Left"
+ independent_socialism_desc:0 "New Left Government"
+
+ independent_socialism_id:0 "New Left"
+ independent_socialism_id_desc:0 ""
+ libertarian_socialism:0 "Libertarian Socialism"
+ libertarian_socialism_desc:0 "Freedom was the aim of Marx, and yet Marx, like every other intellectual of his age fell prey to the seductive allure of the state. A vanguard, a dictatorship, it doesn't matter. Power corrupts absolutely, the revolutionary must never let the mantle of authority blind them, as authority is simply the shroud of the Oppressor. There is a long, long walk from here to freedom, a balancing act between calamity and treason. Autocrats, stuffing the pit with the bodies of those they promised absolution, find themselves tilting closer towards Calamity, or Treason. The libertarian socialist dream is built on fixing the errors of the vanguard, of building something new in the shell of the old. And every man, woman and child will be needed to build it."
+ revolutionary_progressivism:0 "Revolutionary Progressivism"
+ revolutionary_progressivism_desc:0 "Whiggish historiography claims that society is slowly, steadily moving towards a more enlightened, more just world. As incremental as these changes are, to let history take it's course without the right minds at helm is to doom society to periods of stagnation and reaction. How can a society progress forwards when the ethos of the age is pulled taut by reaction! Revolution alone will be what preserves the Whiggish conception of history, and revolution shall carry the echoes of the Enlightenment within it."
+ philjacobinism:0 "Philosophical Jacobinism"
+ philjacobinism_desc:0 "The revolution is not something that can be achieved solely within the span of a struggle. As revolutions rise, they eventually fall and become sublimated into a new status quo. This stagnation is the enemy of radicals everywhere! The people must continue the revolution in perpetuity, an eternal revolution. Critique of the conditions of all societies, over and over until every thread of the Old world is stamped out in a fiery blaze of progress. Progress at a sprint, the futurism of the new earth!"
+ militant_communism:0 "Militant Communism"
+ militant_communism_desc:0 "Grassroots organisation is the Communism of the future. After all, is it not through the amassing of funds, creation of groups and the strict adherence to cadres that the status quo, the predatory society that leeches the life, soul and blood from the common man falls? Revolutions run amok in the grassroots, for freedom divorced from the establishment is freedom of an intoxicating kind. Establishments, like all things, dislike intoxicants, they dislike the small freedoms that can be exerted by the Communism of the people. "Come and take it from us!" is the rallying cry, as the grasses bristle with the silver barrels of guns, peeking out at anyone who dare take freedom away."
+ autonomism:0 "Autonomism"
+ autonomism_desc:0 "Marxists claim a need to break from the traditional structures of capitalism, but in doing so they have created structures as oppressive as the capitalists use. In trying to break from tradition, they have allowed themselves to be bound to a different set of traditions, the tradition of party-lines, of attempting to integrate to the capitalist world, with its myriad structures and imaginary constructs and markets. Capital too has begun to adjust and take hold of these strategies, the worker begins to become predictable, unthinkably so! The truth of the matter is that the left-wing has sat on their laurels for too long, embracing the same kind of revolutionary strategy, whilst capital, ever the cruel and conniving trickster, makes adjustments to absorb these stabs at rebellion. The Autonomists provide an answer. Armed and spontaneous revolution, headless communism, mobilised by the workers, rejecting the trap laid within party politics and spearheading a movement from the streets. Where the face of revolution is the worker and the worker itself. Autonomous struggle. Armed joy and spontaneity."
+ post_surrealism:0 "Post-Surrealism"
+ post_surrealism_desc:0 "Less a clear-cut ideology than it is a new philosophy of life and reality, Post-Surrealists have come out of a strange confluence of the French Ex-Left and the American Ex-Right, as Postmodernist theorists from both have come to hate the respective Spectacles of their home nations and those like them. Post-Surrealists believe in revolutionizing human experience in every corner of life and society possible, from the arts to politics to global relations."
+ western_marxism:0 "Western Marxism"
+ western_marxism_desc:0 "The focus of State Socialist projects has always been within the economic world. And yet boiling down relations to its monetary effect leaves a mechanical society. One cannot move society as they do machines, with oil and simple commands, the human animal is much more complex than an automaton. They think, they feel, and love. Western Marxism rejects the robotic applications of Economic Marxism, for there is no reason to drag forwards a group that does not want to be pulled towards utopia. They must be taught, they must transform their culture in a way that lets the emplacement of Communism to be possible as the mind of man is twisted by the vagaries of capitalist thought. The proletariat must form in the mind first, or the proletariat will tire."
+ black_marxism:0 "Black Marxism"
+ black_marxism_desc:0 "The needs of the worker find equals in the needs of the slave, for where else can the beleaguered masses find brotherhood if not in comradeship with the slave? Alas, the worker of this age is seduced by petty nationalist and ethnic fears, fears that the bourgeoisie have stoked to prevent one revolutionary stratum from accepting the other. And so, Black Marxism, or Afro-Marxism wages a quiet war, the neighbourhoods become the battlefields, the police blockade the enemy lines. The state is crude and unjust, and the only way that the African-American people can move forward is through the power of Marxism. And so they march forwards, to break chains invisible, to free all from the bourgeois grip."
+ left_palingeneticism:0 "Left Palingeneticism"
+ left_palingeneticism_desc:0 "The revolutionary prepares to build a better world, in the middle of a society built to oppress, to break and to disillusion them. Over and over again, there is a sense of futility in building a new world in the house of the old. Utopian dreams are twisted out of shape and out of character, until the ideals that they represented only exist on paper. Paper that soon will be relegated to the fires of collective amnesia. The revolution has failed, because we have failed to raze the foundations, unmake the world and clear the slate in it's entirety. The ruin seeks to pervert, to reassert it's control over the budding hopes of a new society. And for this, it must burn, the revolutionary must gut its corpse and and commit it to the fire, so that the maggots crawling within, insidious eaters of new flesh, can never find its way into the new order. Even if they possess some kernels of wisdom, expunge it regardless. The technology and knowledge of that age is whispering poison, it will be remade in the image of the new world, even if it requires stumbling towards it to even do so. It is only when the air clears and the ash from the burned bodies rises into the air that the true work of revolution can be begun. Until then, our war is against the old. The obsolete. The deceased."
+ imperial_modernism:0 "Imperial Modernism"
+ imperial_modernism_desc:0 "An ideological synthesis uniquely marrying imperial identity with Enlightenment modernity. Venerating thinkers like Zou Rong and Kita Ikki, it envisions enlightened monarchs and citizens leading nations, combining "socialism" with expansionist nationalism. It champions state-directed economic growth, moderating capital through heavy taxation, fostering national ethos, and territorial expansion. Distinct from Western capitalist individualism and Marxist class struggle, Imperial Modernism charts a unique course: uniting aristocratic heritage with egalitarian aspirations, and fusing enlightenment civil rights with imperial authority. Education and technology are lauded as twin engines for a modern, equitable, prosperous society. Externally, it's perceived as a distinctive "crowned State socialism"."
+ narcocommunism:0 "Narcocommunism"
+ narcocommunism_desc:0 "A leftist strain originating from the depths of the South American Amazon with the help of some Western defectors, Narcocommunism combines the ideology of the radical left while harnessing local drug production to drive their movement. They can free their minds with the forbidden fruit of their labor and create new doctrines that steer them away from where the revolutions of the old failed. Narcotics can serve as a way to expand their group’s revolutionary thought while at the same time expanding the revolution’s revenue. Capitalist society can’t help but indulge in their desire for drugs, and Narcocommunists are just as happy to indulge in their downfall."
+ cooperativism:0 "Cooperativism"
+ cooperativism_desc:0 "The power of the Co-operative is an economic miracle in itself. Decentralised power vested within councils and direct democratic control has created a method of economic freedom thought impossible to the working man. Now even the humble worker can take up arms within the market, as part of a grander collective. The Market need not be superseded! It can be harnessed! All that is needed is the co-operative to become the centre of market socialist thinking, only then can true socialism be harnessed! "
+ scientific_socialism:0 "Scientific Socialism"
+ scientific_socialism_desc:0 "To be socialist is to eschew the weapons of the reactionary. The socialist does not engage with mythopoetic fantasies and divine justifications of power! The Socialist takes from nature, from history and it's dialectic. It is around the dialectic that Socialism shall be built, and around the understanding of empiricism and knowledge. Workers of the world, abandon your God! That crude, effete figure balancing precariously on the shoulders of the wizened, senile priest. Break from tradition and superstition, and walk towards the light. The light of a new, scientific world, where geists of divine natures will not have to force you to give up your bread to miserly vicars! Workers, science alone shall be your savior! Science and Socialism!"
+ state_rationalism:0 "State Rationalism"
+ state_rationalism_desc:0 ""
+ utopian_socialism:0 "Utopian Socialism"
+ utopian_socialism_desc:0 ""
+ world_socialism:0 "World Socialism"
+ world_socialism_desc:0 "To look beyond the mundanity of Capitalist existence is to understand that the Worker exists everywhere. In every single country, no matter it's poverty or it's relative freedoms, there is always the rattling death knell of the breath of the oppressed. Trying painfully to eke out a living amongst the tyrants and oppressors of the world. The State-Socialist too is not spared from this, as their workers labour, being pushed to and fro by a hand not unlike the bourgeois scum that have ripped families from their homes, sold men and women into slavery under a different name and crushed the spirits of every human that has ever walked this earth. All that the State-Socialist has become is a Red Bourgeoisie, a tyrant in his own right. And so what is the antidote? What must be done? Revolution my friends. Revolution across every nation."
+ freak_democracy:0 "Freak Democracy"
+ freak_democracy_desc:0 "The phenomenon of so-called 'Freak Democracy' is a story spun since the fiery campaign trails of the 1960s and 70s, where the radical youth movements of the era went down roads of extremes ranging from militant terrorism to the questioning of the very ideals of America itself. Born from those dissenters in the period who championed both the progress of the future and the values of the past, these young sons of Jefferson envision a nation, and a world brightened by the psychedelic sunshine of enlightenment, where the yeoman thrives, the student succeeds, the freaks storm the white house, and the corporate squares are drowned out by a sea of popular resistance. Because, after all, were the founders not the hippies and freaks of their century?"
+
+ radical_democracy:0 "Radical Democrat"
+ radical_democracy_noun:0 "Radical Democracy"
+ radical_democracy_desc:0 "Radical Democracy"
+ radical_democracy_drift:0 "Drift Towards Radical Democracy"
+
+ radical_democracy_id:0 "Radical Democracy"
+ radical_democracy_id_desc:0 ""
+ radical_liberalism:0 "Radical Liberalism"
+ radical_liberalism_desc:0 "One of the oldest continous lines of Liberal thought, Radicalism has lived through the English Civil War, the Revolutions of 1848, the Garibaldian and Bolivarian revolutions, the Abolitionist conflicts of the United States, and will continue to live on evermore as the fires of Liberty, Equality, and Fraternity for all refuse to retreat into the cold and dark night. Modern Radicalists can range from optimistic young social reformers to grizzled revolutionaires waging guerilla war against the Obscurantist powers, but above all else, they shall champion their cause with fervent rigour."
+ social_democracy:0 "Social Democracy"
+ social_democracy_desc:0 "Emerging from the early labor movements and socialist parties of Europe, Social Democrats aim to address the inequalities of modern capitalism while avoiding—or even rejecting—the revolutionary approaches advocated by other branches of socialism. Influenced by figures such as Eduard Bernstein and John Maynard Keynes, Social Democracy typically emphasizes expanded state welfare, labor rights, and progressive social policies, alongside an economic focus on a mixed economy and the regulation of capitalism."
+ communalism:0 "Communalism"
+ communalism_desc:0 "While how they're run depends heavily on who's leading and what belief system is directing them, Communes are by far one of the simplest forms of governance. Self-sustaining, individual communities living on their own or with mutual aid from other like-minded communes. They could be on their own, or organized in a wide-spanning confederation with a symbolic overhead government. Within them, life is often heavily socialized and communitarian, with property and belongings often shared between members with little choice as to the contrary, labor and the economy are organized in a similiar manner, with general quotas and shifting roles enshrining horizontal organization."
+ religious_communalism:0 "Religious Communalism"
+ religious_communalism_desc:0 "Religious Communes are independent, self-sustaining, and self-organized, shaped by the beliefs of their leader and the faith of theirs inhabitants. Most-often derided as 'Cults' by the mainstream media and society at large, the truth of the matter is much more nuanced. While some may very well be restrictive and bend to the word and will of their near-deified patriarchs, others are leaderless, and mirror processes of direct democracy and experiments in non-representative governance. Like typical Communes, they may be isolated and secluded, keeping to themselves, or span whole nations as multi-faith and multi-cultural confederations of autonomous communities, unified in their indignance of organized religion and the ridicule of the masses."
+ neo_federalism:0 "Hamiltonian Democracy"
+ neo_federalism_desc:0 "The red headed step child of American political theory, Hamiltonian Democracy upholds a specific vision of democracy as cooked up by America's first Secretary of the Treasury, Alexander Hamilton. Cut down in his prime by a duel and upheld ever since by remnant Federalist Party branches across the US alongside various foreign aspirants, it describes a wholly more rigid and centralized version of government. Enshrining more power to the Executive, Judicial and Legislative Branches, enshrining civil liberties, and allowing for a stronger nation, with liberty and justice for all."
+ tribal_democracy:0 "Tribal Democracy"
+ tribal_democracy_desc:0 "While many Western countries are often celebrated as bastions of democracy, many argue that the tribes they conquer pioneered their ideals.  A hybrid sociopolitical system found in many tribal communities across the globe, Tribal Democracy is rooted in the values of collective decision-making and respect for cultural heritage. along with communal solidarity. Many modern interpretations seek to modernize tribal structures without sacrificing their foundational customs. It emphasizes decentralized authority, where individual tribes or communities maintain autonomy while cooperating through councils or assemblies."
+ social_nationalism:0 "Social Nationalism"
+ social_nationalism_desc:0 "Born mostly of anti-imperial and liberation movements, Social Nationalism is a big-tent ideology that tends to include national liberation movements, anti-imperialist movements, and those who seek to distance themselves from the more internationalist left. Social Nationalists tend to support national self-determination and independence while supporting domestically leftist policies, such as attempting to reduce class divides and support government intervention."
+ left_wing_populism:0 "Left-Wing Populism"
+ left_wing_populism_desc:0 "Emphasizing the will of the people, and more often than not, the will of an elected popular leader who the people work through, Left-Wing Populism is an ideology as old as the Industrial Revolution, and remains prevalent in the modern day as unchecked corporate greed and Pinkerton oppression runs rampant and the downtrodden worker demands representation and action."
+ creative_democracy:0 "Creative Democracy"
+ creative_democracy_desc:0 "An experiment in modern governance, talked about throughout the coffee houses, book clubs and writing groups of Europe, the Americas and beyond, Creative Democracy is as much a theory on modern governance as it is a personal ethos for an artist. Creative Democracy seeks to intertwine the people, the nation and art together in a grand symphony of life. Radical liberal economics, Jacobin inspired revanchism against the "old order" and enshrining the creative vision of any and all types of art. The visionaries are what define a nation, and what create the future!"
+ forwardism:0 "Forwardism"
+ forwardism_desc:0 "Technological advancements in the last century have driven man to newer and newer heights, and what were once the fantasies and high flung ideals of writers in the past rapidly become mere toys of today. Rather than strike the balancing act, Forwardism intends to intertwine the ever-advancing realm of technology and government hand in hand. While still enshrining democracy and liberal values, focus is given to advancing science and technological advancements in the same breath, with funding and programs to make building the better tomorrow, today a whole lot easier."
+ cosmopolitanism:0 "Cosmopolitanism"
+ cosmopolitanism_desc:0 "Derived from the word "kosmopolitês", as coined by Greek philosopher Diogenes, and inspired by the works of Zeno, St. Paul and Kant, Cosmopolitanism aims to build and maintain the shining city on a hill. The good of man stands taller than anything ill of where they come from, what they do or who they worship. Socially liberal economic policies with a strategic focus on social services, creative investment for the arts and sciences, and the understanding that no matter where you're from, you're still welcome."
+ girondism:0 "Girondism"
+ girondism_desc:0 "When the tinderbox of the Ancien Regime of France came crashing down, many different factions coalesced, swore the Tennis Court Oath and rallied for the new Republic. Born in the salon of Madame Roland, inspired by the American revolution and the works of Thomas Paine, Girondism was born amongst the troubled times of the First Republic. A radically liberal, internationally focused and yet decentralized form of governance, the rule of Liberty, Equality and Fraternity are enshrined under their vision. To protect the rights of man, no matter where they may be!"
+ social_consumerism:0 "Social Consumerism"
+ social_consumerism_desc:0 "Differentiating itself from the Right and most Libertarians through extensive community actions such as Social Progressivism and welfare, Social Consumerism puts comfort and capital first. Originating from the emerging currents of economic Liberalism and Social Progressivism quickly meshing together and establishing a democratic ideology seeing the benefits of right-wing economics but the dangers and flaws or right social positions, backing up society with fair and equal welfare but a free and open market."
+ social_faith:0 "Social Faith"
+ social_faith_desc:0 "A very recent section of Progressive movements, predominantly Christian, adherents of Social Faith profess a spiritual devotion towards social justice and welfare. Their mission is to uplift downtrodden people, uphold peace and brotherly love, and provide enough to spare for all. Toeing the line of the Left and Centre, the majority of Social Faith practitioners discourage Socialistic ideals, striving for a paternalistic, religiously modelled state and economy that both evangelizes and assists."
+ grassroots_democracy:0 "Grassroots Democracy"
+ grassroots_democracy_desc:0 "Skyrocketing in popularity with the success of organizations like the SDS and other like-minded groups, Grassroots Democrats demand absolute and total Direct Democracy, with all levels of society represented accurately by themselves or regional voting councils and blocs. Be they Participatory, Liquid, Localist, Cellular, or even Electronic, proponents desire a hundred flowers of experiments in democracy to bloom and flourish."
+ fascism:0 "Fascism"
+ fascism_desc:0 "Differentiating itself from Panarchism with staunch statism, Fascism is a historically fringe and ridiculed syncretic yet strangely not entirely democratic ideology. Fascism as founded by the likes of Benito Mussolini and Ezra Pound believes in a benevolent centralized powerful leader who uses his will to enforce a radically democratic and politically diverse political state, enabling and allowing different sections and sectors of societies to be entirely different religion and politics wise than one another. Unlike Social Revolutionism and other syncretic ideologies, Fascism is syncretic out of a belief in allowing pure freedom and right to defend and spread's one political and religious beliefs, rather than direct policy. The economic policy of Fascism is usually rather syndicalist or corporatist in nature as a pure attempt to ensure no outside forces can affect the economy nationally."
+ romantic_nationalism:0 "Romantic Nationalism"
+ romantic_nationalism_desc:0 "Romantic Nationalism is an ideological movement that defines a country not merely as a political entity, but as a living, organic expression of a shared people, history, and spirit. Emerging from the revolutionary fires of the late 18th and 19th centuries, it stands in contrast to civic nationalism, which emphasises institutions and legal frameworks. Instead, Romantic Nationalism roots national identity in folklore, language, art, and historical memory, often blending with mysticism, mythology, and a deep reverence for the past."
+
+ western_democracy:0 "Western Democrat"
+ western_democracy_noun:0 "Western Democracy"
+ western_democracy_desc:0 "Western Democracy"
+ 
+ western_democracy_id:0 "Western Democracy"
+ western_democracy_id_desc:0 ""
+ conservative_liberalism:0 "Conservative Liberalism"
+ conservative_liberalism_desc:0 ""
+ social_conservatism:0 "Social Conservatism"
+ social_conservatism_desc:0 ""
+ paternalist_democracy:0 "Paternalist Democracy"
+ paternalist_democracy_desc:0 ""
+ liberalism_id:0 "Classical Liberalism"
+ liberalism_id_desc:0 ""
+ new_liberalism:0 "New Liberalism"
+ new_liberalism_desc:0 ""
+ authoritarian_democracy:0 "Authoritarian Democracy"
+ authoritarian_democracy_desc:0 ""
+ religious_democracy:0 "Religious Democracy"
+ religious_democracy_desc:0 "A curious unity of enlightenment and tradition, Religious Democrats' guiding principles are defined by the moral character of their faith, rather than secular senses of humanism or civic duty. Whether pluralistic or centered around just one religion, the system's exact shape and dynamic depends entirely on the faith being practiced, but there are common threads running through all of them. Whether culturally regressive or progressive, many invest heavily into charity and public works, welfare and social safety, and of course, lend major state support to religious institutions." 
+ confederal_democracy:0 "Jeffersonian Democracy"
+ confederal_democracy_desc:0 ""
+ elitist_liberalism:0 "Elitist Liberalism"
+ elitist_liberalism_desc:0 ""
+ populism:0 "Populism"
+ populism_desc:0 ""
+ labour_conservatism:0 "Labour Conservatism"
+ labour_conservatism_desc:0 ""
+ national_liberalism:0 "National Liberalism"
+ national_liberalism_desc:0 ""
+ agrarian_populism:0 "Agrarian Populism"
+ agrarian_populism_desc:0 ""
+ reformist_nativism:0 "Reformist Nativism"
+ reformist_nativism_desc:0 ""
+ creative_conservatism:0 "Creative Conservatism"
+ creative_conservatism_desc:0 ""
+
+ obscurantism:0 "Old Right"
+ obscurantism_noun:0 "Old Right"
+ obscurantism_desc:0 "Old Right Government"
+
+ obscurantism_id:0 "Obscurantism"
+ obscurantism_id_desc:0 "Hysteria is the death of empires, and hysteria comes from the masses. Masses who struggle, who do not know the delicate interplay of cause and effect that leads to the greatness of every nation-state. The people themselves? They are a tool, they function as their leaders command them, and as such, they should be given nothing of the truth. Feed them lies, puffed up ideals, and other things to preoccupy their minds with. The world of the esoteric, the inner echelon is not for them. Let them content themselves with bread and circuses and drink themselves merry, as an ignorant populace is a compliant populace. And compliance, is our greatest virtue."
+ theocratic_obscurantism:0 "Theocratic Obscurantism"
+ theocratic_obscurantism_desc:0 "The role of the theocrat is to be sheperd of the people. For the people are impure, unwise and utterly steeped in sin. The glories of the divine are not for them, not yet. They cannot step into the kingdoms of all that is holy whilst they are mired in the filth and refuse of the material world. The realm of Gods is only available to those who have put their blood into it: the chosen few, the shadowed cabal, the ancient order of priests. None are worthy of coming to the doorstep of the divine, for the theocrat is gatekeeper, visionary and teacher. They alone can provide the keys to absolution, they who are God of the Human Realms."
+ organicist_liberalism:0 "Organicist Liberalism"
+ organicist_liberalism_desc:0 ""
+ classical_conservatism:0 "Classical Conservatism"
+ classical_conservatism_desc:0 ""
+ classical_republicanism:0 "Classical Republicanism"
+ classical_republicanism_desc:0 ""
+ aristocracy:0 "Aristocracy"
+ aristocracy_desc:0 ""
+ nativist_populism:0 "Nativist Populism"
+ nativist_populism_desc:0 ""
+ herrenvolk_democracy:0 "Herrenvolk Democracy"
+ herrenvolk_democracy_desc:0 ""
+ occult_traditionalism:0 "Occult Traditionalism"
+ occult_traditionalism_desc:0 "Within the heart of the world there is an ancient core calling out to those gifted enough to sense. Those who have the ability to cross the abyss towards true wisdom, through practice, knowledge and understanding, shall reach the throne of the divine, and bask themselves in the beauty of all that is and all that will be. These ascended ones alone have the right to rule, to dictate, to proselytise. The Rule of the Magus is only just, they who are the keepers of the true wisdom."
+ fordism:0 "Fordism"
+ fordism_desc:0 ""
+ state_traditionalism:0 "State Traditionalism"
+ state_traditionalism_desc:0 ""
+ classical_nordicism:0 "Classical Nordicism"
+ classical_nordicism_desc:0 ""
+ national_corporatism:0 "National Corporatism"
+ national_corporatism_desc:0 ""
+ feuillantism:0 "Feuillantism"
+ feuillantism_desc:0 ""
+ jacksonian_democracy:0 "Jacksonian Democracy"
+ jacksonian_democracy_desc:0 ""
+ gothic_monarchy:0 "Gothic Monarchy"
+ gothic_monarchy_desc:0 "Throughout the millennia, the power of old monarchies has been tried and tested. Through reformations and revolutions, scandals and great wars, the loyalty of the people to their king or queen fell out of favor. But loyalty can be bought, for the right price. Gothic Monarchies are an interesting bridge between the old and new, addressing the problems of their nation with hawkish rhetoric and military might, typically reliant on mercenaries or other hirable organizations to enforce their will."
+
+ new_right:0 "New Right"
+ new_right_noun:0 "New Right"
+ new_right_desc:0 "New Right Government"
+
+ new_right_id:0 "New Right"
+ new_right_id_desc:0 ""
+ libertarianism:0 "Libertarianism"
+ libertarianism_desc:0 "Emphasizing the classical Jeffersonian ideals of America and the Lockean ideals of Europe's democracies with brand-new twists and turns in economics and philosophy, the Libertarian movement sprang forth from the confluence of the ideals of renown modern New Right thinkers with the Old Right's deep seat in society. Libertarianism itself has become a very broad term used by many ranging from simple gun nuts to amphetamine junkie coding pioneers to devoted worshippers of almighty capital, the type of man who calls himself a Libertarian flat out is a simple one. Libertarian governments will stress non-intervention, voluntary action, and non-aggression above all within a Democratic and Electoral framework."
+ natlibertarianism:0 "National Libertarianism"
+ natlibertarianism_desc:0 "A distinct and rowdy outcropping of the New Right movement, National Libertarians spit in the face of the mainstream movement's emphases on non-aggression, non-intervention, and anti-patriotism. While they may despise the state still, for them, the nation is exemplified by the people alone, the angry, property-owning, gun-toting, and more often than not, conspiracy theory rattling and extremely paranoid people. States run by figureheads of this movement are isolationist, xenophobic, and hateful beyond all belief... But nobody has to worry, as long as they don't cross the fence."
+ propertarianism:0 "Propertarianism"
+ propertarianism_desc:0 "Based upon the ideas of Libertarian and New Right thinkers, especially Murray Rothbard, the Propertarian movement advocates for a Semi-Stateless sovereignty, where every single aspect of life is privatized and managed through private law and contracts backed up by self-defending property owners and private militias. If there is a government present, it's run more as a corporation than anything else, and will only work to secure it's own interests."
+ objectivism:0 "Objectivism"
+ objectivism_desc:0 "Inspired by the works of Russo-American Author and Philosopher Ayn Rand, and the subsequent movement after her passing in 1970, Objectivism openly Romanticizes Egoism, Selfishness, Greed, and Consumerism, and sees it as the only 'true' religion of the Postmodern age. A politically Objectivist state is radically deregulated, and the ruling elite of it, seeing themselves as the 'Prime Movers' of society, utilize their resources to indulge in large displays of Hedonism."
+ creativepalin:0 "Creative Palingeneticism"
+ creativepalin_desc:0 "Like swarms of Phoenixes arising from the ember and ash of modernity's charred, writhing corpse, many men have been called Creative Palingeneticists, taking the already crucial role of Art, Music, Poetry, Literature, and other media and works in the genesis of a culture to the utmost, highest degree possible, dictating their state or community by and for the creation and spread of their revitalized identity through all possible mediums, all according to their own desires and artistic drive."
+ palingenetic_nationalism:0 "Palingenetic Nationalism"
+ palingenetic_nationalism_desc:0 "Palingenesis; the birth, or re-birth of a culture through an explosion of societal dynamism and willpower, a revolution, more often than not. Whether it be the proud re-emergence of a downtrodden and shamed people, or the righteous creation of an entirely new blood out of the passionate fires of rebellion. Palingenetic Nationalists desire the creation of, and almost always the radical expansion of a state for their newborn identity, stopping at nothing to acheive this goal."
+ christian_nationalism:0 "Christian Nationalism"
+ christian_nationalism_desc:0 "While the Bible says God's Kingdom is not of this world, Christian Nationalists pride themselves in trying to get as close as possible. A form of religious nationalism, Christian Nationalists often try to create a state where their interpretation of the Christian faith is the dominant social and moral order. Christian Nationalists usually attempt to uphold a church as the predominant source of cultural and social influence in society. While not guaranteed, a Christian Nationalist state may attempt to persecute 'non-Christian' groups such as those following other faiths, or having no faith at all. Christian Nationalists often believe they are defending the will of God and upholding the values outlined in the Bible for how people should act and how society should be structured."
+ new_occultism:0 "New Occultism"
+ new_occultism_desc:0 "Born mostly out of the escapades and degenerate teachings of Aleister Crowley and his large array of compatriots and concubines in the highest and lowest of places, the New Occult is an extremely broad and divergent yet oddly unified force, held together by their shared beliefs in the same wide pool of myth. Whether they follow Chaos Magick, Sex Magick, Money Magick, Demonology, Orthodox Thelema, Lovecraftian Theory-Fiction-Religion, Neo-Kemetic Cultism, Erisian Mysticism... The list goes on and on. The styles of governance under the cabals of these Neoteric radicals shifts and differs widely, but each wishes to remake society and the world at large in their twisted image, be it comfortably and subtly from the shadows, or violently and openly in the blood-soaken streets."
+ revment:0 "Revolutionary Mentalism"
+ revment_desc:0 "The all-encompassing rule of society by a tight-fisted and loose-headed visionary, Revolutionary Mentalism is exactly what it says on the tin. All thought-crimes broken time and time again, all reptillian overlords slain, all deep state conspiracies shut down and laid to rest by the mobs of the enraged and enlightened. The very souls of man and outer-kin irrevocably shaken and reshaped under the will of the master and the holder of every key. You will know the truth, and the truth shall set you free."
+ networkism:0 "Networkism"
+ networkism_desc:0 "A very recently developed stream of thought, Networkism takes influence from the works of Bruce Sterling, Douglas Rushkoff, and other Digital Visionaries in the 'Cyberpunk' genre of purported Theory-Fiction. It's adherents, affiliated with the Libertarian and even Right-Wing Anarchist movements, advocate for the greatest amount of decentralization possible, with a Panarchistic view on how each and every microstate interacts, wildly diverse and free to their own ends. 'If you don't like it, leave' so the saying goes."
+ reactmod:0 "Reactionary Modernism"
+ reactmod_desc:0 "Taking Palingenesis and Romanticist expressions of Nationalism and pushing them past their absolute limit, Reactionary Modernists demand a firm rejection of the Enlightenment, while affirming and equally aggressing for the rampant acceleration of society towards technology growth and rabid societal and cultural change. Rejecting a forward past, embracing a backward future. Life within these societies is constantly changing, yet always the same. Ever-flowing and dynamic, yet regressed and oppressive. Diverse and wide, yet restrictive and closed. It all depends on what side of history you're on, and what side of history the state's on."
+ anomie:0 "Anomic Libertarianism"
+ anomie_desc:0 "Anomic Libertarianism is a radically individualistic interpretation of libertarian philosophy that emphasizes the rejection of authority, governance, and traditional social norms. Rooted in the belief that individual autonomy should be absolute, Anomic Libertarians view all forms of constraints — whether political, cultural, or societal — as forces that hinder personal freedom. Unlike mainstream libertarianism, which often advocates for limited government to safeguard personal and economic liberty, Anomic Libertarianism takes this to an extreme by promoting the dissolution of structured systems entirely. It sees laws, moral codes, and societal expectations as artificial constructs that impose conformity and limit the individual."
+ electmon:0 "Elective Monarchism"
+ electmon_desc:0 "While the concept itself dates back millenia, from the military elections of Macedon, to the senatorial elections of Rome, and to the thing-meets of Scandinavia, the modern movement for Elective Monarchy is carried along the wave of the New Right movement, bolstered by it's sections sympathetic for the Old Right, and the oldest systems in Europe and the world at large. Citing an elected, artistocratic autocrat as a superior and far more viable alternative to a representative such as a President or Prime Minister, and the trappings of the parliamentary system. While the characteristics different pundits desire vary wildly, most agree that this monarch should always take priority in stately matters, justifying the self-centered and utilitarian rule of Monarchs as inherently pro-liberty and far less intrusive than the Modern model of the state."
+ hedonic_liberalism:0 "Hedonic Liberalism"
+ hedonic_liberalism_desc:0 "A byproduct of liberal values, the libertarian movements focus on deregulation and various national and cultural idiosyncrasies, Hedonic Liberalism exists to liberate the people from more than merely legislation, but from the cultural shackles that bind. Placing minarchist economic thought on more than merely ecoonmic and governmental constraints, but ones of cultural and illicit natures. Whether it be rallying against ancient and outdated prohibition legislations, evoking a true "sense" of liberty or something more inherently sexual, it all is wrapped neatly under the 'hedonic' part of the title."
+ ethnopluralism:0 "Ethnopluralism"
+ ethnopluralism_desc:0 "Probably one of the most bizarre and striking of the New Right's many branches, Ethnopluralists desire racial and ethnic heterogeneity and diversity at a global and societal level, but extreme segregation and seperatism on local and national levels. The movement's leaders stress cooperation between nationalists, seperatists, and supremacists of all races, so that they may work together to acheive their own goals without treading upon the others' sovereignty. Followers' justify this massive social seperation with the concept of 'Voluntary Association', maintaining that it is the natural instinct of different races and creeds of people to self-seperate, and exceptions to this rule are almost always consequences of state overreach and tyranny, and not in the best interest of any race in question."
+
+ radical_right:0 "Revolutionary Right"
+ radical_right_noun:0 "Revolutionary Right"
+ radical_right_desc:0 "Revolutionary Order"
+ radical_right_drift:0 "Drift Towards The Revolutionary Right"
+
+ radical_right_id:0 "Revolutionary Right"
+ radical_right_id_desc:0 ""
+ revolutionary_nationalism:0 "Revolutionary Nationalism"
+ revolutionary_nationalism_desc:0 ""
+ revolutionary_nordicism:0 "Revolutionary Nordicism"
+ revolutionary_nordicism_desc:0 ""
+ ethno_supremacism:0 "Ethno-Supremacism"
+ ethno_supremacism_desc:0 "Ethno-Supremacist regimes are unified and radicalized in the interest of the systematic extermination of 'the other' in the interest of advancing one race, one people, one nation above all else. More often than not, a ruthless and unchecked dictator leads this effort and maintains a strictly 'pure' government of only the most noble blood. The 'inferior races' are dehumanized, demonized, and ostracized, with random and coordinated acts of violence carried out against them at a constant rate, often by paramilitary gangsters both independent and state-aligned."
+ white_nationalism:0 "White Nationalism"
+ white_nationalism_desc:0 "A revolutionary right-wing product of fears of an alleged plot to create a damaging 'multicultural' society. White Nationalism is a pan-ethnic movement mostly consisting of a 'White Race' consisting of majority European ancestry. White Nationalism is an ideology that is concerned with perceived threats of immigration, race-mixing, and the falling power of 'white' states that will lead to the end of the white race. White Nationalists usually advocate for a white ethnostate, or at the least a state where all real political, economic, and cultural power is held by those with European Ancestry. White Nationalists are almost always found on the far-right."
+ ethnotheism:0 "Ethnotheism"
+ ethnotheism_desc:0 ""
+ mystic_nationalism:0 "Mystic Nationalism"
+ mystic_nationalism_desc:0 "The bonds of blood and soil that constitute a people, a nation, run deeper than the world of flesh. Be it descent from the gods, a divine spark, or a dormant racial consciousness of spiritual truths, there is a mystical quality which sets our people apart from others and grants it the right of dominion. These occult secrets of history, long suppressed by the enemies of our proud race, may now finally be unveiled, as it is only through the act of awakening the nation to its hidden destiny that said destiny can be fulfilled. The state will serve as a beacon, guiding the united and awakened nation and vanquishing the morass of foreign and subversive foes who stand in its way. Rise, God-Men of the lost world, and claim your birthright!"
+ social_darwinism:0 "Social Darwinism"
+ social_darwinism_desc:0 "Emphasizing "survival of the fittest," Social Darwinism emerged in the late 19th century as an ideological, human interpretation of Darwin's theory of evolution and natural selection. Proponents argue that societal progress is driven by competition between individuals, businesses, and nations, and that the "weak and unfit" being systematically eliminated spurs advancement. At its core, Social Darwinism asserts that societies and individuals evolve through natural selection, with the strongest and most adaptable achieving dominance. These Darwinist ideas of inequality were used to justify many colonial, ethnocentric, and supremacist movements, underpinning exploitative systems that claimed to follow the "natural order" of survival."
+ revobsc:0 "Revolutionary Obscurantism"
+ revobsc_desc:0 "When the old order fails, someone must pick up the torch. And as the traditions that our culture are built on are whittled away, day in and day out by ardent revisionists, liberals and so on. Who do you call upon to pick them up again? Much as in its less radical brother, Revolutionary Obscurantism exists to maintain the old order, although in doing so taking on more radical means. Worshipping at the altars of tradition, the past and the pillars that make up their nation's culture, they are extremely hawkish to anything left or right of their proverbial center, enshrining their cultural views as national standards, and maintaining their policies no matter what. The flag will not fall, so long as their hearts keep beating."
+ social_revolutionarism:0 "Social Revolutionarism"
+ social_revolutionarism_desc:0 "The flightless bird that is governance has long suffered from the meddling of it's left and right wings. The workers agitate, agitate and agitate, bringing chaos to society and the aristocratic elites stew in a puddle of their own excrement, forgetting the world in their libertine escapades."Social Revolutionism is a contradiction!", the critics say! And to that they laugh, for they simply wish to govern with all parts of society. None shall be left behind in the speeding bullet that the flightless bird of governance shall become, speeding faster, faster until these pithy distinguishing factors will be left in the dust, and on it, the foundations for a new Society shall be born. One that will combine the madness of Radicalism with the dolorous aplomb of Reaction!"
+ peasant_radicalism:0 "Peasant Radicalism"
+ peasant_radicalism_desc:0 "There is no one who knows the ways of a nation more than the peasants. To whom the country engorges itself on their hard work manifested in their crop, to whom the dilettante elites in their cities and manor apply more and more weight with taxes, corporate cabals holding them back and taxing them into the floor. When backed up against the wall, those that have nothing are willing to do anything. Thus leading to the concept of Peasant Radicalism. Extremely hawkish policy, fervent worship over the blood and soil that their peasants fight and kill for, and utter contempt for anything and everything that wishes to come between them and their livelihood."
+ atchisonian_democracy:0 "Atchisonian Democracy"
+ atchisonian_democracy_desc:0 "A contradiction in forms of democracy, and yet one enshrined in the being of America since the days of Bleeding Kansas, Atchisonian Democracy is an extremely hawkish and paradoxical approach to governance. Named after Kansas State Senator David Rice Atchison, Atchisonian Democrats are ones of extreme conviction and flair that speaks to the people society has forgotten over these years. Radical agrarian populism, slavishly devoted to defending national character and values and railing heavily against any and all threats to itself. All the while still defending the personal liberties of the people, and making sure the right to vote remains. For the right people, that is."
+
+ institutionalism:0 "Institutionalist"
+ institutionalism_noun:0 "Institutionalism"
+ institutionalism_desc:0 "Institutionalist Regime"
+
+ institutionalism_id:0 "Institutionalism"
+ institutionalism_id_desc:0 ""
+ militarism:0 "Militarism"
+ militarism_desc:0 "When social order begins crumbling at the corners, there's always the one thing that imposes the good moral and social character of the nation. That is the army, never faltering in the face of oblivion. Ever since the days of Sparta, militarism has been a ready way for a culture to reinforce fortitude and the values that they hold dear. Whether a Prussian dedication to a grand standing army, an elaborate military industrial kleptocracy with a vested interest in saber rattling or something more sinister, the one thing that ties them all together is slavish funding towards military spending and an overall militaristic outlook to foreign and domestic policy."
+ police_state:0 "Police State"
+ police_state_desc:0 "Sometimes the people just don't know what's best for them, and the greatest measures of security must be implemented. A police state is one in which authorities largely control civil life and liberties are restricted. Police presence and deployment play major roles in governance, as well as internal surveillance. Police states are almost exclusively totalitarian in nature, having almost no separation of powers or checks to party power. Originally just a common term for a civil administration government, the term now is used primarily as a derogatory term for states that restrict liberties and whose citizens generally live in undesirable conditions."
+ noocracy:0 "Noocracy"
+ noocracy_desc:0 "A system dating back to Plato's idea of a 'Philosoper King', a Noocracy is where the most knowledgeable rule. A complete rejection of the democratic process, these governments operate at the behest of experts, be them scientists, engineers, or sociologists. Access to the levers of power allow leaders to experiment in crafting a more perfect society through their genius. Whether they succeed is up to them alone."
+ relnoocracy:0 "Religious Noocracy"
+ relnoocracy_desc:0 "A variant of the classical Noocracy, Religious Noocracy follow the same basic guidelines as its secular counterpart in overriding the democratic process and maintaining a guided dictatorship of a board of experts. The key distinction is typically enshrining some level of religious officials in the positions versus mere "experts". For who else knows the ways of the world than those trusted elders of our sacred orders. Whether a cult, a new age religion, or a cabal of religious zealots clamoring to make the world better, the heavy hand of their individual rule guides themselves, and their people, to a glorious new day."
+ dirigisme:0 "Dirigisme"
+ dirigisme_desc:0 "A term coined by economists in response to the state planning of the French Jacobins, Dirigisme stands on the opposite side of the spectrum to Laissez-Faire economics.  Governments of this type use their influence to direct the markets away from disaster. This does not mean that Dirigisme is left-wing by any means. Its ranks stretch from strong arm populists seeking favor the people to the autocrats whose only wish is to create the most efficient economy on the face of the Earth."
+ cryptocracy:0 "Cryptocracy"
+ cryptocracy_desc:0 "Cryptocracy is a form of government that operates entirely away from the public eye. Typically operating behind the facade of a civilian government or other elected official. Cryptocracies can be made up of anything from wealthy capitalists to shady cabals and are usually seeking to control the populace or expand their own wealth and power.  However, the average citizen is unlikely to know of the shadow governments existence, with only a few skeptics and fringe extremists being able to gaze behind the curtain into the halls of true power."
+ managerialism:0 "Managerialism"
+ managerialism_desc:0 "Managerialism refers to a political system in which the government is controlled by and serves the interests of a select group of elite bureaucrats and officials. These individuals aim to maximize economic and governmental efficiency by micromanaging every aspect of society through the expertise of carefully chosen specialists. While they do not entirely ignore the needs of the populace, concerns for citizen welfare are merely factors within their broader programs. Citizens are primarily placated to prevent rebellion and ensure streamlined economic productivity. Although predominantly authoritarian, leaders of managerial states are typically chosen based on meritocracy rather than by raw power or social status. However, make no mistake — they can be just as cruel."
+ institutional_dick:0 "Institutional Dictatorship"
+ institutional_dick_desc:0 "Institutional Dictatorships are a form of governance where power is centralized not in a single charismatic leader, but within an entrenched system of organizations, bureaucracies, or ideological frameworks. These institutions maintain control through systemic structures rather than personalist rule, creating an appearance of stability, legality, and continuity. A vast, complex bureaucracy turns the gears of governance, enforcing control over various aspects of public and private life. It ensures loyalty through patronage systems and suppresses challenges by creating barriers to opposition. The concentration of power and lack of accountability often result in widespread corruption and abuse of power."
+ social_corporatism:0 "Social Corporatism"
+ social_corporatism_desc:0 "During the boom of the Industrial Revolution, and the explosion of wealth in the hands of entities beyond the state and specialist guilds, one question arose in how to best spend the income. While some elected to merely hoard the wealth, some of those new found elites elected for a pragmatic move of investing back into their community. Inspired by the likes of Rockefeller, Carnegie and Gillette, Social Corporatism is an interesting mixture of liberal economic politics with a focus on giving back to the community at large through the funding of social programs, improvements to society and large scale populism. All the while preserving their corporation, just behind the backdrop."
+ judicialism:0 "Judicialism"
+ judicialism_desc:0 ""
+ financialism:0 "Financialism"
+ financialism_desc:0 "No hand has been stronger than that of the free market, and the ability to pay for it is greater than any other. Ever since companies traded stocks for income, finances and the management of said finances have been critical to micro and macro economics. And states structured on this model have existed from the infancy of companies like the South Sea Company or the East India Company. Whether fiscally minded trade regimes, corporate aligned business parties or something more controlling, the market always prevails in the world of high finance and big business."
+ industrial_democracy:0 "Industrial Democracy"
+ industrial_democracy_desc:0 ""
+ warhawk_democracy:0 "Warhawk Democracy"
+ warhawk_democracy_desc:0 ""
+ washingtonian_democracy:0 "Washingtonian Democracy"
+ washingtonian_democracy_desc:0 "One of the oldest conversations in American politics has been the contradiction that occurred between America's first president and the later parties that co-opted and crept across the landscape. George Washington famously hated the idea of political parties, seeing them abuse and kindle the fears of the people and bend them to their wills rather than anything else. And this view lives on still in Washingtonian Democracy. A hierarchical and heavy handed approach to democracy that espouses personal liberties for the individual, evoking nationalist pride and restricting the vote in its own right. Balancing liberal populism with authoritarian pragmatism."
+ synthesism:0 "Synthesism"
+ synthesism_desc:0 "Originating from the works and beliefs of Julian Huxley, Synthesism lies as an infamous but sometimes 'effective' and syncretic government system. Believing in a form of highly centralized government in order to psychologically condition the population through actions such as eugenics, carrot and stick policy, and or societal stratification, all in an attempt to develop and evolve the people of the state, possibly to increasing levels/extents. While not all proponents, nor even Huxley himself, used the ideology to justify racism, a few believers of the ideology use the eugenics of the ideology in a "Race Realist" sense to justify racial eugenicism and exclusion."
+ sociocracy:0 "Sociocracy"
+ sociocracy_desc:0 "One of the greater repercussions of the modern capitalist system has been the difference between the haves and the have nots, and most modern philosophy elects to either alleviate this disparity, or enshrine a natural order in things. Sociocracy elects to run the middle course, enshrining the importance of not only the government in matters of economic planning, but that of the worker's unions and employer associations. A heavy focus is put as well on scientific management, in everything from residential planning, economic improvements and so on, to make sure the free market produces as much as it theoretically can."
+
+ occidental_despotism:0 "Occidental Despot"
+ occidental_despotism_noun:0 "Occidental Despotism"
+ occidental_despotism_desc:0 "Despotic Regime"
+
+ occidental_despotism_id:0 "Occidental Despotism"
+ occidental_despotism_id_desc:0 ""
+ absolutism:0 "Absolute Monarchy"
+ absolutism_desc:0 "One of the simplest forms of rule, Absolutism is summed up in one credo... 'L'État, c'est moi', in English, 'I am the State'. The heads of these societies are well-respected noble rulers, descendants of royal lines as old as time. They are guided by the divine right to rule, and heavily rely upon the credence and legitimacy bestowed to them by religious authorities and their royal families."
+ enlightened_absolutism:0 "Enlightened Absolutism"
+ enlightened_absolutism_desc:0 "Enlightened Absolutists combine the power and might of Absolute Rule with the ideals and philosophies of the Enlightenment. They seek to enforce liberty and reform with an iron fist, crushing those Obscurantists which may wish to curb them. Enlightened Despots are typically heavily reliant upon their own Charisma and their ability to keep their populace happy with new and liberating ideas."
+ kleptocracy:0 "Kleptocracy"
+ kleptocracy_desc:0 "A Kleptocracy is a government which is led by a shadowy and corrupt clique of criminal minds who use bribery, special favors, intimidation and ruthless violence to keep themselves in power. Generally the real leaders of a Kleptocratic government stay out of the public eye, but more charismatic characters are happy to take the spotlight and show the world a gleaming mask of good intentions."
+ mercantilism:0 "Mercantile Republic"
+ mercantilism_desc:0 "A Mercantile State is governed exclusively by wealthy merchant families, and the country is based not around national lines or cultural connection, but pure business and trade. States like these have existed for millenia, and remain very successful to this day, adapting their business models to a new day and venturing out to new lands to exploit the developing economies of the Orient and New World."
+ egoistic_autocracy:0 "Egoistic Autocracy"
+ egoistic_autocracy_desc:0 "A dictatorial rule of a nation in one Man's image. Egoistic Autocrats are the very definition of self-centered, and have no real goals or ideals beyond their own vanity. Mass state resources are simply embezzled and put towards the greed of these Autocrats, who command loyal (and sometimes disloyal) militants to strike down their opposition. Egoistic Autocrats may be spoiled noble descendents, or simply opportunist tinpot dictators with delusions of grandeur."
+ hedonic_despotism:0 "Hedonic Despotism"
+ hedonic_despotism_desc:0 "A dictatorial rule of a nation for the express purpose of pure, unfettered excess. Hedonistic Despots will stop at nothing, stop at no-one, to satisfy their desires. Druglords, Sex Kingpins, simple degenerate warlords. The only thing keeping these states together are the materialistically-driven forces which their leaders keep entertained with consistent bread and circuses. No limits, only fun."
+ christian_theocracy:0 "Christian Theocracy"
+ christian_theocracy_desc:0 "A Christian Theocracy is a state where both spiritual and temporal power rests in the hands of high-church authorities, with the ruling class taking the form of a clerical elite. This form of government can be found in any of the faith's myriad branches, be they Catholic, Orthodox, or any variety of Protestant. These states are typically extremely reactionary and socially conservative, and will use the power of the law to persecute non-believers and any belief systems they consider heretical. Like their Obscurantist cousins, such regimes are a lingering remnant of the world as it once was."
+ jewish_theocracy:0 "Jewish Theocracy"
+ jewish_theocracy_desc:0 "Jewish Theocracy is a system of governance based almost entirely on the instruction of the Jewish faith. In Jewish Theocracy, the rule of Halakha or religious law is the backbone of the nation as outlined in the Torah. The ideal is popular among Orthodox and "Ultra-Orthodox" sects such as Haredi and Dati, but it has a rough amount of support amongst all branches of Judaism apart from Secular Jews. Typical traits of Jewish Theocracy is a rejection of liberal, reformist and modernist forms of government in favor of a more religiously based state where Judaism is the main religion and is upheld by the Government."
+ colonial_government:0 "Colonial Government"
+ colonial_government_desc:0 "A form of government where one ruling nation seeks to gain resources, territory, or military prowess through taking advantage of their newly conquered lands and people. Some colonial powers are 'hands on', seeking to civilize or expel the native peoples for settlement. Others simply seek financial enterprise in such distant lands. Nevertheless, this form of government takes many forms and varies from overlord to overlord."
+ western_plutocracy:0 "Western Plutocracy"
+ western_plutocracy_desc:0 "Be they Corporate States, Spoiled Rich-Boy Dictatorships, or Oligarchic Cliques, Western Plutocracies are brutally backed by the richest of the rich. Able to supply themselves with guns, drugs, men, anything, at simply a moment's notice, they are extremely prevalent in the modern world, which is dominated by power-hungry Colonials and Corporate Conquerors."
+ feudalism:0 "Feudalism"
+ feudalism_desc:0 "A Near-Archaic form of Government nowadays, Feudalism is a social system where royal nobles, vassals, and peasants possess and work lands from the crown in exchange for military service, honor, labor, and taxation. Feudal societies are typically rather cosmopolitan as they predate the concept of the nation-state, favoring royal and familial ties."
+ millenarian_theocracy:0 "Millenarian Theocracy"
+ millenarian_theocracy_desc:0 "So long as mankind has toiled on the face of an unforgiving Earth, some have held out hope for the cosmic order to be overturned by catastrophic upheaval. Countless prophets have emerged, speaking of signs and revelations indicating the end of all things and the coming of a glorious new day, images of a world consumed by divine fire, war between the forces of Heaven and Hell, the twilight of the gods, or the annihilation of the universe itself. While innumerable failed predictions of Judgment Day have come and gone with humanity's myriad faiths, there are many who still maintain fear — and anticipation — for the End Times. Millenarian Theocracies are governments obsessively dedicated to preparing for such an end, consumed by delusions of grandeur and madness and typically controlled by a cultish inner circle with a prophetic figure at its head. Such states seek to transform society to ensure their populations are worthy of both surviving the coming storm and passing divine judgment, with many also engaging in hawkish and aggressive military action to hasten the coming eschaton."
+ private_absolutism:0 "Private Absolutism"
+ private_absolutism_desc:0 "A form of absolute despotism in a paternal nature, Private Absolutism is a form of paternal dictatorship which ranges from family-ran paternal corporate rule, to actual monarchies in their most capitalistic and money driven form. Family and Money are above all else to adherents of this ideology, of which come from decaying corporate ran states, to obscure desperate European royal off-shoots."
+ theodemocracy:0 "Theodemocracy"
+ theodemocracy_desc:0 "What is a religion, if not a culture? And what is a church if not the earliest form of representative democracy? Theodemocracy is an interesting form of political thought that intermeshes a political structure with one that is religious. Heavily evoked by certain religions such as the Church of the Latter Day Saints in Nauvoo, the descendants of Puritans such as Congregationalists in New England and others, the strate of theodemocratic society splices in as much of the church into normal government as possible. Charity and social services run through the church, cultural and religious revivals for the church, and everything for the greater good. Whatever that good may be."
+ admiralty_regime:0 "Admiralty Regime"
+ admiralty_regime_desc:0 "Mankind came from the sea thousands of years ago, and ever since, the call of the waves has attracted many. And from controlling the seas, charting it and dominating it, comes power. The Phoenicians and their children the Carthaginians knew this, and dominated the Mediterranean, same for the Vikings, the Venetians, the British and more. In the chase of securing naval supremacy, came the Admiralty Regime. Whether expansionistic trade empires who maintain their economy through heavy naval spending, naval dictatorships backing up their policy with shells or something in between, the sun never sets on their empire..."
+
+ oriental_despotism:0 "Oriental Despot"
+ oriental_despotism_noun:0 "Oriental Despotism"
+ oriental_despotism_desc:0 "Despotic Regime"
+
+ oriental_despotism_id:0 "Oriental Despotism"
+ oriental_despotism_id_desc:0 ""
+ confucianism:0 "Confucian Bureaucracy"
+ confucianism_desc:0 "Originating from Ancient China and flourishing during the Han, Song, and Ming dynasties, Confucian Bureacracies are obsessed with virtue, order, and harmony. Ruled by an elite caste of scholar-officials designated through civil service examinations, the greater population stays in the dark at the cost of being ruled by this educated class of managers. "
+ eastern_plutocracy:0 "Eastern Plutocracy"
+ eastern_plutocracy_desc:0 "A Monarchy or Despotate wholly backed and funded by wealthy nobles and merchant families. The head of state may be the leader of a monopolistic and succesful enterprise, or just be a slave to the interests of those who keep the gold flowing. Eastern Plutocracies have flourished the straits and seas of the Orient for centuries, and as modernization creeps in, they only prosper more and more."
+ shogunate:0 "Shogunate"
+ shogunate_desc:0 "With the Emperor as a mere puppet, a Shogunate is ruled under a dictatorial, extremely strict, and hereditary military leader who keeps an iron fist over the isles, keeping order with the armies upon armies of Samurai at his disposal. More often than not, the Shogun is intent on isolation and rejecting the trappings of western ideas and character, and will pay any price to maintain the sanctity of Nihon."
+ daimyo:0 "Daimyo"
+ daimyo_desc:0 "A feudal lord of Japan living either under the Shogun or Independently, Daimyo may war with or collaborate with eachother however they would like, without the care of the Shogun, so long as they pose no threat to his seat of power. Most Daimyo are simple-minded, and content on maintain control and development of their little slice of the islands, or even frontier territory."
+ tribal_absolutism:0 "Tribal Absolutism"
+ tribal_absolutism_desc:0 ""
+ spiritual_despotism:0 "Spiritual Despotism"
+ spiritual_despotism_desc:0 ""
+ islamic_theocracy:0 "Islamic Theocracy"
+ islamic_theocracy_desc:0 ""
+ buddhist_theocracy:0 "Buddhist Theocracy"
+ buddhist_theocracy_desc:0 ""
+ shinto_theocracy:0 "Shinto Theocracy"
+ shinto_theocracy_desc:0 "Long live the emperor! For centuries Japan lived under the tight-fisted rule of Shogun and Samurai, but no longer. Shinto Theocrats desire a return to the oldest governing system of Japan, direct rule by the Emperor, the direct descendent of Amaterasu, and the administration of stately matters by Shinto's shamaness-priestesses, the Miko, or Shrine Maidens."
+ hindu_theocracy:0 "Hindu Theocracy"
+ hindu_theocracy_desc:0 ""
+ tributary_state:0 "Tributary State"
+ tributary_state_desc:0 ""
+ steppe_horde:0 "Steppe Horde"
+ steppe_horde_desc:0 "A nomadic, bloodthirsty, roaming horde bent on conquest and glory. While they are growing closer and closer towards becoming relics of the past as western and modernizing forces encroach in, in some parts of the world Steppe Hordes remain an active force, wreaking havoc and terror as they pillage the countryside."
+ legalism:0 "Legalist Bureaucracy"
+ legalism_desc:0 ""
+ mohism:0 "Mohist Bureaucracy"
+ mohism_desc:0 ""
+ opportunistic_despotism:0 "Opportunistic Despotism"
+ opportunistic_despotism_desc:0 ""
+ warlordism:0 "Warlordism"
+ warlordism_desc:0 ""
+ celestial_empire:0 "Celestial Empire"
+ celestial_empire_desc:0 ""
+ daoist_theocracy:0 "Daoist Theocracy"
+ daoist_theocracy_desc:0 ""
+ shamanic_theocracy:0 "Shamanic Theocracy"
+ shamanic_theocracy_desc:0 ""
+
+ unclassifiable:0 "Unclassifiable"
+ unclassifiable_noun:0 "Unclassifiable"
+ unclassifiable_desc:0 "Anomalous Environment"
+
+ unclassifiable_id:0 "Unclassifiable"
+ unclassifiable_id_desc:0 ""
+ cabal:0 "Obscured Cabal"
+ cabal_desc:0 "You are not meant to know. The grand conspiracy goes back millenia, outliving every generation of your pitiful line. The pieces were carefully put together to orchestrate this magnificient plot, to crown this enlightened order. No mortal man or commoner can threaten us now, and our alignment with the cosmic order denies the will of any higher being which may attempt to thwart us."
+ wilderness:0 "Wilderness"
+ wilderness_desc:0 ""
+ breakdown_state:0 "Breakdown State"
+ breakdown_state_desc:0 ""
+ coverupgovernment:0 "Cover-Up Government"
+ coverupgovernment_desc:0 ""
+ eldritch_cult:0 "Eldritch Cult"
+ eldritch_cult_desc:0 ""
+ cogpan:0 "Cognitopandemic"
+ cogpan_desc:0 ""
+ totalitarian:0 "Totalitarianism"
+ totalitarian_desc:0 ""
+ ufo_cult:0 "UFO Cult"
+ ufo_cult_desc:0 ""
+ radical_nihilism:0 "Radical Nihilism"
+ radical_nihilism_desc:0 ""
+ cosmism:0 "Cosmism"
+ cosmism_desc:0 ""
+ cosmocracy:0 "Cosmocracy"
+ cosmocracy_desc:0 ""
+ eternal_reign:0 "Eternal Reign"
+ eternal_reign_desc:0 ""
+ machine_rule:0 "Machine Rule"
+ machine_rule_desc:0 ""
+ misanthropic_despotism:0 "Misanthropic Despotism"
+ misanthropic_despotism_desc:0 ""
+ neutropianism:0 "Neutropianism"
+ neutropianism_desc:0 ""
+
+### USA STATES ###
+
+#ARIZONA
+
+ARZ_new_right_party:0 "Frontier Party"
+ARZ_new_right_party_long:0 "Frontier Party of Arizona"
+
+#ATLANTIS
+
+ATL_western_democracy_party:0 "Commerce Party"
+ATL_western_democracy_party_long:0 "Commerce Party of Atlantis"
+
+#BLACKFEET
+
+BLK_radical_democracy_party:0 "Blackfeet Confederal Council"
+
+#CALIFORNIA
+
+CAL_western_democracy_party:0 "California Republican Party"
+CAL_western_democracy_party_long:0 "California Republican Party"
+
+#CHIHUAHUA
+
+CIH_western_democracy_party:0 "Chihuahua State Government"
+
+#CONNECTICUT
+CCT_independent_socialism_party:0 "Socialist Party of America"
+CCT_independent_socialism_long:0 "Socialist Party of America"
+CCT_radical_democracy_party:0 "Green Party"
+CCT_radical_democracy_long:0 "Green Party of Connecticut"
+CCT_western_democracy_party:0 "Commonwealth Party"
+
+#DAKOTA
+
+DAK_western_democracy_party:0 "Prairie Party"
+
+#DELAWARE
+
+DLW_western_democracy_party:0 "Democratic-Republican Party"
+DLW_western_democracy_party_long:0 "Democratic-Republican Party of Delaware"
+
+#FLORIDA
+
+FLO_western_democracy_party:0 "Democratic-Republican Party"
+FLO_western_democracy_party_long:0 "Democratic-Republican Party of Florida"
+
+#GEORGIA
+
+GEO_western_democracy_party:0 "Democratic-Republican Party"
+GEO_western_democracy_party_long:0 "Democratic-Republican Party of Georgia"
+
+#INDIANA
+IND_obscurantism_party:0 "Native American Party"
+IND_obscurantism_party_long:0 "Native American Party of Indiana"
+
+#KANSAS
+
+KAN_obscurantism_party:0 "Democratic-Republican Party"
+KAN_obscurantism_party_long:0 "Democratic-Republican Party of Kansas"
+
+#LOUSIANA
+LOU_western_democracy_party:0 "People's Party"
+
+#MICHIGAN
+MCI_radical_democracy_party:0 "Natural Law Party"
+
+#MISSISSIPPI
+MSP_institutionalism_party:0 "Democratic-Republican Party"
+MSP_institutionalism_party_long:0 "Democratic-Republican Party of Mississippi"
+
+#NAUVOO
+NAU_occidental_despotism_party:0 "LDS"
+NAU_occidental_despotism_long:0 "Church of Jesus Christ of Latter-day Saints"
+
+#NAVAJO
+NVJ_radical_democracy_party:0 "Navajo Council"
+NVJ_radical_democracy_party_long:0 "Navajo Tribal Council"
+
+#NEVADA
+NEV_new_right_party:0 "Magic Party"
+NEV_new_right_party_long:0 "Magic Party of Nevada"
+NEV_western_democracy_party:0 "Magic Party"
+NEV_western_democracy_party_long:0 "Magic Party of Nevada"
+NEV_radical_democracy_party:0 "Creative Tech."
+NEV_radical_democracy_party_long:0 "Creative Technology Party"
+NEV_obscurantism_party:0 "Reno Business"
+NEV_obscurantism_long:0 "Reno Business Interests Party"
+NEV_occidental_despotism_party:0 "Reno Business (CC)"
+NEV_occidental_despotism_long:0 "Reno Business Interests Party (Casino Consortium)"
+
+#NORTH CAROLINA
+
+NCR_western_democracy_party:0 "Democratic-Republican Party"
+NCR_western_democracy_party_long:0 "Democratic-Republican Party of North Carolina"
+
+#OHIO
+
+OHI_western_democracy_party:0 "Democratic-Republican Party"
+OHI_western_democracy_party_long:0 "Democratic-Republican Party of Ohio"
+
+#OREGON
+
+ORE_western_democracy_party:0 "Conservative Party"
+ORE_western_democracy_party_long:0 "Conservative Party of oregon"
+
+#SOUTH CAROLINA
+
+SCR_obscurantism_party:0 "Stalwart Party"
+
+### Cali Revolts ###
+
+#Church of Satan
+CST_occidental_despotism_party:0 "Church of Satan - Old Guard"
+CST_anarchism_party:0 "Church Of Satan - Iron Youth"
+CST_obscurantism_party:0 "Church Of Satan - Classicalists"
+CST_radical_right_party:0 "Church Of Universal Order"
+
+### CENTRAL AMERICA ###
+
+#Panama
+PAN_radical_democracy_party:0 "PoSýPa"
+PAN_radical_democracy_party_long:0 "Politistikós Sýllogos Panamá"
+
+#Yucatan
+YUC_radical_democracy_party:0 "Camicie Rosse"
+YUC_radical_democracy_party_long:0 "Camicie Rosse de Yucatán"
+
+### CARIBBEAN ###
+
+#BAHAMAS
+
+BAH_new_right_party:0 "PLP"
+BAH_new_right_party_long:0 "Progressive Liberal Party"
+
+#CONCH
+
+CNC_occidental_despotism_party:0 "Conch Presidency"
+CNC_institutionalism_party:0 "Sea Org"
+CNC_anarchism_party:0 "Conch Cartel"
+
+#FREDONYA
+
+JAM_marxism_party:0 "FKP"
+JAM_marxism_party_long:0 "Fredonya Kurtulu Paatisi"
+
+#IOR
+
+CUB_institutionalism_party:0 "Coca-Cola Corporation"
+
+#Puerto Rico
+
+PUE_radical_democracy_party:0 "PNPR"
+PUE_radical_democracy_party_long:0 "Partido Nacionalista de Puerto Rico"
+
+### EUROPE ###
+
+#BREMEN
+
+BEM_marxism_party:0 "Dat Gildkommisschoon"
+BEM_marxism_party_long:0 "Dat Handel un Gildkommisschoon vun Bremen un Verden"
+
+#BURGUNDY
+
+BRG_radical_democracy_party:0 "CdlLdB"
+BRG_radical_democracy_party_long:0 "Coalizoun de la Liberté de Bôrgogne"
+
+#DENMARK
+DEN_western_democracy_party:0 "Højre"
+
+#DITHMARSCHEN
+
+DMR_marxism_party:0 "Buurnsammel"
+DMR_marxism_party_long:0 "Natschonaale Buurnsammel"
+
+#EPHRAIM
+
+ENG_occidental_despotism_party:0 "Conservatives"
+ENG_occidental_despotism_party_long:0 "Conservative Party"
+
+#FLORENCE
+TOS_institutionalism_party:0 "Priorato delle Arti"
+
+#FRANCE
+FRA_marxism_party:0 "SdadlC"
+FRA_marxism_party_long:0 "Société des amis de la Constitution"
+
+#GERMAN REPUBLIC
+GER_western_democracy_party:0 "FDP"
+GER_western_democracy_party_long:0 "Freie Demokratische Partei"
+GER_radical_democracy_party:0 "DAV"
+GER_radical_democracy_party_long:0 "Deutscher Arbeiterverein"
+GER_marxism_party:0 "DAV-I"
+GER_marxism_party_long:0 "Deutscher Arbeiterverein (Internationalisten)"
+GER_independent_socialism_party:0 "DAV-G"
+GER_independent_socialism_party_long:0 "Deutscher Arbeiterverein (Grünen)"
+GER_obscurantism_party:0 "Zentrum"
+GER_obscurantism_party_long:0 "Deutsche Zentrumspartei"
+GER_new_right_party:0 "Zentrum-R"
+GER_new_right_party_long:0 "Deutsche Zentrumspartei (Rothbardianer)"
+GER_institutionalism_party:0 "Zentrum-M"
+GER_institutionalism_party_long:0 "Deutsche Zentrumspartei (Modernisten)"
+
+#HAMBURG
+
+HAM_institutionalism_party:0 "Bürgerschaft"
+HAM_institutionalism_party_long:0 "Hamburgische Bürgerschaft"
+HAM_independent_socialism_party:0 "SJB"
+HAM_independent_socialism_party_long:0 "Sozialistischer Jungbund Hamburg"
+HAM_radical_democracy_party:0 "LDP"
+HAM_radical_democracy_party_long:0 "Liberaldemokratische Partei"
+
+#HUNGARY
+
+HUN_western_democracy_party_long:0 "Országos Alkotmánypárt"
+HUN_western_democracy_party:0 "Alkotmány"
+
+#NORTH FRISIA
+
+NFR_radical_democracy_party:0 "Folkepartii"
+NFR_radical_democracy_party_long:0 "Folkepartii faan Nordfraschlönj"
+
+#RUTHENIA
+
+BLR_radical_democracy_party_long:0 "PL"
+BLR_radical_democracy_party:0 "Partia Liberalna"
+BLR_western_democracy_party_long:0 "PI"
+BLR_western_democracy_party:0 "Partia Innowacji"
+BLR_occidental_despotism_party_long:0 "PI"
+BLR_occidental_despotism_party:0 "Partia Innowacji"
+BLR_new_right_party_long:0 "TPR"
+BLR_new_right_party:0 "Towarzystwo Prometejskie Rutenia"
+
+#SAVOYARD STATE
+ITA_obscurantism_party:0 "Casa Savoia"
+ITA_obscurantism_party_long:0 "House of Savoy"
+
+#SCHLESWIG-HOLSTEIN
+
+SHL_obsurantism_party:0 "House of Habsburg"
+
+#SWEDEN-NORWAY
+SWE_western_democracy_party_long:0 "CP"
+SWE_western_democracy_party:0 "Centerpartiet"
+
+#VENICE
+LBV_occidental_despotism_party:0 "Mazor Consegio"
+LBV_occidental_despotism_party_long:0 "Great Council of Venice"
+
+### SOUTH AMERICA ###
+
+#Peru
+
+PRU_western_democracy_party:0 "Civilistas"
+PRU_western_democracy_party_long:0 "Partido Civil"
+PRU_radical_democracy_party:0 "APRA-O"
+PRU_radical_democracy_party_long:0 "Alianza Popular Revolucionaria Americana (Facción Ortodoxa)"
+PRU_marxism_party:0 "APRA-M"
+PRU_marxism_party_long:0 "Alianza Popular Revolucionaria Americana (Facción Mariáteguista)"
+PRU_occidental_despotism_party:0 "FREPAP"
+PRU_occidental_despotism_party_long:0 "Frente Popular Agrícola del Perú"
+
+#Guayaquil
+
+ECU_radical_democracy_party:0 "PLdlR"
+ECU_radical_democracy_party_long:0 "Partido Liberal de la Revolución"
+ECU_western_democracy_party:0 "PC"
+ECU_western_democracy_party_long:0 "Partido Conservador"
+ECU_institutionalism_party:0 "PCDpG"
+ECU_institutionalism_party_long:0 "Partido Cívico Desarrollista por Guayaquil"
+
+#Jungle Republic
+
+JNG_radical_democracy_party:0 "FP-CPUA"
+JNG_radical_democracy_party_long:0 "Frente Popular/Confederación Plurinacional de Unidad Amazónica"
+JNG_western_democracy_party:0 "FP-CPUA"
+JNG_western_democracy_party_long:0 "Frente Popular/Confederación Plurinacional de Unidad Amazónica"
+JNG_marxism_party:0 "CC"
+JNG_marxism_party_long:0 "Confederación Campesina"
+JNG_radical_right_party:0 "MPRAA"
+JNG_radical_right_party_long:0 "Movimiento Plurinacional de Razas Andinas y Amazónicas"
+
+#Tropico
+
+TEI_institutionalism_party:0 "ARENA"
+TEI_institutionalism_party_long:0 "Aliança Renovadora Nacional"
+
+#Colombia and Rebels
+
+COL_institutionalism_party:0 "Partido Conservador"
+
+RFB_anarchism_party:0 "FRB"
+RFB_anarchism_party_long:0 "Federación Revolucionaria de Bogotá"
+
+OSP_obscurantism_party:0 "OSPC"
+OSP_obscurantism_party_long:0 "Orden de San Pedro Claver"
+
+BDC_independent_socialism:0 "Banda della Cauca"
+
+#Minhota
+
+MNH_western_democracy_party:0 "Republicanos"
+MNH_western_democracy_party_long:0 "Partido Republicano"
+MNH_obscurantism_party:0 "PCR"
+MNH_obscurantism_party_long:0 "Partido Católico Romano"
+
+### ASIA ###
+
+#Silla
+
+KOR_institutionalism_party:0 "CUP"
+KOR_institutionalism_party_long:0 "Ibheon-yeonhabdang"
+
+### AFRICA ###
+
+#Cabinda
+
+CAB_western_democracy_party:0 "ADC"
+CAB_western_democracy_party_long:0 "Aliança Democrática de Cabinda"
+
+#Camora
+
+COM_radical_democracy_party:0 "UUM-CKK"
+COM_radical_democracy_party_long:0 "Umoja kwa Ujamaa na Maendeleo - Chama cha Kijamii cha Kikomoro"
+
+#Erimena
+ARM_obscurantism_party:0 "House Smbatuni"
+ARM_independent_socialism_party:0 "EMICH"
+ARM_independent_socialism_party_long:0 "Erimenayi yev Monomotapayi Ink'noroshman Chakat"
+
+#Kongo
+RCG_western_democracy_party:0 "AoB"
+RCG_western_democracy_party_long:0 "Allianz of Bakongo"
+
+#Libreville
+GAB_radical_democracy_party:0 "PPP"
+GAB_radical_democracy_party_long:0 "Progressive People's Party"
+
+#Ivory Coast
+IVO_radical_democracy_party:0 "Labour"
+IVO_radical_democracy_party_long:0 "Ivorian Labour Party"
+
+#Sierra Leone
+SIE_radical_democracy_party:0 "SLPP"
+SIE_radical_democracy_party_long:0 "Sierra Leone People's Party"
+
+#Songhai Republic
+NGR_radical_democracy_party:0 "AND-IPP"
+NGR_radical_democracy_party_long:0 "African National Dawn - Intercommunal Progressive Party"
+NGR_western_democracy_party:0 "AND-IPP"
+NGR_western_democracy_party_long:0 "African National Dawn - Intercommunal Progressive Party"

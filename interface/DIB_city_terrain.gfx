@@ -1,0 +1,6 @@
+spriteTypes = {
+	spriteType = {
+		name = "GFX_terrain_washdc"
+		textureFile = "gfx/interface/terrains/North America/Washington D.C.png"
+	}
+}

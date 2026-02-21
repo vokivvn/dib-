@@ -1,0 +1,33 @@
+
+state={
+	id=450
+	name="STATE_450"
+	manpower = 1654956
+	
+	state_category = town
+
+	history={
+		owner = CAL
+		victory_points = {
+			1562 15 
+		}
+		victory_points = {
+			13400 10 
+		}
+		buildings = {
+			infrastructure = 3
+			arms_factory = 1
+			industrial_complex = 2
+			1562 = {
+				naval_base = 10
+			}
+		}
+		add_core_of = CAL
+	}
+
+	provinces={
+		1562 7986 12374 13398 13400 14433
+	}
+
+	local_supplies=0.0 
+}

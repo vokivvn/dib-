@@ -1,0 +1,25 @@
+state={
+	id=1639
+	name="STATE_1639"
+
+	history={
+		owner = MRJ
+		add_core_of = MRJ
+		buildings = {
+			infrastructure = 2
+			farm_estate = 1
+		}
+		victory_points = {
+			16547 1 
+		}
+
+	}
+
+	provinces={
+		16547 16548 16549 
+	}
+	manpower=14832
+	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=0.000
+}

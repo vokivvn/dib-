@@ -1,0 +1,31 @@
+state={
+	id=1042
+	name="STATE_1042"
+
+	history={
+		owner = NEV
+		victory_points = {
+			16398 5
+		}
+		victory_points = {
+			16399 3
+		}
+		victory_points = {
+			16404 1
+		}
+		buildings = {
+			infrastructure = 1
+			farm_estate = 1
+		}
+		add_core_of = NEV
+
+	}
+
+	provinces={
+		12134 13672 16398 16399 16400 16401 16402 16403 16404 16405 16406 16407 16408 16409 16410 16411 
+	}
+	manpower=9430
+	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=0.000
+}

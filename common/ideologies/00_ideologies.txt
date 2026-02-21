@@ -1,0 +1,915 @@
+ideologies = {
+
+	anarchism = {
+
+		types = {
+
+			anarchism_id = {
+			}
+			social_anarchism = {
+			}
+			religious_anarchism = {
+			}
+			individualist_anarchism = {
+			}
+			mutualism = {
+			}
+			market_anarchism = {
+			}
+			anarcho_syndicalism = {
+			}
+			creative_anarchism = {
+			}
+			lawlessness = {
+			}
+			transcendentalism = {
+			}
+			dissident_anarchism = {
+			}
+			bandit_anarchism = {
+			}
+			liberal_anarchism = {
+			}
+			mystical_anarchism = {
+			}
+			panarchism = {
+			}
+			stateless_society = {
+			}
+		}
+
+		dynamic_faction_names = {
+		}
+
+		color = { 12 12 12 }
+
+		war_impact_on_world_tension = 0.75		#Commie less threatening
+		faction_impact_on_world_tension = 0.5
+
+		ai_communist = yes # uses the commie AI behaviour
+		ai_ideology_wanted_units_factor = 1.20
+
+		rules = {
+			can_force_government = yes
+			can_send_volunteers = yes
+			can_puppet = yes
+		}
+
+		can_collaborate = yes
+
+		modifiers = {
+			# puppet_cost_factor = -0.3 # Deprecated, use common\peace_conference\00_generic_peace.txt instead
+			civilian_intel_to_others = 10.0
+			army_intel_to_others = 7.5
+			navy_intel_to_others = 12.5
+			airforce_intel_to_others = 7.5
+			hidden_modifier = { join_faction_tension = -0.1 }
+			embargo_threshold_factor = 0.5
+			lend_lease_tension = 0.50
+		}
+
+		faction_modifiers = {
+
+		}
+
+	}
+	
+	marxism = {
+
+		types = {
+
+			marxism_id = {
+			}
+			classical_marxism = {
+			}
+			council_communism = {
+			}
+			jacobinism = {
+			}
+			religious_socialism = {
+			}
+			agrarian_socialism = {
+			}
+			syndicalism = {
+			}
+			folk_socialism = {
+			}
+			conspiratorial_socialism = {
+			}
+			liberal_socialism = {
+			}
+			national_syndicalism = {
+			}
+			babouvism = {
+			}
+			barracks_communism = {
+			}
+			crony_socialism = {
+			}
+			guild_socialism = {
+			}
+			mystic_socialism = {
+			}
+			sinclairian_democracy = {
+			}
+			associationism = {
+			}
+			industrial_unionism = {
+			}
+			bellamyism = {
+			}
+			platformism = {
+			}
+			peasant_republicanism = {
+			}
+		}
+
+		dynamic_faction_names = {
+		}
+
+		color = { 99 81 81 }
+
+		war_impact_on_world_tension = 0.75		#Commie less threatening
+		faction_impact_on_world_tension = 0.5
+
+		ai_communist = yes # uses the commie AI behaviour
+		ai_ideology_wanted_units_factor = 1.20
+
+		rules = {
+			can_force_government = yes
+			can_send_volunteers = yes
+			can_puppet = yes
+		}
+
+		can_collaborate = yes
+
+		modifiers = {
+			# puppet_cost_factor = -0.3 # Deprecated, use common\peace_conference\00_generic_peace.txt instead
+			civilian_intel_to_others = 10.0
+			army_intel_to_others = 7.5
+			navy_intel_to_others = 12.5
+			airforce_intel_to_others = 7.5
+			hidden_modifier = { join_faction_tension = -0.1 }
+			embargo_threshold_factor = 0.5
+			lend_lease_tension = 0.50
+		}
+
+		faction_modifiers = {
+
+		}
+
+	}
+	
+	independent_socialism = {
+
+		types = {
+
+			independent_socialism_id = {
+			}
+			libertarian_socialism = {
+			}
+			revolutionary_progressivism = {
+			}
+			philjacobinism = {
+			}
+			militant_communism = {
+			}
+			autonomism = {
+			}
+			post_surrealism = {
+			}
+			western_marxism = {
+			}
+			black_marxism = {
+			}
+			left_palingeneticism = {
+			}
+			imperial_modernism = {
+			}
+			narcocommunism = {
+			}
+			cooperativism = {
+			}
+			scientific_socialism = {
+			}
+			state_rationalism = {
+			}
+			utopian_socialism = {
+			}
+			world_socialism = {
+			}
+			freak_democracy = {
+			}
+		}
+
+		dynamic_faction_names = {
+		}
+
+		color = { 99 81 99 }
+
+		war_impact_on_world_tension = 0.75		#Commie less threatening
+		faction_impact_on_world_tension = 0.5
+
+		ai_communist = yes # uses the commie AI behaviour
+		ai_ideology_wanted_units_factor = 1.20
+
+		rules = {
+			can_force_government = yes
+			can_send_volunteers = yes
+			can_puppet = yes
+		}
+
+		can_collaborate = yes
+
+		modifiers = {
+			# puppet_cost_factor = -0.3 # Deprecated, use common\peace_conference\00_generic_peace.txt instead
+			civilian_intel_to_others = 10.0
+			army_intel_to_others = 7.5
+			navy_intel_to_others = 12.5
+			airforce_intel_to_others = 7.5
+			hidden_modifier = { join_faction_tension = -0.1 }
+			embargo_threshold_factor = 0.5
+			lend_lease_tension = 0.50
+		}
+
+		faction_modifiers = {
+
+		}
+	}
+	radical_democracy = {
+
+		types = {
+
+			radical_democracy_id = {
+			}
+			radical_liberalism = {
+			}
+			social_democracy = {
+			}
+			communalism = {
+			}
+			religious_communalism = {
+			}
+			neo_federalism = {
+			}
+			tribal_democracy = {
+			}
+			social_nationalism = {
+			}
+			left_wing_populism = {
+			}
+			creative_democracy = {
+			}
+			forwardism = {
+			}
+			cosmopolitanism = {
+			}
+			girondism = {
+			}
+			social_consumerism = {
+			}
+			social_faith = {
+			}
+			grassroots_democracy = {
+			}
+			fascism = {
+			}
+			romantic_nationalism = {
+			}
+		}
+
+		dynamic_faction_names = {
+		}
+
+		color = { 81 99 81 }
+
+		rules = {
+			can_create_collaboration_government = no
+			can_declare_war_on_same_ideology = yes
+			can_force_government = no
+			can_send_volunteers = yes
+			can_puppet = yes
+			can_lower_tension = no
+			can_only_justify_war_on_threat_country = no
+			can_guarantee_other_ideologies = yes
+		}
+
+		can_host_government_in_exile = no
+
+		war_impact_on_world_tension = 0.25		# no major danger, remember this this the 80s!
+		faction_impact_on_world_tension = 0.1
+
+		modifiers = {
+			generate_wargoal_tension = 1.00
+			join_faction_tension = 0.80
+			lend_lease_tension = 0.50
+			send_volunteers_tension = 0.50
+			guarantee_tension = 0.25
+			# annex_cost_factor = 0.5 # Deprecated, use common\peace_conference\00_generic_peace.txt instead
+			civilian_intel_to_others = 20.0
+			army_intel_to_others = 5.0
+			navy_intel_to_others = 20.0
+			airforce_intel_to_others = 5
+			embargo_cost_factor = -0.5
+			embargo_threshold_factor = -0.5
+		}
+
+		faction_modifiers = {
+			faction_trade_opinion_factor = 0.50 #plus 50% trade opinion
+		}
+		ai_democratic = yes # uses the democratic AI behaviour
+		ai_ideology_wanted_units_factor = 1.10 # multiplies threat impact on number of desired units by this value, defaults to 1.0. If at war, the larger of this value and NDefines::NAI::WANTED_UNITS_WAR_THREAT_FACTOR will be used instead
+	}
+	
+	western_democracy = {
+
+		types = {
+
+			western_democracy_id = {
+			}
+			conservative_liberalism = {
+			}
+			social_conservatism = {
+			}
+			paternalist_democracy = {
+			}
+			liberalism_id = {
+			}
+			new_liberalism = {
+			}
+			authoritarian_democracy = {
+			}
+			religious_democracy = {
+			}
+			confederal_democracy = {
+			}
+			elitist_liberalism = {
+			}
+			populism = {
+			}
+			labour_conservatism = {
+			}
+			national_liberalism = {
+			}
+			agrarian_populism = {
+			}
+			reformist_nativism = {
+			}
+			creative_conservatism = {
+			}
+		}
+
+		dynamic_faction_names = {
+		}
+
+		color = { 81 99 99 }
+
+		rules = {
+			can_create_collaboration_government = no
+			can_declare_war_on_same_ideology = yes
+			can_force_government = no
+			can_send_volunteers = yes
+			can_puppet = yes
+			can_lower_tension = no
+			can_only_justify_war_on_threat_country = no
+			can_guarantee_other_ideologies = yes
+		}
+
+		can_host_government_in_exile = no
+
+		war_impact_on_world_tension = 0.25		# no major danger, remember this this the 80s!
+		faction_impact_on_world_tension = 0.1
+
+		modifiers = {
+			generate_wargoal_tension = 1.00
+			join_faction_tension = 0.80
+			lend_lease_tension = 0.50
+			send_volunteers_tension = 0.50
+			guarantee_tension = 0.25
+			# annex_cost_factor = 0.5 # Deprecated, use common\peace_conference\00_generic_peace.txt instead
+			civilian_intel_to_others = 20.0
+			army_intel_to_others = 5.0
+			navy_intel_to_others = 20.0
+			airforce_intel_to_others = 5
+			embargo_cost_factor = -0.5
+			embargo_threshold_factor = -0.5
+		}
+
+		faction_modifiers = {
+			faction_trade_opinion_factor = 0.50 #plus 50% trade opinion
+		}
+		ai_democratic = yes # uses the democratic AI behaviour
+		ai_ideology_wanted_units_factor = 1.10 # multiplies threat impact on number of desired units by this value, defaults to 1.0. If at war, the larger of this value and NDefines::NAI::WANTED_UNITS_WAR_THREAT_FACTOR will be used instead
+	}
+
+	obscurantism = {
+
+		types = {
+
+			obscurantism_id = {
+			}
+			theocratic_obscurantism = {
+			}
+			organicist_liberalism = {
+			}
+			classical_conservatism = {
+			}
+			classical_republicanism = {
+			}
+			aristocracy = {
+			}
+			nativist_populism = {
+			}
+			herrenvolk_democracy = {
+			}
+			occult_traditionalism = {
+			}
+			fordism = {
+			}
+			state_traditionalism = {
+			}
+			classical_nordicism = {
+			}
+			national_corporatism = {
+			}
+			feuillantism = {
+			}
+			jacksonian_democracy = {
+			}
+			gothic_monarchy = {
+			}
+		}
+
+		dynamic_faction_names = {
+		}
+
+		color = { 39 43 48 }
+
+		war_impact_on_world_tension = 1.0			#evil!
+		faction_impact_on_world_tension = 1.0
+
+		rules = {
+			can_force_government = yes
+			can_send_volunteers = yes
+			can_puppet = yes
+		}
+
+		can_collaborate = yes
+
+		modifiers = {
+			justify_war_goal_when_in_major_war_time = -0.80
+			civilian_intel_to_others = 15.0
+			army_intel_to_others = 10.0
+			navy_intel_to_others = 10.0
+			airforce_intel_to_others = 10.0
+			hidden_modifier = { join_faction_tension = -0.1 }
+			embargo_cost_factor = 1
+			lend_lease_tension = 0.50
+		}
+
+		ai_fascist = yes # uses the fascist AI behaviour
+		ai_ideology_wanted_units_factor = 1.65
+	}
+
+	new_right = {
+
+		types = {
+
+			new_right_id = {
+			}
+			libertarianism = {
+			}
+			natlibertarianism = {
+			}
+			propertarianism = {
+			}
+			objectivism = {
+			}
+			creativepalin = {
+			}
+			palingenetic_nationalism = {
+			}
+			christian_nationalism = {
+			}
+			new_occultism = {
+			}
+			revment = {
+			}
+			networkism = {
+			}
+			reactmod = {
+			}
+			anomie = {
+			}
+			electmon = {
+			}
+			hedonic_liberalism = {
+			}
+			ethnopluralism = {
+			}
+		}
+
+		dynamic_faction_names = {
+		}
+
+		color = { 81 81 99 }
+
+		rules = {
+			can_create_collaboration_government = no
+			can_declare_war_on_same_ideology = yes
+			can_force_government = no
+			can_send_volunteers = yes
+			can_puppet = yes
+			can_lower_tension = no
+			can_only_justify_war_on_threat_country = no
+			can_guarantee_other_ideologies = yes
+		}
+
+		can_host_government_in_exile = no
+
+		war_impact_on_world_tension = 0.25		# no major danger, remember this this the 80s!
+		faction_impact_on_world_tension = 0.1
+
+		modifiers = {
+			generate_wargoal_tension = 1.00
+			join_faction_tension = 0.80
+			lend_lease_tension = 0.50
+			send_volunteers_tension = 0.50
+			guarantee_tension = 0.25
+			# annex_cost_factor = 0.5 # Deprecated, use common\peace_conference\00_generic_peace.txt instead
+			civilian_intel_to_others = 20.0
+			army_intel_to_others = 5.0
+			navy_intel_to_others = 20.0
+			airforce_intel_to_others = 5
+			embargo_cost_factor = -0.5
+			embargo_threshold_factor = -0.5
+		}
+
+		faction_modifiers = {
+			faction_trade_opinion_factor = 0.50 #plus 50% trade opinion
+		}
+		ai_democratic = yes # uses the democratic AI behaviour
+		ai_ideology_wanted_units_factor = 1.10 # multiplies threat impact on number of desired units by this value, defaults to 1.0. If at war, the larger of this value and NDefines::NAI::WANTED_UNITS_WAR_THREAT_FACTOR will be used instead
+	}
+
+	radical_right = {
+
+		types = {
+
+			radical_right_id = {
+			}
+			revolutionary_nationalism = {
+			}
+			revolutionary_nordicism = {
+			}
+			ethno_supremacism = {
+			}
+			white_nationalism = {
+			}
+			ethnotheism = {
+			}
+			mystic_nationalism = {
+			}
+			social_darwinism = {
+			}
+			revobsc = {
+			}
+			social_revolutionarism = {
+			}
+			peasant_radicalism = {
+			}
+			atchisonian_democracy = {
+			}
+		}
+
+		dynamic_faction_names = {
+		}
+
+		color = { 180 180 180 }
+
+		war_impact_on_world_tension = 1.0			#evil!
+		faction_impact_on_world_tension = 1.0
+
+		rules = {
+			can_force_government = yes
+			can_send_volunteers = yes
+			can_puppet = yes
+		}
+
+		can_collaborate = yes
+
+		modifiers = {
+			justify_war_goal_when_in_major_war_time = -0.80
+			civilian_intel_to_others = 15.0
+			army_intel_to_others = 10.0
+			navy_intel_to_others = 10.0
+			airforce_intel_to_others = 10.0
+			hidden_modifier = { join_faction_tension = -0.1 }
+			embargo_cost_factor = 1
+			lend_lease_tension = 0.50
+		}
+
+		ai_fascist = yes # uses the fascist AI behaviour
+		ai_ideology_wanted_units_factor = 1.65
+	}
+
+	institutionalism = {
+
+		types = {
+
+			institutionalism_id = {
+			}
+			militarism = {
+			}
+			police_state = {
+			}
+			noocracy = {
+			}
+			relnoocracy = {
+			}
+			dirigisme = {
+			}
+			cryptocracy = {
+			}
+			managerialism = {
+			}
+			institutional_dick = {
+			}
+			social_corporatism = {
+			}
+			judicialism = {
+			}
+			financialism = {
+			}
+			industrial_democracy = {
+			}
+			warhawk_democracy = {
+			}
+			washingtonian_democracy = {
+			}
+			synthesism = {
+			}
+			sociocracy = {
+			}
+		}
+
+		dynamic_faction_names = {
+		}
+
+		color = { 38 38 38 }
+
+		war_impact_on_world_tension = 0.25		#no major danger
+		faction_impact_on_world_tension = 0.1
+
+		rules = {
+			can_force_government = yes
+			can_puppet = yes
+			can_send_volunteers = yes
+		}
+
+		modifiers = {
+			#increased_influence_factor = 0.3 #30% easier to influence
+			generate_wargoal_tension = 0.5
+			join_faction_tension = 0.4
+			lend_lease_tension = 0.6
+			send_volunteers_tension = 0.4
+			guarantee_tension = 0.4
+			drift_defence_factor = -0.3
+			civilian_intel_to_others = 20.0
+			army_intel_to_others = 10.0
+			navy_intel_to_others = 20.0
+			airforce_intel_to_others = 10.0
+		}
+
+		faction_modifiers = {
+		}
+
+		ai_neutral = yes #
+		ai_ideology_wanted_units_factor = 1.15
+	}
+
+	occidental_despotism = {
+
+		types = {
+
+			occidental_despotism_id = {
+			}
+			absolutism = {
+			}
+			enlightened_absolutism = {
+			}
+			kleptocracy = {
+			}
+			mercantilism = {
+			}
+			egoistic_autocracy = {
+			}
+			hedonic_despotism = {
+			}
+			christian_theocracy = {
+			}
+			jewish_theocracy = {
+			}
+			colonial_government = {
+			}
+			western_plutocracy = {
+			}
+			feudalism = {
+			}
+			millenarian_theocracy = {
+			}
+			private_absolutism = {
+			}
+			theodemocracy = {
+			}
+			admiralty_regime = {
+			}
+		}
+
+		dynamic_faction_names = {
+		}
+
+		color = { 57 51 62 }
+
+
+		war_impact_on_world_tension = 0.25		#no major danger
+		faction_impact_on_world_tension = 0.1
+
+		rules = {
+			can_force_government = yes
+			can_puppet = yes
+			can_send_volunteers = yes
+		}
+
+		modifiers = {
+			#increased_influence_factor = 0.3 #30% easier to influence
+			generate_wargoal_tension = 0.5
+			join_faction_tension = 0.4
+			lend_lease_tension = 0.6
+			send_volunteers_tension = 0.4
+			guarantee_tension = 0.4
+			drift_defence_factor = -0.3
+			civilian_intel_to_others = 20.0
+			army_intel_to_others = 10.0
+			navy_intel_to_others = 20.0
+			airforce_intel_to_others = 10.0
+		}
+
+		faction_modifiers = {
+		}
+
+		ai_neutral = yes #
+		ai_ideology_wanted_units_factor = 1.15
+	}
+	
+	oriental_despotism = {
+
+		types = {
+
+			oriental_despotism_id = {
+			}
+			confucianism = {
+			}
+			eastern_plutocracy = {
+			}
+			shogunate = {
+			}
+			daimyo = {
+			}
+			tribal_absolutism = {
+			}
+			spiritual_despotism = {
+			}
+			islamic_theocracy = {
+			}
+			buddhist_theocracy = {
+			}
+			shinto_theocracy = {
+			}
+			hindu_theocracy = {
+			}
+			tributary_state = {
+			}
+			steppe_horde = {
+			}
+			legalism = {
+			}
+			mohism = {
+			}
+			opportunistic_despotism = {
+			}
+			warlordism = {
+			}
+			celestial_empire = {
+			}
+			daoist_theocracy = {
+			}
+			shamanic_theocracy = {
+			}
+		}
+
+		dynamic_faction_names = {
+		}
+
+		color = { 99 99 81 }
+
+
+		war_impact_on_world_tension = 0.25		#no major danger
+		faction_impact_on_world_tension = 0.1
+
+		rules = {
+			can_force_government = yes
+			can_puppet = yes
+			can_send_volunteers = yes
+		}
+
+		modifiers = {
+			#increased_influence_factor = 0.3 #30% easier to influence
+			generate_wargoal_tension = 0.5
+			join_faction_tension = 0.4
+			lend_lease_tension = 0.6
+			send_volunteers_tension = 0.4
+			guarantee_tension = 0.4
+			drift_defence_factor = -0.3
+			civilian_intel_to_others = 20.0
+			army_intel_to_others = 10.0
+			navy_intel_to_others = 20.0
+			airforce_intel_to_others = 10.0
+		}
+
+		faction_modifiers = {
+		}
+
+		ai_neutral = yes #
+		ai_ideology_wanted_units_factor = 1.15
+	}
+
+	unclassifiable = {
+
+		types = {
+
+			unclassifiable_id = {
+			}
+			cabal = {
+			}
+			wilderness = {
+			}
+			breakdown_state = {
+			}
+			coverupgovernment = {
+			}
+			eldritch_cult = {
+			}
+			cogpan = {
+			}
+			totalitarian = {
+			}
+			ufo_cult = {
+			}
+			radical_nihilism = {
+			}
+			cosmism = {
+			}
+			cosmocracy = {
+			}
+			eternal_reign = {
+			}
+			machine_rule = {
+			}
+			misanthropic_despotism = {
+			}
+			neutropianism = {
+			}
+		}
+
+		dynamic_faction_names = {
+		}
+
+		color = { 255 255 255 }
+
+		war_impact_on_world_tension = 1.0			#evil!
+		faction_impact_on_world_tension = 1.0
+
+		rules = {
+			can_force_government = no
+			can_send_volunteers = no
+			can_puppet = no
+		}
+
+		can_collaborate = no
+
+		modifiers = {
+			justify_war_goal_when_in_major_war_time = -0.80
+			civilian_intel_to_others = 15.0
+			army_intel_to_others = 10.0
+			navy_intel_to_others = 10.0
+			airforce_intel_to_others = 10.0
+			hidden_modifier = { join_faction_tension = -0.1 }
+			embargo_cost_factor = 1
+			lend_lease_tension = 0.50
+		}
+
+		ai_fascist = yes # uses the fascist AI behaviour
+		ai_ideology_wanted_units_factor = 1.65
+	}
+}

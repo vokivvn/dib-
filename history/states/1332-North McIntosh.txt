@@ -1,0 +1,37 @@
+state={
+	id=1332
+	name="STATE_1332"
+
+	history={
+		owner = GRG
+		add_core_of = GRG
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 2
+			arms_factory = 1
+			farm_estate = 1
+			dockyard = 1
+			13394 = {
+				naval_base = 4
+			}
+		}
+		victory_points = {
+			13394 20 
+		}
+		victory_points = {
+			15022 5 
+		}
+		victory_points = {
+			15045 3 
+		}
+
+	}
+
+	provinces={
+		13394 15022 15023 15045 
+	}
+	manpower=112006
+	buildings_max_level_factor=1.000
+	state_category=city
+	local_supplies=0.000
+}

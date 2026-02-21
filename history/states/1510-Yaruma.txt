@@ -1,0 +1,27 @@
+state={
+	id=1510
+	name="STATE_1510"
+
+	history={
+		owner = TEI
+		add_core_of = TEI
+		victory_points = {
+			15912 1 
+		}
+		victory_points = {
+			15899 1 
+		}
+		buildings = {
+			infrastructure = 1
+		}
+
+	}
+
+	provinces={
+		15897 15899 15911 15912 15913 15914 
+	}
+	manpower=9502
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+	local_supplies=0.000
+}

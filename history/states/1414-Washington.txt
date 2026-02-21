@@ -1,0 +1,29 @@
+state={
+	id=1414
+	name="STATE_1414"
+
+	history={
+		owner = RHI
+		add_core_of = RHI
+		victory_points = {
+			15455 5
+		}
+		buildings = {
+			infrastructure = 4
+			telecom_infrastructure = 2
+			industrial_complex = 2
+			office_building = 1
+			15455 = {
+				naval_base = 3
+			}
+		}
+	}
+
+	provinces={
+		15455 15456 
+	}
+	manpower=110006
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

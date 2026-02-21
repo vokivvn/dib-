@@ -1,0 +1,39 @@
+state={
+	id=1043
+	name="STATE_1043"
+
+	history={
+		owner = SOV
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+			arms_factory = 1
+			dockyard = 1
+			10284 = {
+				naval_base = 6
+			}
+			10196 = {
+				naval_base = 3
+			}
+
+		}
+		add_core_of = SOV
+		victory_points = {
+			10284 15 
+		}
+		victory_points = {
+			10196 10 
+		}
+		victory_points = {
+			10224 5 
+		}
+	}
+
+	provinces={
+		4215 7281 7328 10140 10196 10224 10284 
+	}
+	manpower=1411866
+	buildings_max_level_factor=1.000
+	state_category=large_town
+	local_supplies=0.000
+}

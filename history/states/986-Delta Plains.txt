@@ -1,0 +1,42 @@
+
+state={
+	id=986
+	name="STATE_986"
+
+	history={
+		owner = MSP
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 3
+			arms_factory = 2
+		}
+		add_core_of = MSP
+		victory_points = {
+			4625 15 
+		}
+		victory_points = {
+			13527 15 
+		}
+		victory_points = {
+			13509 10 
+		}
+		victory_points = {
+			13515 5 
+		}
+		victory_points = {
+			1646 3 
+		}
+		victory_points = {
+			13511 3 
+		}
+
+	}
+
+	provinces={
+		1646 4540 4625 13509 13510 13511 13513 13514 13515 13516 13527 13528 
+	}
+	manpower=611207
+	buildings_max_level_factor=1.000
+	state_category=city
+	local_supplies=8.000
+}

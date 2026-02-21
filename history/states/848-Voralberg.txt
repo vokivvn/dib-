@@ -1,0 +1,28 @@
+
+state={
+	id=848
+	name="STATE_848"
+
+	history={
+		owner = FLO
+		buildings = {
+			infrastructure = 3
+			telecom_infrastructure = 1
+			industrial_complex = 2
+			arms_factory = 1
+		}
+		victory_points = {
+			13475 15 
+		}
+		add_core_of = FLO
+
+	}
+
+	provinces={
+		13475 
+	}
+	manpower=164693
+	buildings_max_level_factor=1.000
+	state_category=city
+	local_supplies=0.000
+}

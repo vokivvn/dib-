@@ -1,0 +1,27 @@
+state={
+	id=1270
+	name="STATE_1270"
+
+	history={
+		add_core_of = CRC
+		owner = CRC
+		victory_points = {
+			14712 5
+		}
+		buildings = {
+			infrastructure = 2
+			office_building = 1
+			14712 = {
+				naval_base = 2
+			}
+		}
+	}
+
+	provinces={
+		14712 
+	}
+	manpower=66687
+	buildings_max_level_factor=1.000
+	state_category=small_island
+	local_supplies=0.000
+}

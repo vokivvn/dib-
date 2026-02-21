@@ -1,0 +1,738 @@
+focus_tree = {
+	id = cal_focus
+
+	country = {
+		factor = 0
+		
+		modifier = {
+			add = 10
+			tag = CAL
+		}
+		
+		modifier = {
+			add = 10
+			original_tag = CAL
+		}
+	}
+	default = no
+	continuous_focus_position = { x = 50 y = 1600 }
+
+	focus = {
+		id = CAL_good_morning_california
+		icon = GFX_CAL_good_morning_california
+		cost = 2
+		x = 7
+		y = 0
+		completion_reward = {
+			log = "[GetDateText]: [Root.GetName]: Focus CAL_good_morning_california"
+		}
+	}
+
+	focus = {
+		id = CAL_come_together
+		icon = GFX_CAL_come_together
+		cost = 2
+		x = 0
+		y = 1
+		completion_reward = {
+			add_stability = 0.025
+			log = "[GetDateText]: [Root.GetName]: Focus CAL_come_together"
+		}
+		relative_position_id = CAL_good_morning_california
+		prerequisite = { focus = CAL_good_morning_california }
+	}
+
+	focus = {
+		id = CAL_rolling_in_the_dough
+		icon = GFX_CAL_rolling_in_the_dough
+		cost = 2
+		x = -7
+		y = 1
+		completion_reward = {
+			log = "[GetDateText]: [Root.GetName]: Focus CAL_rolling_in_the_dough"
+		}
+		relative_position_id = CAL_good_morning_california
+		prerequisite = { focus = CAL_good_morning_california }
+	}
+
+	focus = {
+		id = CAL_busy_lines
+		icon = GFX_CAL_busy_lines
+		cost = 2
+		x = 6
+		y = 1
+		completion_reward = {
+			log = "[GetDateText]: [Root.GetName]: Focus CAL_busy_lines"
+		}
+		relative_position_id = CAL_good_morning_california
+		prerequisite = { focus = CAL_good_morning_california }
+	}
+
+	focus = {
+		id = CAL_black_water_gold
+		icon = GFX_CAL_black_water_gold
+		cost = 2
+		x = -1
+		y = 1
+		completion_reward = {
+			log = "[GetDateText]: [Root.GetName]: Focus CAL_black_water_gold"
+		}
+		relative_position_id = CAL_rolling_in_the_dough
+		prerequisite = { focus = CAL_rolling_in_the_dough }
+	}
+
+	focus = {
+		id = CAL_rockin_hollywood
+		icon = GFX_CAL_rockin_hollywood
+		cost = 2
+		x = 1
+		y = 1
+		completion_reward = {
+			log = "[GetDateText]: [Root.GetName]: Focus CAL_rockin_hollywood"
+		}
+		relative_position_id = CAL_rolling_in_the_dough
+		prerequisite = { focus = CAL_rolling_in_the_dough }
+	}
+
+	focus = {
+		id = CAL_dirty_dancing
+		icon = GFX_CAL_dirty_dancing
+		cost = 2
+		x = 0
+		y = 1
+		completion_reward = {
+			log = "[GetDateText]: [Root.GetName]: Focus CAL_dirty_dancing"
+		}
+		relative_position_id = CAL_black_water_gold
+		prerequisite = { focus = CAL_black_water_gold }
+	}
+
+	focus = {
+		id = CAL_cruisin_pacific
+		icon = GFX_CAL_cruisin_pacific
+		cost = 2
+		x = 0
+		y = 1
+		completion_reward = {
+			log = "[GetDateText]: [Root.GetName]: Focus CAL_cruisin_pacific"
+		}
+		relative_position_id = CAL_rockin_hollywood
+		prerequisite = { focus = CAL_rockin_hollywood }
+	}
+
+	focus = {
+		id = CAL_legislating_freedom
+		icon = GFX_CAL_legislating_freedom
+		cost = 2
+		x = -1
+		y = 1
+		completion_reward = {
+			add_ideas = CAL_Domestic_Partnership_Act
+			log = "[GetDateText]: [Root.GetName]: Focus CAL_legislating_freedom"
+		}
+		relative_position_id = CAL_come_together
+		prerequisite = { focus = CAL_come_together }
+	}
+
+	focus = {
+		id = CAL_hallucination_generation
+		icon = GFX_CAL_hallucination_generation
+		cost = 2
+		x = 1
+		y = 1
+		completion_reward = {
+			log = "[GetDateText]: [Root.GetName]: Focus CAL_hallucination_generation"
+		}
+		relative_position_id = CAL_come_together
+		prerequisite = { focus = CAL_come_together }
+	}
+
+	focus = {
+		id = CAL_promote_the_pfp
+		icon = GFX_CAL_promote_the_pfp
+		cost = 2
+		x = 0
+		y = 1
+		completion_reward = {
+			add_popularity = { ideology = radical_democracy popularity = 0.075 }
+			log = "[GetDateText]: [Root.GetName]: Focus CAL_promote_the_pfp"
+		}
+		relative_position_id = CAL_legislating_freedom
+		prerequisite = { focus = CAL_legislating_freedom }
+		mutually_exclusive = { focus = CAL_sideline_hayden }
+	}
+
+	focus = {
+		id = CAL_sideline_hayden
+		icon = GFX_CAL_sideline_hayden
+		cost = 2
+		x = 0
+		y = 1
+		completion_reward = {
+			log = "[GetDateText]: [Root.GetName]: Focus CAL_sideline_hayden"
+		}
+		relative_position_id = CAL_hallucination_generation
+		prerequisite = { focus = CAL_hallucination_generation }
+		mutually_exclusive = { focus = CAL_promote_the_pfp }
+	}
+
+	focus = {
+		id = CAL_charity_for_chinatown
+		icon = GFX_CAL_charity_for_chinatown
+		cost = 2
+		x = 0
+		y = 1
+		completion_reward = {
+		1229 = {
+				add_extra_state_shared_building_slots = 1
+				add_building_construction = {
+					type = industrial_complex
+					level = 1
+					instant_build = yes
+				}
+			}
+		975 = {
+				add_extra_state_shared_building_slots = 1
+				add_building_construction = {
+					type = industrial_complex
+					level = 1
+					instant_build = yes
+				}
+			}
+			log = "[GetDateText]: [Root.GetName]: Focus CAL_charity_for_chinatown"
+		}
+		relative_position_id = CAL_promote_the_pfp
+		prerequisite = { focus = CAL_promote_the_pfp }
+	}
+
+	focus = {
+		id = CAL_backstage_bohemians
+		icon = GFX_CAL_backstage_bohemians
+		cost = 2
+		x = 0
+		y = 1
+		completion_reward = {
+			log = "[GetDateText]: [Root.GetName]: Focus CAL_backstage_bohemians"
+		}
+		relative_position_id = CAL_sideline_hayden
+		prerequisite = { focus = CAL_sideline_hayden }
+	}
+
+	focus = {
+		id = CAL_road_trip
+		icon = GFX_CAL_road_trip
+		cost = 2
+		x = 1
+		y = 1
+		completion_reward = {
+			log = "[GetDateText]: [Root.GetName]: Focus CAL_road_trip"
+		}
+		relative_position_id = CAL_charity_for_chinatown
+		prerequisite = { 
+			focus = CAL_charity_for_chinatown 
+			focus = CAL_backstage_bohemians 
+		}
+	}
+
+	focus = {
+		id = CAL_surf_city
+		icon = GFX_CAL_surf_city
+		cost = 2
+		x = -3
+		y = 1
+		completion_reward = {
+			log = "[GetDateText]: [Root.GetName]: Focus CAL_surf_city"
+		}
+		relative_position_id = CAL_road_trip
+		prerequisite = { focus = CAL_road_trip }
+	}
+
+	focus = {
+		id = CAL_los_angeles
+		icon = GFX_CAL_los_angeles
+		cost = 2
+		x = 0
+		y = 1
+		completion_reward = {
+			log = "[GetDateText]: [Root.GetName]: Focus CAL_los_angeles"
+		}
+		relative_position_id = CAL_road_trip
+		prerequisite = { focus = CAL_road_trip }
+	}
+
+	focus = {
+		id = CAL_san_francisco
+		icon = GFX_CAL_san_francisco
+		cost = 2
+		x = 3
+		y = 1
+		completion_reward = {
+			log = "[GetDateText]: [Root.GetName]: Focus CAL_san_francisco"
+		}
+		relative_position_id = CAL_road_trip
+		prerequisite = { focus = CAL_road_trip }
+	}
+
+	focus = {
+		id = CAL_forward_years
+		icon = GFX_CAL_forward_years
+		cost = 2
+		x = 0
+		y = 1
+		completion_reward = {
+			add_ideas = CAL_Forward_Years_Idea
+			add_tech_bonus = {
+				name = CAL_Tech_Forward_Years
+				bonus = 0.50
+				uses = 3
+			    category = electronics
+			}
+			log = "[GetDateText]: [Root.GetName]: Focus CAL_forward_years"
+		}
+		relative_position_id = CAL_dirty_dancing
+		prerequisite = { focus = CAL_dirty_dancing }
+	}
+
+	focus = {
+		id = CAL_college_cash
+		icon = GFX_CAL_college_cash
+		cost = 2
+		x = 0
+		y = 1
+		completion_reward = {
+		1220 = {
+				add_extra_state_shared_building_slots = 1
+				add_building_construction = {
+					type = office_building
+					level = 1
+					instant_build = yes
+				}
+			}
+		1229 = {
+				add_extra_state_shared_building_slots = 1
+				add_building_construction = {
+					type = office_building
+					level = 1
+					instant_build = yes
+				}
+			}
+		977 = {
+				add_extra_state_shared_building_slots = 1
+				add_building_construction = {
+					type = office_building
+					level = 1
+					instant_build = yes
+				}
+			}
+			log = "[GetDateText]: [Root.GetName]: Focus CAL_college_cash"
+		}
+		relative_position_id = CAL_cruisin_pacific
+		prerequisite = { focus = CAL_cruisin_pacific }
+	}
+
+	focus = {
+		id = CAL_money_without_a_home
+		icon = GFX_CAL_money_without_a_home
+		cost = 2
+		x = 1
+		y = 1
+		completion_reward = {
+			log = "[GetDateText]: [Root.GetName]: Focus CAL_money_without_a_home"
+		}
+		relative_position_id = CAL_forward_years
+		prerequisite = { focus = CAL_forward_years }
+		prerequisite = { focus = CAL_college_cash }
+	}
+
+	focus = {
+		id = CAL_to_the_bay
+		icon = GFX_CAL_to_the_bay
+		cost = 2
+		x = -2
+		y = 1
+		completion_reward = {
+			add_ideas = CAL_Bay_Booming
+			log = "[GetDateText]: [Root.GetName]: Focus CAL_to_the_bay"
+		}
+		relative_position_id = CAL_money_without_a_home
+		prerequisite = { focus = CAL_money_without_a_home }
+		mutually_exclusive = { focus = CAL_to_the_country }
+		mutually_exclusive = { focus = CAL_to_the_valley }
+	}
+
+	focus = {
+		id = CAL_to_the_country
+		icon = GFX_CAL_to_the_country
+		cost = 2
+		x = 0
+		y = 1
+		completion_reward = {
+			log = "[GetDateText]: [Root.GetName]: Focus CAL_to_the_country"
+		}
+		relative_position_id = CAL_money_without_a_home
+		prerequisite = { focus = CAL_money_without_a_home }
+		mutually_exclusive = { focus = CAL_to_the_bay }
+		mutually_exclusive = { focus = CAL_to_the_valley }
+	}
+
+	focus = {
+		id = CAL_to_the_valley
+		icon = GFX_CAL_to_the_valley
+		cost = 2
+		x = 2
+		y = 1
+		completion_reward = {
+			log = "[GetDateText]: [Root.GetName]: Focus CAL_to_the_valley"
+		}
+		relative_position_id = CAL_money_without_a_home
+		prerequisite = { focus = CAL_money_without_a_home }
+		mutually_exclusive = { focus = CAL_to_the_bay }
+		mutually_exclusive = { focus = CAL_to_the_country }
+	}
+
+	focus = {
+		id = CAL_reno_trouts
+		icon = GFX_CAL_reno_trouts
+		cost = 2
+		x = -3
+		y = 1
+		completion_reward = {
+			log = "[GetDateText]: [Root.GetName]: Focus CAL_reno_trouts"
+		}
+		relative_position_id = CAL_busy_lines
+		prerequisite = { focus = CAL_busy_lines }
+	}
+
+	focus = {
+		id = CAL_phoenix_snakes
+		icon = GFX_CAL_phoenix_snakes
+		cost = 2
+		x = -1
+		y = 1
+		completion_reward = {
+			log = "[GetDateText]: [Root.GetName]: Focus CAL_phoenix_snakes"
+		}
+		relative_position_id = CAL_busy_lines
+		prerequisite = { focus = CAL_busy_lines }
+	}
+
+	focus = {
+		id = CAL_salem_beavers
+		icon = GFX_CAL_salem_beavers
+		cost = 2
+		x = 1
+		y = 1
+		completion_reward = {
+			log = "[GetDateText]: [Root.GetName]: Focus CAL_salem_beavers"
+		}
+		relative_position_id = CAL_busy_lines
+		prerequisite = { focus = CAL_busy_lines }
+	}
+
+	focus = {
+		id = CAL_vegas_rats
+		icon = GFX_CAL_vegas_rats
+		cost = 2
+		x = 3
+		y = 1
+		completion_reward = {
+			log = "[GetDateText]: [Root.GetName]: Focus CAL_vegas_rats"
+		}
+		relative_position_id = CAL_busy_lines
+		prerequisite = { focus = CAL_busy_lines }
+	}
+
+	focus = {
+		id = CAL_the_hippie_highway
+		icon = GFX_CAL_the_hippie_highway
+		cost = 2
+		x = 0
+		y = 1
+		completion_reward = {
+			log = "[GetDateText]: [Root.GetName]: Focus CAL_the_hippie_highway"
+		}
+		relative_position_id = CAL_reno_trouts
+		prerequisite = { focus = CAL_reno_trouts }
+	}
+
+	focus = {
+		id = CAL_dopes_in_the_desert
+		icon = GFX_CAL_dopes_in_the_desert
+		cost = 2
+		x = 0
+		y = 1
+		completion_reward = {
+			log = "[GetDateText]: [Root.GetName]: Focus CAL_dopes_in_the_desert"
+		}
+		relative_position_id = CAL_the_hippie_highway
+		prerequisite = { focus = CAL_the_hippie_highway }
+	}
+
+	focus = {
+		id = CAL_embargos_for_change
+		icon = GFX_CAL_embargos_for_change
+		cost = 2
+		x = 0
+		y = 1
+		completion_reward = {
+			log = "[GetDateText]: [Root.GetName]: Focus CAL_embargos_for_change"
+		}
+		relative_position_id = CAL_salem_beavers
+		prerequisite = { focus = CAL_salem_beavers }
+	}
+
+	focus = {
+		id = CAL_guerilla_protests
+		icon = GFX_CAL_guerilla_protests
+		cost = 2
+		x = 0
+		y = 1
+		completion_reward = {
+            ORE = {
+			add_stability = -0.075
+			}
+			log = "[GetDateText]: [Root.GetName]: Focus CAL_guerilla_protests"
+		}
+		relative_position_id = CAL_embargos_for_change
+		prerequisite = { focus = CAL_embargos_for_change }
+	}
+
+	focus = {
+		id = CAL_kicked_to_the_curb
+		icon = GFX_CAL_kicked_to_the_curb
+		cost = 2
+		x = 0
+		y = 1
+		completion_reward = {
+			log = "[GetDateText]: [Root.GetName]: Focus CAL_kicked_to_the_curb"
+		}
+		relative_position_id = CAL_vegas_rats
+		prerequisite = { focus = CAL_vegas_rats }
+	}
+
+	focus = {
+		id = CAL_casino_chaos
+		icon = GFX_CAL_casino_chaos
+		cost = 2
+		x = 0
+		y = 1
+		completion_reward = {
+			log = "[GetDateText]: [Root.GetName]: Focus CAL_casino_chaos"
+		}
+		relative_position_id = CAL_kicked_to_the_curb
+		prerequisite = { focus = CAL_kicked_to_the_curb }
+	}
+
+	focus = {
+		id = CAL_summer_of_love
+		icon = GFX_CAL_summer_of_love
+		cost = 2
+		x = 0
+		y = 1
+		completion_reward = {
+			log = "[GetDateText]: [Root.GetName]: Focus CAL_summer_of_love"
+		}
+		relative_position_id = CAL_los_angeles
+		prerequisite = { focus = CAL_los_angeles }
+	}
+
+	focus = {
+		id = CAL_behind_the_boys_in_blue
+		icon = GFX_CAL_behind_the_boys_in_blue
+		cost = 2
+		x = 1
+		y = 1
+		completion_reward = {
+			log = "[GetDateText]: [Root.GetName]: Focus CAL_behind_the_boys_in_blue"
+		}
+		relative_position_id = CAL_summer_of_love
+		prerequisite = { focus = CAL_summer_of_love }
+		mutually_exclusive = { focus = CAL_why_cant_we_be_friends }
+	}
+
+	focus = {
+		id = CAL_why_cant_we_be_friends
+		icon = GFX_CAL_why_cant_we_be_friends
+		cost = 2
+		x = -1
+		y = 1
+		completion_reward = {
+			log = "[GetDateText]: [Root.GetName]: Focus CAL_why_cant_we_be_friends"
+		}
+		relative_position_id = CAL_summer_of_love
+		prerequisite = { focus = CAL_summer_of_love }
+		mutually_exclusive = { focus = CAL_behind_the_boys_in_blue }
+	}
+
+	focus = {
+		id = CAL_oriental_showdown
+		icon = GFX_CAL_oriental_showdown
+		cost = 2
+		x = 0
+		y = 1
+		completion_reward = {
+			log = "[GetDateText]: [Root.GetName]: Focus CAL_oriental_showdown"
+		}
+		relative_position_id = CAL_behind_the_boys_in_blue
+		prerequisite = { focus = CAL_behind_the_boys_in_blue }
+	}
+
+	focus = {
+		id = CAL_aapa_action
+		icon = GFX_CAL_aapa_action
+		cost = 2
+		x = 0
+		y = 1
+		completion_reward = {
+			log = "[GetDateText]: [Root.GetName]: Focus CAL_aapa_action"
+		}
+		relative_position_id = CAL_why_cant_we_be_friends
+		prerequisite = { focus = CAL_why_cant_we_be_friends }
+	}
+
+	focus = {
+		id = CAL_university_unity
+		icon = GFX_CAL_university_unity
+		cost = 2
+		x = 0
+		y = 1
+		completion_reward = {
+			log = "[GetDateText]: [Root.GetName]: Focus CAL_university_unity"
+		}
+		relative_position_id = CAL_aapa_action
+		prerequisite = { focus = CAL_aapa_action }
+	}
+
+	focus = {
+		id = CAL_a_new_nadir
+		icon = GFX_CAL_a_new_nadir
+		cost = 2
+		x = 0
+		y = 1
+		completion_reward = {
+			log = "[GetDateText]: [Root.GetName]: Focus CAL_a_new_nadir"
+		}
+		relative_position_id = CAL_oriental_showdown
+		prerequisite = { focus = CAL_oriental_showdown }
+	}
+
+	focus = {
+		id = CAL_tough_love
+		icon = GFX_CAL_tough_love
+		cost = 2
+		x = 1
+		y = 1
+		completion_reward = {
+			log = "[GetDateText]: [Root.GetName]: Focus CAL_tough_love"
+		}
+		relative_position_id = CAL_university_unity
+		prerequisite = { 
+			focus = CAL_university_unity
+			focus = CAL_a_new_nadir
+		}
+	}
+
+	focus = {
+		id = CAL_good_night_white
+		icon = GFX_CAL_good_night_white
+		cost = 2
+		x = 0
+		y = 1
+		completion_reward = {
+			log = "[GetDateText]: [Root.GetName]: Focus CAL_good_night_white"
+		}
+		relative_position_id = CAL_san_francisco
+		prerequisite = { focus = CAL_san_francisco }
+	}
+
+	focus = {
+		id = CAL_monterey_money
+		icon = GFX_CAL_monterey_money
+		cost = 2
+		x = 0
+		y = 1
+		completion_reward = {
+			log = "[GetDateText]: [Root.GetName]: Focus CAL_monterey_money"
+		}
+		relative_position_id = CAL_surf_city
+		prerequisite = { focus = CAL_surf_city }
+	}
+
+	focus = {
+		id = CAL_faithful_freaks
+		icon = GFX_CAL_faithful_freaks
+		cost = 2
+		x = 0
+		y = 1
+		completion_reward = {
+			log = "[GetDateText]: [Root.GetName]: Focus CAL_faithful_freaks"
+		}
+		relative_position_id = CAL_good_night_white
+		prerequisite = { focus = CAL_good_night_white }
+	}
+
+	focus = {
+		id = CAL_the_aloha_call
+		icon = GFX_CAL_the_aloha_call
+		cost = 2
+		x = 0
+		y = 1
+		completion_reward = {
+			log = "[GetDateText]: [Root.GetName]: Focus CAL_the_aloha_call"
+		}
+		relative_position_id = CAL_monterey_money
+		prerequisite = { focus = CAL_monterey_money }
+	}
+
+	focus = {
+		id = CAL_home_on_the_waves
+		icon = GFX_CAL_home_on_the_waves
+		cost = 2
+		x = 0
+		y = 1
+		completion_reward = {
+			log = "[GetDateText]: [Root.GetName]: Focus CAL_home_on_the_waves"
+		}
+		relative_position_id = CAL_the_aloha_call
+		prerequisite = { focus = CAL_the_aloha_call }
+	}
+
+	focus = {
+		id = CAL_a_war_on_drugs
+		icon = GFX_CAL_a_war_on_drugs
+		cost = 2
+		x = 0
+		y = 1
+		completion_reward = {
+			log = "[GetDateText]: [Root.GetName]: Focus CAL_a_war_on_drugs"
+		}
+		relative_position_id = CAL_faithful_freaks
+		prerequisite = { focus = CAL_faithful_freaks }
+	}
+
+	focus = {
+		id = CAL_fortress_colorado
+		icon = GFX_CAL_fortress_colorado
+		cost = 2
+		x = 0
+		y = 1
+		completion_reward = {
+			log = "[GetDateText]: [Root.GetName]: Focus CAL_fortress_colorado"
+		}
+		relative_position_id = CAL_phoenix_snakes
+		prerequisite = { focus = CAL_phoenix_snakes }
+	}
+
+	focus = {
+		id = CAL_forever_standoff
+		icon = GFX_CAL_forever_standoff
+		cost = 2
+		x = 0
+		y = 1
+		completion_reward = {
+			log = "[GetDateText]: [Root.GetName]: Focus CAL_forever_standoff"
+		}
+		relative_position_id = CAL_fortress_colorado
+		prerequisite = { focus = CAL_fortress_colorado }
+	}
+}

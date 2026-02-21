@@ -1,0 +1,24 @@
+state={
+	id=1759
+	name="STATE_1759"
+
+	history={
+		owner = NAN
+		add_core_of = NAN
+		victory_points = {
+			1070 1 
+		}
+		buildings = {
+			infrastructure = 2
+		}
+
+	}
+
+	provinces={
+		1038 1070 11963 11990 994 
+	}
+	manpower=218242
+	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=0.000
+}

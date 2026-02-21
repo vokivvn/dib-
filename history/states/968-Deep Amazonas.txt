@@ -1,0 +1,15 @@
+state={
+	id=968
+	name="STATE_968"
+	provinces={
+		4980 5008 13277 13339 13341 13342 13353 13354 13355 13358
+	}
+	history={
+		owner = YNM
+		add_core_of = YNM
+	}
+	manpower=12300
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	state_category=wasteland
+}

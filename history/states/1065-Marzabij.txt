@@ -1,0 +1,36 @@
+state={
+	id=1065
+	name="STATE_1065"
+
+	history={
+		owner = KAZ
+		victory_points = {
+			10275 15 
+		}
+		victory_points = {
+			10508 5 
+		}
+		victory_points = {
+			12121 3 
+		}
+		victory_points = {
+			12385 3 
+		}
+		victory_points = {
+			12143 3 
+		}
+		add_core_of = KAZ
+		buildings = {
+			infrastructure = 1
+		}
+
+	}
+
+	provinces={
+		1312 4492 4595 7874 10220 10275 10277 10508 12121 12143 12177 12385 12487 
+	}
+	manpower=100
+	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=0.000
+}

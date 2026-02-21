@@ -1,0 +1,96 @@
+ideas = {
+	country = {
+			AST_Buggered = {
+			picture = AST_Buggered
+			allowed = {
+				tag = AST
+			}
+
+            available = {
+               	tag = AST
+            }
+
+            cancel = {
+              
+            }
+
+			allowed_civil_war = {
+				always = no
+			}
+			
+			modifier = {
+			political_power_cost = 0.1
+    		stability_factor = -0.2
+			}
+		}
+		AST_Eureka = {
+			picture = AST_Eureka
+			allowed = {
+				tag = AST
+			}
+
+            available = {
+               	tag = AST
+            }
+
+            cancel = {
+              
+            }
+
+			allowed_civil_war = {
+				always = no
+			}
+			
+			modifier = {
+			political_power_cost = 0.1
+    		stability_factor = -0.2
+			}
+		}
+		AST_Billabong = {
+			picture = AST_Billabong
+			allowed = {
+				tag = AST
+			}
+
+            available = {
+               	tag = AST
+            }
+
+            cancel = {
+              
+            }
+
+			allowed_civil_war = {
+				always = no
+			}
+			
+			modifier = {
+			political_power_cost = 0.1
+    		stability_factor = -0.2
+			}
+		}
+		AST_Sinclair = {
+			picture = AST_Sinclair
+			allowed = {
+				tag = AST
+			}
+
+            available = {
+               	tag = AST
+            }
+
+            cancel = {
+              
+            }
+
+			allowed_civil_war = {
+				always = no
+			}
+			
+			modifier = {
+			political_power_cost = 0.1
+    		stability_factor = -0.2
+			}
+		}
+	}
+}

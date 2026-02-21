@@ -1,0 +1,42 @@
+state={
+	id=1422
+	name="STATE_1422"
+
+	history={
+		owner = ARZ
+		buildings = {
+			infrastructure = 2
+			farm_estate = 1
+			industrial_complex = 1
+			arms_factory = 1
+		}
+		add_core_of = ARZ
+		victory_points = {
+			15500 10
+		}
+		victory_points = {
+			15501 10
+		}
+		victory_points = {
+			15506 5
+		}
+		victory_points = {
+			15524 3
+		}
+		victory_points = {
+			15502 1
+		}
+		victory_points = {
+			15512 1
+		}
+
+	}
+
+	provinces={
+		11814 15486 15487 15500 15501 15502 15503 15504 15505 15506 15507 15508 15509 15510 15511 15512 15513 15514 15515 15516 15517 15518 15519 15520 15521 15522 15523 15524 15525 15526 15527 
+	}
+	manpower=93497
+	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=0.000
+}

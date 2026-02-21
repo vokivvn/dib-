@@ -1,0 +1,45 @@
+state={
+	id=974
+	name="STATE_974"
+
+	history={
+		owner = CAL
+		victory_points = {
+			610 15 
+		}
+		victory_points = {
+			768 10 
+		}
+		victory_points = {
+			6757 5 
+		}
+		victory_points = {
+			3644 3 
+		}
+		buildings = {
+			infrastructure = 3
+			telecom_infrastructure = 1
+			arms_factory = 1
+			industrial_complex = 2
+			dockyard = 2
+			air_base = 1
+			610 = {
+				naval_base = 3
+			}
+			6757 = {
+				naval_base = 3
+			}
+
+		}
+		add_core_of = CAL
+
+	}
+
+	provinces={
+		610 768 781 3644 6482 6745 6757 6772 9730 14447
+	}
+	manpower=4629580
+	buildings_max_level_factor=1.000
+	state_category=city
+	local_supplies=8.000
+}

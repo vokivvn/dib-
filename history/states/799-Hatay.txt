@@ -1,0 +1,30 @@
+
+state={
+	id=799
+	name="STATE_799"
+
+	history={
+		owner = IRQ
+		add_core_of = IRQ
+		victory_points = {
+			12029 15 
+		}
+		victory_points = {
+			1088 5 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 3
+			arms_factory = 2
+		}
+
+	}
+
+	provinces={
+		1088 10087 12029 
+	}
+	manpower=2690704
+	buildings_max_level_factor=1.000
+	state_category=city
+	local_supplies=8.000
+}

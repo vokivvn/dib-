@@ -1,0 +1,32 @@
+
+state={
+	id=995
+	name="STATE_995"
+
+	history={
+		owner = PEN
+		buildings = {
+			infrastructure = 3
+			telecom_infrastructure = 1
+			industrial_complex = 2
+			arms_factory = 1
+
+		}
+		add_core_of = PEN
+		victory_points = {
+			11799 10 
+		}
+		victory_points = {
+			6869 5 
+		}
+
+	}
+
+	provinces={
+		3824 6869 9820 11785 11799 
+	}
+	manpower=686688
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=5.000
+}

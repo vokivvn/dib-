@@ -1,0 +1,23 @@
+state={
+	id=1579
+	name="STATE_1579"
+
+	state_category = wasteland
+	impassable = yes
+
+	history={
+		owner = SON
+		buildings = {
+			infrastructure = 0
+		}
+		add_core_of = SON
+		add_claim_by = ARZ
+	}
+
+	provinces={
+		16237 16238 16239 
+	}
+	manpower=10
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

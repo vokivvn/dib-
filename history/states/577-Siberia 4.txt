@@ -1,0 +1,26 @@
+
+state={
+	id=577
+	name="STATE_577"
+	resources={
+		oil=13.000
+	}
+
+	history={
+		owner = ARS
+		buildings = {
+			infrastructure = 1
+
+		}
+		add_core_of = ARS
+
+	}
+
+	provinces={
+		1679 1718 1765 1777 1780 1828 1850 4724 7701 7750 7781 7789 7815 7882 10561 10576 10613 10673 10705 12595 12666 
+	}
+	manpower=29299
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+	local_supplies=0.000
+}

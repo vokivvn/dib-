@@ -1,0 +1,23 @@
+state={
+	id=1760
+	name="STATE_1760"
+
+	history={
+		owner = LNQ
+		add_core_of = LNQ
+		
+		buildings = {
+			infrastructure = 2
+			farm_estate = 1
+		}
+
+	}
+
+	provinces={
+		9970 1120 12014 10080 12095 9997  11941 7128 7210 4092 7152 1187 1087 12077 1131 11983 7039 10105  7135 4160 7044 12023 7192 4023 1018 11981 10121
+	}
+	manpower=218242
+	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=0.000
+}

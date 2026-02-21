@@ -1,0 +1,51 @@
+ideas = {
+	country = {
+			BRG_Tradcath = {
+			picture = BRG_Tradcath
+			allowed = {
+				tag = BRG
+			}
+
+            available = {
+               	tag = BRG
+            }
+
+            cancel = {
+              
+            }
+
+			allowed_civil_war = {
+				always = no
+			}
+			
+			modifier = {
+			war_support_factor = 0.1
+    		army_core_defence_factor = 0.1
+			}
+		}
+		BRG_Problem = {
+			picture = BRG_Problem
+			allowed = {
+				tag = BRG
+			}
+
+            available = {
+               	tag = BRG
+            }
+
+            cancel = {
+              
+            }
+
+			allowed_civil_war = {
+				always = no
+			}
+			
+			modifier = {
+			political_power_cost = 0.1
+    		stability_factor = -0.2
+			radical_democracy_drift = 0.02
+			}
+		}
+	}
+}

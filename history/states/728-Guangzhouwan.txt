@@ -1,0 +1,27 @@
+state={
+	id=728
+	name="STATE_728"
+	manpower = 732323	
+	
+	state_category = city
+	
+	history={
+		owner = RHI
+		add_core_of = RHI
+		victory_points = {
+			11830 10
+		}
+		buildings = {
+			infrastructure = 5
+			telecom_infrastructure = 3
+			industrial_complex = 2
+			office_building = 2
+		}
+	}
+	
+	provinces={
+		11830 15459 
+	}
+
+	local_supplies=0.0 
+}

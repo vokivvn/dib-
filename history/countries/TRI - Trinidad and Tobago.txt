@@ -1,0 +1,32 @@
+﻿capital = 691
+
+#oob = ""
+
+# Starting tech
+set_technology = {
+	infantry_weapons = 1
+}
+
+set_convoys = 40
+
+set_politics = {
+	ruling_party = oriental_despotism
+	last_election = "1936.1.1"
+	election_frequency = 48
+	elections_allowed = yes
+}
+set_popularities = {
+	oriental_despotism = 70
+	marxism = 20
+	radical_democracy = 10
+}
+
+create_country_leader = {
+	name = "Yasin Ebu Bekir"
+	desc = ""
+	picture = "gfx/leaders/TRI/Yasin_Ebu_Bekir.png"
+	expire = "2000.1.1"
+	ideology = islamic_theocracy
+	traits = {
+	}
+}

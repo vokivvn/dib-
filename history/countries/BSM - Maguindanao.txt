@@ -1,0 +1,58 @@
+﻿capital = 627
+
+# Starting tech
+set_technology = {
+	infantry_weapons = 1
+	infantry_weapons1 = 1
+	tech_recon = 1
+	tech_support = 1		
+	tech_engineers = 1
+	tech_mountaineers = 1
+	tech_trucks = 1
+	motorised_infantry = 1
+	gw_artillery = 1
+	interwar_antiair = 1
+	mobile_warfare = 1
+	trade_interdiction = 1
+	formation_flying = 1
+	fuel_silos = 1
+	synth_oil_experiments = 1
+	oil_processing = 1
+	fuel_refining = 1
+}
+
+
+set_research_slots = 3
+set_convoys = 50
+set_stability = 0.75
+
+set_politics = {
+	ruling_party = oriental_despotism
+	last_election = "1936.1.1"
+	election_frequency = 48
+	elections_allowed = no
+
+}
+set_popularities = {
+	oriental_despotism = 100
+}
+
+create_country_leader = {
+	name = "Dato Muhammad Baraguir"
+	desc = ""
+	picture = "gfx/leaders/BSM/Dato_Muhammad_Baraguir.png"
+	expire = "2000.1.1"
+	ideology = islamic_theocracy
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "Rodrigo Duterte"
+	desc = ""
+	picture = "gfx/leaders/BSM/Rodrigo_Duterte.png"
+	expire = "2000.1.1"
+	ideology = state_rationalism
+	traits = {
+	}
+}

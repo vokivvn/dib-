@@ -1,0 +1,83 @@
+bookmarks = {
+	bookmark = {
+		name = "DIB_NAME"
+		desc = "DIB_DESC"
+		date = 1985.1.1.12
+		picture = "GFX_select_date_1"
+		default_country = "CAL"
+		default = yes
+		
+		
+		CAL={
+			history = "CAL_HISTORY"
+			ideology = western_democracy
+			ideas = {
+				CAL_Curbing_The_Rest
+				CAL_New_Age_Retro_Hippies
+				CAL_Audit_Of_The_Century
+			}
+			focuses = {
+			}
+		}
+
+		ORE={
+			history = "ORE"
+			ideology = western_democracy
+			ideas = {
+				ORE_Packwoods_Problems
+				ORE_Wild_Wild_Country
+				ORE_I_Want_My_MTV
+			}
+			focuses = {
+			}
+		}
+
+		NEV={
+			history = "NEV"
+			ideology = western_democracy
+			ideas = {
+				NEV_Tropical_Hot_Dog_Night
+				NEV_A_Scrambled_Opposition
+			}
+			focuses = {
+			}
+		}
+
+		VEG={
+			history = "VEG"
+			ideology = occidental_despotism
+			ideas = {
+				VEG_Frank_Rosenthal_Show
+				VEG_Bought_Found
+				VEG_Final_Sin_Stupidity
+			}
+			focuses = {
+			}
+		}
+
+		HAW={
+			history = "HAW"
+			ideology = occidental_despotism
+			ideas = {
+				HAW_Paradise_Lost
+				HAW_International_Businessman
+			}
+			focuses = {
+			}
+		}
+
+		SAM={
+			history = "SAM"
+			ideology = western_democracy
+			ideas = {
+			}
+			focuses = {
+			}
+		}
+		
+		effect = {
+			randomize_weather = 22345 # <- Obligatory in every bookmark !
+			#123 = { rain_light = yes }
+		}
+	}
+}

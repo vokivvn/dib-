@@ -1,0 +1,257 @@
+
+shared_focus = {
+	id = LAS_the_battle_for_angeles
+	icon = GFX_LAS_the_battle_for_angeles
+	cost = 2
+	x = 20
+	y = 0
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus LAS_the_battle_for_angeles"
+	}
+}
+
+shared_focus = {
+	id = LAS_reach_the_coast
+	icon = GFX_LAS_reach_the_coast
+	cost = 2
+	x = -1
+	y = 1
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus LAS_reach_the_coast"
+	}
+	relative_position_id = LAS_the_battle_for_angeles
+	prerequisite = { focus = LAS_the_battle_for_angeles }
+	mutually_exclusive = { focus = LAS_spearhead_the_valley }
+}
+
+shared_focus = {
+	id = LAS_spearhead_the_valley
+	icon = GFX_LAS_spearhead_the_valley
+	cost = 2
+	x = 1
+	y = 1
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus LAS_spearhead_the_valley"
+	}
+	relative_position_id = LAS_the_battle_for_angeles
+	prerequisite = { focus = LAS_the_battle_for_angeles }
+	mutually_exclusive = { focus = LAS_reach_the_coast }
+}
+
+shared_focus = {
+	id = LAS_harbor_blues
+	icon = GFX_LAS_harbor_blues
+	cost = 2
+	x = 0
+	y = 1
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus LAS_harbor_blues"
+	}
+	relative_position_id = LAS_reach_the_coast
+	prerequisite = { focus = LAS_reach_the_coast }
+}
+
+shared_focus = {
+	id = LAS_spanning_to_spahn
+	icon = GFX_LAS_spanning_to_spahn
+	cost = 2
+	x = 0
+	y = 1
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus LAS_spanning_to_spahn"
+	}
+	relative_position_id = LAS_spearhead_the_valley
+	prerequisite = { focus = LAS_spearhead_the_valley }
+}
+
+shared_focus = {
+	id = LAS_return_the_dockworkers
+	icon = GFX_LAS_return_the_dockworkers
+	cost = 2
+	x = 0
+	y = 1
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus LAS_return_the_dockworkers"
+	}
+	relative_position_id = LAS_harbor_blues
+	prerequisite = { focus = LAS_harbor_blues }
+}
+
+shared_focus = {
+	id = LAS_resume_cinematic_production
+	icon = GFX_LAS_resume_cinematic_production
+	cost = 2
+	x = 0
+	y = 1
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus LAS_resume_cinematic_production"
+	}
+	relative_position_id = LAS_spanning_to_spahn
+	prerequisite = { focus = LAS_spanning_to_spahn }
+}
+
+shared_focus = {
+	id = LAS_foothold_building
+	icon = GFX_LAS_foothold_building
+	cost = 2
+	x = 1
+	y = 1
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus LAS_foothold_building"
+	}
+	relative_position_id = LAS_return_the_dockworkers
+	prerequisite = { focus = LAS_return_the_dockworkers }
+	prerequisite = { focus = LAS_resume_cinematic_production }
+}
+
+shared_focus = {
+	id = LAS_the_final_showdown
+	icon = GFX_LAS_the_final_showdown
+	cost = 2
+	x = 0
+	y = 1
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus LAS_the_final_showdown"
+	}
+	relative_position_id = LAS_foothold_building
+	prerequisite = { focus = LAS_foothold_building }
+}
+
+shared_focus = {
+	id = LAS_this_town_aint_big_enough
+	icon = GFX_LAS_this_town_aint_big_enough
+	cost = 2
+	x = 0
+	y = 1
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus LAS_this_town_aint_big_enough"
+	}
+	relative_position_id = LAS_the_final_showdown
+	prerequisite = { focus = LAS_the_final_showdown }
+}
+
+shared_focus = {
+	id = LAS_onwards_to_orange
+	icon = GFX_LAS_onwards_to_orange
+	cost = 2
+	x = -2
+	available = {
+		always = no
+	}
+	y = 1
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus LAS_onwards_to_orange"
+	}
+	relative_position_id = LAS_this_town_aint_big_enough
+	prerequisite = { focus = LAS_this_town_aint_big_enough }
+	mutually_exclusive = { focus = LAS_collaborate_and_apologize }
+}
+
+shared_focus = {
+	id = LAS_collaborate_and_apologize
+	icon = GFX_LAS_collaborate_and_apologize
+	cost = 2
+	x = 2
+	y = 1
+	available = {
+		always = no
+	}
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus LAS_collaborate_and_apologize"
+	}
+	relative_position_id = LAS_this_town_aint_big_enough
+	prerequisite = { focus = LAS_this_town_aint_big_enough }
+	mutually_exclusive = { focus = LAS_onwards_to_orange }
+}
+
+shared_focus = {
+	id = LAS_butting_with_the_bear
+	icon = GFX_LAS_butting_with_the_bear
+	cost = 2
+	x = 0
+	y = 1
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus LAS_butting_with_the_bear"
+	}
+	relative_position_id = LAS_onwards_to_orange
+	prerequisite = { focus = LAS_onwards_to_orange }
+}
+
+shared_focus = {
+	id = LAS_face_off_death_valley
+	icon = GFX_LAS_face_off_death_valley
+	cost = 2
+	x = -2
+	y = 1
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus LAS_face_off_death_valley"
+	}
+	relative_position_id = LAS_onwards_to_orange
+	prerequisite = { focus = LAS_onwards_to_orange }
+}
+
+shared_focus = {
+	id = LAS_munitions_and_militias
+	icon = GFX_LAS_munitions_and_militias
+	cost = 2
+	x = 0
+	y = 1
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus LAS_munitions_and_militias"
+	}
+	relative_position_id = LAS_butting_with_the_bear
+	prerequisite = { focus = LAS_butting_with_the_bear }
+}
+
+shared_focus = {
+	id = LAS_feed_off_of_the_pushovers
+	icon = GFX_LAS_feed_off_of_the_pushovers
+	cost = 2
+	x = 0
+	y = 1
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus LAS_feed_off_of_the_pushovers"
+	}
+	relative_position_id = LAS_face_off_death_valley
+	prerequisite = { focus = LAS_face_off_death_valley }
+}
+
+shared_focus = {
+	id = LAS_training_and_technique
+	icon = GFX_LAS_training_and_technique
+	cost = 2
+	x = 0
+	y = 1
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus LAS_training_and_technique"
+	}
+	relative_position_id = LAS_munitions_and_militias
+	prerequisite = { focus = LAS_munitions_and_militias }
+}
+
+shared_focus = {
+	id = LAS_fencein_frisco
+	icon = GFX_LAS_fencein_frisco
+	cost = 2
+	x = 0
+	y = 1
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus LAS_fencein_frisco"
+	}
+	relative_position_id = LAS_feed_off_of_the_pushovers
+	prerequisite = { focus = LAS_feed_off_of_the_pushovers }
+}
+
+shared_focus = {
+	id = LAS_curb_to_the_curb
+	icon = GFX_LAS_curb_to_the_curb
+	cost = 2
+	x = -1
+	y = 1
+	completion_reward = {
+		log = "[GetDateText]: [Root.GetName]: Focus LAS_curb_to_the_curb"
+	}
+	relative_position_id = LAS_training_and_technique
+	prerequisite = { focus = LAS_training_and_technique }
+	prerequisite = { focus = LAS_fencein_frisco }
+}

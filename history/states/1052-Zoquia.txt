@@ -1,0 +1,33 @@
+state={
+	id=1052
+	name="STATE_1052"
+
+	history={
+		owner = MEX
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			arms_factory = 1
+		}
+		add_core_of = MEX
+		add_claim_by = ZAP
+		victory_points = {
+			13697 10 
+		}
+		victory_points = {
+			12753 5 
+		}
+		victory_points = {
+			13700 3 
+		}
+
+	}
+
+	provinces={
+		12753 13696 13697 13700 13701 13704 
+	}
+	manpower=1042358
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

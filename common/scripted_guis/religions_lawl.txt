@@ -1,0 +1,32 @@
+scripted_gui = {
+	
+	cultures_scrgui = {
+		context_type = player_context
+		parent_window_token = politics_tab
+		window_name = "religions_polscreeen"
+
+		ai_enabled = {
+			always = no
+		}
+		
+		visible = {
+		}
+		effects = {
+		}
+		triggers = {
+			culture_icon_visible = {
+				check_variable = {
+					var = ROOT.RELIGION
+					value = 0
+					compare = greater_than
+				}
+			}
+		}
+		properties = {	
+			religion_icon = {
+				frame = ROOT.RELIGION
+			}
+		}
+	}
+}
+

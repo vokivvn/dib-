@@ -1,0 +1,18 @@
+﻿l_english:
+ second_leader_tt_politics:0 "§Y[Root.GetSecondTitle]§!"
+ second_leader_tt_diplo:0 "§Y[This.GetSecondTitle]§!"
+ dual_leader_name_politics:0 "[Root.GetDualLeaderName]"
+ dual_leader_name_diplo:0 "[This.GetDualLeaderName]"
+ # Nation Specific Localisation
+ KOR_UISANG:0 "Uisang"
+ KOR_UISANG_TT:0 "King Uisang of Silla"
+ KOR_UISANG_TITLE:0 "King of Silla"
+ SWE_CARLGUSTAF:0 "Carl XVI Gustaf"
+ SWE_CARLGUSTAF_TT:0 "King Carl XVI Gustaf of Sweden and Norway"
+ SWE_CARLGUSTAF_TITLE:0 "King of Sweden and Norway"
+ BEM_CARLGUSTAF:0 "Carl XVI Gustaf"
+ BEM_CARLGUSTAF_TT:0 "King Carl XVI Gustaf of Sweden and Norway"
+ BEM_CARLGUSTAF_TITLE:0 "King of Sweden and Norway"
+ TEI_ISABELLE:0 "Isabelle"
+ TEI_ISABELLE_TT:0 "Queen Isabelle, Countess of Belem "
+ TEI_ISABELLE_TITLE:0 "Queen of Tropico"

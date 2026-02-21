@@ -1,0 +1,31 @@
+
+state={
+	id=370
+	name="STATE_370"
+	manpower = 2009820
+	
+	state_category = city
+
+	history={
+		owner = GRG
+		victory_points = {
+			4464 1 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			air_base = 3
+			4464 = {
+				naval_base = 4
+			}
+		}
+		add_core_of = GRG
+	}
+
+	provinces={
+		1587 4510 4565 4594 4622 7422 7464 8110 10192 10410 10753 11509 11717 12328 12429 12735 12803 15032 16728 16729 16730 16731 16732 16733 16734 16735 16736 16737 16738 16739 16740 
+	}
+	
+
+	local_supplies=0.0 
+}

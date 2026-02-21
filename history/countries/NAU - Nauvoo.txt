@@ -1,0 +1,59 @@
+﻿capital = 380
+
+#oob = "NAU_1936"
+
+set_research_slots = 3
+set_stability = 0.75
+set_war_support = 0
+add_command_power = 20
+# Starting tech
+set_technology = {
+	infantry_weapons = 1
+	infantry_weapons1 = 1
+	tech_trucks = 1
+	tech_recon = 1
+	tech_support = 1		
+	tech_engineers = 1
+	gw_artillery = 1
+	interwar_antiair = 1
+	motorised_infantry = 1
+	fuel_silos = 1
+	fuel_refining = 1
+	marines = 1
+	basic_train = 1
+	engine_tech_1 = 1
+}
+
+set_variable = { NAU.CULTURE = 7 }
+set_variable = { NAU.RELIGION = 30 }
+set_country_flag = is_us_state
+
+add_ideas = {
+	NAU_Holy_Zion
+	NAU_Wrinkles_In_Scripture
+	NAU_Sodomites_In_Temple
+}
+
+set_politics = {
+	ruling_party = occidental_despotism
+	last_election = "1932.11.8"
+	election_frequency = 48
+	elections_allowed = no
+}
+
+set_popularities = {
+	occidental_despotism = 70
+	radical_democracy = 5
+	obscurantism = 20
+	institutionalism = 5
+}
+
+create_country_leader = {
+	name = "Spencer Kimball"
+	desc = ""
+	picture = "gfx/leaders/NAU/Spencer_Kimball.png"
+	expire = "2000.1.1"
+	ideology = christian_theocracy
+	traits = {
+	}
+}

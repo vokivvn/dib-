@@ -1,0 +1,29 @@
+state={
+	id=1025
+	name="STATE_1025"
+
+	history={
+		owner = CUB
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			13537 = {
+				naval_base = 3
+			}
+
+		}
+		add_core_of = CUB
+		victory_points = {
+			13537 5 
+		}
+
+	}
+
+	provinces={
+		13537 
+	}
+	manpower=84751
+	buildings_max_level_factor=1.000
+	state_category=small_island
+	local_supplies=0.000
+}

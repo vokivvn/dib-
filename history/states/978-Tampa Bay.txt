@@ -1,0 +1,42 @@
+
+state={
+	id=978
+	name="STATE_978"
+
+	history={
+		owner = FLO
+		victory_points = {
+			7388 25 
+		}
+		victory_points = {
+			12752 10 
+		}
+		victory_points = {
+			13471 5 
+		}
+		buildings = {
+			infrastructure = 4
+			telecom_infrastructure = 2
+			industrial_complex = 3
+			arms_factory = 1
+			dockyard = 2
+			7388 = {
+				naval_base = 6
+			}
+			12752 = {
+				naval_base = 3
+			}
+
+		}
+		add_core_of = FLO
+
+	}
+
+	provinces={
+		7388 12752 13470 13471 
+	}
+	manpower=1729661
+	buildings_max_level_factor=1.000
+	state_category=large_city
+	local_supplies=9.000
+}

@@ -1,0 +1,28 @@
+state={
+	id=1288
+	name="STATE_1288"
+
+	history={
+		owner = FRO
+		victory_points = { 14822 20 }
+		victory_points = { 14826 10 }
+		buildings = {
+			infrastructure = 5
+			arms_factory = 2
+			industrial_complex = 3
+			office_building = 2
+			14822 = {
+				naval_base = 6
+			}
+		}
+		add_core_of = FRO
+	}
+
+	provinces={
+		221 14822 14823 14825 14826 
+	}
+	manpower=1428024
+	buildings_max_level_factor=1.000
+	state_category=city
+	local_supplies=0.000
+}

@@ -1,0 +1,57 @@
+﻿capital = 1409
+
+#oob = "NVJ_1936"
+
+set_research_slots = 3
+set_stability = 0.75
+set_war_support = 0
+add_command_power = 20
+# Starting tech
+set_technology = {
+	infantry_weapons = 1
+	infantry_weapons1 = 1
+	tech_trucks = 1
+	tech_recon = 1
+	tech_support = 1		
+	tech_engineers = 1
+	gw_artillery = 1
+	interwar_antiair = 1
+	motorised_infantry = 1
+	fuel_silos = 1
+	fuel_refining = 1
+	marines = 1
+	basic_train = 1
+	engine_tech_1 = 1
+}
+
+set_convoys = 0
+set_variable = { NVJ.CULTURE = 86 }
+set_variable = { NVJ.RELIGION = 25 }
+set_country_flag = is_us_reserve
+
+add_ideas = {
+	NVJ_Remnants_In_The_Southwest
+	NVJ_Weaving_A_New_Age
+	NVJ_Lamanites_And_Lophophora
+}
+
+set_politics = {
+	ruling_party = radical_democracy
+	last_election = "1932.11.8"
+	election_frequency = 48
+	elections_allowed = no
+}
+
+set_popularities = {
+	radical_democracy = 100
+}
+
+create_country_leader = {
+	name = "Peter MacDonald"
+	desc = ""
+	picture = "gfx/leaders/NVJ/Peter_MacDonald.png"
+	expire = "2000.1.1"
+	ideology = tribal_democracy
+	traits = {
+	}
+}

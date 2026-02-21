@@ -1,0 +1,25 @@
+state={
+	id=1495
+	name="STATE_1495"
+
+	history={
+		victory_points = {
+			15858 2
+		}
+		owner = DMR
+		buildings = {
+			infrastructure = 2
+			farm_estate = 1
+		}
+		add_core_of = DMR
+
+	}
+
+	provinces={
+		15856 15857 15858 
+	}
+	manpower=8738
+	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=0.000
+}

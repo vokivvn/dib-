@@ -1,0 +1,255 @@
+ideas = {
+	country = {
+		JNG_The_Red_and_The_Black = {
+			picture = JNG_The_Red_and_The_Black
+			allowed = {
+				tag = JNG
+			}
+
+            available = {
+               	tag = JNG
+            }
+
+            cancel = {
+              
+            }
+
+			allowed_civil_war = {
+				always = no
+			}
+			
+			modifier = {
+			political_power_gain = 0.1
+    		defensive_war_stability_factor = 0.5
+			production_cost_office_building_factor = -0.1
+			}
+		}
+		JNG_Run_Through_The_Jungle = {
+			picture = JNG_Run_Through_The_Jungle
+			allowed = {
+				tag = JNG
+			}
+
+            available = {
+               	tag = JNG
+            }
+
+            cancel = {
+              
+            }
+
+			allowed_civil_war = {
+				always = no
+			}
+			
+			modifier = {
+			political_power_cost = 0.05
+			trade_opinion_factor = -0.02
+			marxism_drift = 0.05
+			radical_democracy_drift = 0.03
+			radical_right_drift = 0.01
+			}
+		}
+		PRU_Ataypura = {
+			picture = PRU_Ataypura
+			allowed = {
+				tag = PRU
+			}
+
+            available = {
+               	tag = PRU
+            }
+
+            cancel = {
+              
+            }
+
+			allowed_civil_war = {
+				always = no
+			}
+			
+			modifier = {
+			political_power_cost = 0.5
+			radical_democracy_drift = 0.05
+			stability_weekly = -0.08
+			}
+		}
+		PRU_Across_Ucayali = {
+			picture = PRU_Across_Ucayali
+			allowed = {
+				tag = PRU
+			}
+
+            available = {
+               	tag = PRU
+            }
+
+            cancel = {
+              
+            }
+
+			allowed_civil_war = {
+				always = no
+			}
+			
+			modifier = {
+			fuel_gain = -50
+			production_oil_factor = -0.5
+			supply_node_range = -0.1
+			fuel_cost = 100
+			}
+			targeted_modifier = {
+   			tag = AQU
+  			attack_bonus_against = 0.1
+   			defense_bonus_against = 0.1
+			}
+		}
+		ECU_Stuck_In_The_Middle = {
+			picture = ECU_Stuck_In_The_Middle
+			allowed = {
+				tag = ECU
+			}
+
+            available = {
+               	tag = ECU
+            }
+
+            cancel = {
+              
+            }
+
+			allowed_civil_war = {
+				always = no
+			}
+			
+			modifier = {
+			stability_weekly = 0.1
+			consumer_goods_factor = 0.5
+			war_support_weekly = 0.2
+			}
+		}
+		ECU_El_Dorado = {
+			picture = ECU_El_Dorado
+			allowed = {
+				tag = ECU
+			}
+
+            available = {
+               	tag = ECU
+            }
+
+            cancel = {
+              
+            }
+
+			allowed_civil_war = {
+				always = no
+			}
+			
+			modifier = {
+			trade_opinion_factor = 0.5
+			}
+			targeted_modifier = {
+   			tag = ENG
+  			extra_trade_to_target_factor = 0.3
+			}
+			targeted_modifier = {
+   			tag = CRC
+  			extra_trade_to_target_factor = 0.2
+			}
+			targeted_modifier = {
+   			tag = GEN
+  			extra_trade_to_target_factor = 0.1
+			}
+		}
+		COL_La_Guerra_Lenta = {
+			picture = COL_La_Guerra_Lenta
+			allowed = {
+				tag = COL
+			}
+
+            available = {
+               	tag = COL
+            }
+
+            cancel = {
+              
+            }
+
+			allowed_civil_war = {
+				always = no
+			}
+			
+			modifier = {
+			stability_weekly = -0.3
+			weekly_manpower = -10000
+			army_morale_factor = -0.2
+			}
+		}
+		COL_Prisencolinensinainciusol = {
+			picture = COL_Prisencolinensinainciusol
+			allowed = {
+				tag = COL
+			}
+
+            available = {
+               	tag = COL
+            }
+
+            cancel = {
+              
+            }
+
+			allowed_civil_war = {
+				always = no
+			}
+			
+			modifier = {
+			stability_weekly = -0.2
+			conscription_factor = -0.3
+			}
+		}
+		MNH_Solidao = {
+			picture = MNH_Solidao
+			allowed = {
+				tag = MNH
+			}
+
+            available = {
+               	tag = MNH
+            }
+
+            cancel = {
+              
+            }
+
+			allowed_civil_war = {
+				always = no
+			}
+			
+			modifier = {
+			}
+		}
+		MNH_Irmandade_Nacional = {
+			picture = MNH_Irmandade_Nacional
+			allowed = {
+				tag = MNH
+			}
+
+            available = {
+               	tag = MNH
+            }
+
+            cancel = {
+              
+            }
+
+			allowed_civil_war = {
+				always = no
+			}
+			
+			modifier = {
+			}
+		}
+	}
+}

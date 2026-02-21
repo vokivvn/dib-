@@ -1,0 +1,40 @@
+defined_text = {
+	name = scrloc_mapmode_us
+	text = {
+		trigger = {
+		    has_country_flag = is_us_state
+		}
+		localization_key = is_us_state_key
+	}
+	text = {
+		trigger = {
+			has_country_flag = is_us_territory
+		}
+		localization_key = is_us_territory_key
+	}
+	text = {
+		trigger = {
+			has_country_flag = is_us_cap_territory
+		}
+		localization_key = is_us_cap_territory_key
+	}
+	text = {
+		trigger = {
+			has_country_flag = is_us_reserve
+		}
+		localization_key = is_us_reserve_key
+	}
+	text = {
+        trigger = {
+            NOT = {
+                OR = {
+                    has_country_flag = is_us_cap_territory
+                    has_country_flag = is_us_reserve
+                    has_country_flag = is_us_state
+                    has_country_flag = is_us_territory
+                }
+            }
+        }
+        localization_key = is_not_us_key
+    }
+}

@@ -1,0 +1,34 @@
+
+state = {
+	id = 935
+	name = "STATE_935"
+	manpower = 107875
+
+	state_category = rural
+
+	history = {
+
+		owner = GRC
+
+		add_core_of = GRC
+
+		buildings = {
+			infrastructure = 1
+			farm_estate = 1
+		}
+
+		victory_points = {
+			14208 3 
+		}
+		victory_points = {
+			14203 3 
+		}
+	}
+
+	provinces={
+		14200 14201 14202 14203 14208 14209 14210 14211 
+	}
+	
+
+	local_supplies = 0.0 
+}

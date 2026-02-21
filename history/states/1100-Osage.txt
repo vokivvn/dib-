@@ -1,0 +1,31 @@
+state={
+	id=1100
+	name="STATE_1100"
+
+	history={
+		owner = KAN
+		buildings = {
+			infrastructure = 3
+			arms_factory = 2
+			industrial_complex = 1
+		}
+		add_core_of = KAN
+		victory_points = {
+			13809 5
+		}
+		victory_points = {
+			9802 3
+		}
+		victory_points = {
+			1352 3
+		}
+	}
+
+	provinces={
+		1352 4811 7834 9802 13802 13805 13806 13807 13808 13809 
+	}
+	manpower=895456
+	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=0.000
+}

@@ -1,0 +1,32 @@
+state={
+	id=85
+	name="STATE_85"
+	manpower = 800000
+	
+	state_category = rural
+	history={
+		owner = CAL
+		victory_points = {
+			11795 5
+		}
+		victory_points = {
+			9855 5
+		}
+		victory_points = {
+			12303 3
+		}
+		buildings = {
+			infrastructure = 2
+			arms_factory = 2
+			industrial_complex = 1
+			dockyard = 1
+		}
+		add_core_of = CAL
+	}
+
+	provinces={
+		823 4657 4727 7517 9855 10387 10483 11757 11795 12303 14424 14425
+	}
+
+	local_supplies=0.0 
+}

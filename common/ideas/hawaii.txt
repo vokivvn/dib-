@@ -1,0 +1,51 @@
+ideas = {
+	country = {
+		HAW_Paradise_Lost = {
+			picture = HAW_Paradise_Lost
+			allowed = {
+				tag = HAW
+			}
+
+            available = {
+               	tag = HAW
+            }
+
+            cancel = {
+              
+            }
+
+			allowed_civil_war = {
+				always = no
+			}
+			
+			modifier = {
+			political_power_cost = 0.1
+    		stability_factor = -0.15
+			drift_defence = -0.3
+			}
+		}
+		HAW_International_Businessman = {
+			picture = HAW_International_Businessman
+			allowed = {
+				tag = HAW
+			}
+
+            available = {
+               	tag = HAW
+            }
+
+            cancel = {
+              
+            }
+
+			allowed_civil_war = {
+				always = no
+			}
+			
+			modifier = {
+			political_power_gain = 0.07
+    		
+			}
+		}
+	}
+}

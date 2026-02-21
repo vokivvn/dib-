@@ -1,0 +1,27 @@
+
+state={
+	id=62
+	name="STATE_62"
+
+	history={
+		victory_points = {
+			9388 1 
+		}
+		owner = PRE
+		buildings = {
+			infrastructure = 3
+			fuel_silo = 1
+
+		}
+		add_core_of = PRE
+
+	}
+
+	provinces={
+		268 293 349 3207 3258 3312 3340 9294 11276 
+	}
+	manpower=1006221
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=3.000
+}

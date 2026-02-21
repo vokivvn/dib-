@@ -1,0 +1,39 @@
+state={
+	id=1001
+	name="STATE_1001"
+
+	history={
+		owner = IND
+		buildings = {
+			infrastructure = 3
+			telecom_infrastructure = 1
+			industrial_complex = 2
+			arms_factory = 1
+		}
+		add_core_of = IND
+		victory_points = {
+			13578 10 
+		}
+		victory_points = {
+			13581 5 
+		}
+		victory_points = {
+			13579 5 
+		}
+		victory_points = {
+			13585 3 
+		}
+		victory_points = {
+			13586 3 
+		}
+
+	}
+
+	provinces={
+		1881 4527 10448 11621 12437 13578 13579 13580 13581 13582 13583 13584 13585 13586 13587 
+	}
+	manpower=2192404
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=5.000
+}

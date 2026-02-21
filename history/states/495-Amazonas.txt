@@ -1,0 +1,26 @@
+
+state={
+	id=495
+	name="STATE_495"
+
+	history={
+		owner = MAU
+		add_core_of = MAU
+		buildings = {
+			infrastructure = 0
+
+		}
+		victory_points = {
+			10934 1 
+		}
+
+	}
+
+	provinces={
+		1979 13333 13337 13338 13357 13359 
+	}
+	manpower=159900
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+	local_supplies=0.000
+}

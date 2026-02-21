@@ -1,0 +1,25 @@
+state={
+	id=1409
+	name="STATE_1409"
+
+	history={
+		owner = NVJ
+		victory_points = {
+			15421 5
+		}
+		buildings = {
+			infrastructure = 1
+			farm_estate = 1
+		}
+		add_core_of = NVJ
+
+	}
+
+	provinces={
+		10573 15421 15441 15443 
+	}
+	manpower=7656
+	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=0.000
+}

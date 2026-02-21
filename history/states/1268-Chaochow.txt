@@ -1,0 +1,28 @@
+state={
+	id=1268
+	name="STATE_1268"
+
+	history={
+		owner = LNQ
+		add_core_of = LNQ
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 3
+			9938 = {
+				naval_base = 5
+			}
+
+		}
+		victory_points = {
+			9938 10 
+		}
+	}
+
+	provinces={
+		9938 
+	}
+	manpower=2068387
+	buildings_max_level_factor=1.000
+	state_category=large_city
+	local_supplies=0.000
+}

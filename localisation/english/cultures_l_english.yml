@@ -1,0 +1,179 @@
+﻿l_english:
+ CULTURE_NAMEKEY: "[CULTURE_NAME]"
+ CULTURE_NAMEKEY_DIPLO: "[CULTURE_NAME_DIPLO]"
+ CULTURE_INFO: "§FThe majority culture of this state is §Y[ROOT.CULTURE]§!.§!"
+ delaware:0 "Algonquin (Delaware)"
+ miami:0 "Algonquin (Miami)"
+ ottawa:0 "Algonquin (Ottawa)"
+ shawnee:0 "Algonquin (Shawnee)"
+ wiyot:0 "Algonquin (Wiyot)"
+ 
+ afroamerican:0 "American (Afro-American)"
+ alleghenian:0 "American (Alleghenian)"
+ appalachian:0 "American (Appalachian)"
+ arizonan:0 "American (Arizonan)"
+ brazamerican:0 "American (Brazilian-American)"
+ californian:0 "American (Californian)"
+ floridian:0 "American (Floridian)"
+ hoosier:0 "American (Hoosier)"
+ mcintoshian:0 "American (McIntoshian)"
+ mexiamerican:0 "American (Mexican-American)"
+ michigander:0 "American (Michigander)"
+ nauvooan:0 "American (Nauvooan)"
+ nevadan:0 "American (Nevadan)"
+ new_english:0 "American (New English)"
+ new_yorker:0 "American (New Yorker)"
+ oregonian:0 "American (Oregonian)"
+ pennamite:0 "American (Pennamite)"
+ riverian:0 "American (Riverian)"
+ texan:0 "American (Texan)"
+ wallisian:0 "American (Wallisian)"
+
+ argentine:0 "Anglo-Colonial (Argentine)"
+ coabano:0 "Anglo-Colonial (Coabano)"
+ nichi_ei:0 "Anglo-Colonial (Nichi-Ei)"
+ draxian:0 "Anglo-Colonial (Draxian)"
+
+ malagasy:0 "Austronesian (Malagasy)"
+
+ chewa:0 "Bantu (Chewa)"
+ komori:0 "Bantu (Komori)"
+ kongo:0 "Bantu (Kongo)"
+ makua:0 "Bantu (Makua)"
+ nguni:0 "Bantu (Nguni)"
+ shona:0 "Bantu (Shona)"
+
+ cornish:0 "British (Cornish)"
+ english:0 "British (English)"
+ welsh:0 "British (Welsh)"
+
+ hungarian:0 "Carpathian (Hungarian)"
+
+ chimila:0 "Chibchan (Chimila)"
+ guahibo:0 "Chibchan (Guahibo)"
+ lenca:0 "Chibchan (Lenca)"
+ miskito:0 "Chibchan (Miskito)"
+ rama:0 "Chibchan (Rama)"
+
+ han:0 "Chinese (Han)"
+
+ dheyvi:0 "Dravidian (Dheyvi)"
+ indoguyanese:0 "Dravidian (Indo-Guyanese)"
+
+ byelorussian:0 "East Slavic (Byelorussian)"
+ muscovite:0 "East Slavic (Muscovite)"
+ novgorodian:0 "East Slavic (Novgorodian)"
+ ukrainian:0 "East Slavic (Ukrainian)"
+
+ burgundian:0 "Francien (Burgundian)"
+ french:0 "Francien (French)"
+
+ acadian:0 "Franco-American (Acadian)"
+ cajun:0 "Franco-American (Cajun)"
+ equinoxiale:0 "Franco-American (Équinoxiale)"
+
+ avonturier:0 "Germanic (Avonturier)"
+ dutch:0 "Germanic (Dutch)"
+ frisian:0 "Germanic (Frisian)"
+ hagendeutsch:0 "Germanic (Hagendeutsch)"
+ low_saxon:0 "Germanic (Low Saxon)"
+ north_frisian:0 "Germanic (North Frisian)"
+ oostengellander:0 "Germanic (Oostengellander)"
+ plautdietsch:0 "Germanic (Plautdietsch)"
+ prussian:0 "Germanic (Prussian)"
+ ruritanian:0 "Germanic (Ruritanian)"
+ welserlander:0 "Germanic (Welser)"
+
+ qivruli:0 "Hebrew (Qivruli)"
+ sephardi:0 "Hebrew (Sephardi)"
+
+ persian:0 "Iranic (Persian)"
+
+ seneca:0 "Iroquoian (Seneca)"
+ wyandot:0 "Iroquoian (Wyandot)"
+
+ yamato:0 "Japanese (Yamato)"
+
+ chan:0 "Japhetic (Chan)"
+ hayk:0 "Japhetic (Hayk)"
+ karto:0 "Japhetic (Karto)"
+
+ fulbio:0 "Jê (Fulniô)"
+ mebengokre:0 "Jê (Mebêngôkre)"
+
+ amerikal:0 "Karayipler (Amerikal)"
+ disturk:0 "Karayipler (Disturk)"
+ fredonyan:0 "Karayipler (Fredonyan)"
+ kreol:0 "Karayipler (Kreol)"
+
+ joseon_in:0 "Korean (Samhan)"
+
+ chicano:0 "Latin American (Chicano)"
+ colombiano:0 "Latin American (Colombiano)"
+ mexican:0 "Latin American (Mexican)"
+
+ minhotan:0 "Lusotropical (Minhotan)"
+ papiamento:0 "Lusotropical (Papiamento)"
+ tropican:0 "Lusotropical (Trópican)"
+
+ eastindian:0 "Malay (East Indian)"
+
+ bushinengue:0 "Maroon (Bushinengue)"
+ kromantyn:0 "Maroon (Kromantyn)"
+ garifuna:0 "Maroon (Garifuna)"
+ llanero:0 "Maroon (Llanero)"
+ quilombola:0 "Maroon (Quilombola)"
+
+ chorti:0 "Maya (Chorti)"
+ itza:0 "Maya (Itza)"
+ quiche:0 "Maya (Quiché)"
+
+ khmer:0 "Mon-Khmer (Khmer)"
+
+ morisco:0 "Moorish (Morisco)"
+
+ atakapa:0 "Muskogean (Atakapa)"
+
+ apache:0 "Na-Dene (Apache)"
+ navajo:0 "Na-Dene (Navajo)"
+
+ zuni:0 "Penutian (Zuni)"
+
+ quillamaru:0 "Quechumaran (Quillamaru)"
+
+ gitano:0 "Rom (Gitano)"
+
+ saka:0 "Scythian (Saka)"
+
+ keres:0 "Siouan (Keres)"
+
+ andalusian:0 "Spanish (Andalusian)"
+
+ akawaio:0 "Taino (Akawaio)"
+ carib:0 "Taino (Carib)"
+ kampot:0 "Taino (Kampot)"
+ karipuna:0 "Taino (Karipúna)"
+ makushi:0 "Taino (Makushi)"
+ patamona:0 "Taino (Patamona)"
+ puinave:0 "Taino (Puinave)"
+ taya:0 "Taino (Tayá)"
+ uaiana:0 "Taino (Uaiana)"
+ wapishana:0 "Taino (Wapishana)"
+ wayuu:0 "Taino (Wayuu)"
+
+ munduruku:0 "Tupi (Munduruku)"
+ wayampi:0 "Tupi (Wayampi)"
+
+ hopi:0 "Uto-Aztecan (Hopi)"
+ oodham:0 "Uto-Aztecan (O'odham)"
+ paiute:0 "Uto-Aztecan (Paiute)"
+ ute:0 "Uto-Aztecan (Ute)"
+
+ cocopah:0 "Yuman (Cocopah)"
+ havasupai:0 "Yuman (Havasupai)"
+ hualapai:0 "Yuman (Hualapai)"
+ kumeyaay:0 "Yuman (Kumeyaay)"
+ maricopa:0 "Yuman (Maricopa)"
+ mohave:0 "Yuman (Mohave)"
+ quechan:0 "Yuman (Quechan)"
+ yavapai:0 "Yuman (Yavapai)"

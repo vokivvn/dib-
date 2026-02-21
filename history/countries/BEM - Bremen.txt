@@ -1,0 +1,54 @@
+﻿capital = 1479
+
+#set_oob = "BEM_1936"
+
+set_country_flag = has_double_leader
+set_country_flag = carlgustaf2
+
+set_variable = { BEM.CULTURE = 113 }
+set_variable = { BEM.RELIGION = 70 }
+
+set_research_slots = 3
+set_stability = 0.5
+add_command_power = 20
+
+# Starting tech
+set_technology = {
+	infantry_weapons = 1
+	infantry_weapons1 = 1
+	tech_support = 1
+	tech_engineers = 1
+	tech_recon = 1
+	tech_mountaineers = 1
+	tech_trucks = 1
+	motorised_infantry = 1
+	gw_artillery = 1
+	interwar_antiair = 1
+	trench_warfare = 1
+	fleet_in_being = 1
+	fuel_silos = 1
+	fuel_refining = 1
+	basic_train = 1
+}
+
+set_convoys = 130
+
+set_politics = {
+	ruling_party = marxism
+	last_election = "1932.5.1"
+	election_frequency = 48
+	elections_allowed = no
+}
+set_popularities = {
+	marxism = 100
+}
+
+create_country_leader = {
+	name = "Rudolf Meidner"
+	desc = ""
+	picture = "gfx/leaders/BEM/Rudolf_Meidner.png"
+	expire = "2000.1.1"
+	ideology = guild_socialism
+	traits = {
+	}
+}

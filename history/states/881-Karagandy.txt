@@ -1,0 +1,38 @@
+
+state={
+	id=881
+	name="STATE_881"
+
+	history={
+		owner = KAZ
+		victory_points = {
+			12194 10 
+		}
+		victory_points = {
+			10268 5 
+		}
+		victory_points = {
+			10179 5 
+		}
+		victory_points = {
+			4250 3 
+		}
+		victory_points = {
+			12285 3 
+		}
+		add_core_of = KAZ
+		buildings = {
+			infrastructure = 2
+
+		}
+
+	}
+
+	provinces={
+		1243 1382 1402 4250 4277 4389 4850 7335 7383 10179 10268 12111 12194 12266 12285 
+	}
+	manpower=227016
+	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=0.000
+}

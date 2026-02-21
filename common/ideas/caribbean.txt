@@ -1,0 +1,96 @@
+ideas = {
+	country = {
+			CNC_Pirate_Presidency = {
+			picture = CNC_Pirate_Presidency
+			allowed = {
+				tag = CNC
+			}
+
+            available = {
+               	tag = CNC
+            }
+
+            cancel = {
+              
+            }
+
+			allowed_civil_war = {
+				always = no
+			}
+			
+			modifier = {
+			political_power_cost = 0.1
+    		stability_factor = -0.2
+			}
+		}
+		CNC_Clearwater_Connections = {
+			picture = CNC_Clearwater_Connections
+			allowed = {
+				tag = CNC
+			}
+
+            available = {
+               	tag = CNC
+            }
+
+            cancel = {
+              
+            }
+
+			allowed_civil_war = {
+				always = no
+			}
+			
+			modifier = {
+			political_power_cost = 0.1
+    		stability_factor = -0.2
+			}
+		}
+		FLO_Boiling_Over = {
+			picture = FLO_Boiling_Over
+			allowed = {
+				tag = FLO
+			}
+
+            available = {
+               	tag = FLO
+            }
+
+            cancel = {
+              
+            }
+
+			allowed_civil_war = {
+				always = no
+			}
+			
+			modifier = {
+			political_power_cost = 0.1
+    		stability_factor = -0.2
+			}
+		}
+		BAH_Whore_Of_The_Caribbean = {
+			picture = BAH_Whore_Of_The_Caribbean
+			allowed = {
+				tag = BAH
+			}
+
+            available = {
+               	tag = BAH
+            }
+
+            cancel = {
+              
+            }
+
+			allowed_civil_war = {
+				always = no
+			}
+			
+			modifier = {
+			political_power_cost = 0.1
+    		stability_factor = -0.2
+			}
+		}
+	}
+}

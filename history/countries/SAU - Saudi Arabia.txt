@@ -1,0 +1,45 @@
+﻿capital = 292
+
+#oob = "SAU_1936"
+
+# Starting tech
+set_technology = {
+	infantry_weapons = 1
+	tech_trucks = 1
+}
+if = {
+	limit = {
+		NOT = { has_dlc = "No Step Back" }
+	}
+	set_technology = {
+		gwtank = 1
+	}
+}
+
+if = {
+	limit = {
+		has_dlc = "Battle for the Bosporus"
+	}
+	set_technology = { camelry = 1 }
+}
+
+set_convoys = 5
+
+set_politics = {
+	ruling_party = oriental_despotism
+	last_election = "1936.1.1"
+	election_frequency = 48
+	elections_allowed = no
+}
+set_popularities = {
+	oriental_despotism = 100
+}
+create_country_leader = {
+	name = "Abd al-Ilah"
+	desc = ""
+	picture = "gfx/leaders/SAU/Abd_al-Ilah.png"
+	expire = "2000.1.1"
+	ideology = islamic_theocracy
+	traits = {
+	}
+}

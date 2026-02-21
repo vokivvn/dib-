@@ -1,0 +1,24 @@
+state={
+	id=1620
+	name="STATE_1620"
+
+	history = {
+		owner = VEG
+		victory_points = {
+			16518 1
+		}
+		buildings = {
+			infrastructure = 1
+		}
+		add_core_of = VEG
+		add_claim_by = NEV
+	}
+
+	provinces={
+		16518 16522 16523 
+	}
+	manpower=820
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+	local_supplies=0.000
+}

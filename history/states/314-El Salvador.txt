@@ -1,0 +1,32 @@
+state=
+{
+	id=314
+	name="STATE_314"
+	manpower = 	395494
+	
+	state_category = town
+	
+	history={
+		owner = HON
+		buildings = {
+			infrastructure = 2
+			arms_factory = 1
+			industrial_complex = 2 
+			14319 = {
+				naval_base = 4
+			}
+		}
+		add_core_of = HON
+		victory_points = {
+			14319 5
+		}
+		victory_points = {
+			14314 3
+		}
+	}
+	provinces={
+		13093 14314 14315 14318 14319 14322 
+	}
+
+	local_supplies=0.0 
+}

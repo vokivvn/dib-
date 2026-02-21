@@ -1,0 +1,45 @@
+
+state={
+	id=318
+	name="STATE_318"
+	resources={
+		chromium=2.000
+	}
+
+	history={
+		owner = JAM
+		buildings = {
+			infrastructure = 2
+			arms_factory = 1
+			industrial_complex = 2
+			air_base = 1
+			4641 = {
+				naval_base = 3
+
+			}
+
+		}
+		add_core_of = JAM
+		victory_points = {
+			13752 10
+		}
+		victory_points = {
+			13754 10
+		}
+		victory_points = {
+			13751 5
+		}
+		victory_points = {
+			13756 3
+		}
+
+	}
+
+	provinces={
+		1594 13750 13751 13752 13753 13754 13756 13757 
+	}
+	manpower=2089951
+	buildings_max_level_factor=1.000
+	state_category=city
+	local_supplies=0.000
+}

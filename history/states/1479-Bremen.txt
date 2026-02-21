@@ -1,0 +1,27 @@
+state={
+	id=1479
+	name="STATE_1479"
+
+	history={
+		victory_points = {
+			3326 15 
+		}
+		owner = BEM
+		buildings = {
+			infrastructure = 5
+			telecom_infrastructure = 3
+			arms_factory = 1
+			industrial_complex = 4
+			air_base = 1
+		}
+		add_core_of = BEM
+	}
+
+	provinces={
+		3326 
+	}
+	manpower=551219
+	buildings_max_level_factor=1.000
+	state_category=city
+	local_supplies=0.000
+}

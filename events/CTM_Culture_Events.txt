@@ -1,0 +1,792 @@
+add_namespace = CTM
+
+country_event = {
+    id = CTM.1
+    immediate = {
+        1205 = { set_variable = { 1205.nationality = 35 } } #Amerikal
+	    set_variable = { 1203.nationality = 35 }
+        set_variable = { 1208.nationality = 35 }
+        set_variable = { 1204.nationality = 35 }
+        set_variable = { 1211.nationality = 35 }
+        set_variable = { 1210.nationality = 35 }
+        set_variable = { 1212.nationality = 35 }
+        set_variable = { 317.nationality = 35 }
+        set_variable = { 1234.nationality = 35 }
+
+        set_variable = { 1468.nationality = 103 } #Delaware
+        set_variable = { 1474.nationality = 103 }
+        set_variable = { 1473.nationality = 103 }
+
+        set_variable = { 1470.nationality = 104 } #Ottawa
+        set_variable = { 1471.nationality = 104 }
+        set_variable = { 1472.nationality = 104 }
+
+        set_variable = { 1232.nationality = 106 } #Wiyot
+
+        set_variable = { 1475.nationality = 107 } #Miami
+
+        set_variable = { 1478.nationality = 105 } #Shawnee
+        set_variable = { 805.nationality = 105 }
+
+        set_variable = { 1466.nationality = 109 } #Wyandot
+        set_variable = { 1467.nationality = 109 }
+        set_variable = { 1469.nationality = 109 }
+
+        set_variable = { 1476.nationality = 108 } #Seneca
+        set_variable = { 1477.nationality = 108 }
+
+        set_variable = { 976.nationality = 3 } #Californian
+        set_variable = { 1038.nationality = 3 }
+        set_variable = { 321.nationality = 3 }
+        set_variable = { 85.nationality = 3 }
+        set_variable = { 378.nationality = 3 }
+        set_variable = { 975.nationality = 3 }
+        set_variable = { 977.nationality = 3 }
+        set_variable = { 845.nationality = 3 }
+        set_variable = { 802.nationality = 3 }
+        set_variable = { 974.nationality = 3 }
+        set_variable = { 1030.nationality = 3 }
+        set_variable = { 1225.nationality = 3 }
+        set_variable = { 1226.nationality = 3 }
+        set_variable = { 1229.nationality = 3 }
+        set_variable = { 1228.nationality = 3 }
+        set_variable = { 1223.nationality = 3 }
+        set_variable = { 1224.nationality = 3 }
+        set_variable = { 1219.nationality = 3 }
+        set_variable = { 1218.nationality = 3 }
+        set_variable = { 1217.nationality = 3 }
+        set_variable = { 1216.nationality = 3 }
+        set_variable = { 1221.nationality = 3 }
+        set_variable = { 1220.nationality = 3 }
+        set_variable = { 1222.nationality = 3 }
+        set_variable = { 1230.nationality = 3 }
+
+        set_variable = { 1416.nationality = 91 } #Arizonan
+        set_variable = { 1429.nationality = 91 }
+        set_variable = { 1420.nationality = 91 }
+        set_variable = { 1422.nationality = 91 }
+        set_variable = { 1446.nationality = 91 }
+        set_variable = { 1437.nationality = 91 }
+        set_variable = { 377.nationality = 91 }
+        set_variable = { 1452.nationality = 91 }
+        set_variable = { 1447.nationality = 91 }
+        set_variable = { 1436.nationality = 91 }
+        set_variable = { 1432.nationality = 91 }
+        set_variable = { 1430.nationality = 91 }
+        set_variable = { 1426.nationality = 91 }
+        set_variable = { 1427.nationality = 91 }
+        set_variable = { 1431.nationality = 91 }
+        set_variable = { 1441.nationality = 91 }
+        set_variable = { 1453.nationality = 91 }
+        set_variable = { 1431.nationality = 91 }
+        set_variable = { 1460.nationality = 91 }
+        set_variable = { 1465.nationality = 91 }
+        set_variable = { 1445.nationality = 91 }
+        set_variable = { 1458.nationality = 91 }
+        set_variable = { 1584.nationality = 91 }
+        set_variable = { 1582.nationality = 91 }
+        set_variable = { 1585.nationality = 91 }
+
+        set_variable = { 483.nationality = 6 } #Mexican-American
+        set_variable = { 228.nationality = 6 }
+        set_variable = { 482.nationality = 6 }
+        set_variable = { 481.nationality = 6 }
+        set_variable = { 480.nationality = 6 }
+        set_variable = { 479.nationality = 6 }
+        set_variable = { 1583.nationality = 6 }
+        set_variable = { 1581.nationality = 6 }
+        set_variable = { 1586.nationality = 6 }
+        set_variable = { 1587.nationality = 6 }
+        set_variable = { 1549.nationality = 6 }
+        set_variable = { 1550.nationality = 6 }
+        set_variable = { 1551.nationality = 6 }
+        set_variable = { 1552.nationality = 6 }
+        set_variable = { 1553.nationality = 6 }
+        set_variable = { 1554.nationality = 6 }
+        set_variable = { 1555.nationality = 6 }
+        set_variable = { 1556.nationality = 6 }
+        set_variable = { 1557.nationality = 6 }
+        set_variable = { 1571.nationality = 6 }
+        set_variable = { 1570.nationality = 6 }
+        set_variable = { 1569.nationality = 6 }
+        set_variable = { 1565.nationality = 6 }
+        set_variable = { 1576.nationality = 6 }
+        set_variable = { 1577.nationality = 6 }
+        set_variable = { 1575.nationality = 6 }
+        set_variable = { 1578.nationality = 6 }
+        set_variable = { 1572.nationality = 6 }
+        set_variable = { 1564.nationality = 6 }
+        set_variable = { 1567.nationality = 6 }
+        set_variable = { 1560.nationality = 6 }
+        set_variable = { 1573.nationality = 6 }
+        set_variable = { 1559.nationality = 6 }
+        set_variable = { 484.nationality = 6 }
+        set_variable = { 1558.nationality = 6 }
+
+        set_variable = { 1574.nationality = 122 } #Chicano
+        set_variable = { 1561.nationality = 122 }
+        set_variable = { 1562.nationality = 122 }
+
+        set_variable = { 1037.nationality = 8 } #Nevadan
+        set_variable = { 1035.nationality = 8 }
+        set_variable = { 1038.nationality = 8 }
+        set_variable = { 1039.nationality = 8 }
+        set_variable = { 1034.nationality = 8 }
+        set_variable = { 379.nationality = 8 }
+        set_variable = { 1042.nationality = 8 }
+        set_variable = { 1036.nationality = 8 }
+        set_variable = { 1040.nationality = 8 }
+        set_variable = { 1041.nationality = 8 }
+
+        set_variable = { 380.nationality = 7 } #Nauvooan
+
+        set_variable = { 827.nationality = 11 } #Oregonian
+        set_variable = { 593.nationality = 11 }
+        set_variable = { 386.nationality = 11 }
+        set_variable = { 828.nationality = 11 }
+        set_variable = { 598.nationality = 11 }
+        set_variable = { 609.nationality = 11 }
+        set_variable = { 233.nationality = 11 }
+        set_variable = { 826.nationality = 11 }
+        set_variable = { 749.nationality = 11 }
+        set_variable = { 613.nationality = 11 }
+        set_variable = { 385.nationality = 11 }
+        set_variable = { 387.nationality = 11 }
+        set_variable = { 599.nationality = 11 }
+
+        set_variable = { 1019.nationality = 28 } #Acadian
+        set_variable = { 1018.nationality = 28 }
+
+        set_variable = { 1029.nationality = 29 } #Cajun
+        set_variable = { 1028.nationality = 29 }
+
+        set_variable = { 1637.nationality = 126 } #Equinoxiale
+        set_variable = { 1120.nationality = 126 }
+        set_variable = { 1635.nationality = 126 }
+        set_variable = { 1639.nationality = 126 }
+        set_variable = { 1640.nationality = 126 }
+        set_variable = { 1641.nationality = 126 }
+        set_variable = { 1636.nationality = 126 }
+        set_variable = { 1638.nationality = 126 }
+
+        set_variable = { 1000.nationality = 5 } #Hoosier
+        set_variable = { 1001.nationality = 5 }
+        set_variable = { 396.nationality = 5 }
+        set_variable = { 1002.nationality = 5 }
+        set_variable = { 1000.nationality = 5 }
+        set_variable = { 1000.nationality = 5 }
+
+        set_variable = { 994.nationality = 12 } #Pennamite
+        set_variable = { 1054.nationality = 12 }
+        set_variable = { 360.nationality = 12 }
+        set_variable = { 1059.nationality = 12 }
+        set_variable = { 1057.nationality = 12 }
+        set_variable = { 995.nationality = 12 }
+        set_variable = { 1058.nationality = 12 }
+        set_variable = { 993.nationality = 12 }
+
+        set_variable = { 1060.nationality = 9 } #New English
+        set_variable = { 320.nationality = 9 }
+        set_variable = { 1055.nationality = 9 }
+        set_variable = { 846.nationality = 9 }
+        set_variable = { 1061.nationality = 9 }
+        set_variable = { 1053.nationality = 9 }
+        set_variable = { 745.nationality = 9 }
+        set_variable = { 728.nationality = 9 }
+        set_variable = { 1414.nationality = 9 }
+        set_variable = { 1415.nationality = 9 }
+        set_variable = { 357.nationality = 9 }
+        set_variable = { 1020.nationality = 9 }
+        set_variable = { 743.nationality = 9 }
+        set_variable = { 1032.nationality = 9 }
+
+        set_variable = { 1085.nationality = 4 } #Floridian
+        set_variable = { 1084.nationality = 4 }
+        set_variable = { 848.nationality = 4 }
+        set_variable = { 1083.nationality = 4 }
+        set_variable = { 978.nationality = 4 }
+        set_variable = { 980.nationality = 4 }
+        set_variable = { 981.nationality = 4 }
+        set_variable = { 1082.nationality = 4 }
+        set_variable = { 1079.nationality = 4 }
+        set_variable = { 979.nationality = 4 }
+        set_variable = { 1080.nationality = 4 }
+        set_variable = { 188.nationality = 4 }
+        set_variable = { 803.nationality = 4 }
+
+        set_variable = { 1086.nationality = 2 } #Alleghenian
+        set_variable = { 1331.nationality = 2 }
+        set_variable = { 1341.nationality = 2 }
+        set_variable = { 1342.nationality = 2 }
+        set_variable = { 1340.nationality = 2 }
+        set_variable = { 1344.nationality = 2 }
+        set_variable = { 1354.nationality = 2 }
+        set_variable = { 1355.nationality = 2 }
+        set_variable = { 1356.nationality = 2 }
+        set_variable = { 1343.nationality = 2 }
+        set_variable = { 1346.nationality = 2 }
+        set_variable = { 1353.nationality = 2 }
+        set_variable = { 1345.nationality = 2 }
+        set_variable = { 1352.nationality = 2 }
+        set_variable = { 1347.nationality = 2 }
+        set_variable = { 1348.nationality = 2 }
+        set_variable = { 1325.nationality = 2 }
+        set_variable = { 1326.nationality = 2 }
+        set_variable = { 1322.nationality = 2 }
+
+        set_variable = { 1332.nationality = 76 } #McIntoshian
+
+        set_variable = { 1321.nationality = 74 } #Appalachian
+        set_variable = { 1320.nationality = 74 }
+        set_variable = { 1327.nationality = 74 }
+        set_variable = { 1324.nationality = 74 }
+        set_variable = { 1335.nationality = 74 }
+        set_variable = { 729.nationality = 74 }
+        set_variable = { 1333.nationality = 74 }
+        set_variable = { 1334.nationality = 74 }
+        set_variable = { 1056.nationality = 74 }
+
+        set_variable = { 1336.nationality = 75 } #Brazilian-American
+        set_variable = { 1337.nationality = 75 }
+        set_variable = { 1319.nationality = 75 }
+        set_variable = { 1349.nationality = 75 }
+
+        set_variable = { 1179.nationality = 59 } #Riverian
+        set_variable = { 1180.nationality = 59 }
+        set_variable = { 1181.nationality = 59 }
+        set_variable = { 1184.nationality = 59 }
+        set_variable = { 1185.nationality = 59 }
+        set_variable = { 1186.nationality = 59 }
+        set_variable = { 498.nationality = 59 }
+
+        set_variable = { 1172.nationality = 60 } #Wallisian
+        set_variable = { 1178.nationality = 60 }
+        set_variable = { 1177.nationality = 60 }
+
+        set_variable = { 1023.nationality = 15 } #Coabano
+        set_variable = { 315.nationality = 15 }
+        set_variable = { 1022.nationality = 15 }
+        set_variable = { 1024.nationality = 15 }
+        set_variable = { 1025.nationality = 15 }
+
+        set_variable = { 1068.nationality = 38 } #Kreol
+        set_variable = { 1069.nationality = 38 }
+        set_variable = { 1071.nationality = 38 }
+        set_variable = { 689.nationality = 38 }
+        set_variable = { 1072.nationality = 38 }
+        set_variable = { 319.nationality = 38 }
+        set_variable = { 1076.nationality = 38 }
+        set_variable = { 1078.nationality = 38 }
+        set_variable = { 1077.nationality = 38 }
+        set_variable = { 1074.nationality = 38 }
+        set_variable = { 691.nationality = 38 }
+        set_variable = { 1377.nationality = 38 }
+        set_variable = { 1376.nationality = 38 }
+
+        set_variable = { 1073.nationality = 37 } #Fredonyan
+        set_variable = { 1075.nationality = 37 }
+        set_variable = { 318.nationality = 37 }
+        set_variable = { 1067.nationality = 37 }
+        set_variable = { 988.nationality = 37 }
+        set_variable = { 1070.nationality = 37 }
+
+        set_variable = { 991.nationality = 32 } #Welser
+        set_variable = { 1252.nationality = 32 }
+        set_variable = { 1250.nationality = 32 }
+        set_variable = { 1265.nationality = 32 }
+        set_variable = { 1264.nationality = 32 }
+        set_variable = { 1262.nationality = 32 }
+        set_variable = { 1267.nationality = 32 }
+        set_variable = { 1278.nationality = 32 }
+
+        set_variable = { 1273.nationality = 64 } #Avonturier
+        set_variable = { 1275.nationality = 64 }
+        set_variable = { 1276.nationality = 64 }
+        set_variable = { 1277.nationality = 64 }
+        set_variable = { 489.nationality = 64 }
+        set_variable = { 1273.nationality = 64 }
+
+        set_variable = { 7.nationality = 30 } #Dutch
+        set_variable = { 35.nationality = 30 }
+        set_variable = { 36.nationality = 30 }
+
+        set_variable = { 1090.nationality = 39 } #Samhan
+        set_variable = { 1094.nationality = 39 }
+        set_variable = { 1092.nationality = 39 }
+        set_variable = { 1093.nationality = 39 }
+        set_variable = { 525.nationality = 39 }
+        set_variable = { 1091.nationality = 39 }
+
+        set_variable = { 1012.nationality = 16 } #Nichi-Ei
+        set_variable = { 1062.nationality = 16 }
+        set_variable = { 1017.nationality = 16 }
+        set_variable = { 1016.nationality = 16 }
+        set_variable = { 645.nationality = 16 }
+        set_variable = { 648.nationality = 16 }
+
+        set_variable = { 259.nationality = 25 } #Ukrainian
+        set_variable = { 193.nationality = 25 }
+        set_variable = { 202.nationality = 25 }
+        set_variable = { 203.nationality = 25 }
+        set_variable = { 201.nationality = 25 }
+        set_variable = { 199.nationality = 25 }
+
+        set_variable = { 122.nationality = 19 } #Welsh
+        set_variable = { 1141.nationality = 19 }
+
+        set_variable = { 338.nationality = 18 } #English
+        set_variable = { 128.nationality = 18 }
+        set_variable = { 129.nationality = 18 }
+        set_variable = { 126.nationality = 18 }
+        set_variable = { 127.nationality = 18 }
+        set_variable = { 130.nationality = 18 }
+        set_variable = { 132.nationality = 18 }
+        set_variable = { 1142.nationality = 18 }
+        set_variable = { 931.nationality = 18 }
+        set_variable = { 131.nationality = 18 }
+
+        set_variable = { 851.nationality = 26 } #Burgundian
+        set_variable = { 21.nationality = 26 }
+        set_variable = { 735.nationality = 26 }
+        set_variable = { 32.nationality = 26 }
+
+        set_variable = { 1198.nationality = 43 } #Colombiano
+        set_variable = { 1199.nationality = 43 }
+        set_variable = { 1191.nationality = 43 }
+        set_variable = { 1192.nationality = 43 }
+        set_variable = { 1195.nationality = 43 }
+        set_variable = { 314.nationality = 43 }
+        set_variable = { 1201.nationality = 43 }
+        set_variable = { 1202.nationality = 43 }
+        set_variable = { 306.nationality = 43 }
+
+        set_variable = { 1196.nationality = 44 } #Quiche
+        set_variable = { 1193.nationality = 44 }
+        set_variable = { 313.nationality = 44 }
+        set_variable = { 1194.nationality = 44 }
+        set_variable = { 1190.nationality = 44 }
+
+        set_variable = { 1188.nationality = 45 } #Chorti
+        set_variable = { 1197.nationality = 45 }
+        set_variable = { 1206.nationality = 45 }
+        set_variable = { 1209.nationality = 45 }
+        set_variable = { 1189.nationality = 45 }
+
+        set_variable = { 1214.nationality = 46 } #Lenca
+        set_variable = { 1213.nationality = 46 }
+        set_variable = { 1200.nationality = 46 }
+        set_variable = { 1215.nationality = 46 }
+        set_variable = { 312.nationality = 46 }
+
+        set_variable = { 1173.nationality = 47 } #Itza
+        set_variable = { 311.nationality = 47 }
+
+        set_variable = { 1361.nationality = 72 } #Bushinengue
+        set_variable = { 1362.nationality = 72 }
+        set_variable = { 1363.nationality = 72 }
+        set_variable = { 1403.nationality = 72 }
+        set_variable = { 1400.nationality = 72 }
+        set_variable = { 310.nationality = 72 }
+        set_variable = { 1402.nationality = 72 }
+        set_variable = { 1392.nationality = 72 }
+        set_variable = { 1394.nationality = 72 }
+        set_variable = { 1396.nationality = 72 }
+        set_variable = { 1397.nationality = 72 }
+
+        set_variable = { 1374.nationality = 82 } #Kromantyn
+        set_variable = { 1383.nationality = 82 }
+        set_variable = { 1382.nationality = 82 }
+        set_variable = { 687.nationality = 82 }
+        set_variable = { 1388.nationality = 82 }
+        set_variable = { 309.nationality = 82 }
+        set_variable = { 1398.nationality = 82 }
+
+        set_variable = { 1207.nationality = 48 } #Garifuna
+        set_variable = { 1174.nationality = 48 }
+        set_variable = { 1187.nationality = 48 }
+
+        set_variable = { 1280.nationality = 121 } #Llanero
+        set_variable = { 1279.nationality = 121 }
+        set_variable = { 307.nationality = 121 }
+        set_variable = { 1257.nationality = 121 }
+        set_variable = { 1256.nationality = 121 }
+        set_variable = { 1255.nationality = 121 }
+
+        set_variable = { 1503.nationality = 118 } #Quilombola
+        set_variable = { 1505.nationality = 118 }
+        set_variable = { 1504.nationality = 118 }
+        set_variable = { 1518.nationality = 118 }
+        set_variable = { 1521.nationality = 118 }
+
+        set_variable = { 1175.nationality = 49 } #Plautdietsch
+
+        set_variable = { 1496.nationality = 113 } #Low Saxon
+        set_variable = { 1494.nationality = 113 }
+        set_variable = { 1493.nationality = 113 }
+        set_variable = { 1495.nationality = 113 }
+        set_variable = { 1482.nationality = 113 }
+        set_variable = { 1480.nationality = 113 }
+        set_variable = { 1483.nationality = 113 }
+        set_variable = { 1481.nationality = 113 }
+        set_variable = { 1479.nationality = 113 }
+        set_variable = { 1499.nationality = 113 }
+        set_variable = { 1498.nationality = 113 }
+        set_variable = { 1497.nationality = 113 }
+        set_variable = { 1500.nationality = 113 }
+        set_variable = { 1501.nationality = 113 }
+        set_variable = { 1502.nationality = 113 }
+        set_variable = { 58.nationality = 113 }
+        set_variable = { 909.nationality = 113 }
+
+        set_variable = { 1485.nationality = 114 } #North Frisian
+        set_variable = { 1486.nationality = 114 }
+        set_variable = { 1487.nationality = 114 }
+        set_variable = { 1484.nationality = 114 }
+
+        set_variable = { 1305.nationality = 50 } #Frisian
+        set_variable = { 1308.nationality = 50 }
+        set_variable = { 1106.nationality = 50 }
+        set_variable = { 1307.nationality = 50 }
+        set_variable = { 1306.nationality = 50 }
+        set_variable = { 1304.nationality = 50 }
+        set_variable = { 1176.nationality = 50 }
+
+        set_variable = { 1107.nationality = 67 } #Ruritanian
+        set_variable = { 1293.nationality = 67 }
+        set_variable = { 1294.nationality = 67 }
+        set_variable = { 1295.nationality = 67 }
+        set_variable = { 1296.nationality = 67 }
+        set_variable = { 1297.nationality = 67 }
+        set_variable = { 1302.nationality = 67 }
+        set_variable = { 1303.nationality = 67 }
+        set_variable = { 1105.nationality = 67 }
+        set_variable = { 1298.nationality = 67 }
+        set_variable = { 1299.nationality = 67 }
+        set_variable = { 1301.nationality = 67 }
+        set_variable = { 1300.nationality = 67 }
+
+        set_variable = { 125.nationality = 68 } #Oostengellander
+        set_variable = { 1289.nationality = 68 }
+        set_variable = { 1288.nationality = 68 }
+        set_variable = { 1290.nationality = 68 }
+        set_variable = { 1291.nationality = 68 }
+        set_variable = { 1292.nationality = 68 }
+
+        set_variable = { 938.nationality = 119 } #Munduruku
+        set_variable = { 1536.nationality = 119 }
+        set_variable = { 1535.nationality = 119 }
+        set_variable = { 1533.nationality = 119 }
+        set_variable = { 1534.nationality = 119 }
+
+        set_variable = { 1182.nationality = 51 } #Fulnio
+        set_variable = { 935.nationality = 51 }
+        set_variable = { 1183.nationality = 51 }
+
+        set_variable = { 1364.nationality = 73 } #Wayampi
+        set_variable = { 1366.nationality = 73 }
+        set_variable = { 1365.nationality = 73 }
+        set_variable = { 1360.nationality = 73 }
+
+        set_variable = { 155.nationality = 20 } #Hungarian
+        set_variable = { 43.nationality = 20 }
+        set_variable = { 154.nationality = 20 }
+
+        set_variable = { 1033.nationality = 52 } #Atakapa
+
+        set_variable = { 478.nationality = 53 } #Mexican
+        set_variable = { 485.nationality = 53 }
+        set_variable = { 277.nationality = 53 }
+        set_variable = { 477.nationality = 53 }
+        set_variable = { 476.nationality = 53 }
+        set_variable = { 1052.nationality = 53 }
+
+        set_variable = { 763.nationality = 31 } #Prussian
+        set_variable = { 5.nationality = 31 }
+        set_variable = { 807.nationality = 31 }
+        set_variable = { 86.nationality = 31 }
+        set_variable = { 68.nationality = 31 }
+        set_variable = { 64.nationality = 31 }
+
+        set_variable = { 16.nationality = 27 } #French
+        set_variable = { 785.nationality = 27 }
+        set_variable = { 29.nationality = 27 }
+        set_variable = { 24.nationality = 27 }
+        set_variable = { 15.nationality = 27 }
+        set_variable = { 30.nationality = 27 }
+        set_variable = { 27.nationality = 27 }
+        set_variable = { 18.nationality = 27 }
+        set_variable = { 17.nationality = 27 }
+        set_variable = { 33.nationality = 27 }
+        set_variable = { 23.nationality = 27 }
+
+        set_variable = { 1102.nationality = 1 } #Afro-American
+        set_variable = { 1098.nationality = 1 }
+        set_variable = { 1351.nationality = 1 }
+        set_variable = { 1350.nationality = 1 }
+        set_variable = { 290.nationality = 1 }
+        set_variable = { 365.nationality = 1 }
+        set_variable = { 1338.nationality = 1 }
+        set_variable = { 1318.nationality = 1 }
+        set_variable = { 1339.nationality = 1 }
+        set_variable = { 1323.nationality = 1 }
+
+        set_variable = { 1235.nationality = 54 } #Miskito
+        set_variable = { 1238.nationality = 54 }
+        set_variable = { 1237.nationality = 54 }
+        set_variable = { 1233.nationality = 54 }
+        set_variable = { 1236.nationality = 54 }
+        set_variable = { 1239.nationality = 54 }
+
+        set_variable = { 998.nationality = 55 } #Rama
+
+        set_variable = { 1261.nationality = 63 } #Chimila
+
+        set_variable = { 1258.nationality = 58 } #Puinave
+
+        set_variable = { 1263.nationality = 62 } #Wayuu
+        set_variable = { 1259.nationality = 62 }
+
+        set_variable = { 1401.nationality = 65 } #Carib
+        set_variable = { 1381.nationality = 65 }
+
+        set_variable = { 1380.nationality = 77 } #Akawaio
+
+        set_variable = { 1378.nationality = 78 } #Makushi
+
+        set_variable = { 1379.nationality = 79 } #Patamona
+
+        set_variable = { 1384.nationality = 80 } #Uaiana
+        set_variable = { 1386.nationality = 80 }
+        set_variable = { 1385.nationality = 80 }
+        set_variable = { 1395.nationality = 80 }
+        set_variable = { 1399.nationality = 80 }
+
+        set_variable = { 1369.nationality = 81 } #Wapishana
+        set_variable = { 1370.nationality = 81 }
+
+        set_variable = { 1281.nationality = 66 } #Taya
+        set_variable = { 1282.nationality = 66 }
+        set_variable = { 1283.nationality = 66 }
+        set_variable = { 1284.nationality = 66 }
+        set_variable = { 1285.nationality = 66 }
+        set_variable = { 1286.nationality = 66 }
+        set_variable = { 1287.nationality = 66 }
+        set_variable = { 1121.nationality = 66 }
+
+        set_variable = { 1508.nationality = 117 } #Kampot
+        set_variable = { 1509.nationality = 117 }
+        set_variable = { 1510.nationality = 117 }
+
+        set_variable = { 1367.nationality = 71 } #Karipuna
+        set_variable = { 939.nationality = 71 }
+        set_variable = { 1368.nationality = 71 }
+        set_variable = { 1357.nationality = 71 }
+        set_variable = { 1358.nationality = 71 }
+        set_variable = { 1359.nationality = 71 }
+
+        set_variable = { 1253.nationality = 57 } #Guahibo
+
+        set_variable = { 486.nationality = 56 } #Minhotan
+        set_variable = { 493.nationality = 56 }
+        set_variable = { 1247.nationality = 56 }
+        set_variable = { 1248.nationality = 56 }
+        set_variable = { 1246.nationality = 56 }
+        set_variable = { 1254.nationality = 56 }
+        set_variable = { 1251.nationality = 56 }
+        set_variable = { 1249.nationality = 56 }
+        set_variable = { 1245.nationality = 56 }
+        set_variable = { 1260.nationality = 56 }
+
+        set_variable = { 1270.nationality = 61 } #Papiamento
+        set_variable = { 1271.nationality = 61 }
+        set_variable = { 1272.nationality = 61 }
+        set_variable = { 695.nationality = 61 }
+        set_variable = { 1266.nationality = 61 }
+        set_variable = { 1274.nationality = 61 }
+
+        set_variable = { 1488.nationality = 116 } #Tropican
+        set_variable = { 1491.nationality = 116 }
+        set_variable = { 1489.nationality = 116 }
+        set_variable = { 1490.nationality = 116 }
+        set_variable = { 1492.nationality = 116 }
+        set_variable = { 1514.nationality = 116 }
+        set_variable = { 1506.nationality = 116 }
+        set_variable = { 1511.nationality = 116 }
+        set_variable = { 1507.nationality = 116 }
+        set_variable = { 1513.nationality = 116 }
+        set_variable = { 1512.nationality = 116 }
+        set_variable = { 1520.nationality = 116 }
+        set_variable = { 1522.nationality = 116 }
+        set_variable = { 1526.nationality = 116 }
+        set_variable = { 1524.nationality = 116 }
+        set_variable = { 1527.nationality = 116 }
+        set_variable = { 1519.nationality = 116 }
+        set_variable = { 1531.nationality = 116 }
+        set_variable = { 1530.nationality = 116 }
+        set_variable = { 1532.nationality = 116 }
+
+        set_variable = { 281.nationality = 69 } #Dheyvi
+        set_variable = { 1312.nationality = 69 }
+        set_variable = { 1313.nationality = 69 }
+        set_variable = { 1316.nationality = 69 }
+        set_variable = { 1314.nationality = 69 }
+
+        set_variable = { 1371.nationality = 83 } #Indo-Guyanese
+        set_variable = { 1373.nationality = 83 }
+        set_variable = { 1372.nationality = 83 }
+        set_variable = { 1387.nationality = 83 }
+
+        set_variable = { 543.nationality = 70 } #Malagasy
+        set_variable = { 707.nationality = 70 }
+        set_variable = { 1309.nationality = 70 }
+        set_variable = { 1310.nationality = 70 }
+        set_variable = { 1315.nationality = 70 }
+        set_variable = { 1311.nationality = 70 }
+        set_variable = { 1139.nationality = 70 }
+        set_variable = { 1317.nationality = 70 }
+        set_variable = { 710.nationality = 70 }
+        set_variable = { 706.nationality = 70 }
+
+        set_variable = { 1657.nationality = 132 } #Qivruli
+        set_variable = { 1659.nationality = 132 }
+        set_variable = { 1662.nationality = 132 }
+        set_variable = { 1671.nationality = 132 }
+
+        set_variable = { 1375.nationality = 84 } #Sephardi
+        set_variable = { 1393.nationality = 84 }
+        set_variable = { 1593.nationality = 84 }
+
+        set_variable = { 1391.nationality = 85 } #East Indian
+        set_variable = { 1390.nationality = 85 }
+        set_variable = { 1389.nationality = 85 }
+
+        set_variable = { 1433.nationality = 92 } #Apache
+        set_variable = { 1434.nationality = 92 }
+        set_variable = { 1440.nationality = 92 }
+        set_variable = { 1459.nationality = 92 }
+
+        set_variable = { 1406.nationality = 86 } #Navajo
+        set_variable = { 1405.nationality = 86 }
+        set_variable = { 1409.nationality = 86 }
+        set_variable = { 1410.nationality = 86 }
+        set_variable = { 1408.nationality = 86 }
+        set_variable = { 1443.nationality = 86 }
+        set_variable = { 1444.nationality = 86 }
+        set_variable = { 1448.nationality = 86 }
+        set_variable = { 1442.nationality = 86 }
+        set_variable = { 1439.nationality = 86 }
+        set_variable = { 1463.nationality = 86 }
+        set_variable = { 1462.nationality = 86 }
+        set_variable = { 1461.nationality = 86 }
+        set_variable = { 1455.nationality = 86 }
+
+        set_variable = { 1411.nationality = 87 } #Hopi
+        set_variable = { 1412.nationality = 87 }
+        set_variable = { 996.nationality = 87 }
+
+        set_variable = { 1428.nationality = 93 } #O'odham
+        set_variable = { 1580.nationality = 93 }
+        set_variable = { 1579.nationality = 93 }
+
+        set_variable = { 1425.nationality = 94 } #Paiute
+
+        set_variable = { 1404.nationality = 88 } #Ute
+
+        set_variable = { 1407.nationality = 89 } #Zuni
+        set_variable = { 1438.nationality = 89 }
+        set_variable = { 1454.nationality = 89 }
+
+        set_variable = { 1421.nationality = 95 } #Cocopah
+
+        set_variable = { 1424.nationality = 96 } #Havasupai
+
+        set_variable = { 1423.nationality = 97 } #Hualapai
+
+        set_variable = { 1563.nationality = 128 } #Kumeyaay
+        set_variable = { 1568.nationality = 128 }
+        set_variable = { 1566.nationality = 128 }
+        
+        set_variable = { 1435.nationality = 98 } #Maricopa
+        set_variable = { 1449.nationality = 98 }
+
+        set_variable = { 1419.nationality = 99 } #Mohave
+        set_variable = { 1418.nationality = 99 }
+
+        set_variable = { 1417.nationality = 100 } #Quechan
+
+        set_variable = { 1451.nationality = 101 } #Yavapai
+        set_variable = { 1450.nationality = 101 }
+
+        set_variable = { 1456.nationality = 102 } #Keres
+        set_variable = { 1457.nationality = 102 }
+        set_variable = { 1464.nationality = 102 }
+        set_variable = { 503.nationality = 102 }
+
+        set_variable = { 1413.nationality = 90 } #Hagendeutsch
+
+        set_variable = { 1667.nationality = 133 } #Chewa
+
+        set_variable = { 1515.nationality = 111 } #Komori
+        set_variable = { 1516.nationality = 111 }
+        set_variable = { 1517.nationality = 111 }
+
+        set_variable = { 708.nationality = 112 } #Makua
+
+        set_variable = { 1651.nationality = 134 } #Nguni
+
+        set_variable = { 1664.nationality = 135 } #Shona
+        set_variable = { 1663.nationality = 135 }
+        set_variable = { 1661.nationality = 135 }
+        set_variable = { 1660.nationality = 135 }
+
+        set_variable = { 1523.nationality = 120 } #Mebêngôkre
+        set_variable = { 1525.nationality = 120 }
+        set_variable = { 1528.nationality = 120 }
+        set_variable = { 1529.nationality = 120 }
+
+        set_variable = { 1591.nationality = 123 } #Gitano
+        set_variable = { 1592.nationality = 123 }
+        set_variable = { 1594.nationality = 123 }
+
+        set_variable = { 1589.nationality = 124 } #Morisco
+
+        set_variable = { 1588.nationality = 125 } #Andalusian
+        set_variable = { 1590.nationality = 125 }
+
+        set_variable = { 1634.nationality = 127 } #Quillamaru
+        set_variable = { 1632.nationality = 127 }
+        set_variable = { 1633.nationality = 127 }
+
+        set_variable = { 1665.nationality = 129 } #Chan
+        set_variable = { 1666.nationality = 129 }
+        set_variable = { 1676.nationality = 129 }
+
+        set_variable = { 1647.nationality = 130 } #Hayk
+        set_variable = { 1653.nationality = 130 }
+        set_variable = { 1655.nationality = 130 }
+        set_variable = { 1652.nationality = 130 }
+        set_variable = { 1656.nationality = 130 }
+        set_variable = { 1654.nationality = 130 }
+        set_variable = { 1649.nationality = 130 }
+        set_variable = { 1648.nationality = 130 }
+        set_variable = { 1650.nationality = 130 }
+        set_variable = { 1676.nationality = 130 }
+        set_variable = { 1658.nationality = 130 }
+
+        set_variable = { 1672.nationality = 131 } #Karto
+        set_variable = { 1673.nationality = 131 }
+        set_variable = { 1676.nationality = 131 }
+        set_variable = { 1677.nationality = 131 }
+        set_variable = { 1675.nationality = 131 }
+        set_variable = { 1674.nationality = 131 }
+        set_variable = { 1646.nationality = 131 }
+        set_variable = { 1670.nationality = 131 }
+        set_variable = { 1668.nationality = 131 }
+        set_variable = { 1669.nationality = 131 }
+    }
+    title = CULTURE.1776.t
+	desc = CULTURE.1776.d
+    fire_only_once = yes
+	is_triggered_only = yes
+	hidden = yes
+}

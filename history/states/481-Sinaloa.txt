@@ -1,0 +1,36 @@
+
+state={
+	id=481
+	name="STATE_481" # Durango
+	manpower = 1255094
+	
+	state_category = rural
+	
+	history={
+		owner = CIH
+		buildings = {
+			infrastructure = 2
+			dockyard = 1
+			8057 = {
+				naval_base = 3
+			}
+		}
+		add_core_of = CIH
+		victory_points = {
+			7921 10
+		}
+		#victory_points = {
+		#	8057 10
+		#}
+		#victory_points = {
+		#	10895 5
+		#}
+	}
+
+	provinces={
+		4946 7921 8003 10853 10871 12804 13427
+	}
+	
+
+	local_supplies=6.0 
+}

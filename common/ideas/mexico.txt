@@ -1,0 +1,74 @@
+ideas = {
+	country = {
+		ATK_Thems_Good_Eatin = {
+			picture = ATK_Thems_Good_Eatin
+			allowed = {
+				tag = ATK
+			}
+
+            available = {
+               	tag = ATK
+            }
+
+            cancel = {
+              
+            }
+
+			allowed_civil_war = {
+				always = no
+			}
+			
+			modifier = {
+			political_power_cost = 0.1
+    		stability_factor = -0.15
+			drift_defence = -0.3
+			}
+		}
+		ATK_Bayou_Brotherhood = {
+			picture = ATK_Bayou_Brotherhood
+			allowed = {
+				tag = ATK
+			}
+
+            available = {
+               	tag = ATK
+            }
+
+            cancel = {
+              
+            }
+
+			allowed_civil_war = {
+				always = no
+			}
+			
+			modifier = {
+			political_power_gain = 0.07
+    		
+			}
+		}
+		ATK_The_Old_Ways = {
+			picture = ATK_The_Old_Ways
+			allowed = {
+				tag = ATK
+			}
+
+            available = {
+               	tag = ATK
+            }
+
+            cancel = {
+              
+            }
+
+			allowed_civil_war = {
+				always = no
+			}
+			
+			modifier = {
+			political_power_gain = 0.07
+    		
+			}
+		}
+	}
+}

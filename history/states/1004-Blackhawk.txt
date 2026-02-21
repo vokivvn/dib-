@@ -1,0 +1,33 @@
+state={
+	id=1004
+	name="STATE_1004"
+
+	history={
+		owner = IND
+		victory_points = {
+			10339 10 
+		}
+		victory_points = {
+			10393 5 
+		}
+		victory_points = {
+			12365 3 
+		}
+		buildings = {
+			infrastructure = 2
+			arms_factory = 1
+			industrial_complex = 1
+		}
+		add_core_of = IND
+		add_claim_by = MSP
+
+	}
+
+	provinces={
+		1527 4590 10339 10393 12365 
+	}
+	manpower=789345
+	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=0.000
+}

@@ -1,0 +1,39 @@
+
+state={
+	id=228
+	name="STATE_228"
+	manpower = 949879
+	
+	state_category = town
+
+	history={
+		owner = SON
+		victory_points = {
+			4977 5
+		}
+		victory_points = {
+			1945 3
+		}
+		victory_points = {
+			10895 1
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+			air_base = 2
+			1945 = {
+				naval_base = 3
+			}
+			10895 = {
+				naval_base = 1
+			}
+		}
+		add_core_of = SON
+	}
+
+	provinces={
+		1945 4977 8033 8057 10895
+	}
+
+	local_supplies=0.0 
+}

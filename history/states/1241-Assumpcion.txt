@@ -1,0 +1,28 @@
+state={
+	id=1241
+	name="STATE_1241"
+
+	history={
+		add_core_of = BAS
+		owner = BAS
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			dockyard = 1
+			11106 = {
+				naval_base = 1
+			}
+		}
+		victory_points = {
+			11106 5
+		}
+	}
+
+	provinces={
+		11106 
+	}
+	manpower=85123
+	buildings_max_level_factor=1.000
+	state_category=small_island
+	local_supplies=0.000
+}

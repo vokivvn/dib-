@@ -1,0 +1,29 @@
+state={
+	id=1230
+	name="STATE_1230"
+
+	history={
+		owner = CAL
+		victory_points = {
+			14412 10 
+		}
+		victory_points = {
+			14439 10 
+		}
+		buildings = {
+			infrastructure = 4
+			telecom_infrastructure = 2
+			industrial_complex = 1
+			office_building = 2
+		}
+		add_core_of = CAL
+	}
+
+	provinces={
+		3678 14412 14438 14439 
+	}
+	manpower=808732
+	buildings_max_level_factor=1.000
+	state_category=metropolis
+	local_supplies=0.000
+}

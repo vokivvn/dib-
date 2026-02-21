@@ -1,0 +1,37 @@
+
+state={
+	id=137
+	name="STATE_137"
+
+	history={
+		owner = CRI
+		victory_points = {
+			11649 10 
+		}
+		victory_points = {
+			3722 5
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			arms_factory = 1
+			dockyard = 1
+			air_base = 1
+			11649 = {
+				naval_base = 5
+			}
+
+		}
+		add_core_of = CRI
+		add_claim_by = NVA
+
+	}
+
+	provinces={
+		705 3722 6724 11649 
+	}
+	manpower=561607
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=6.000
+}

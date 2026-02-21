@@ -1,0 +1,26 @@
+spriteTypes = {	
+	spriteType = {
+		name = "GFX_switch_leader"
+		texturefile = "gfx/interface/switch_leader.png"
+	}
+	spriteType = {
+		name = "GFX_KOR_UISANG"
+		texturefile = "gfx/leaders/KOR/KimDu-Han.png"
+	}
+	spriteType = {
+		name = "GFX_SWE_CARLGUSTAF"
+		texturefile = "gfx/leaders/SWE/Carl_XVI_Gustaf.png"
+	}
+	spriteType = {
+		name = "GFX_BEM_CARLGUSTAF"
+		texturefile = "gfx/leaders/SWE/Carl_XVI_Gustaf.png"
+	}
+	spriteType = {
+		name = "GFX_TEI_ISABELLE"
+		texturefile = "gfx/leaders/TEI/Isabelle.png"
+	}
+	spriteType = {
+		name = "GFX_cockblock"
+		texturefile = "gfx/interface/cockblock.png"
+	}
+}

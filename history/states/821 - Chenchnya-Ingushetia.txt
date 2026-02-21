@@ -1,0 +1,26 @@
+
+state = {
+	id = 821
+	name = "STATE_821"
+	manpower = 1015
+	
+	state_category = pastoral
+
+	history = {
+		owner = VEG
+		victory_points = {
+			16525 1
+		}
+		buildings = {
+			infrastructure = 1
+		}
+		add_core_of = VEG
+		add_claim_by = NEV
+	}
+
+	provinces={
+		13383 16525 16526 16527 
+	}
+
+	local_supplies=0.0 
+}

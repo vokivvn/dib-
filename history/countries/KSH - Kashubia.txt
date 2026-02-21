@@ -1,0 +1,18 @@
+﻿capital = 807
+
+#oob = ""
+
+set_research_slots = 3
+
+set_politics = {
+	ruling_party = western_democracy
+	last_election = "1936.1.1"
+	election_frequency = 48
+	elections_allowed = yes
+}
+set_popularities = {
+	western_democracy = 50
+	new_right = 5
+	marxism = 35
+	institutionalism = 10
+}

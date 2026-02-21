@@ -1,0 +1,25 @@
+
+state={
+	id=403
+	name="STATE_403"
+
+	history={
+		owner = ARS
+		victory_points = {
+			4824 1 
+		}
+		buildings = {
+			infrastructure = 2
+
+		}
+		add_core_of = ARS
+	}
+
+	provinces={
+		1659 1768 1812 3472 4659 4715 6787 7681 7738 7774 7867 9512 10592 10620 10659 10670 10692 12602 
+	}
+	manpower=939067
+	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=3.000
+}

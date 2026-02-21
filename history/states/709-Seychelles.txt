@@ -1,0 +1,24 @@
+state={
+	id=709
+	name="STATE_709"
+	manpower = 126703
+	
+	state_category = rural
+	
+	history={
+		owner = LEM
+		add_core_of = LEM
+		buildings = {
+			infrastructure = 2
+			2188 = {
+				naval_base = 1
+			}
+		}
+	}
+	
+	provinces={
+		2188 13995 13997 13998 13999
+	}
+
+	local_supplies=0.0 
+}

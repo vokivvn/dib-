@@ -1,0 +1,42 @@
+guiTypes = {
+	containerWindowType = {
+		name = "switch_leader_diplo"
+		position = { x= 1 y= 1 }
+		size = { width = 100%% height = 100%% }
+	
+		iconType ={
+			name ="dual_leader_portrait_diplo"
+			spriteType = "GFX_portrait_bg_blank"
+			position = { x = 20 y = 120 }
+			pdx_tooltip = second_leader_tt_diplo
+			scale = 0.74
+		}
+		iconType = {
+			name = "diplo_leader_frame"
+			position = { x = 13 y = 110 }
+			spriteType = "GFX_diplo_leader_frame"
+			alwaystransparent = yes
+		}
+		iconType ={
+			name ="cockblock" # covers the old name
+			spriteType = "GFX_cockblock"
+			position = { x = 165 y = 42 }
+			scale = 1.9
+		}
+		buttonType = {
+			name = "button_change_leader_diplo" #test
+			quadTextureSprite ="GFX_switch_leader"
+			position = { x = 135 y = 110 }
+		}
+		instantTextboxType = {
+			name = "dual_leader_name_diplo" # new name
+			position = { x = 165 y = 42 }
+			font = "hoi_16mbs"
+			text = "dual_leader_name_diplo"
+			maxWidth = 173
+			maxHeight = 20
+			format = left
+			fixedsize = yes
+		}
+	}	
+}

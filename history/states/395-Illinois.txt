@@ -1,0 +1,29 @@
+
+state={
+	id=395
+	name="STATE_395"
+
+	history={
+		owner = IND
+		victory_points = {
+			720 10 
+		}
+		victory_points = {
+			12497 10 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 2
+		}
+		add_core_of = IND
+
+	}
+
+	provinces={
+		720 7611 10457 12497 12697 
+	}
+	manpower=2530651
+	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=1.000
+}

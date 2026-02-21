@@ -1,0 +1,35 @@
+state={
+	id=1047
+	name="STATE_1047"
+
+	history={
+		victory_points = {
+			3562 5 
+		}
+		victory_points = {
+			6429 3 
+		}
+		victory_points = {
+			577 3 
+		}
+		victory_points = {
+			438 1 
+		}
+		owner = MOL
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+			arms_factory = 1
+		}
+		add_core_of = MOL
+		add_core_of = NVA
+	}
+
+	provinces={
+		438 462 577 3407 3430 3562 6429 
+	}
+	manpower=941140
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=5.000
+}

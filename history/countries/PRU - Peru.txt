@@ -1,0 +1,65 @@
+﻿capital = 303
+
+#oob = "PRU_1936"
+
+# Starting tech
+set_technology = {
+	infantry_weapons = 1
+	tech_trucks = 1
+	gw_artillery = 1
+	interwar_antiair = 1
+}
+
+set_convoys = 120
+add_ideas = {
+	PRU_Ataypura
+	PRU_Across_Ucayali
+}
+set_politics = {
+	ruling_party = western_democracy
+	last_election = "1931.10.11"
+	election_frequency = 96
+	elections_allowed = no
+}
+set_popularities = {
+	western_democracy = 45
+	radical_democracy = 33
+	marxism = 12
+	occidental_despotism = 10
+}
+create_country_leader = {
+	name = "Mario Vargas Llosa"
+	desc = ""
+	picture = "gfx/leaders/PRU/Mario_Vargas_Llosa.png"
+	expire = "2000.1.1"
+	ideology = elitist_liberalism
+	traits = {
+	}
+}
+create_country_leader = {
+	name = "Luis Giampietri"
+	desc = ""
+	picture = "gfx/leaders/PRU/Luis_Giampietri.png"
+	expire = "2000.1.1"
+	ideology = fascism
+	traits = {
+	}
+}
+create_country_leader = {
+	name = "Abimael Guzmán"
+	desc = ""
+	picture = "gfx/leaders/PRU/Abimael_Guzmán.png"
+	expire = "2000.1.1"
+	ideology = world_socialism
+	traits = {
+	}
+}
+create_country_leader = {
+	name = "Ezequiel Ataucusi"
+	desc = ""
+	picture = "gfx/leaders/PRU/Ezequiel_Ataucusi.png"
+	expire = "2000.1.1"
+	ideology = theodemocracy
+	traits = {
+	}
+}

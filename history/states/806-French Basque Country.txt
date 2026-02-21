@@ -1,0 +1,31 @@
+
+state={
+	id=806
+	name="STATE_806"
+
+	history={
+		owner = NYK
+		add_core_of = NYK
+		buildings = {
+			infrastructure = 5
+			arms_factory = 2
+			industrial_complex = 5
+			dockyard = 3
+			air_base = 5
+			3878 = {
+				naval_base = 6
+			}
+		}
+		victory_points = {
+			3878 30.0 
+		}
+	}
+
+	provinces={
+		859 3878 13385
+	}
+	manpower=6728074	
+	buildings_max_level_factor=1.000
+	state_category=metropolis
+	local_supplies=0.0 
+}

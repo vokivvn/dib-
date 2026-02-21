@@ -1,0 +1,23 @@
+state={
+	id=609
+	name="STATE_609"
+
+	history={
+		owner = ORE
+		add_core_of = ORE
+		victory_points = {
+			17248 2
+		}
+		buildings = {
+			infrastructure = 1
+		}
+	}
+
+	provinces={
+		10198 17248 17250 
+	}
+	manpower=120040
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+	local_supplies=0.000
+}

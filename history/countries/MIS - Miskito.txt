@@ -1,0 +1,36 @@
+﻿capital = 1235
+
+#oob = "MIS_1936"
+
+
+# Starting tech
+set_technology = {
+	infantry_weapons = 1
+	tech_support = 1		
+	tech_engineers = 1
+	tech_trucks = 1
+	gw_artillery = 1
+	interwar_antiair = 1
+}
+
+set_variable = { MIS.CULTURE = 54 }
+set_variable = { MIS.RELIGION = 46 }
+
+set_politics = {
+	ruling_party = occidental_despotism
+	last_election = "1934.2.11"
+	election_frequency = 48
+	elections_allowed = no
+}
+set_popularities = {
+	occidental_despotism = 100
+}
+create_country_leader = {
+	name = "Brooklyn Rivera"
+	desc = ""
+	picture = "gfx/leaders/MIS/Brooklyn_Rivera.png"
+	expire = "2000.1.1"
+	ideology = enlightened_absolutism
+	traits = {
+	}
+}

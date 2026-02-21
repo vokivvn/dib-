@@ -1,0 +1,33 @@
+
+state={
+	id=909
+	name="STATE_909"
+
+	history={
+		victory_points = {
+			6389 10 
+		}
+		victory_points = {
+			317 3 
+		}
+		owner = SHL
+		buildings = {
+			infrastructure = 3
+			telecom_infrastructure = 1
+			arms_factory = 1
+			6389 = {
+				naval_base = 8
+			}
+		}
+		add_core_of = SHL
+
+	}
+
+	provinces={
+		317 6389 15853
+	}
+	manpower=152520
+	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=0.000
+}

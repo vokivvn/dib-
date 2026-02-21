@@ -1,0 +1,69 @@
+scripted_map_modes = {
+    DIB_US_map_mode ={
+        top = {
+            type = country
+            color = {
+                FROM = {
+                    set_temp_variable = { alpha = 0.8 }
+                    if = {
+                        limit = {
+                            has_country_flag = is_us_state
+                        }
+                        set_temp_variable = { red = 0.19 }
+		                set_temp_variable = { green = 0.23 }
+		                set_temp_variable = { blue = 0.34 }
+		                set_temp_variable = { alpha = 0.75 }
+                    }
+                    else_if = {
+                        limit = {
+                            has_country_flag = is_us_cap_territory
+                        }
+                        set_temp_variable = { red = 1 }
+		                set_temp_variable = { green = 1 }
+		                set_temp_variable = { blue = 1 }
+		                set_temp_variable = { alpha = 0.75 }	
+                    }
+                    else_if = {
+                        limit = {
+                            has_country_flag = is_us_reserve
+                        }
+                        set_temp_variable = { red = 0.26 }
+		                set_temp_variable = { green = 0.33 }
+		                set_temp_variable = { blue = 0.18 }
+		                set_temp_variable = { alpha = 0.75 }	
+                    }
+                    else_if = {
+                        limit = {
+                            has_country_flag = is_us_territory
+                        }
+                        set_temp_variable = { red = 0.26 }
+		                set_temp_variable = { green = 0.35 }
+		                set_temp_variable = { blue = 0.33 }
+		                set_temp_variable = { alpha = 0.75 }
+                    }
+                }
+            }
+        }
+        bottom = {
+		        type = country
+
+		        color = {
+		            set_temp_variable = { alpha = 0.75 }
+		            set_temp_variable = { thickness = 10.0 }
+		            set_temp_variable = { red = 0.3 }
+		            set_temp_variable = { green = 0.3 }
+		            set_temp_variable = { blue = 0.3 }
+		        }
+
+		        thickness = yes
+
+		        targets = {
+		            targets = { ROOT }
+		        }
+
+		    update_daily = no
+			}
+		    far_text = country
+		    near_text = state
+    }
+}

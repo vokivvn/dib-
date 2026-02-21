@@ -1,0 +1,24 @@
+state={
+	id=1807
+	name="STATE_1807"
+
+	history = {
+
+		owner = MTK
+		add_core_of = MTK
+
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+		}
+		
+	}
+
+	provinces={
+		1291 7342 10156 12144
+	}
+	manpower=954947
+	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=0.000
+}

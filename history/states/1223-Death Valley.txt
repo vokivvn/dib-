@@ -1,0 +1,22 @@
+state={
+	id=1223
+	name="STATE_1223"
+
+	state_category = wasteland
+	impassable = yes
+
+	history={
+		owner = CAL
+		buildings = {
+			infrastructure = 0
+		}
+		add_core_of = CAL
+	}
+
+	provinces={
+		14415 14416 14417 14418 14419 14420 14421 14422 
+	}
+	manpower=240
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

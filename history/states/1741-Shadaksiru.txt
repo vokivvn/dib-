@@ -1,0 +1,24 @@
+state={
+	id=1741
+	name="STATE_1741"
+
+	history={
+		owner = QAB
+		victory_points = {
+			16961 3
+		}
+		buildings = {
+			infrastructure = 2
+			farm_estate = 1
+		}
+		add_core_of = QAB
+	}
+	
+	provinces={
+		16933 16960 16961 16962 
+	}
+	manpower=46292
+	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=0.000
+}

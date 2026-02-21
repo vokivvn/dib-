@@ -1,0 +1,666 @@
+add_namespace = California_Skeleton
+add_namespace = California_Flavor
+
+#Kevin Wei is shot by the LAPD, starting the event chain
+country_event = {
+    id = California_Skeleton.1
+    title = California_Skeleton.1.title
+    desc = California_Skeleton.1.desc
+    
+    is_triggered_only = yes
+    
+    option = {
+        name = California_Skeleton.1.a
+		country_event = {
+			id = California_Skeleton.2
+			days = 2
+			random_days = 2
+		}
+    }
+}
+
+# 1986 LA Riots
+country_event = {
+    id = California_Skeleton.2
+    title = California_Skeleton.2.title
+    desc = California_Skeleton.2.desc
+    
+    is_triggered_only = yes
+    
+    option = {
+        name = California_Skeleton.2.a
+        add_stability = -0.1
+        add_war_support = -0.15
+		country_event = {
+			id = California_Skeleton.3
+			days = 2
+			random_days = 2
+		}
+    }
+}
+
+# City of LA declares a state of emergency which results in a tag release
+country_event = {
+    id = California_Skeleton.3
+    title = California_Skeleton.3.title
+    desc = California_Skeleton.3.desc
+    
+    is_triggered_only = yes
+    
+    option = {
+        name = California_Skeleton.3.a
+        add_political_power = -25
+        add_stability = -0.05
+        LAS = {
+		    if = {
+			    limit = { 
+				    CAL = { 
+					    owns_state = 1227
+					    controls_state = 1227 
+				    }
+			    }
+			    transfer_state = 1227
+		    }
+		    if = {
+			    limit = { 
+				    CAL = { 
+					    owns_state = 321
+					    controls_state = 321 
+				    }
+			    }
+			    transfer_state = 321
+		    }
+		    if = {
+			    limit = { 
+				    CAL = { 
+					    owns_state = 1229
+					    controls_state = 1229 
+				    }
+			    }
+			    transfer_state = 1229
+		    }
+		    if = {
+			    limit = { 
+				    CAL = { 
+					    owns_state = 1228
+					    controls_state = 1228 
+				    }
+			    }
+			    transfer_state = 1228
+		    }
+		    if = {
+			    limit = { 
+				    CAL = { 
+					    owns_state = 1226
+					    controls_state = 1226 
+				    }
+			    }
+			    transfer_state = 1226
+		    }
+		    if = {
+			    limit = { 
+				    CAL = { 
+					    owns_state = 1030
+					    controls_state = 1030 
+				    }
+			    }
+			    transfer_state = 1030
+		    }
+        }
+		country_event = {
+			id = California_Skeleton.4
+			days = 2
+			random_days = 1
+		}
+    }
+}
+
+#sghgaehagouhogauhoga
+country_event = {
+    id = California_Skeleton.4
+    title = California_Skeleton.4.title
+    desc = California_Skeleton.4.desc
+    
+    is_triggered_only = yes
+    
+    option = {
+        name = California_Skeleton.4.a
+        LAS = {
+		kill_country_leader = yes
+            create_country_leader = {
+	            name = "Roberto De La Madrid"
+	            desc = ""
+	            picture = "gfx/leaders/LAS/Roberto_de_la_Madrid.png"
+	            expire = "2000.1.1"
+	            ideology = authoritarian_democracy
+	            traits = {
+	            }
+            }
+        }
+    }
+}
+
+#curb sends in the national guard
+country_event = {
+    id = California_Skeleton.5
+    title = California_Skeleton.5.title
+    desc = California_Skeleton.5.desc
+    
+    is_triggered_only = yes
+    
+    #National guard cag
+    option = {
+        name = California_Skeleton.5.a
+    }
+}
+
+#mike curb dot exe 
+country_event = {
+    id = California_Skeleton.6
+    title = California_Skeleton.6.title
+    desc = California_Skeleton.6.desc
+    
+    is_triggered_only = yes
+    
+    #LAPD is in the right, these rioters are off they're rockers
+    option = {
+        name = California_Skeleton.6.a
+    }
+    
+    #Resistance is in the right, the LAPD were far too brutal
+    option = {
+        name = California_Skeleton.6.b
+    }
+}
+
+#frank zappa unleashes the horde
+country_event = {
+    id = California_Skeleton.7
+    title = California_Skeleton.7.title
+    desc = California_Skeleton.7.desc
+    
+    is_triggered_only = yes
+    
+    #Guess who's finally rising up against the california government? are you sure
+    option = {
+        name = California_Skeleton.7.a
+        LAS = {
+            create_country_leader = {
+	            name = "Frank Zappa"
+	            desc = ""
+	            picture = "gfx/leaders/LAS/Warzappa.png"
+	            expire = "2000.1.1"
+	            ideology = radical_liberalism
+	            traits = {
+	            }
+            }
+			set_politics = {
+                ruling_party = radical_democracy
+            }
+			declare_war_on = {
+			target = CAL
+			type = annex_everything
+			}
+        }
+    }
+}
+
+#start of the california collapse events, get ready to scroll. anyways baja breaks off first
+country_event = {
+    id = California_Skeleton.8
+    title = California_Skeleton.8.title
+    desc = California_Skeleton.8.desc
+    
+    is_triggered_only = yes
+    
+    #CURBBBBBB... YOUR DEADDDDDDDDD
+    option = {
+        name = California_Skeleton.8.a
+        BAJ = {
+		    if = {
+			    limit = { 
+				    CAL = { 
+					    owns_state = 450
+					    controls_state = 450 
+				    }
+			    }
+			    transfer_state = 450
+		    }
+		    if = {
+			    limit = { 
+				    CAL = { 
+					    owns_state = 484
+					    controls_state = 484 
+				    }
+			    }
+			    transfer_state = 484
+		    }
+		    if = {
+			    limit = { 
+				    CAL = { 
+					    owns_state = 1549
+					    controls_state = 1549 
+				    }
+			    }
+			    transfer_state = 1549
+		    }
+		    if = {
+			    limit = { 
+				    CAL = { 
+					    owns_state = 1550
+					    controls_state = 1550 
+				    }
+			    }
+			    transfer_state = 1550
+		    }
+		    if = {
+			    limit = { 
+				    CAL = { 
+					    owns_state = 1551
+					    controls_state = 1551 
+				    }
+			    }
+			    transfer_state = 1551
+		    }
+		    if = {
+			    limit = { 
+				    CAL = { 
+					    owns_state = 1552
+					    controls_state = 1552 
+				    }
+			    }
+			    transfer_state = 1552
+		    }
+		    if = {
+			    limit = { 
+				    CAL = { 
+					    owns_state = 1553
+					    controls_state = 1553 
+				    }
+			    }
+			    transfer_state = 1553
+		    }
+		    if = {
+			    limit = { 
+				    CAL = { 
+					    owns_state = 1554
+					    controls_state = 1554 
+				    }
+			    }
+			    transfer_state = 1554
+		    }
+		    if = {
+			    limit = { 
+				    CAL = { 
+					    owns_state = 1555
+					    controls_state = 1555 
+				    }
+			    }
+			    transfer_state = 1555
+		    }
+		    if = {
+			    limit = { 
+				    CAL = { 
+					    owns_state = 1556
+					    controls_state = 1556 
+				    }
+			    }
+			    transfer_state = 1556
+		    }
+		    if = {
+			    limit = { 
+				    CAL = { 
+					    owns_state = 1557
+					    controls_state = 1557 
+				    }
+			    }
+			    transfer_state = 1557
+		    }
+		    if = {
+			    limit = { 
+				    CAL = { 
+					    owns_state = 1558
+					    controls_state = 1558 
+				    }
+			    }
+			    transfer_state = 1558
+		    }
+		    if = {
+			    limit = { 
+				    CAL = { 
+					    owns_state = 1559
+					    controls_state = 1559 
+				    }
+			    }
+			    transfer_state = 1559
+		    }
+		    if = {
+			    limit = { 
+				    CAL = { 
+					    owns_state = 1560
+					    controls_state = 1560 
+				    }
+			    }
+			    transfer_state = 1560
+		    }
+		    if = {
+			    limit = { 
+				    CAL = { 
+					    owns_state = 1561
+					    controls_state = 1561 
+				    }
+			    }
+			    transfer_state = 1561
+		    }
+		    if = {
+			    limit = { 
+				    CAL = { 
+					    owns_state = 1562
+					    controls_state = 1562 
+				    }
+			    }
+			    transfer_state = 1562
+		    }
+		    if = {
+			    limit = { 
+				    CAL = { 
+					    owns_state = 1563
+					    controls_state = 1563 
+				    }
+			    }
+			    transfer_state = 1563
+		    }
+		    if = {
+			    limit = { 
+				    CAL = { 
+					    owns_state = 1564
+					    controls_state = 1564 
+				    }
+			    }
+			    transfer_state = 1564
+		    }
+		    if = {
+			    limit = { 
+				    CAL = { 
+					    owns_state = 1565
+					    controls_state = 1565 
+				    }
+			    }
+			    transfer_state = 1565
+		    }
+		    if = {
+			    limit = { 
+				    CAL = { 
+					    owns_state = 1566
+					    controls_state = 1566 
+				    }
+			    }
+			    transfer_state = 1566
+		    }
+		    if = {
+			    limit = { 
+				    CAL = { 
+					    owns_state = 1567
+					    controls_state = 1567 
+				    }
+			    }
+			    transfer_state = 1567
+		    }
+		    if = {
+			    limit = { 
+				    CAL = { 
+					    owns_state = 1568
+					    controls_state = 1568 
+				    }
+			    }
+			    transfer_state = 1568
+		    }
+		    if = {
+			    limit = { 
+				    CAL = { 
+					    owns_state = 1569
+					    controls_state = 1569 
+				    }
+			    }
+			    transfer_state = 1569
+		    }
+		    if = {
+			    limit = { 
+				    CAL = { 
+					    owns_state = 1570
+					    controls_state = 1570 
+				    }
+			    }
+			    transfer_state = 1570
+		    }
+		    if = {
+			    limit = { 
+				    CAL = { 
+					    owns_state = 1571
+					    controls_state = 1571 
+				    }
+			    }
+			    transfer_state = 1571
+		    }
+		    if = {
+			    limit = { 
+				    CAL = { 
+					    owns_state = 1572
+					    controls_state = 1572 
+				    }
+			    }
+			    transfer_state = 1572
+		    }
+		    if = {
+			    limit = { 
+				    CAL = { 
+					    owns_state = 1573
+					    controls_state = 1573 
+				    }
+			    }
+			    transfer_state = 1573
+		    }
+		    if = {
+			    limit = { 
+				    CAL = { 
+					    owns_state = 1574
+					    controls_state = 1574 
+				    }
+			    }
+			    transfer_state = 1574
+		    }
+		    if = {
+			    limit = { 
+				    CAL = { 
+					    owns_state = 1575
+					    controls_state = 1575 
+				    }
+			    }
+			    transfer_state = 1575
+		    }
+		    if = {
+			    limit = { 
+				    CAL = { 
+					    owns_state = 1576
+					    controls_state = 1576 
+				    }
+			    }
+			    transfer_state = 1576
+		    }
+		    if = {
+			    limit = { 
+				    CAL = { 
+					    owns_state = 1577
+					    controls_state = 1577 
+				    }
+			    }
+			    transfer_state = 1577
+		    }
+		    if = {
+			    limit = { 
+				    CAL = { 
+					    owns_state = 1578
+					    controls_state = 1578 
+				    }
+			    }
+			    transfer_state = 1578
+		    }
+        }
+    }
+}
+
+#pacific republic breaks off
+country_event = {
+    id = California_Skeleton.9
+    title = California_Skeleton.9.title
+    desc = California_Skeleton.9.desc
+    
+    is_triggered_only = yes
+    
+    #hey gentlemen and gentlewomen we are DEVO and we are playing at the pacific republic guys
+    option = {
+        name = California_Skeleton.9.a
+        PAC = {
+		    if = {
+			    limit = { 
+				    CAL = { 
+					    owns_state = 974
+					    controls_state = 974 
+				    }
+			    }
+			    transfer_state = 974
+		    }
+		    if = {
+			    limit = { 
+				    CAL = { 
+					    owns_state = 802
+					    controls_state = 802 
+				    }
+			    }
+			    transfer_state = 802
+		    }
+		    if = {
+			    limit = { 
+				    CAL = { 
+					    owns_state = 1231
+					    controls_state = 1231 
+				    }
+			    }
+			    transfer_state = 1231
+		    }
+		    if = {
+			    limit = { 
+				    CAL = { 
+					    owns_state = 1232
+					    controls_state = 1232 
+				    }
+			    }
+			    transfer_state = 1232
+		    }
+        }
+    }
+}
+
+#manson family
+country_event = {
+    id = California_Skeleton.10
+    title = California_Skeleton.10.title
+    desc = California_Skeleton.10.desc
+    
+    is_triggered_only = yes
+    
+    #Charles Manson reporting
+    option = {
+        name = California_Skeleton.10.a
+        FAM = {
+		    if = {
+			    limit = { 
+				    CAL = { 
+					    owns_state = 85
+					    controls_state = 85 
+				    }
+			    }
+			    transfer_state = 85
+		    }
+		    if = {
+			    limit = { 
+				    CAL = { 
+					    owns_state = 1225
+					    controls_state = 1225 
+				    }
+			    }
+			    transfer_state = 1225
+		    }
+		    if = {
+			    limit = { 
+				    CAL = { 
+					    owns_state = 1224
+					    controls_state = 1224 
+				    }
+			    }
+			    transfer_state = 1224
+		    }
+        }
+    }
+}
+
+#san francisco breaks off
+country_event = {
+    id = California_Skeleton.11
+    title = California_Skeleton.11.title
+    desc = California_Skeleton.11.desc
+    
+    is_triggered_only = yes
+    
+    #yeah baby its all about frisco
+    option = {
+        name = California_Skeleton.11.a
+        CST = {
+		    if = {
+			    limit = { 
+				    CAL = { 
+					    owns_state = 1221
+					    controls_state = 1221 
+				    }
+			    }
+			    transfer_state = 1221
+		    }
+		    if = {
+			    limit = { 
+				    CAL = { 
+					    owns_state = 1216
+					    controls_state = 1216 
+				    }
+			    }
+			    transfer_state = 1216
+		    }
+		    if = {
+			    limit = { 
+				    CAL = { 
+					    owns_state = 1217
+					    controls_state = 1217 
+				    }
+			    }
+			    transfer_state = 1217
+		    }
+		    if = {
+			    limit = { 
+				    CAL = { 
+					    owns_state = 1218
+					    controls_state = 1218
+				    }
+			    }
+			    transfer_state = 1218
+		    }
+		    if = {
+			    limit = { 
+				    CAL = { 
+					    owns_state = 1219
+					    controls_state = 1219
+				    }
+			    }
+			    transfer_state = 1219
+		    }
+        }
+    }
+}

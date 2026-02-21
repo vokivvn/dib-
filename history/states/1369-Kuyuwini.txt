@@ -1,0 +1,30 @@
+state={
+	id=1369
+	name="STATE_1369"
+
+	history={
+		add_core_of = SUR
+		owner = SUR
+		victory_points = {
+			15220 5
+		}
+		victory_points = {
+			8107 1
+		}
+		buildings = {
+			infrastructure = 2
+			farm_estate = 1
+			15220 = {
+				naval_base = 2
+			}
+		}
+	}
+
+	provinces={
+		8107 15219 15220 15221 15222 
+	}
+	manpower=45346
+	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=0.000
+}

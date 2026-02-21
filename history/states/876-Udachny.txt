@@ -1,0 +1,23 @@
+
+state={
+	id=876
+	name="STATE_876"
+
+	history={
+		owner = YAK
+		buildings = {
+			infrastructure = 1
+
+		}
+		add_core_of = YAK
+
+	}
+
+	provinces={
+		1722 1852 2853 2900 3184 6085 7765 7817 9224 10589 10641 11122 12611 13059 13060 
+	}
+	manpower=12182
+	buildings_max_level_factor=1.000
+	state_category=wasteland
+	local_supplies=0.000
+}

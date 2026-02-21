@@ -1,0 +1,29 @@
+﻿capital = 434
+
+#oob = ""
+
+# Starting tech
+set_technology = {
+	infantry_weapons = 1
+}
+
+set_convoys = 0
+
+set_politics = {
+	ruling_party = radical_democracy
+	last_election = "1936.1.1"
+	election_frequency = 48
+	elections_allowed = no
+}
+set_popularities = {
+	radical_democracy = 100
+}
+create_country_leader = {
+	name = "Tu Hkawng"
+	desc = ""
+	picture = "gfx/leaders/KCH/Tu_Hkawng.png"
+	expire = "2000.1.1"
+	ideology = religious_communalism
+	traits = {
+	}
+}

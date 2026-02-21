@@ -1,0 +1,30 @@
+state={
+	id=1814
+	name="STATE_1814"
+
+	history = {
+
+		owner = LAB
+		add_core_of = LAB
+		victory_points = {
+			17161 1 
+		}
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			17161 = {
+				naval_base = 8
+				coastal_bunker = 3
+			}
+		}
+		
+	}
+
+	provinces={
+		17161 17162
+	}
+	manpower=859270
+	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=0.000
+}

@@ -1,0 +1,43 @@
+
+state = {
+	id = 498
+	name = "STATE_498"
+	manpower = 987739
+
+	state_category = city
+
+	resources = {
+		tungsten = 3
+	}
+
+	history = {
+
+		owner = GRC
+
+		add_core_of = GRC
+
+		buildings = {
+			infrastructure = 4
+			telecom_infrastructure = 1
+			industrial_complex = 2
+			office_building = 2
+			14242 = {
+				naval_base = 8
+			}
+		}
+
+		victory_points = {
+			14242 15 
+		}
+		victory_points = {
+			10933 5 
+		}
+	}
+
+	provinces={
+		10933 14239 14240 14241 14242 
+	}
+	
+
+	local_supplies = 0.0 
+}

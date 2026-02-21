@@ -1,0 +1,23 @@
+﻿capital = 641
+
+#oob = ""
+
+# Starting tech
+set_technology = {
+	infantry_weapons = 1
+}
+
+set_convoys = 20
+
+set_politics = {
+	ruling_party = institutionalism
+	last_election = "1936.1.1"
+	election_frequency = 48
+	elections_allowed = no
+}
+set_popularities = {
+	western_democracy = 38
+	new_right = 6
+	marxism = 6
+	institutionalism = 50
+}
