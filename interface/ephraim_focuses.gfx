@@ -1,0 +1,79 @@
+spriteTypes = {	
+
+	#### Ephraim Starting Tree
+
+	SpriteType = {
+	name = "GFX_ENG_bells_ring"
+	texturefile = "gfx/interface/goals/ENG/Bells_Ring.png"			
+	}
+
+	SpriteType = {
+	name = "GFX_ENG_the_king_speaks"
+	texturefile = "gfx/interface/goals/ENG/The_King_Speaks.png"			
+	}
+	
+	SpriteType = {
+	name = "GFX_ENG_and_ephraim_marches_on"
+	texturefile = "gfx/interface/goals/ENG/And_Ephraim_Marches_On.png"			
+	}
+	
+	SpriteType = {
+	name = "GFX_ENG_ruffled_feathers"
+	texturefile = "gfx/interface/goals/ENG/Ruffled_Feathers.png"			
+	}
+	
+	SpriteType = {
+	name = "GFX_ENG_address_parliament"
+	texturefile = "gfx/interface/goals/ENG/Address_Parliament.png"			
+	}
+	
+	SpriteType = {
+	name = "GFX_ENG_reassure_party_whips"
+	texturefile = "gfx/interface/goals/ENG/Reassure_Party_Whips.png"			
+	}
+	
+	SpriteType = {
+	name = "GFX_ENG_the_10_plagues"
+	texturefile = "gfx/interface/goals/ENG/The_10_Plagues.png"			
+	}
+	
+	SpriteType = {
+	name = "GFX_ENG_ungodly_heretics"
+	texturefile = "gfx/interface/goals/ENG/Ungodly_Heretics.png"			
+	}
+	
+	SpriteType = {
+	name = "GFX_ENG_making_dossiers"
+	texturefile = "gfx/interface/goals/ENG/Making_Dossiers.png"			
+	}
+	
+	SpriteType = {
+	name = "GFX_ENG_our_next_step"
+	texturefile = "gfx/interface/goals/ENG/Our_Next_Step.png"			
+	}
+	
+	SpriteType = {
+	name = "GFX_ENG_ready_the_esis"
+	texturefile = "gfx/interface/goals/ENG/Ready_the_ESIS.png"			
+	}
+	
+	SpriteType = {
+	name = "GFX_ENG_righteous_authority"
+	texturefile = "gfx/interface/goals/ENG/Rightous_Authority.png"			
+	}
+	
+	SpriteType = {
+	name = "GFX_ENG_loosen_the_leash"
+	texturefile = "gfx/interface/goals/ENG/Loosen_the_Leash.png"			
+	}
+	
+	SpriteType = {
+	name = "GFX_ENG_renewing_gods_mandate"
+	texturefile = "gfx/interface/goals/ENG/Renew_Gods_Mandate.png"			
+	}
+	
+	SpriteType = {
+	name = "GFX_ENG_step_aside"
+	texturefile = "gfx/interface/goals/ENG/Step_Aside.png"			
+	}
+}

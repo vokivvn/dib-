@@ -1,0 +1,201 @@
+focus_tree = {
+	id = eng_focus
+
+	country = {
+		factor = 0
+		
+		modifier = {
+			add = 10
+			tag = ENG
+		}
+		
+		modifier = {
+			add = 10
+			original_tag = ENG
+		}
+	}
+	default = no
+	continuous_focus_position = { x = 50 y = 3000 }
+
+	focus = {
+		id = ENG_bells_ring
+		icon = GFX_ENG_bells_ring
+		cost = 0.6
+		x = 8
+		y = 0
+		completion_reward = {
+			log = "[GetDateText]: [Root.GetName]: Focus ENG_bells_ring"
+		}
+	}
+	focus = {
+		id = ENG_the_king_speaks
+		icon = GFX_ENG_the_king_speaks
+		cost = 0.6
+		x = 0
+		y = 1
+		completion_reward = {
+			log = "[GetDateText]: [Root.GetName]: Focus ENG_the_king_speaks"
+		}
+		relative_position_id = ENG_bells_ring
+		prerequisite = { focus = ENG_bells_ring }
+	}
+	focus = {
+		id = ENG_and_ephraim_marches_on
+		icon = GFX_ENG_and_ephraim_marches_on
+		cost = 0.6
+		x = 0
+		y = 1
+		completion_reward = {
+			log = "[GetDateText]: [Root.GetName]: Focus ENG_and_ephraim_marches_on"
+		}
+		relative_position_id = ENG_the_king_speaks
+		prerequisite = { focus = ENG_the_king_speaks }
+	}
+	focus = {
+		id = ENG_ruffled_feathers
+		icon = GFX_ENG_ruffled_feathers
+		cost = 0.6
+		x = -1
+		y = 1
+		completion_reward = {
+			log = "[GetDateText]: [Root.GetName]: Focus ENG_ruffled_feathers"
+		}
+		relative_position_id = ENG_and_ephraim_marches_on
+		prerequisite = { focus = ENG_and_ephraim_marches_on }
+	}
+	focus = {
+		id = ENG_address_parliament
+		icon = GFX_ENG_address_parliament
+		cost = 0.6
+		x = 0
+		y = 1
+		completion_reward = {
+			log = "[GetDateText]: [Root.GetName]: Focus ENG_address_parliament"
+		}
+		relative_position_id = ENG_ruffled_feathers
+		prerequisite = { focus = ENG_ruffled_feathers }
+	}
+	focus = {
+		id = ENG_reassure_party_whips
+		icon = GFX_ENG_reassure_party_whips
+		cost = 0.6
+		x = 0
+		y = 1
+		completion_reward = {
+			log = "[GetDateText]: [Root.GetName]: Focus ENG_reassure_party_whips"
+		}
+		relative_position_id = ENG_address_parliament
+		prerequisite = { focus = ENG_address_parliament }
+	}
+	focus = {
+		id = ENG_the_10_plagues
+		icon = GFX_ENG_the_10_plagues
+		cost = 0.6
+		x = 1
+		y = 1
+		completion_reward = {
+			log = "[GetDateText]: [Root.GetName]: Focus ENG_the_10_plagues"
+		}
+		relative_position_id = ENG_and_ephraim_marches_on
+		prerequisite = { focus = ENG_and_ephraim_marches_on }
+	}
+	focus = {
+		id = ENG_ungodly_heretics
+		icon = GFX_ENG_ungodly_heretics
+		cost = 0.6
+		x = 0
+		y = 1
+		completion_reward = {
+			log = "[GetDateText]: [Root.GetName]: Focus ENG_ungodly_heretics"
+		}
+		relative_position_id = ENG_the_10_plagues
+		prerequisite = { focus = ENG_the_10_plagues }
+	}
+	focus = {
+		id = ENG_making_dossiers
+		icon = GFX_ENG_making_dossiers
+		cost = 0.6
+		x = 0
+		y = 1
+		completion_reward = {
+			log = "[GetDateText]: [Root.GetName]: Focus ENG_making_dossiers"
+		}
+		relative_position_id = ENG_ungodly_heretics
+		prerequisite = { focus = ENG_ungodly_heretics }
+	}
+	focus = {
+		id = ENG_our_next_step
+		icon = GFX_ENG_our_next_step
+		cost = 0.6
+		x = -1
+		y = 1
+		completion_reward = {
+			log = "[GetDateText]: [Root.GetName]: Focus ENG_our_next_step"
+		}
+		relative_position_id = ENG_making_dossiers
+		prerequisite = { focus = ENG_making_dossiers }
+		prerequisite = { focus = ENG_reassure_party_whips }
+	}
+	focus = {
+		id = ENG_ready_the_esis
+		icon = GFX_ENG_ready_the_esis
+		cost = 0.6
+		x = 0
+		y = 1
+		completion_reward = {
+			log = "[GetDateText]: [Root.GetName]: Focus ENG_ready_the_esis"
+		}
+		relative_position_id = ENG_our_next_step
+		prerequisite = { focus = ENG_our_next_step }
+	}
+	focus = {
+		id = ENG_righteous_authority
+		icon = GFX_ENG_righteous_authority
+		cost = 0.6
+		x = -1
+		y = 1
+		completion_reward = {
+			log = "[GetDateText]: [Root.GetName]: Focus ENG_righteous_authority"
+		}
+		relative_position_id = ENG_ready_the_esis
+		prerequisite = { focus = ENG_ready_the_esis }
+		mutually_exclusive = { focus = ENG_loosen_the_leash }
+	}
+	focus = {
+		id = ENG_loosen_the_leash
+		icon = GFX_ENG_loosen_the_leash
+		cost = 0.6
+		x = 1
+		y = 1
+		completion_reward = {
+			log = "[GetDateText]: [Root.GetName]: Focus ENG_loosen_the_leash"
+		}
+		relative_position_id = ENG_ready_the_esis
+		prerequisite = { focus = ENG_ready_the_esis }
+		mutually_exclusive = { focus = ENG_righteous_authority }
+	}
+	focus = {
+		id = ENG_renewing_gods_mandate
+		icon = GFX_ENG_renewing_gods_mandate
+		cost = 0.6
+		x = -1
+		y = 1
+		completion_reward = {
+			log = "[GetDateText]: [Root.GetName]: Focus ENG_renewing_gods_mandate"
+		}
+		relative_position_id = ENG_righteous_authority
+		prerequisite = { focus = ENG_righteous_authority }
+	}
+	focus = {
+		id = ENG_step_aside
+		icon = GFX_ENG_step_aside
+		cost = 0.6
+		x = 1
+		y = 1
+		completion_reward = {
+			log = "[GetDateText]: [Root.GetName]: Focus ENG_step_aside"
+		}
+		relative_position_id = ENG_loosen_the_leash
+		prerequisite = { focus = ENG_loosen_the_leash }
+	}
+}
