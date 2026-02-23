@@ -1,0 +1,139 @@
+focus_tree = {
+	id = nlf_focus
+
+	country = {
+		factor = 0
+		
+		modifier = {
+			add = 10
+			tag = NLF
+		}
+		
+		modifier = {
+			add = 10
+			original_tag = NLF
+		}
+	}
+	default = no
+	continuous_focus_position = { x = 50 y = 3000 }
+
+	focus = {
+		id = NLF_enlightened_struggle
+		icon = GFX_NLF_enlightened_struggle
+		cost = 2
+		x = 8
+		y = 0
+		completion_reward = {
+			log = "[GetDateText]: [Root.GetName]: Focus NLF_enlightened_struggle"
+		}
+	}
+	focus = {
+		id = NLF_across_the_pond
+		icon = GFX_NLF_across_the_pond
+		cost = 2
+		x = -3
+		y = 1
+		completion_reward = {
+			log = "[GetDateText]: [Root.GetName]: Focus NLF_across_the_pond"
+		}
+		relative_position_id = NLF_enlightened_struggle
+		prerequisite = { focus = NLF_enlightened_struggle }
+	}
+	focus = {
+		id = NLF_rally_the_intelligents
+		icon = GFX_NLF_rally_the_intelligents
+		cost = 2
+		x = 0
+		y = 1
+		completion_reward = {
+			log = "[GetDateText]: [Root.GetName]: Focus NLF_rally_the_intelligents"
+		}
+		relative_position_id = NLF_enlightened_struggle
+		prerequisite = { focus = NLF_enlightened_struggle }
+	}
+	focus = {
+		id = NLF_pay_off_our_militiamen
+		icon = GFX_NLF_pay_off_our_militiamen
+		cost = 2
+		x = 3
+		y = 1
+		completion_reward = {
+			log = "[GetDateText]: [Root.GetName]: Focus NLF_pay_off_our_militiamen"
+		}
+		relative_position_id = NLF_enlightened_struggle
+		prerequisite = { focus = NLF_enlightened_struggle }
+	}
+	focus = {
+		id = NLF_once_theory_now_praxis
+		icon = GFX_NLF_once_theory_now_praxis
+		cost = 2
+		x = 6
+		y = 1
+		completion_reward = {
+			log = "[GetDateText]: [Root.GetName]: Focus NLF_once_theory_now_praxis"
+		}
+		relative_position_id = NLF_enlightened_struggle
+		prerequisite = { focus = NLF_enlightened_struggle }
+	}
+	focus = {
+		id = NLF_our_american_brethren
+		icon = GFX_NLF_our_american_brethren
+		cost = 2
+		x = -0
+		y = 1
+		completion_reward = {
+			log = "[GetDateText]: [Root.GetName]: Focus NLF_our_american_brethren"
+		}
+		relative_position_id = NLF_across_the_pond
+		prerequisite = { focus = NLF_across_the_pond }
+	}
+	focus = {
+		id = NLF_like_minds
+		icon = GFX_NLF_like_minds
+		cost = 2
+		x = -0
+		y = 1
+		completion_reward = {
+			log = "[GetDateText]: [Root.GetName]: Focus NLF_like_minds"
+		}
+		relative_position_id = NLF_our_american_brethren
+		prerequisite = { focus = NLF_our_american_brethren }
+	}
+	focus = {
+		id = NLF_appeal_to_foreign_corporations
+		icon = NLF_appeal_to_foreign_corporations
+		cost = 2
+		x = -1
+		y = 1
+		completion_reward = {
+			log = "[GetDateText]: [Root.GetName]: Focus NLF_appeal_to_foreign_corporations"
+		}
+		relative_position_id = NLF_like_minds
+		prerequisite = { focus = NLF_like_minds }
+	}
+	focus = {
+		id = NLF_meet_with_pentex_execs
+		icon = GFX_NLF_meet_with_pentex_execs
+		cost = 2
+		x = 1
+		y = 1
+		completion_reward = {
+			log = "[GetDateText]: [Root.GetName]: Focus NLF_meet_with_pentex_execs"
+		}
+		relative_position_id = NLF_like_minds
+		prerequisite = { focus = NLF_like_minds }
+	}
+	focus = {
+		id = NLF_money_comes_marching_home
+		icon = GFX_NLF_money_comes_marching_home
+		cost = 2
+		x = -1
+		y = 1
+		completion_reward = {
+			log = "[GetDateText]: [Root.GetName]: Focus NLF_money_comes_marching_home"
+		}
+		relative_position_id = NLF_meet_with_pentex_execs
+		prerequisite = { focus = NLF_meet_with_pentex_execs }
+		prerequisite = { focus = NLF_appeal_to_foreign_corporations }
+	}
+}
