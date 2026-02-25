@@ -2,8 +2,8 @@ bitmapfonts = {
    	bitmapfont = {
     	name = "ibminterface"
     	fontfiles = {
-      	    "gfx/fonts/ibminterface"
-     	    "gfx/fonts/ibminterface"
+      	    "gfx/fonts/ibm_18"
+     	    "gfx/fonts/ibm_18"
      	}
      	color = 0xffffffff
 

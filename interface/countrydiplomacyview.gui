@@ -343,7 +343,6 @@ guiTypes = {
 				position = {x = 154 y = 191}
 				Orientation = "UPPER_LEFT"
 				frame = 1
-				clipping = no
 			}
 			#------------------------- END RELATIONS TAB ----------------------------
 
