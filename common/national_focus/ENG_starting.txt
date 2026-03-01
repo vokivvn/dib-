@@ -21,7 +21,7 @@ focus_tree = {
 		id = ENG_bells_ring
 		icon = GFX_ENG_bells_ring
 		cost = 0.6
-		x = 8
+		x = 12
 		y = 0
 		completion_reward = {
 			log = "[GetDateText]: [Root.GetName]: Focus ENG_bells_ring"
@@ -197,5 +197,257 @@ focus_tree = {
 		}
 		relative_position_id = ENG_loosen_the_leash
 		prerequisite = { focus = ENG_loosen_the_leash }
+	}
+	focus = {
+		id = ENG_choosing_our_candidates
+		icon = GFX_ENG_choosing_our_candidates
+		cost = 0.6
+		x = 0
+		y = 1
+		completion_reward = {
+			log = "[GetDateText]: [Root.GetName]: Focus ENG_choosing_our_candidates"
+		}
+		relative_position_id = ENG_step_aside
+		prerequisite = { focus = ENG_step_aside }
+	}
+	focus = {
+		id = ENG_open_the_polls
+		icon = GFX_ENG_open_the_polls
+		cost = 0.6
+		x = 0
+		y = 1
+		completion_reward = {
+			log = "[GetDateText]: [Root.GetName]: Focus ENG_open_the_polls"
+		}
+		relative_position_id = ENG_choosing_our_candidates
+		prerequisite = { focus = ENG_choosing_our_candidates }
+	}
+	focus = {
+		id = ENG_winds_of_change
+		icon = GFX_ENG_winds_of_change
+		cost = 0.6
+		x = 6
+		y = 1
+		completion_reward = {
+			log = "[GetDateText]: [Root.GetName]: Focus ENG_winds_of_change"
+			country_event = { id = Ephraim.1 }
+		}
+		relative_position_id = ENG_open_the_polls
+		prerequisite = { focus = ENG_open_the_polls }
+		mutually_exclusive = { focus = ENG_stale_water }
+	}
+	focus = {
+		id = ENG_stale_water
+		icon = GFX_ENG_stale_water
+		cost = 0.6
+		x = -6
+		y = 1
+		completion_reward = {
+			log = "[GetDateText]: [Root.GetName]: Focus ENG_stale_water"
+			country_event = { id = Ephraim.2 }
+		}
+		relative_position_id = ENG_open_the_polls
+		prerequisite = { focus = ENG_open_the_polls }
+		mutually_exclusive = { focus = ENG_winds_of_change }
+	}
+	focus = {
+		id = ENG_Knights_of_old_ephraim
+		icon = GFX_ENG_Knights_of_old_ephraim
+		cost = 0.6
+		x = -4
+		y = 2
+		completion_reward = {
+			log = "[GetDateText]: [Root.GetName]: Focus ENG_Knights_of_old_ephraim"
+			country_event = { id = Ephraim.3 }
+			set_politics = {
+            ruling_party = obscurantism
+			}
+			add_popularity = {
+			ideology = obscurantism
+			popularity = 0.35
+			}
+		}
+		relative_position_id = ENG_stale_water
+		prerequisite = { focus = ENG_stale_water }
+		mutually_exclusive = { focus = ENG_back_to_the_land }
+		mutually_exclusive = { focus = ENG_dont_stop_me_now }
+		mutually_exclusive = { focus = ENG_delicate_balance }
+		mutually_exclusive = { focus = ENG_let_it_be }
+	}
+	focus = {
+		id = ENG_back_to_the_land
+		icon = GFX_ENG_back_to_the_land
+		cost = 0.6
+		x = -2
+		y = 2
+		completion_reward = {
+			log = "[GetDateText]: [Root.GetName]: Focus ENG_back_to_the_land"
+			country_event = { id = Ephraim.4 }
+			set_politics = {
+            ruling_party = radical_democracy
+			}
+			add_popularity = {
+			ideology = radical_democracy
+			popularity = 0.35
+			}
+		}
+		relative_position_id = ENG_stale_water
+		prerequisite = { focus = ENG_stale_water }
+		mutually_exclusive = { focus = ENG_Knights_of_old_ephraim }
+		mutually_exclusive = { focus = ENG_dont_stop_me_now }
+		mutually_exclusive = { focus = ENG_delicate_balance }
+		mutually_exclusive = { focus = ENG_let_it_be }
+	}
+	focus = {
+		id = ENG_dont_stop_me_now
+		icon = GFX_ENG_dont_stop_me_now
+		cost = 0.6
+		x = 0
+		y = 2
+		completion_reward = {
+			log = "[GetDateText]: [Root.GetName]: Focus ENG_dont_stop_me_now"
+			country_event = { id = Ephraim.5 }
+			set_politics = {
+            ruling_party = new_right
+			}
+			add_popularity = {
+			ideology = new_right
+			popularity = 0.35
+			}
+		}
+		relative_position_id = ENG_stale_water
+		prerequisite = { focus = ENG_stale_water }
+		mutually_exclusive = { focus = ENG_Knights_of_old_ephraim }
+		mutually_exclusive = { focus = ENG_back_to_the_land }
+		mutually_exclusive = { focus = ENG_delicate_balance }
+		mutually_exclusive = { focus = ENG_let_it_be }
+	}
+	focus = {
+		id = ENG_delicate_balance
+		icon = GFX_ENG_delicate_balance
+		cost = 0.6
+		x = 2
+		y = 2
+		completion_reward = {
+			log = "[GetDateText]: [Root.GetName]: Focus ENG_delicate_balance"
+			country_event = { id = Ephraim.6 }
+			set_politics = {
+            ruling_party = western_democracy
+			}
+			add_popularity = {
+			ideology = western_democracy
+			popularity = 0.35
+			}
+		}
+		relative_position_id = ENG_stale_water
+		prerequisite = { focus = ENG_stale_water }
+		mutually_exclusive = { focus = ENG_Knights_of_old_ephraim }
+		mutually_exclusive = { focus = ENG_back_to_the_land }
+		mutually_exclusive = { focus = ENG_dont_stop_me_now }
+		mutually_exclusive = { focus = ENG_let_it_be }
+	}
+	focus = {
+		id = ENG_let_it_be
+		icon = GFX_ENG_let_it_be
+		cost = 0.6
+		x = 4
+		y = 2
+		completion_reward = {
+			log = "[GetDateText]: [Root.GetName]: Focus ENG_let_it_be"
+			country_event = { id = Ephraim.7 }
+			set_politics = {
+            ruling_party = marxism
+			}
+			add_popularity = {
+			ideology = marxism
+			popularity = 0.35
+			}
+		}
+		relative_position_id = ENG_stale_water
+		prerequisite = { focus = ENG_stale_water }
+		mutually_exclusive = { focus = ENG_Knights_of_old_ephraim }
+		mutually_exclusive = { focus = ENG_back_to_the_land }
+		mutually_exclusive = { focus = ENG_dont_stop_me_now }
+		mutually_exclusive = { focus = ENG_delicate_balance }
+	}
+	focus = {
+		id = ENG_onwards
+		icon = GFX_ENG_onwards
+		cost = 0.6
+		x = -4
+		y = 2
+		completion_reward = {
+			log = "[GetDateText]: [Root.GetName]: Focus ENG_onwards"
+		}
+		relative_position_id = ENG_winds_of_change
+		prerequisite = { focus = ENG_winds_of_change }
+		mutually_exclusive = { focus = ENG_mother_of_the_free }
+		mutually_exclusive = { focus = ENG_no_more_hiding }
+		mutually_exclusive = { focus = ENG_israel_lives }
+		mutually_exclusive = { focus = ENG_national_front_disco }
+	}
+	focus = {
+		id = ENG_mother_of_the_free
+		icon = GFX_ENG_mother_of_the_free
+		cost = 0.6
+		x = -2
+		y = 2
+		completion_reward = {
+			log = "[GetDateText]: [Root.GetName]: Focus ENG_mother_of_the_free"
+		}
+		relative_position_id = ENG_winds_of_change
+		prerequisite = { focus = ENG_winds_of_change }
+		mutually_exclusive = { focus = ENG_onwards }
+		mutually_exclusive = { focus = ENG_no_more_hiding }
+		mutually_exclusive = { focus = ENG_israel_lives }
+		mutually_exclusive = { focus = ENG_national_front_disco }
+	}
+	focus = {
+		id = ENG_no_more_hiding
+		icon = GFX_ENG_no_more_hiding
+		cost = 0.6
+		x = 0
+		y = 2
+		completion_reward = {
+			log = "[GetDateText]: [Root.GetName]: Focus ENG_no_more_hiding"
+		}
+		relative_position_id = ENG_winds_of_change
+		prerequisite = { focus = ENG_winds_of_change }
+		mutually_exclusive = { focus = ENG_onwards }
+		mutually_exclusive = { focus = ENG_mother_of_the_free }
+		mutually_exclusive = { focus = ENG_israel_lives }
+		mutually_exclusive = { focus = ENG_national_front_disco }
+	}
+	focus = {
+		id = ENG_israel_lives
+		icon = GFX_ENG_israel_lives
+		cost = 0.6
+		x = 2
+		y = 2
+		completion_reward = {
+			log = "[GetDateText]: [Root.GetName]: Focus ENG_israel_lives"
+		}
+		relative_position_id = ENG_winds_of_change
+		prerequisite = { focus = ENG_winds_of_change }
+		mutually_exclusive = { focus = ENG_onwards }
+		mutually_exclusive = { focus = ENG_mother_of_the_free }
+		mutually_exclusive = { focus = ENG_no_more_hiding }
+		mutually_exclusive = { focus = ENG_national_front_disco }
+	}
+	focus = {
+		id = ENG_national_front_disco
+		icon = GFX_ENG_national_front_disco
+		cost = 0.6
+		x = 4
+		y = 2
+		completion_reward = {
+			log = "[GetDateText]: [Root.GetName]: Focus ENG_national_front_disco"
+		}
+		relative_position_id = ENG_winds_of_change
+		prerequisite = { focus = ENG_winds_of_change }
+		mutually_exclusive = { focus = ENG_onwards }
+		mutually_exclusive = { focus = ENG_mother_of_the_free }
+		mutually_exclusive = { focus = ENG_no_more_hiding }
+		mutually_exclusive = { focus = ENG_israel_lives }
 	}
 }

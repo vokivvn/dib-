@@ -1,0 +1,140 @@
+add_namespace = Ephraim
+
+# Opposition wins elections Ephraim
+country_event = {
+    id = Ephraim.1
+    title = Ephraim.1.title
+    desc = Ephraim.1.desc
+	picture = GFX_face_opposition
+    
+    is_triggered_only = yes
+	fire_only_once = yes 
+    
+    option = {
+        name = Ephraim.1.a
+		 complete_national_focus = ENG_national_front_disco
+		}
+	option = {
+        name = Ephraim.1.b
+		complete_national_focus = ENG_israel_lives
+		}
+	option = {
+        name = Ephraim.1.c
+		complete_national_focus = ENG_no_more_hiding
+		}
+	option = {
+        name = Ephraim.1.d
+		complete_national_focus = ENG_mother_of_the_free
+		}
+	option = {
+        name = Ephraim.1.e
+		complete_national_focus = ENG_onwards
+		}
+    }
+
+# Conservatives win election
+country_event = {
+    id = Ephraim.2
+    title = Ephraim.2.title
+    desc = Ephraim.2.desc
+	picture = GFX_face_conservative
+    
+    is_triggered_only = yes
+	fire_only_once = yes 
+    
+    option = {
+        name = Ephraim.2.a
+		complete_national_focus = ENG_Knights_of_old_ephraim
+		}
+	option = {
+        name = Ephraim.2.b
+		complete_national_focus = ENG_back_to_the_land
+		}
+	option = {
+        name = Ephraim.2.c
+		complete_national_focus = ENG_dont_stop_me_now
+		}
+	option = {
+        name = Ephraim.2.d
+		complete_national_focus = ENG_delicate_balance
+		}
+	option = {
+        name = Ephraim.2.e
+		complete_national_focus = ENG_let_it_be
+		}
+    }
+	
+# Lauder-Frost wins electionssssss
+country_event = {
+    id = Ephraim.3
+    title = Ephraim.3.title
+    desc = Ephraim.3.desc
+	picture = GFX_Lauder_Frost_election
+    
+    is_triggered_only = yes
+	fire_only_once = yes 
+    
+    option = {
+        name = Ephraim.3.a
+		}
+	}
+
+# Green conservatives wins electionssssss
+country_event = {
+    id = Ephraim.4
+    title = Ephraim.4.title
+    desc = Ephraim.4.desc
+	picture = GFX_Green_Conservatives
+    
+    is_triggered_only = yes
+	fire_only_once = yes 
+    
+    option = {
+        name = Ephraim.4.a
+		}
+	}
+		
+# Everett wins electionssssss
+country_event = {
+    id = Ephraim.5
+    title = Ephraim.5.title
+    desc = Ephraim.5.desc
+	picture = GFX_Everett_election
+    
+    is_triggered_only = yes
+	fire_only_once = yes 
+    
+    option = {
+        name = Ephraim.5.a
+		}
+	}
+		
+# Glassman wins electionssssss
+country_event = {
+    id = Ephraim.6
+    title = Ephraim.6.title
+    desc = Ephraim.6.desc
+	picture = GFX_Glasman_election
+    
+    is_triggered_only = yes
+	fire_only_once = yes 
+    
+    option = {
+        name = Ephraim.6.a
+		}
+	}
+		
+# McCartney wins electionssssss
+country_event = {
+    id = Ephraim.7
+    title = Ephraim.7.title
+    desc = Ephraim.7.desc
+	picture = GFX_McCartney_election
+    
+    is_triggered_only = yes
+	fire_only_once = yes 
+    
+    option = {
+        name = Ephraim.7.a
+		}
+	}

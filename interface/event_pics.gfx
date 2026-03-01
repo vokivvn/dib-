@@ -1,0 +1,30 @@
+SpriteTypes = {
+	spriteType = {
+		name = "GFX_face_opposition"
+		texturefile = "gfx/interface/eventpics/GFX_face_opposition.dds"
+	}
+	spriteType = {
+		name = "GFX_face_conservative"
+		texturefile = "gfx/interface/eventpics/GFX_face_conservative.dds"
+	}
+	spriteType = {
+		name = "GFX_Lauder_Frost_election"
+		texturefile = "gfx/interface/eventpics/GFX_Lauder_Frost_election.dds"
+	}
+	spriteType = {
+		name = "GFX_Green_Conservatives"
+		texturefile = "gfx/interface/eventpics/GFX_Green_Conservatives.dds"
+	}
+	spriteType = {
+		name = "GFX_Everett_election"
+		texturefile = "gfx/interface/eventpics/GFX_Everett_election.dds"
+	}
+	spriteType = {
+		name = "GFX_Glasman_election"
+		texturefile = "gfx/interface/eventpics/GFX_Glasman_election.dds"
+	}
+	spriteType = {
+		name = "GFX_McCartney_election"
+		texturefile = "gfx/interface/eventpics/GFX_McCartney_election.dds"
+	}
+}

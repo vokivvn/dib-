@@ -76,4 +76,74 @@ spriteTypes = {
 	name = "GFX_ENG_step_aside"
 	texturefile = "gfx/interface/goals/ENG/Step_Aside.png"			
 	}
+	
+	SpriteType = {
+	name = "GFX_ENG_choosing_our_candidates"
+	texturefile = "gfx/interface/goals/ENG/choosing_our_candidates.png"			
+	}
+
+SpriteType = {
+	name = "GFX_ENG_open_the_polls"
+	texturefile = "gfx/interface/goals/ENG/open_the_polls.png"			
+	}
+
+SpriteType = {
+	name = "GFX_ENG_winds_of_change"
+	texturefile = "gfx/interface/goals/ENG/winds_of_change.png"			
+	}
+
+SpriteType = {
+	name = "GFX_ENG_stale_water"
+	texturefile = "gfx/interface/goals/ENG/stale_water.png"			
+	}
+
+SpriteType = {
+	name = "GFX_ENG_Knights_of_old_ephraim"
+	texturefile = "gfx/interface/goals/ENG/Knights_of_old_ephraim.png"			
+	}
+
+SpriteType = {
+	name = "GFX_ENG_back_to_the_land"
+	texturefile = "gfx/interface/goals/ENG/back_to_the_land.png"			
+	}
+
+SpriteType = {
+	name = "GFX_ENG_dont_stop_me_now"
+	texturefile = "gfx/interface/goals/ENG/dont_stop_me_now.png"			
+	}
+
+SpriteType = {
+	name = "GFX_ENG_delicate_balance"
+	texturefile = "gfx/interface/goals/ENG/delicate_balance.png"			
+	}
+
+SpriteType = {
+	name = "GFX_ENG_let_it_be"
+	texturefile = "gfx/interface/goals/ENG/let_it_be.png"			
+	}
+
+SpriteType = {
+	name = "GFX_ENG_onwards"
+	texturefile = "gfx/interface/goals/ENG/onwards.png"			
+	}
+
+SpriteType = {
+	name = "GFX_ENG_mother_of_the_free"
+	texturefile = "gfx/interface/goals/ENG/mother_of_the_free.png"			
+	}
+
+SpriteType = {
+	name = "GFX_ENG_no_more_hiding"
+	texturefile = "gfx/interface/goals/ENG/no_more_hiding.png"			
+	}
+
+SpriteType = {
+	name = "GFX_ENG_israel_lives"
+	texturefile = "gfx/interface/goals/ENG/israel_lives.png"			
+	}
+
+SpriteType = {
+	name = "GFX_ENG_national_front_disco"
+	texturefile = "gfx/interface/goals/ENG/national_front_disco.png"			
+	}
 }

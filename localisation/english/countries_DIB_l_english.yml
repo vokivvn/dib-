@@ -68,6 +68,49 @@
  ENG_occidental_despotism:0 "United Kingdom of Ephraim"
  ENG_occidental_despotism_DEF:0 "The United Kingdom of Ephraim"
  ENG_occidental_despotism_ADJ:0 "British-Israelite"
+ ENG_anarchism:0 ""
+ ENG_anarchism_DEF:0 ""
+ ENG_anarchism_ADJ:0 "British-Israelite"
+
+ ENG_marxism:0 "Worldwide Convent of Israel"
+ ENG_marxism_DEF:0 "The Worldwide Convent of Israel"
+ ENG_marxism_ADJ:0 "British-Israelite"
+
+ ENG_independent_socialism:0 ""
+ ENG_independent_socialism_DEF:0 ""
+ ENG_independent_socialism_ADJ:0 "British-Israelite"
+
+ ENG_radical_democracy:0 "United Kingdom of Ephraim"
+ ENG_radical_democracy_DEF:0 "The United Kingdom of Ephraim"
+ ENG_radical_democracy_ADJ:0 "British-Israelite"
+
+ ENG_western_democracy:0 "United Kingdom of Ephraim"
+ ENG_western_democracy_DEF:0 "The United Kingdom of Ephraim"
+ ENG_western_democracy_ADJ:0 "British-Israelite"
+
+ ENG_obscurantism:0 "United Kingdom of Ephraim"
+ ENG_obscurantism_DEF:0 "The United Kingdom of Ephraim"
+ ENG_obscurantism_ADJ:0 "British-Israelite"
+
+ ENG_new_right:0 "United Kingdom of Ephraim"
+ ENG_new_right_DEF:0 "The United Kingdom of Ephraim"
+ ENG_new_right_ADJ:0 "British-Israelite"
+
+ ENG_radical_right:0 ""
+ ENG_radical_right_DEF:0 ""
+ ENG_radical_right_ADJ:0 "British-Israelite"
+
+ ENG_institutionalism:0 ""
+ ENG_institutionalism_DEF:0 ""
+ ENG_institutionalism_ADJ:0 "British-Israelite"
+
+ ENG_oriental_despotism:0 ""
+ ENG_oriental_despotism_DEF:0 ""
+ ENG_oriental_despotism_ADJ:0 "British-Israelite"
+
+ ENG_unclassifiable:0 "ELOHIM"
+ ENG_unclassifiable_DEF:0 "ELOHIM"
+ ENG_unclassifiable_ADJ:0 "[REDACTED]"
 
  HNS:0 "Hansa"
  HNS_DEF:0 "Hansa"

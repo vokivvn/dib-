@@ -645,8 +645,41 @@ DMR_marxism_party_long:0 "Natschonaale Buurnsammel"
 
 #EPHRAIM
 
-ENG_occidental_despotism_party:0 "Conservatives"
-ENG_occidental_despotism_party_long:0 "Conservative Party"
+ ENG_anarchism_party:0 "TBA"
+ ENG_anarchism_party_long:0 "TBA"
+
+ ENG_marxism_party:0 "Conservative Party (Reformists)"
+ ENG_marxism_party_long:0 "Conservative Party (Reformists)"
+
+ ENG_independent_socialism_party:0 "TBA"
+ ENG_independent_socialism_party_long:0 "TBA"
+
+ ENG_radical_democracy_party:0 "Conservative Party (One Nation)"
+ ENG_radical_democracy_party_long:0 "Conservative Party (One Nation)"
+
+ ENG_western_democracy_party:0 "Conservative-Labour Coalition"
+ ENG_western_democracy_party_long:0 "Conservative-Labour Coalition"
+
+ ENG_obscurantism_party:0 "Conservative Party (Traditionalists)"
+ ENG_obscurantism_party_long:0 "Conservative Party (Traditionalists)"
+
+ ENG_new_right_party:0 "Conservative Party (Free Marketers)"
+ ENG_new_right_party_long:0 "Conservative Party (Free Marketers)"
+
+ ENG_radical_right_party:0 "TBA"
+ ENG_radical_right_party_long:0 "TBA"
+
+ ENG_institutionalism_party:0 "TBA"
+ ENG_institutionalism_party_long:0 "TBA"
+
+ ENG_occidental_despotism_party:0 "Conservative Party (Center)"
+ ENG_occidental_despotism_party_long:0 "Conservative Party (Center)"
+
+ ENG_oriental_despotism_party:0 "TBA"
+ ENG_oriental_despotism_party_long:0 "TBA"
+
+ ENG_unclassifiable_party:0 "ELOHIM"
+ ENG_unclassifiable_party_long:0 "ELOHIM"
 
 #FLORENCE
 TOS_institutionalism_party:0 "Priorato delle Arti"

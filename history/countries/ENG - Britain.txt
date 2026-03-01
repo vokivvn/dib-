@@ -43,7 +43,18 @@ set_politics = {
 	elections_allowed = no
 }
 set_popularities = {
-	occidental_despotism = 100
+	anarchism = 0
+	marxism = 2
+	independent_socialism = 0
+	radical_democracy = 3
+	western_democracy = 4
+	obscurantism = 22
+	new_right = 6
+	radical_right = 0
+	institutionalism = 0
+	occidental_despotism = 63
+	oriental_despotism = 0
+	unclassifiable = 0
 }
 
 create_faction = commonwealth
@@ -68,6 +79,66 @@ create_country_leader = {
 	picture = "gfx/leaders/ENG/Alan_Campbell.png"
 	expire = "2000.1.1"
 	ideology = christian_theocracy
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "Gregory Lauder-Frost"
+	desc = ""
+	picture = "gfx/leaders/ENG/Gregory_Lauder_Frost.png"
+	expire = "2000.1.1"
+	ideology = classical_conservatism
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "Allan Savory"
+	desc = ""
+	picture = "gfx/leaders/ENG/Allan_Savory.png"
+	expire = "2000.1.1"
+	ideology = grassroots_democracy
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "Kenny Everett"
+	desc = ""
+	picture = "gfx/leaders/ENG/Kenny_Everett.png"
+	expire = "2000.1.1"
+	ideology = libertarianism
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "Maurice Glasman"
+	desc = ""
+	picture = "gfx/leaders/ENG/Maurice_Glasman.png"
+	expire = "2000.1.1"
+	ideology = labour_conservatism
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "Paul McCartney"
+	desc = ""
+	picture = "gfx/leaders/ENG/Paul_McCartney.png"
+	expire = "2000.1.1"
+	ideology = liberal_socialism
+	traits = {
+	}
+}
+
+create_country_leader = {
+	name = "ELOHIM"
+	desc = ""
+	picture = "gfx/leaders/ENG/ELOHIM.png"
+	expire = "2000.1.1"
+	ideology = machine_rule
 	traits = {
 	}
 }
