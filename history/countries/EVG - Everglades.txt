@@ -47,3 +47,12 @@ create_country_leader = {
 	traits = {
 	}
 }
+create_country_leader = {
+	name = "Colonel Brandon"
+	desc = ""
+	picture = "gfx/leaders/EVG/Colonel_Brandon.png"
+	expire = "2000.1.1"
+	ideology = revolutionary_nationalism
+	traits = {
+	}
+}

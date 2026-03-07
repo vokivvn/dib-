@@ -88,7 +88,7 @@ create_country_leader = {
 	desc = ""
 	picture = "gfx/leaders/ENG/Gregory_Lauder_Frost.png"
 	expire = "2000.1.1"
-	ideology = classical_conservatism
+	ideology = aristocracy
 	traits = {
 	}
 }

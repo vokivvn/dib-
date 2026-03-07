@@ -15,7 +15,8 @@ set_politics = {
 	elections_allowed = no
 }
 set_popularities = {
-	anarchism = 100
+	anarchism = 80
+	unclassifiable = 20
 }
 create_country_leader = {
 	name = "Miles J. Stanford"
@@ -23,6 +24,15 @@ create_country_leader = {
 	picture = "gfx/leaders/VDL/milesjstandford.png"
 	expire = "2000.1.1"
 	ideology = religious_anarchism
+	traits = {
+	}
+}
+create_country_leader = {
+	name = "Martin Bryant"
+	desc = ""
+	picture = "gfx/leaders/VDL/Martin_Bryant.png"
+	expire = "2000.1.1"
+	ideology = radical_nihilism
 	traits = {
 	}
 }

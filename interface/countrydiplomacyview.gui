@@ -211,7 +211,7 @@ guiTypes = {
 						position = { x = 5 y = -8 }
 						font = "ibm_18"
 						text = "party"
-						maxWidth = 137
+						maxWidth = 133
 						maxHeight = 20
 						fixedsize = yes
 					}
@@ -221,8 +221,9 @@ guiTypes = {
 						position = { x = 5 y = 8 }
 						font = "ibm_18"
 						text = "ideology"
-						maxWidth = 130
+						maxWidth = 133
 						maxHeight = 20
+						fixedsize = yes
 					}
 				}
 

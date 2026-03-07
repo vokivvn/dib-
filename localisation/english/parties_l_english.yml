@@ -852,3 +852,9 @@ NGR_radical_democracy_party:0 "AND-IPP"
 NGR_radical_democracy_party_long:0 "African National Dawn - Intercommunal Progressive Party"
 NGR_western_democracy_party:0 "AND-IPP"
 NGR_western_democracy_party_long:0 "African National Dawn - Intercommunal Progressive Party"
+
+#EVERGLADES
+EVG_anarchism_party:0 "A.O.A."
+EVG_anarchism_party_long:0 "American Outlaws Association"
+EVG_radical_right_party:0 "50 Blessings"
+EVG_radical_right_party_long:0 "50 Blessings"
