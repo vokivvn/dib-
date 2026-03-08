@@ -1,0 +1,47 @@
+	scripted_gui = {
+
+	Super_Event_Window = {
+		context_type = player_context
+		window_name = "Super_Event_Window"
+
+		visible = {
+			has_global_flag = Super_Event_Visible
+		}
+
+		triggers = {
+			Lauder_frost_election_super_visible = {
+				check_variable = { global.current_superevent = 1 }
+			}
+			Allan_Savory_election_super_visible = {
+				check_variable = { global.current_superevent = 2 }
+			}
+			Kenny_Everett_election_super_visible = {
+				check_variable = { global.current_superevent = 3 }
+			}
+			Maurice_Glasman_election_super_visible = {
+				check_variable = { global.current_superevent = 4 }
+			}
+			Paul_McCartney_election_super_visible = {
+				check_variable = { global.current_superevent = 5 }
+			}
+		}
+
+		properties = {
+			Super_Event_Image_Default = {
+				image = "[get_my_superevent_texture]"
+			}
+		}
+
+		effects = {
+			Super_Event_Close_click = {
+				clr_global_flag = Super_Event_Visible
+				if = {
+					limit = {
+							check_variable = { current_superevent < 100}
+					}
+					clear_variable = current_superevent
+				}
+			}
+		}
+	}
+}

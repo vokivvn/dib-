@@ -1,0 +1,30 @@
+spriteTypes = {	
+	SpriteType = {
+	name = "GFX_portrait_Alan_Campbell"
+	texturefile = "gfx/leaders/ENG/Alan_Campbell.png"			
+	}
+	SpriteType = {
+	name = "GFX_portrait_Gregory_Lauder_Frost"
+	texturefile = "gfx/leaders/ENG/Gregory_Lauder_Frost.png"			
+	}
+	SpriteType = {
+	name = "GFX_portrait_Allan_Savory"
+	texturefile = "gfx/leaders/ENG/Allan_Savory.png"			
+	}
+	SpriteType = {
+	name = "GFX_portrait_Kenny_Everett"
+	texturefile = "gfx/leaders/ENG/Kenny_Everett.png"			
+	}
+	SpriteType = {
+	name = "GFX_portrait_Maurice_Glasman"
+	texturefile = "gfx/leaders/ENG/Maurice_Glasman.png"			
+	}
+	SpriteType = {
+	name = "GFX_portrait_Paul_McCartney"
+	texturefile = "gfx/leaders/ENG/Paul_McCartney.png"			
+	}
+	SpriteType = {
+	name = "GFX_portrait_ELOHIM"
+	texturefile = "gfx/leaders/ENG/ELOHIM.png"			
+	}
+}

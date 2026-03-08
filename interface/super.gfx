@@ -1,0 +1,26 @@
+SpriteTypes = {
+	spriteType = {
+		name = "GFX_closebutton_super"
+		texturefile = "gfx/interface/superevents/closebutton_super.dds"
+	}
+	spriteType = {
+		name = "GFX_Lauder_frost_election_super"
+		texturefile = "gfx/interface/superevents/Lauder_frost_election_super.dds"
+	}
+	spriteType = {
+		name = "GFX_Allan_Savory_election_super"
+		texturefile = "gfx/interface/superevents/Allan_Savory_election_super.dds"
+	}
+	spriteType = {
+		name = "GFX_Kenny_Everett_election_super"
+		texturefile = "gfx/interface/superevents/Kenny_Everett_election_super.dds"
+	}
+	spriteType = {
+		name = "GFX_Maurice_Glasman_election_super"
+		texturefile = "gfx/interface/superevents/Maurice_Glasman_election_super.dds"
+	}
+	spriteType = {
+		name = "GFX_Paul_McCartney_election_super"
+		texturefile = "gfx/interface/superevents/Paul_McCartney_election_super.dds"
+	}
+}

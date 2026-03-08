@@ -1,0 +1,76 @@
+###############
+# SUPER EVENT #
+###############
+category = {
+ name = "Super"
+ soundeffects = {
+	greogrylauderfrost
+	greenconservatives
+	dontstopmenow
+	glassman
+	McCartneywin
+}
+  compressor =  {
+	enabled = yes
+	pregain = 5.0
+	postgain = 6.0
+	ratio = 15.0
+	threshold = -15.0
+	attacktime = 0.03
+	releasetime = 0.0
+ }
+}
+
+sound = {
+	name = "greogrylauderfrost"
+	volume = 1
+	file = "superevents/greogrylauderfrost.wav"
+}
+sound = {
+	name = "greenconservatives"
+	volume = 1
+	file = "superevents/greenconservatives.wav"
+}
+sound = {
+	name = "dontstopmenow"
+	volume = 1
+	file = "superevents/dontstopmenow.wav"
+}
+sound = {
+	name = "glassman"
+	volume = 1
+	file = "superevents/glassman.wav"
+}
+sound = {
+	name = "McCartneywin"
+	volume = 1
+	file = "superevents/McCartneywin.wav"
+}
+
+soundeffect = {
+	name = greogrylauderfrost
+	#volume = 1
+	sounds = { sound = greogrylauderfrost }
+}
+soundeffect = {
+	name = greenconservatives
+	#volume = 1
+	sounds = { sound = greenconservatives }
+}
+soundeffect = {
+	name = dontstopmenow
+	#volume = 1
+	sounds = { sound = dontstopmenow }
+}
+soundeffect = {
+	name = glassman
+	#volume = 1
+	sounds = { sound = glassman }
+}
+soundeffect = {
+	name = McCartneywin
+	#volume = 1
+	sounds = { sound = McCartneywin }
+}
+
+

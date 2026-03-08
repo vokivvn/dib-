@@ -211,7 +211,7 @@ guiTypes = {
 						position = { x = 5 y = -8 }
 						font = "ibm_18"
 						text = "party"
-						maxWidth = 133
+						maxWidth = 125
 						maxHeight = 20
 						fixedsize = yes
 					}

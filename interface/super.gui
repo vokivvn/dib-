@@ -1,0 +1,55 @@
+guiTypes = {
+
+	containerWindowType = {
+		name = "Super_Event_Window"
+		size = { width = 896 height = 956 }
+		position = { x= 50 y= 100 }
+		Orientation = center
+		Origo = center
+		clipping = no	
+		moveable = yes
+
+		iconType = {
+			name ="Lauder_frost_election_super"
+			spriteType = "GFX_Lauder_frost_election_super"
+			position = { x = 0 y = 0 }
+			alwaystransparent = yes
+			scale = 0.86
+		}
+		iconType = {
+			name ="Allan_Savory_election_super"
+			spriteType = "GFX_Allan_Savory_election_super"
+			position = { x = 0 y = 0 }
+			alwaystransparent = yes
+			scale = 0.86
+		}
+		iconType = {
+			name ="Kenny_Everett_election_super"
+			spriteType = "GFX_Kenny_Everett_election_super"
+			position = { x = 0 y = 0 }
+			alwaystransparent = yes
+			scale = 0.86
+		}
+		iconType = {
+			name ="Maurice_Glasman_election_super"
+			spriteType = "GFX_Maurice_Glasman_election_super"
+			position = { x = 0 y = 0 }
+			alwaystransparent = yes
+			scale = 0.86
+		}
+		iconType = {
+			name ="Paul_McCartney_election_super"
+			spriteType = "GFX_Paul_McCartney_election_super"
+			position = { x = 0 y = 0 }
+			alwaystransparent = yes
+			scale = 0.86
+		}
+		buttonType = {
+            name = "Super_Event_Close"
+            position = { x = 0 y = 0 }
+            quadTextureSprite ="GFX_closebutton_super"
+            clicksound = click_scroll
+			scale = 0.86
+        }
+	}
+}

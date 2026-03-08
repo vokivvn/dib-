@@ -1,0 +1,86 @@
+characters={
+	ENG_Alan_Campbell={
+		name="Alan Campbell"
+		portraits={
+			civilian={
+				large=GFX_portrait_Alan_Campbell
+			}
+		}
+		country_leader={
+			ideology=christian_theocracy
+			expire="2000.1.1.1"
+		}
+	}
+	ENG_Gregory_Lauder_Frost={
+		name="Gregory Lauder-Frost"
+		portraits={
+			civilian={
+				large=GFX_portrait_Gregory_Lauder_Frost
+			}
+		}
+		country_leader={
+			ideology=state_traditionalism
+			expire="2000.1.1.1"
+		}
+	}
+	ENG_Allan_Savory={
+		name="Allan Savory"
+		portraits={
+			civilian={
+				large=GFX_portrait_Allan_Savory
+			}
+		}
+		country_leader={
+			ideology=grassroots_democracy
+			expire="2000.1.1.1"
+		}
+	}
+	ENG_Kenny_Everett={
+		name="Kenny Everett"
+		portraits={
+			civilian={
+				large=GFX_portrait_Kenny_Everett
+			}
+		}
+		country_leader={
+			ideology=libertarianism
+			expire="2000.1.1.1"
+		}
+	}
+	ENG_Maurice_Glasman={
+		name="Maurice Glasman"
+		portraits={
+			civilian={
+				large=GFX_portrait_Maurice_Glasman
+			}
+		}
+		country_leader={
+			ideology=labour_conservatism
+			expire="2000.1.1.1"
+		}
+	}
+	ENG_Paul_McCartney={
+		name="Paul McCartney"
+		portraits={
+			civilian={
+				large=GFX_portrait_Paul_McCartney
+			}
+		}
+		country_leader={
+			ideology=liberal_socialism
+			expire="2000.1.1.1"
+		}
+	}
+	ENG_ELOHIM={
+		name="ELOHIM"
+		portraits={
+			civilian={
+				large=GFX_portrait_ELOHIM
+			}
+		}
+		country_leader={
+			ideology=machine_rule
+			expire="2000.1.1.1"
+		}
+	}
+}

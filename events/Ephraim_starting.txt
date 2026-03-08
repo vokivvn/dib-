@@ -70,14 +70,25 @@ country_event = {
     title = Ephraim.3.title
     desc = Ephraim.3.desc
 	picture = GFX_Lauder_Frost_election
-    
     is_triggered_only = yes
 	fire_only_once = yes 
+	immediate = {
+	set_country_flag = event_open
+} 
     
     option = {
-        name = Ephraim.3.a
+		set_variable = {
+          var = global.current_superevent
+          value = 1
+			}
+		set_global_flag = Super_Event_Visible
+		hidden_effect = {
+			sound_effect = "greogrylauderfrost"
 		}
+		clr_country_flag = event_open
+		name = Ephraim.3.a
 	}
+}
 
 # Green conservatives wins electionssssss
 country_event = {
@@ -88,11 +99,23 @@ country_event = {
     
     is_triggered_only = yes
 	fire_only_once = yes 
+	immediate = {
+	set_country_flag = event_open
+} 
     
     option = {
-        name = Ephraim.4.a
+		set_variable = {
+          var = global.current_superevent
+          value = 2
+			}
+		set_global_flag = Super_Event_Visible
+		hidden_effect = {
+			sound_effect = "greenconservatives"
 		}
+		clr_country_flag = event_open
+		name = Ephraim.4.a
 	}
+}
 		
 # Everett wins electionssssss
 country_event = {
@@ -103,11 +126,23 @@ country_event = {
     
     is_triggered_only = yes
 	fire_only_once = yes 
+	immediate = {
+	set_country_flag = event_open
+} 
     
     option = {
-        name = Ephraim.5.a
+		set_variable = {
+          var = global.current_superevent
+          value = 3
+			}
+		set_global_flag = Super_Event_Visible
+		hidden_effect = {
+			sound_effect = "dontstopmenow"
 		}
+		clr_country_flag = event_open
+		name = Ephraim.5.a
 	}
+}
 		
 # Glassman wins electionssssss
 country_event = {
@@ -118,11 +153,23 @@ country_event = {
     
     is_triggered_only = yes
 	fire_only_once = yes 
+	immediate = {
+	set_country_flag = event_open
+} 
     
     option = {
-        name = Ephraim.6.a
+		set_variable = {
+          var = global.current_superevent
+          value = 4
+			}
+		set_global_flag = Super_Event_Visible
+		hidden_effect = {
+			sound_effect = "glassman"
 		}
+		clr_country_flag = event_open
+		name = Ephraim.6.a
 	}
+}
 		
 # McCartney wins electionssssss
 country_event = {
@@ -133,8 +180,20 @@ country_event = {
     
     is_triggered_only = yes
 	fire_only_once = yes 
+	immediate = {
+	set_country_flag = event_open
+} 
     
     option = {
-        name = Ephraim.7.a
+		set_variable = {
+          var = global.current_superevent
+          value = 5
+			}
+		set_global_flag = Super_Event_Visible
+		hidden_effect = {
+			sound_effect = "McCartneywin"
 		}
+		clr_country_flag = event_open
+		name = Ephraim.7.a
 	}
+}

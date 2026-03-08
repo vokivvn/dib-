@@ -73,72 +73,10 @@ add_to_faction = SIE
 add_to_faction = SAT
 add_to_faction = LEM
 
-create_country_leader = {
-	name = "Alan Campbell"
-	desc = ""
-	picture = "gfx/leaders/ENG/Alan_Campbell.png"
-	expire = "2000.1.1"
-	ideology = christian_theocracy
-	traits = {
-	}
-}
-
-create_country_leader = {
-	name = "Gregory Lauder-Frost"
-	desc = ""
-	picture = "gfx/leaders/ENG/Gregory_Lauder_Frost.png"
-	expire = "2000.1.1"
-	ideology = aristocracy
-	traits = {
-	}
-}
-
-create_country_leader = {
-	name = "Allan Savory"
-	desc = ""
-	picture = "gfx/leaders/ENG/Allan_Savory.png"
-	expire = "2000.1.1"
-	ideology = grassroots_democracy
-	traits = {
-	}
-}
-
-create_country_leader = {
-	name = "Kenny Everett"
-	desc = ""
-	picture = "gfx/leaders/ENG/Kenny_Everett.png"
-	expire = "2000.1.1"
-	ideology = libertarianism
-	traits = {
-	}
-}
-
-create_country_leader = {
-	name = "Maurice Glasman"
-	desc = ""
-	picture = "gfx/leaders/ENG/Maurice_Glasman.png"
-	expire = "2000.1.1"
-	ideology = labour_conservatism
-	traits = {
-	}
-}
-
-create_country_leader = {
-	name = "Paul McCartney"
-	desc = ""
-	picture = "gfx/leaders/ENG/Paul_McCartney.png"
-	expire = "2000.1.1"
-	ideology = liberal_socialism
-	traits = {
-	}
-}
-
-create_country_leader = {
-	name = "ELOHIM"
-	desc = ""
-	picture = "gfx/leaders/ENG/ELOHIM.png"
-	expire = "2000.1.1"
-	ideology = machine_rule
-	traits = {
-	}
-}
+recruit_character = ENG_Alan_Campbell
+recruit_character = ENG_Gregory_Lauder_Frost
+recruit_character = ENG_Allan_Savory
+recruit_character = ENG_Kenny_Everett
+recruit_character = ENG_Maurice_Glasman
+recruit_character = ENG_Paul_McCartney
+recruit_character = ENG_ELOHIM
