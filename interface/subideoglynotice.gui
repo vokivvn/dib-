@@ -4,7 +4,7 @@ guiTypes = {
 		position = { x = 436 y = 109 }
 		instantTextboxType = {
 			name = "subideology_name"
-			position = { x = -38 y = 150 }
+			position = { x = -38 y = 142 }
 			font = "ibm_18"
 			text = "[GetRulingIdeologySubtype]"
 			pdx_tooltip = "GetRulingIdeologySubtype"

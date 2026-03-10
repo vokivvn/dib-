@@ -4,17 +4,14 @@ bookmarks = {
 		desc = "DIB_DESC"
 		date = 1985.1.1.12
 		picture = "GFX_select_date_1"
-		default_country = "CAL"
+		default_country = "ENG"
 		default = yes
 		
 		
-		CAL={
-			history = "CAL_HISTORY"
-			ideology = western_democracy
+		ENG={
+			history = "ENG"
+			ideology = occidental_despotism
 			ideas = {
-				CAL_Curbing_The_Rest
-				CAL_New_Age_Retro_Hippies
-				CAL_Audit_Of_The_Century
 			}
 			focuses = {
 			}
@@ -66,10 +63,13 @@ bookmarks = {
 			}
 		}
 
-		SAM={
-			history = "SAM"
+		CAL={
+			history = "CAL"
 			ideology = western_democracy
 			ideas = {
+				CAL_Curbing_The_Rest
+				CAL_New_Age_Retro_Hippies
+				CAL_Audit_Of_The_Century
 			}
 			focuses = {
 			}

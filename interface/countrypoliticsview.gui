@@ -106,7 +106,7 @@ guiTypes = {
 			
 			instantTextboxType = {
 				name = "ideology"
-				position = { x = 8 y = 22 }
+				position = { x = 8 y = 13 }
 				font = "ibm_18"
 				text = "ideology"
 				maxWidth = 140
@@ -269,13 +269,6 @@ guiTypes = {
 				quadTextureSprite = "GFX_pol_power_icon"
 			}
 			
-			buttonType = {
-				name = "add_national_goal_button"
-				position = { x = 0 y = -60 }
-				spriteType = "GFX_add_national_goal_button"
-				clicksound = click_default
-			}
-			
 			instantTextboxType = {
 				name = "focus_cost"
 				position = { x = 132 y = 60 }
@@ -292,6 +285,13 @@ guiTypes = {
 				position = { x = 47 y = 48 }
 				centerposition = yes			
 				spriteType = "GFX_goal_unknown"
+			}
+			
+			buttonType = {
+				name = "add_national_goal_button"
+				position = { x = 0 y = 5 }
+				spriteType = "GFX_add_national_goal_button"
+				clicksound = click_default
 			}
 			
 			buttonType = {
