@@ -24,6 +24,9 @@
 			Paul_McCartney_election_super_visible = {
 				check_variable = { global.current_superevent = 5 }
 			}
+			Morrissey_election_super_visible = {
+				check_variable = { global.current_superevent = 6 }
+			}
 		}
 
 		properties = {

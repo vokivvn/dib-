@@ -44,6 +44,13 @@ guiTypes = {
 			alwaystransparent = yes
 			scale = 0.86
 		}
+		iconType = {
+			name ="Morrissey_election_super"
+			spriteType = "GFX_Morrissey_election_super"
+			position = { x = 0 y = 0 }
+			alwaystransparent = yes
+			scale = 0.86
+		}
 		buttonType = {
             name = "Super_Event_Close"
             position = { x = 0 y = 0 }

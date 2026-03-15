@@ -9,6 +9,7 @@ category = {
 	dontstopmenow
 	glassman
 	McCartneywin
+	nationalfrontdisco
 }
   compressor =  {
 	enabled = yes
@@ -46,6 +47,11 @@ sound = {
 	volume = 1
 	file = "superevents/McCartneywin.wav"
 }
+sound = {
+	name = "nationalfrontdisco"
+	volume = 1
+	file = "superevents/nationalfrontdisco.wav"
+}
 
 soundeffect = {
 	name = greogrylauderfrost
@@ -71,6 +77,11 @@ soundeffect = {
 	name = McCartneywin
 	#volume = 1
 	sounds = { sound = McCartneywin }
+}
+soundeffect = {
+	name = nationalfrontdisco
+	#volume = 1
+	sounds = { sound = nationalfrontdisco }
 }
 
 

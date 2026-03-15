@@ -341,7 +341,7 @@ guiTypes = {
 			iconType = {
 				name = "ideology_icon"
 				spriteType = "GFX_ideology_unknown"
-				position = {x = 154 y = 191}
+				position = {x = 150 y = 195}
 				Orientation = "UPPER_LEFT"
 				frame = 1
 			}

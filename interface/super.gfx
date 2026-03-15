@@ -23,4 +23,8 @@ SpriteTypes = {
 		name = "GFX_Paul_McCartney_election_super"
 		texturefile = "gfx/interface/superevents/Paul_McCartney_election_super.dds"
 	}
+	spriteType = {
+		name = "GFX_Morrissey_election_super"
+		texturefile = "gfx/interface/superevents/Morrissey_election_super.dds"
+	}
 }

@@ -7,7 +7,7 @@ characters={
 			}
 		}
 		country_leader={
-			ideology=christian_theocracy
+			ideology=jewish_theocracy
 			expire="2000.1.1.1"
 		}
 	}
@@ -80,6 +80,66 @@ characters={
 		}
 		country_leader={
 			ideology=machine_rule
+			expire="2000.1.1.1"
+		}
+	}
+	ENG_Morrissey={
+		name="Steven Morrissey"
+		portraits={
+			civilian={
+				large=GFX_portrait_Morrissey
+			}
+		}
+		country_leader={
+			ideology=nativist_populism
+			expire="2000.1.1.1"
+		}
+	}
+	ENG_Max_Mosley={
+		name="Max Mosley"
+		portraits={
+			civilian={
+				large=GFX_portrait_Max_Mosley
+			}
+		}
+		country_leader={
+			ideology=liberal_socialism
+			expire="2000.1.1.1"
+		}
+	}
+	ENG_Jeremy_Thorpe={
+		name="Jeremy Thorpe"
+		portraits={
+			civilian={
+				large=GFX_portrait_Jeremy_Thorpe
+			}
+		}
+		country_leader={
+			ideology=liberalism_id
+			expire="2000.1.1.1"
+		}
+	}
+	ENG_Julia_Neuberger={
+		name="Julia Neuberger"
+		portraits={
+			civilian={
+				large=GFX_portrait_Julia_Neuberger
+			}
+		}
+		country_leader={
+			ideology=radical_liberalism
+			expire="2000.1.1.1"
+		}
+	}
+	ENG_Clive_Sinclair={
+		name="Clive Sinclair"
+		portraits={
+			civilian={
+				large=GFX_portrait_Clive_Sinclair
+			}
+		}
+		country_leader={
+			ideology=forwardism
 			expire="2000.1.1.1"
 		}
 	}

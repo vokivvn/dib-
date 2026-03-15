@@ -27,4 +27,24 @@ spriteTypes = {
 	name = "GFX_portrait_ELOHIM"
 	texturefile = "gfx/leaders/ENG/ELOHIM.png"			
 	}
+	SpriteType = {
+	name = "GFX_portrait_Morrissey"
+	texturefile = "gfx/leaders/ENG/Morrissey.png"			
+	}
+	SpriteType = {
+	name = "GFX_portrait_Max_Mosley"
+	texturefile = "gfx/leaders/ENG/Max_Mosley.png"			
+	}
+	SpriteType = {
+	name = "GFX_portrait_Jeremy_Thorpe"
+	texturefile = "gfx/leaders/ENG/Jeremy_Thorpe.png"			
+	}
+	SpriteType = {
+	name = "GFX_portrait_Julia_Neuberger"
+	texturefile = "gfx/leaders/ENG/Julia_Neuberger.png"			
+	}
+	SpriteType = {
+	name = "GFX_portrait_Clive_Sinclair"
+	texturefile = "gfx/leaders/ENG/Clive_Sinclair.png"			
+	}
 }
